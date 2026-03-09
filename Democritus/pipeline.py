@@ -25,7 +25,7 @@ if __name__ == "__main__":
     # --- Generate Topic Graph (Module 1) ---
 
     generate_topics_start = time.time()
-    generate_topic_graph(model, domain, TOPIC, 1, "topic_graph_"+slice_name)
+    generate_topic_graph(model, domain, TOPIC, 0, slice_name)
     generate_topics_time = time.time() - generate_topics_start
     print("Topic Graph Generation Time: ", generate_topics_time)
     print()
