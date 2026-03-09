@@ -1,11 +1,111 @@
 {"topic": "Economics", "path": ["Economics"], "depth": 0}
-{"topic": "Fiscal Policy", "path": ["Economics", "Fiscal Policy"], "depth": 1}
-{"topic": "Monetary Policy", "path": ["Economics", "Monetary Policy"], "depth": 1}
-{"topic": "Business Cycles", "path": ["Economics", "Business Cycles"], "depth": 1}
-{"topic": "Inflation", "path": ["Economics", "Inflation"], "depth": 1}
-{"topic": "Unemployment", "path": ["Economics", "Unemployment"], "depth": 1}
-{"topic": "Economic Growth", "path": ["Economics", "Economic Growth"], "depth": 1}
-{"topic": "International Trade", "path": ["Economics", "International Trade"], "depth": 1}
-{"topic": "Financial Markets", "path": ["Economics", "Financial Markets"], "depth": 1}
-{"topic": "Public Debt", "path": ["Economics", "Public Debt"], "depth": 1}
-{"topic": "Exchange Rates", "path": ["Economics", "Exchange Rates"], "depth": 1}
+{"topic": "Fiscal Policy", "path": ["Economics", "Fiscal Policy"]}
+{"topic": "Monetary Policy", "path": ["Economics", "Monetary Policy"]}
+{"topic": "Business Cycles", "path": ["Economics", "Business Cycles"]}
+{"topic": "Inflation", "path": ["Economics", "Inflation"]}
+{"topic": "Unemployment", "path": ["Economics", "Unemployment"]}
+{"topic": "Economic Growth", "path": ["Economics", "Economic Growth"]}
+{"topic": "International Trade", "path": ["Economics", "International Trade"]}
+{"topic": "Financial Markets", "path": ["Economics", "Financial Markets"]}
+{"topic": "Public Debt", "path": ["Economics", "Public Debt"]}
+{"topic": "Exchange Rates", "path": ["Economics", "Exchange Rates"]}
+{"topic": "Government Spending", "path": ["Economics", "Fiscal Policy", "Government Spending"]}
+{"topic": "Taxation", "path": ["Economics", "Fiscal Policy", "Taxation"]}
+{"topic": "Budget Deficit and Surplus", "path": ["Economics", "Fiscal Policy", "Budget Deficit and Surplus"]}
+{"topic": "Automatic Stabilizers", "path": ["Economics", "Fiscal Policy", "Automatic Stabilizers"]}
+{"topic": "Discretionary Fiscal Policy", "path": ["Economics", "Fiscal Policy", "Discretionary Fiscal Policy"]}
+{"topic": "Crowding Out Effect", "path": ["Economics", "Fiscal Policy", "Crowding Out Effect"]}
+{"topic": "Multiplier Effect", "path": ["Economics", "Fiscal Policy", "Multiplier Effect"]}
+{"topic": "Fiscal Policy and Inflation", "path": ["Economics", "Fiscal Policy", "Fiscal Policy and Inflation"]}
+{"topic": "Fiscal Policy and Economic Growth", "path": ["Economics", "Fiscal Policy", "Fiscal Policy and Economic Growth"]}
+{"topic": "Public Debt and Fiscal Sustainability", "path": ["Economics", "Fiscal Policy", "Public Debt and Fiscal Sustainability"]}
+{"topic": "Money Supply", "path": ["Economics", "Monetary Policy", "Money Supply"]}
+{"topic": "Interest Rates", "path": ["Economics", "Monetary Policy", "Interest Rates"]}
+{"topic": "Inflation", "path": ["Economics", "Monetary Policy", "Inflation"]}
+{"topic": "Quantitative Easing", "path": ["Economics", "Monetary Policy", "Quantitative Easing"]}
+{"topic": "Open Market Operations", "path": ["Economics", "Monetary Policy", "Open Market Operations"]}
+{"topic": "Reserve Requirements", "path": ["Economics", "Monetary Policy", "Reserve Requirements"]}
+{"topic": "Monetary Policy Transmission Mechanism", "path": ["Economics", "Monetary Policy", "Monetary Policy Transmission Mechanism"]}
+{"topic": "Taylor Rule", "path": ["Economics", "Monetary Policy", "Taylor Rule"]}
+{"topic": "Central Bank Independence", "path": ["Economics", "Monetary Policy", "Central Bank Independence"]}
+{"topic": "Exchange Rates", "path": ["Economics", "Monetary Policy", "Exchange Rates"]}
+{"topic": "Aggregate Demand and Supply", "path": ["Economics", "Business Cycles", "Aggregate Demand and Supply"]}
+{"topic": "Monetary Policy", "path": ["Economics", "Business Cycles", "Monetary Policy"]}
+{"topic": "Fiscal Policy", "path": ["Economics", "Business Cycles", "Fiscal Policy"]}
+{"topic": "Investment and Savings", "path": ["Economics", "Business Cycles", "Investment and Savings"]}
+{"topic": "Inflation and Deflation", "path": ["Economics", "Business Cycles", "Inflation and Deflation"]}
+{"topic": "Unemployment", "path": ["Economics", "Business Cycles", "Unemployment"]}
+{"topic": "Financial Crises", "path": ["Economics", "Business Cycles", "Financial Crises"]}
+{"topic": "Business Confidence", "path": ["Economics", "Business Cycles", "Business Confidence"]}
+{"topic": "Inventory Cycles", "path": ["Economics", "Business Cycles", "Inventory Cycles"]}
+{"topic": "Real Business Cycle Theory", "path": ["Economics", "Business Cycles", "Real Business Cycle Theory"]}
+{"topic": "Demand-Pull Inflation", "path": ["Economics", "Inflation", "Demand-Pull Inflation"]}
+{"topic": "Cost-Push Inflation", "path": ["Economics", "Inflation", "Cost-Push Inflation"]}
+{"topic": "Built-In Inflation", "path": ["Economics", "Inflation", "Built-In Inflation"]}
+{"topic": "Hyperinflation", "path": ["Economics", "Inflation", "Hyperinflation"]}
+{"topic": "Stagflation", "path": ["Economics", "Inflation", "Stagflation"]}
+{"topic": "Inflation Expectations", "path": ["Economics", "Inflation", "Inflation Expectations"]}
+{"topic": "Monetary Policy and Inflation", "path": ["Economics", "Inflation", "Monetary Policy and Inflation"]}
+{"topic": "Fiscal Policy and Inflation", "path": ["Economics", "Inflation", "Fiscal Policy and Inflation"]}
+{"topic": "Inflation Targeting", "path": ["Economics", "Inflation", "Inflation Targeting"]}
+{"topic": "Phillips Curve", "path": ["Economics", "Inflation", "Phillips Curve"]}
+{"topic": "Frictional Unemployment", "path": ["Economics", "Unemployment", "Frictional Unemployment"]}
+{"topic": "Structural Unemployment", "path": ["Economics", "Unemployment", "Structural Unemployment"]}
+{"topic": "Cyclical Unemployment", "path": ["Economics", "Unemployment", "Cyclical Unemployment"]}
+{"topic": "Natural Rate of Unemployment", "path": ["Economics", "Unemployment", "Natural Rate of Unemployment"]}
+{"topic": "Okun's Law", "path": ["Economics", "Unemployment", "Okun's Law"]}
+{"topic": "Phillips Curve", "path": ["Economics", "Unemployment", "Phillips Curve"]}
+{"topic": "Labor Force Participation Rate", "path": ["Economics", "Unemployment", "Labor Force Participation Rate"]}
+{"topic": "Unemployment Benefits", "path": ["Economics", "Unemployment", "Unemployment Benefits"]}
+{"topic": "Minimum Wage", "path": ["Economics", "Unemployment", "Minimum Wage"]}
+{"topic": "Job Search Theory", "path": ["Economics", "Unemployment", "Job Search Theory"]}
+{"topic": "Productivity Growth", "path": ["Economics", "Economic Growth", "Productivity Growth"]}
+{"topic": "Capital Accumulation", "path": ["Economics", "Economic Growth", "Capital Accumulation"]}
+{"topic": "Technological Progress", "path": ["Economics", "Economic Growth", "Technological Progress"]}
+{"topic": "Human Capital", "path": ["Economics", "Economic Growth", "Human Capital"]}
+{"topic": "Institutions and Governance", "path": ["Economics", "Economic Growth", "Institutions and Governance"]}
+{"topic": "Trade and Globalization", "path": ["Economics", "Economic Growth", "Trade and Globalization"]}
+{"topic": "Fiscal Policy", "path": ["Economics", "Economic Growth", "Fiscal Policy"]}
+{"topic": "Monetary Policy", "path": ["Economics", "Economic Growth", "Monetary Policy"]}
+{"topic": "Income Inequality", "path": ["Economics", "Economic Growth", "Income Inequality"]}
+{"topic": "Environmental Sustainability", "path": ["Economics", "Economic Growth", "Environmental Sustainability"]}
+{"topic": "Comparative Advantage", "path": ["Economics", "International Trade", "Comparative Advantage"]}
+{"topic": "Absolute Advantage", "path": ["Economics", "International Trade", "Absolute Advantage"]}
+{"topic": "Trade Agreements", "path": ["Economics", "International Trade", "Trade Agreements"]}
+{"topic": "Tariffs and Non-Tariff Barriers", "path": ["Economics", "International Trade", "Tariffs and Non-Tariff Barriers"]}
+{"topic": "Exchange Rates", "path": ["Economics", "International Trade", "Exchange Rates"]}
+{"topic": "Balance of Trade", "path": ["Economics", "International Trade", "Balance of Trade"]}
+{"topic": "Terms of Trade", "path": ["Economics", "International Trade", "Terms of Trade"]}
+{"topic": "Global Value Chains", "path": ["Economics", "International Trade", "Global Value Chains"]}
+{"topic": "Trade Deficits and Surpluses", "path": ["Economics", "International Trade", "Trade Deficits and Surpluses"]}
+{"topic": "Protectionism", "path": ["Economics", "International Trade", "Protectionism"]}
+{"topic": "Market Structure", "path": ["Economics", "Financial Markets", "Market Structure"]}
+{"topic": "Asset Pricing", "path": ["Economics", "Financial Markets", "Asset Pricing"]}
+{"topic": "Risk Management", "path": ["Economics", "Financial Markets", "Risk Management"]}
+{"topic": "Market Efficiency", "path": ["Economics", "Financial Markets", "Market Efficiency"]}
+{"topic": "Liquidity", "path": ["Economics", "Financial Markets", "Liquidity"]}
+{"topic": "Financial Intermediation", "path": ["Economics", "Financial Markets", "Financial Intermediation"]}
+{"topic": "Derivatives", "path": ["Economics", "Financial Markets", "Derivatives"]}
+{"topic": "Market Regulation", "path": ["Economics", "Financial Markets", "Market Regulation"]}
+{"topic": "Behavioral Finance", "path": ["Economics", "Financial Markets", "Behavioral Finance"]}
+{"topic": "Systemic Risk", "path": ["Economics", "Financial Markets", "Systemic Risk"]}
+{"topic": "Fiscal Policy and Public Debt", "path": ["Economics", "Public Debt", "Fiscal Policy and Public Debt"]}
+{"topic": "Government Spending and Taxation", "path": ["Economics", "Public Debt", "Government Spending and Taxation"]}
+{"topic": "Interest Rates and Debt Service", "path": ["Economics", "Public Debt", "Interest Rates and Debt Service"]}
+{"topic": "Debt-to-GDP Ratio", "path": ["Economics", "Public Debt", "Debt-to-GDP Ratio"]}
+{"topic": "Crowding Out Effect", "path": ["Economics", "Public Debt", "Crowding Out Effect"]}
+{"topic": "Sovereign Debt Crises", "path": ["Economics", "Public Debt", "Sovereign Debt Crises"]}
+{"topic": "Public Debt and Economic Growth", "path": ["Economics", "Public Debt", "Public Debt and Economic Growth"]}
+{"topic": "Monetary Policy and Public Debt", "path": ["Economics", "Public Debt", "Monetary Policy and Public Debt"]}
+{"topic": "Fiscal Sustainability", "path": ["Economics", "Public Debt", "Fiscal Sustainability"]}
+{"topic": "Public Debt Management", "path": ["Economics", "Public Debt", "Public Debt Management"]}
+{"topic": "Purchasing Power Parity", "path": ["Economics", "Exchange Rates", "Purchasing Power Parity"]}
+{"topic": "Interest Rate Parity", "path": ["Economics", "Exchange Rates", "Interest Rate Parity"]}
+{"topic": "Balance of Payments", "path": ["Economics", "Exchange Rates", "Balance of Payments"]}
+{"topic": "Monetary Policy", "path": ["Economics", "Exchange Rates", "Monetary Policy"]}
+{"topic": "Fiscal Policy", "path": ["Economics", "Exchange Rates", "Fiscal Policy"]}
+{"topic": "Inflation", "path": ["Economics", "Exchange Rates", "Inflation"]}
+{"topic": "Capital Flows", "path": ["Economics", "Exchange Rates", "Capital Flows"]}
+{"topic": "Exchange Rate Regimes", "path": ["Economics", "Exchange Rates", "Exchange Rate Regimes"]}
+{"topic": "Speculative Attacks", "path": ["Economics", "Exchange Rates", "Speculative Attacks"]}
+{"topic": "Real Effective Exchange Rate", "path": ["Economics", "Exchange Rates", "Real Effective Exchange Rate"]}
