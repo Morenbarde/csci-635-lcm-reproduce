@@ -31,9 +31,12 @@ def normalize_node_text(text: str) -> str:
     text = text.lower().strip()
     text = text.lstrip('-*').strip()  # Remove leading '-' or '*' characters
     text = " ".join(text.split())  # Replace multiple spaces with a single space
-    for article in ("a ", "an ", "the "):
-        if text.startswith(article):
-            text = text[len(article):]
+    # remove articles anywhere, not just at the start
+    # found that it removes a lot of noise in the node names,
+    #  e.g. "the" in "the United States" or "a" in "a decrease"
+    tokens = [t for t in text.split() if t not in {"a", "an", "the"}]
+    text = " ".join(tokens)
+
     return text
 
 
@@ -50,6 +53,14 @@ def normalize_relation(text: str) -> str:
         "causes reduction in": "causes_decrease",
     }
     return rel_map.get(rel, rel.replace(" ", "_"))
+
+
+def normalize_object_text(raw_object: str, normalized_relation: str) -> str:
+    obj = normalize_node_text(raw_object)
+    # May need to add more rules as testing continues
+    if normalized_relation == "leads_to" and obj.startswith("to "):
+        obj = obj[3:].strip()
+    return obj
 
 
 def get_or_create_node(graph: Graph, raw_text: str) -> int:
@@ -77,16 +88,21 @@ def build_graph_from_triples(triples: List[dict], domain: str) -> Graph:
     graph = Graph()
 
     for triple in triples:
-        src_id = get_or_create_node(graph, triple["subject"])
-        dst_id = get_or_create_node(graph, triple["object"])
-        rel = normalize_relation(triple["relation"])
+        s_raw = triple["subject"]
+        r_raw = triple["relation"]
+        o_raw = triple["object"]
 
-        edge_key = (src_id, rel, dst_id, domain)
+        rel = normalize_relation(r_raw)
+        subj_id = get_or_create_node(graph, s_raw)
+        obj_norm = normalize_object_text(o_raw, rel)
+        obj_id = get_or_create_node(graph, obj_norm)
+
+        edge_key = (subj_id, rel, obj_id, domain)
         if edge_key not in graph.edges:
             graph.edges[edge_key] = GraphEdge(
-                src_node_id=src_id,
+                src_node_id=subj_id,
                 relation=rel,
-                dst_node_id=dst_id,
+                dst_node_id=obj_id,
                 domain=domain,
                 count=1,
             )
@@ -98,13 +114,14 @@ def build_graph_from_triples(triples: List[dict], domain: str) -> Graph:
 
 if __name__ == "__main__":
     # test build graph with triples
-    from Democritus.sentence_embedding import build_node_embeddings
+    from Democritus.sentence_embedding import build_node_embeddings, build_edge_feature_embeddings
     from utils.utils import load_jsonl
     triples = load_jsonl("Causal_Triples\\triples_econ.jsonl")
 
     # note: in this example domain is based on filename
     domain = "econ"
     graph = build_graph_from_triples(triples, domain)
+    print(f"Graph has {len(graph.nodes)} nodes and {len(graph.edges)} edges.")
 
     for edge in list(graph.edges.values())[:5]:
         s = graph.nodes[edge.src_node_id].canonical_text
@@ -112,8 +129,13 @@ if __name__ == "__main__":
         print(f"{edge.src_node_id}:{s} --[{edge.relation}]--> {edge.dst_node_id}:{t}")
 
     store = build_node_embeddings(graph, "sentence-transformers/all-MiniLM-L6-v2")
+    edge_store = build_edge_feature_embeddings(graph, "sentence-transformers/all-MiniLM-L6-v2")
     print(store.vectors.shape)  # (num_nodes, dim)
 
     nid = 0
     vec = store.vectors[store.id_to_row[nid]]
-    print(f"Node {nid} embedding: {vec[:5]}...") 
+    print(f"Node {nid} embedding: {vec[:5]}...")
+
+    rid = 0
+    rel_vec = edge_store.relation_vectors[edge_store.relation_to_row[graph.edges[list(graph.edges.keys())[rid]].relation]]
+    print(f"Relation {graph.edges[list(graph.edges.keys())[rid]].relation} embedding: {rel_vec[:5]}...")

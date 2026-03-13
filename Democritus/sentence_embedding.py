@@ -29,6 +29,14 @@ class NodeEmbeddingStore:
     id_to_row: Dict[int, int]  # node_id -> row index in vectors
 
 
+@dataclass
+class EdgeFeatureStore:
+    relation_to_row: Dict[str, int]
+    domain_to_row: Dict[str, int]
+    relation_vectors: np.ndarray   # shape (R, dim)
+    domain_vectors: np.ndarray     # shape (D, dim)
+
+
 def build_node_embeddings(graph: Graph, model_name: str) -> NodeEmbeddingStore:
     model = SentenceTransformer(model_name)
 
@@ -44,6 +52,26 @@ def build_node_embeddings(graph: Graph, model_name: str) -> NodeEmbeddingStore:
         node_ids=node_ids,
         vectors=vectors,
         id_to_row=id_to_row
+    )
+
+
+def build_edge_feature_embeddings(graph: Graph, model_name: str) -> EdgeFeatureStore:
+    model = SentenceTransformer(model_name)
+
+    relations = sorted({edge.relation for edge in graph.edges.values()})
+    domains = sorted({edge.domain for edge in graph.edges.values()})
+
+    relation_vectors = np.asarray(model.encode(relations, convert_to_numpy=True))
+    domain_vectors = np.asarray(model.encode(domains, convert_to_numpy=True))
+
+    relation_to_row = {rel: i for i, rel in enumerate(relations)}
+    domain_to_row = {dom: i for i, dom in enumerate(domains)}
+
+    return EdgeFeatureStore(
+        relation_to_row=relation_to_row,
+        domain_to_row=domain_to_row,
+        relation_vectors=relation_vectors,
+        domain_vectors=domain_vectors,
     )
 
 
