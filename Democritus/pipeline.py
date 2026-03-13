@@ -8,9 +8,49 @@ import time
 
 if __name__ == "__main__":
 
-    domain = "macroeconomics and financial markets"
-    TOPIC = "Economics"
-    slice_name = "econ" # For File Naming
+    # domain = "macroeconomics and financial markets"
+    # root_topics = [ "Macroeconomics",
+    #                 "Microeconomics",
+    #                 "Game Theory",
+    #                 "Finance",
+    #                 "Trade",
+    #                 "Marketing",
+    #                 "Stock Market",
+    #                 "Investing",
+    #                 "Cryptocurrency",
+    #                 "Bonds",
+    #                 "Monetary Policy",
+    #                 "Banking",
+    #                 "Fiscal Policy",
+    #                 "Inflation",
+    #                 "Unemployment"]
+
+    domain = "neuroscience and medicine"
+    root_topics = [ "Neuroscience",
+                    "Genetics",
+                    "Evolution",
+                    "Botany",
+                    "Cardiology",
+                    "Endocrinology",
+                    "Immunology",
+                    "Oncology",
+                    "Exercise physiology",
+                    "Metabolic disorders"]
+
+    # domain = "South Asian archaeology and paleoclimate"
+    # root_topics = [ "Indus Valley Civilization",
+    #                 "Harappan urban centers (Harappa, Mohenjo-daro, Dholavira)",
+    #                 "Mohenjo-daro urban planning and sanitation systems",
+    #                 "Indus script and undeciphered writing systems",
+    #                 "Epigraphy and decipherment of ancient scripts",
+    #                 "Holocene monsoon variability in South Asia",
+    #                 "4.2 ka event and global Bronze Age disruptions",
+    #                 "Climate-induced crop shifts and agricultural adaptation strategies",
+    #                 "Irrigation and agriculture in semi-arid river basins",
+    #                 "Floodplain farming along the Indus and its tributaries"]
+    
+    slice_name = "bio_depth0" # For File Naming
+    topic_depth = 0
 
 
     # --- Load Model ---
@@ -25,7 +65,7 @@ if __name__ == "__main__":
     # --- Generate Topic Graph (Module 1) ---
 
     generate_topics_start = time.time()
-    generate_topic_graph(model, domain, TOPIC, 2, slice_name)
+    generate_topic_graph(model, domain, root_topics, topic_depth, slice_name)
     generate_topics_time = time.time() - generate_topics_start
     print("Topic Graph Generation Time: ", generate_topics_time)
     print()
