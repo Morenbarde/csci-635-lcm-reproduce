@@ -1,0 +1,1658 @@
+{"subject": "A decrease in interest rates", "relation": "causes increase in", "object": "investment spending"}
+{"subject": "decrease in interest rates", "relation": "causes increase in", "object": "investment spending"}
+{"subject": "An increase in government spending", "relation": "leads to", "object": "a rise in aggregate demand"}
+{"subject": "increase in government spending", "relation": "leads", "object": "to rise in demand"}
+{"subject": "increase in government spending", "relation": "leads", "object": "to rise in aggregate demand"}
+{"subject": "A rise in inflation expectations", "relation": "causes increase in", "object": "nominal wages"}
+{"subject": "rise in inflation expectations", "relation": "causes increase in", "object": "wages"}
+{"subject": "rise in inflation expectations", "relation": "causes increase in", "object": "nominal wages"}
+{"subject": "A decrease in government spending", "relation": "leads to", "object": "a reduction in aggregate demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in aggregate demand"}
+{"subject": "An increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "Expansionary fiscal policy", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "decrease in money supply", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "A decrease in aggregate demand", "relation": "leads to", "object": "a reduction in inflation"}
+{"subject": "decrease in demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "decrease in aggregate demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "A decrease in aggregate demand", "relation": "causes", "object": "a recession"}
+{"subject": "decrease in demand", "relation": "causes", "object": "recession"}
+{"subject": "decrease in aggregate demand", "relation": "causes", "object": "recession"}
+{"subject": "An increase in interest rates", "relation": "leads to", "object": "a decrease in investment"}
+{"subject": "increase in interest rates", "relation": "leads", "object": "to decrease in investment"}
+{"subject": "A decline in consumer confidence", "relation": "causes reduction in", "object": "consumption"}
+{"subject": "decline in consumer confidence", "relation": "causes reduction in", "object": "consumption"}
+{"subject": "An increase in aggregate demand", "relation": "causes increase in", "object": "the general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "price level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "a decrease in inflation"}
+{"subject": "An increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "-increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "A decrease in aggregate demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in aggregate demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in demand", "relation": "causes", "object": "increase unemployment"}
+{"subject": "An increase in labor supply", "relation": "leads to", "object": "an increase in unemployment"}
+{"subject": "increase in labor supply", "relation": "leads", "object": "to increase in unemployment"}
+{"subject": "A decrease in labor productivity", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in labor productivity", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "Investment in human capital", "relation": "causes", "object": "economic growth"}
+{"subject": "Investment in capital", "relation": "causes", "object": "economic growth"}
+{"subject": "Investment in human capital", "relation": "causes", "object": "growth"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "higher economic growth"}
+{"subject": "productivity", "relation": "leads to", "object": "higher economic growth"}
+{"subject": "productivity", "relation": "leads to", "object": "higher growth"}
+{"subject": "productivity", "relation": "leads to", "object": "higher economic"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "economic growth"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "economic"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "higher growth"}
+{"subject": "Technological innovation", "relation": "causes", "object": "increased economic output"}
+{"subject": "innovation", "relation": "causes", "object": "increased economic output"}
+{"subject": "innovation", "relation": "causes", "object": "increased output"}
+{"subject": "innovation", "relation": "causes", "object": "increased economic"}
+{"subject": "Technological innovation", "relation": "causes", "object": "economic output"}
+{"subject": "Technological innovation", "relation": "causes", "object": "increased output"}
+{"subject": "it", "relation": "to specialize in", "object": "that good"}
+{"subject": "causes", "relation": "specialize in", "object": "that good"}
+{"subject": "it", "relation": "to specialize in", "object": "good"}
+{"subject": "causes", "relation": "specialize in", "object": "good"}
+{"subject": "it", "relation": "to specialize", "object": "good"}
+{"subject": "country's comparative advantage in producing", "relation": "causes", "object": "it to specialize in good"}
+{"subject": "country's comparative advantage in producing", "relation": "causes", "object": "it to specialize good"}
+{"subject": "A decrease in tariffs", "relation": "leads to", "object": "an increase in international trade"}
+{"subject": "decrease in tariffs", "relation": "leads", "object": "to increase in trade"}
+{"subject": "decrease in tariffs", "relation": "leads", "object": "to increase in international trade"}
+{"subject": "A depreciation of a country's currency", "relation": "causes", "object": "its exports to become more competitive"}
+{"subject": "depreciation of country's currency", "relation": "causes", "object": "its exports to become competitive"}
+{"subject": "depreciation of country's currency", "relation": "causes", "object": "its exports to become"}
+{"subject": "depreciation of country's currency", "relation": "causes", "object": "its exports to become more competitive"}
+{"subject": "A decrease in interest rates", "relation": "causes increase in", "object": "stock prices"}
+{"subject": "decrease in interest rates", "relation": "causes increase in", "object": "stock prices"}
+{"subject": "An increase in inflation expectations", "relation": "leads to", "object": "a rise in bond yields"}
+{"subject": "increase in inflation expectations", "relation": "leads", "object": "to rise in bond yields"}
+{"subject": "A surge in market volatility", "relation": "causes decrease in", "object": "investor confidence"}
+{"subject": "surge in market volatility", "relation": "causes decrease in", "object": "investor confidence"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "increased rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-levels of public debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "-High levels of debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-High levels of debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-High levels of public debt", "relation": "can lead to", "object": "interest rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "interest rates"}
+{"subject": "-High public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "public", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "-High debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "-High public debt", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "public", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "public debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "-High debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "-High public debt", "relation": "can", "object": "cause"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "a decrease in economic growth"}
+{"subject": "public debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "public", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "public debt", "relation": "can lead to", "object": "decrease in economic"}
+{"subject": "-High debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "-High debt", "relation": "can lead to", "object": "decrease in economic"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "decrease in growth"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "A higher interest rate", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "higher interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "An increase in inflation", "relation": "leads to", "object": "a depreciation of the currency"}
+{"subject": "increase in inflation", "relation": "leads to", "object": "depreciation of currency"}
+{"subject": "A rise in the terms of trade", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "rise in terms of trade", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "Increased government spending", "relation": "causes", "object": "aggregate demand to rise"}
+{"subject": "government spending", "relation": "causes", "object": "aggregate demand to rise"}
+{"subject": "government spending", "relation": "causes", "object": "aggregate to rise"}
+{"subject": "Increased government spending", "relation": "causes", "object": "demand to rise"}
+{"subject": "Higher aggregate demand", "relation": "leads to", "object": "increased economic activity"}
+{"subject": "aggregate demand", "relation": "leads to", "object": "increased economic activity"}
+{"subject": "aggregate demand", "relation": "leads to", "object": "increased activity"}
+{"subject": "aggregate demand", "relation": "leads to", "object": "increased economic"}
+{"subject": "Higher demand", "relation": "leads to", "object": "increased economic activity"}
+{"subject": "Higher demand", "relation": "leads to", "object": "increased activity"}
+{"subject": "Higher demand", "relation": "leads to", "object": "increased economic"}
+{"subject": "Higher aggregate demand", "relation": "leads to", "object": "economic activity"}
+{"subject": "Higher aggregate demand", "relation": "leads to", "object": "economic"}
+{"subject": "Higher aggregate demand", "relation": "leads to", "object": "increased activity"}
+{"subject": "A higher corporate tax rate", "relation": "causes decrease in", "object": "investment"}
+{"subject": "corporate tax rate", "relation": "causes decrease in", "object": "investment"}
+{"subject": "higher tax rate", "relation": "causes decrease in", "object": "investment"}
+{"subject": "higher corporate tax rate", "relation": "causes decrease in", "object": "investment"}
+{"subject": "corporate tax rate", "relation": "causes", "object": "decrease investment"}
+{"subject": "higher tax rate", "relation": "causes", "object": "decrease investment"}
+{"subject": "An increase in personal income tax rates", "relation": "leads to", "object": "a reduction in consumer spending"}
+{"subject": "increase in income tax rates", "relation": "leads to", "object": "reduction in consumer spending"}
+{"subject": "increase in personal income tax rates", "relation": "leads to", "object": "reduction in consumer spending"}
+{"subject": "A decrease in capital gains tax rates", "relation": "causes increase in", "object": "capital gains realizations"}
+{"subject": "decrease in capital gains tax rates", "relation": "causes increase in", "object": "capital gains realizations"}
+{"subject": "A government budget deficit", "relation": "causes increase in", "object": "public debt"}
+{"subject": "government budget deficit", "relation": "causes increase in", "object": "debt"}
+{"subject": "government budget deficit", "relation": "causes increase in", "object": "public debt"}
+{"subject": "A budget surplus", "relation": "leads to", "object": "a reduction in public debt"}
+{"subject": "budget surplus", "relation": "leads to", "object": "reduction in debt"}
+{"subject": "budget surplus", "relation": "leads to", "object": "reduction in public debt"}
+{"subject": "A budget deficit", "relation": "can cause increase in", "object": "interest rates"}
+{"subject": "budget deficit", "relation": "can cause increase in", "object": "interest rates"}
+{"subject": "budget deficit", "relation": "can", "object": "cause"}
+{"subject": "A decrease in economic activity", "relation": "causes increase in", "object": "unemployment benefits payments"}
+{"subject": "decrease in activity", "relation": "causes increase in", "object": "unemployment benefits payments"}
+{"subject": "decrease in economic activity", "relation": "causes increase in", "object": "unemployment benefits payments"}
+{"subject": "decrease in activity", "relation": "causes", "object": "increase unemployment benefits payments"}
+{"subject": "A decrease in economic activity", "relation": "leads to", "object": "a reduction in tax revenues"}
+{"subject": "decrease in activity", "relation": "leads to", "object": "reduction in tax revenues"}
+{"subject": "decrease in economic activity", "relation": "leads to", "object": "reduction in tax revenues"}
+{"subject": "An increase in unemployment", "relation": "causes increase in", "object": "government spending on unemployment benefits"}
+{"subject": "increase in unemployment", "relation": "causes increase in", "object": "government spending on unemployment benefits"}
+{"subject": "A decrease in government spending", "relation": "causes reduction in", "object": "aggregate demand"}
+{"subject": "decrease in government spending", "relation": "causes reduction in", "object": "demand"}
+{"subject": "decrease in government spending", "relation": "causes reduction in", "object": "aggregate demand"}
+{"subject": "An increase in taxes", "relation": "leads to", "object": "a decrease in disposable income"}
+{"subject": "increase in taxes", "relation": "leads", "object": "to decrease in income"}
+{"subject": "increase in taxes", "relation": "leads", "object": "to decrease in disposable income"}
+{"subject": "A fiscal stimulus package", "relation": "causes increase in", "object": "government spending"}
+{"subject": "stimulus package", "relation": "causes increase in", "object": "government spending"}
+{"subject": "fiscal stimulus package", "relation": "causes increase in", "object": "government spending"}
+{"subject": "stimulus package", "relation": "causes", "object": "increase government spending"}
+{"subject": "-Increased government borrowing", "relation": "causes", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "causes", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "causes", "object": "higher interest"}
+{"subject": "-Increased government borrowing", "relation": "causes", "object": "interest rates"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "lead to", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "lead to", "object": "reduced private"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "private investment"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "reduced investment"}
+{"subject": "An increase in government spending", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "increase in government spending", "relation": "causes increase in", "object": "demand"}
+{"subject": "increase in government spending", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "An increase in aggregate demand", "relation": "leads to", "object": "an increase in national income"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase in national income"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase national income"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase in national"}
+{"subject": "increase in aggregate demand", "relation": "leads", "object": "to increase in income"}
+{"subject": "increase in aggregate demand", "relation": "leads", "object": "to increase in national income"}
+{"subject": "An increase in national income", "relation": "causes increase in", "object": "consumption"}
+{"subject": "increase in", "relation": "causes increase in", "object": "consumption"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "demand"}
+{"subject": "An increase in aggregate demand", "relation": "leads to", "object": "higher inflation"}
+{"subject": "-increase in aggregate demand", "relation": "leads to", "object": "inflation"}
+{"subject": "-increase in aggregate demand", "relation": "leads to", "object": "higher inflation"}
+{"subject": "-Higher inflation", "relation": "reduces value of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces value of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces real of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces real of", "object": "debt"}
+{"subject": "inflation", "relation": "reduces", "object": "real value government debt"}
+{"subject": "-Higher inflation", "relation": "reduces", "object": "value government debt"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "demand"}
+{"subject": "-Higher government spending", "relation": "leads to", "object": "increased economic activity"}
+{"subject": "government spending", "relation": "leads to", "object": "increased economic activity"}
+{"subject": "government spending", "relation": "leads to", "object": "increased economic"}
+{"subject": "-Higher government spending", "relation": "leads to", "object": "economic activity"}
+{"subject": "-Higher government spending", "relation": "leads to", "object": "increased activity"}
+{"subject": "-Lower taxes", "relation": "result in", "object": "higher disposable income for households"}
+{"subject": "taxes", "relation": "result in", "object": "higher disposable income for households"}
+{"subject": "taxes", "relation": "result in", "object": "higher disposable for households"}
+{"subject": "taxes", "relation": "result in", "object": "higher disposable for"}
+{"subject": "taxes", "relation": "result in", "object": "higher disposable income households"}
+{"subject": "-Lower taxes", "relation": "result in", "object": "disposable income for households"}
+{"subject": "-Lower taxes", "relation": "result in", "object": "disposable income households"}
+{"subject": "-Lower taxes", "relation": "result in", "object": "higher income for households"}
+{"subject": "which", "relation": "can crowd", "object": "public investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest, which can crowd out public investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest, which can out public investment"}
+{"subject": "which", "relation": "crowd", "object": "public investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest payments, which crowd out public investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest, which can crowd out public investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest, which can out public investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest, which can out public investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest, which can crowd out public investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest payments, which crowd out public investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest payments, which crowd out public investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased payments, which can crowd out public investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased payments, which crowd out public investment"}
+{"subject": "-Persistent fiscal deficits", "relation": "cause increase in", "object": "public debt,"}
+{"subject": "which", "relation": "can lead to", "object": "a loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause increase in", "object": "public debt,"}
+{"subject": "which", "relation": "can lead to", "object": "loss of market confidence"}
+{"subject": "which", "relation": "lead to", "object": "loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause increase in", "object": "public"}
+{"subject": "fiscal deficits", "relation": "cause increase in", "object": "public debt"}
+{"subject": "-Persistent deficits", "relation": "cause increase in", "object": "public debt,"}
+{"subject": "-Persistent deficits", "relation": "cause increase in", "object": "public"}
+{"subject": "-Persistent deficits", "relation": "cause increase in", "object": "public debt"}
+{"subject": "-Persistent fiscal deficits", "relation": "cause increase in", "object": "debt"}
+{"subject": "-Persistent fiscal deficits", "relation": "cause increase in", "object": "public debt"}
+{"subject": "fiscal cause increase in debt,", "relation": "can lead to", "object": "loss of market confidence"}
+{"subject": "fiscal cause increase in debt,", "relation": "can lead loss of", "object": "market confidence"}
+{"subject": "fiscal deficits", "relation": "cause", "object": "increase public debt, which can lead to loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause", "object": "increase public debt which can lead to loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause", "object": "increase public debt which can to loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause", "object": "increase public debt, which lead to loss of market confidence"}
+{"subject": "-Persistent deficits", "relation": "cause", "object": "increase public debt, which can lead to loss of market confidence"}
+{"subject": "-Persistent deficits", "relation": "cause", "object": "increase public debt which can lead to loss of market confidence"}
+{"subject": "-Persistent deficits", "relation": "cause", "object": "increase public debt which can to loss of market confidence"}
+{"subject": "-Persistent deficits", "relation": "cause", "object": "increase public debt, which lead to loss of market confidence"}
+{"subject": "fiscal deficits", "relation": "cause", "object": "-Persistent"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "a reduction in private investment"}
+{"subject": "public debt", "relation": "can lead to", "object": "reduction in private investment"}
+{"subject": "public", "relation": "can lead to", "object": "reduction in private investment"}
+{"subject": "public", "relation": "can lead to", "object": "higher borrowing costs"}
+{"subject": "public debt", "relation": "can lead to", "object": "reduction in private"}
+{"subject": "public debt", "relation": "can lead due", "object": "higher borrowing costs"}
+{"subject": "public debt", "relation": "can lead due", "object": "higher borrowing"}
+{"subject": "-High debt", "relation": "can lead to", "object": "reduction in private investment"}
+{"subject": "-High debt", "relation": "can lead to", "object": "reduction in private"}
+{"subject": "-High debt", "relation": "can lead due", "object": "higher borrowing costs"}
+{"subject": "-High debt", "relation": "can lead due", "object": "higher borrowing"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "reduction in investment"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "reduction in private investment"}
+{"subject": "An increase in the money supply", "relation": "leads to", "object": "a decrease in interest rates"}
+{"subject": "increase in money supply", "relation": "leads", "object": "to decrease in interest rates"}
+{"subject": "A decrease in interest rates", "relation": "causes increase in", "object": "investment spending"}
+{"subject": "decrease in interest rates", "relation": "causes increase in", "object": "investment spending"}
+{"subject": "An increase in investment spending", "relation": "leads to", "object": "an increase in aggregate demand"}
+{"subject": "increase in investment spending", "relation": "leads", "object": "to increase in demand"}
+{"subject": "increase in investment spending", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "A decrease in the money supply", "relation": "causes increase in", "object": "interest rates"}
+{"subject": "decrease in money supply", "relation": "causes increase in", "object": "interest rates"}
+{"subject": "An increase in government borrowing", "relation": "leads to", "object": "higher interest rates"}
+{"subject": "increase in government borrowing", "relation": "leads to", "object": "interest rates"}
+{"subject": "increase in government borrowing", "relation": "leads to", "object": "higher interest rates"}
+{"subject": "A rise in inflation expectations", "relation": "causes decrease in", "object": "real interest rates"}
+{"subject": "rise in inflation expectations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "rise in inflation expectations", "relation": "causes decrease in", "object": "real interest rates"}
+{"subject": "An increase in aggregate demand", "relation": "causes increase in", "object": "the general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "price level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "a decrease in inflation"}
+{"subject": "An increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "-increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "Central banks purchasing assets", "relation": "causes increase in", "object": "the money supply"}
+{"subject": "banks purchasing assets", "relation": "causes increase in", "object": "money supply"}
+{"subject": "-Central banks", "relation": "causes increase in", "object": "money supply"}
+{"subject": "-Central banks purchasing assets", "relation": "causes increase in", "object": "money supply"}
+{"subject": "-Central banks", "relation": "causes increase in", "object": "supply"}
+{"subject": "An increase in the money supply", "relation": "leads to", "object": "a decrease in long-term interest rates"}
+{"subject": "-increase in money supply", "relation": "leads", "object": "to decrease in term interest rates"}
+{"subject": "-increase in money supply", "relation": "leads", "object": "to decrease in long-term interest rates"}
+{"subject": "-A decrease in long-term interest rates", "relation": "causes increase in", "object": "asset prices"}
+{"subject": "A decrease in the money supply by the central bank through open market operations", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "decrease in money supply by bank through open market operations", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "decrease in money supply by bank through open operations", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "decrease in money supply by bank through open operations", "relation": "leads", "object": "to increase in rates"}
+{"subject": "decrease in money supply by bank through open market operations", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "decrease in money supply by central bank through market operations", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "decrease in money supply by central bank through market operations", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "decrease in money supply by central bank through open market operations", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in the money supply by the central bank through open market operations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "increase in money supply by bank through open market operations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "increase in money supply by bank through open operations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "increase in money supply by central bank through market operations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "increase in money supply by central bank through open market operations", "relation": "causes decrease in", "object": "interest rates"}
+{"subject": "increase in money supply by bank through open operations", "relation": "causes decrease in", "object": "rates"}
+{"subject": "increase in money supply by bank through open market operations", "relation": "causes", "object": "decrease interest rates"}
+{"subject": "increase in money supply by central bank through market operations", "relation": "causes", "object": "decrease interest rates"}
+{"subject": "An increase in the money supply by the central bank through open market operations", "relation": "leads to", "object": "an increase in aggregate demand"}
+{"subject": "increase in money supply by bank through open market operations", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "increase in money supply by bank through open operations", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "increase in money supply by bank through open operations", "relation": "leads", "object": "to increase in demand"}
+{"subject": "increase in money supply by bank through open market operations", "relation": "leads", "object": "to increase aggregate demand"}
+{"subject": "increase in money supply by bank through open market operations", "relation": "leads", "object": "to increase in aggregate"}
+{"subject": "increase in money supply by central bank through market operations", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "increase in money supply by central bank through market operations", "relation": "leads", "object": "to increase aggregate demand"}
+{"subject": "increase in money supply by central bank through market operations", "relation": "leads", "object": "to increase in aggregate"}
+{"subject": "increase in money supply by central bank through open market operations", "relation": "leads", "object": "to increase in demand"}
+{"subject": "increase in money supply by central bank through open market operations", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "A higher reserve requirement", "relation": "causes", "object": "banks to hold more reserves"}
+{"subject": "banks", "relation": "to hold", "object": "more reserves"}
+{"subject": "higher reserve requirement", "relation": "causes", "object": "banks to hold reserves"}
+{"subject": "banks", "relation": "to hold", "object": "reserves"}
+{"subject": "higher reserve requirement", "relation": "causes", "object": "banks to hold more reserves"}
+{"subject": "higher reserve requirement", "relation": "causes", "object": "banks to hold"}
+{"subject": "A higher reserve requirement", "relation": "leads to", "object": "a decrease in the money multiplier"}
+{"subject": "higher reserve requirement", "relation": "leads", "object": "to decrease in money"}
+{"subject": "higher reserve requirement", "relation": "leads multiplier", "object": "to decrease in money"}
+{"subject": "A decrease in the policy interest rate", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "decrease in policy interest rate", "relation": "causes increase in", "object": "demand"}
+{"subject": "decrease in policy interest rate", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "An increase in the money supply", "relation": "leads to", "object": "a decrease in long-term interest rates"}
+{"subject": "increase in money supply", "relation": "leads", "object": "to decrease in term interest rates"}
+{"subject": "increase in money supply", "relation": "leads", "object": "to decrease in long-term interest rates"}
+{"subject": "A reduction in the reserve requirement ratio", "relation": "causes increase in", "object": "bank lending"}
+{"subject": "reduction in", "relation": "causes increase in", "object": "bank lending"}
+{"subject": "A higher real interest rate", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "real interest rate", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "real rate", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "real interest rate", "relation": "causes decrease in", "object": "aggregate"}
+{"subject": "higher interest rate", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "higher interest rate", "relation": "causes decrease in", "object": "aggregate"}
+{"subject": "real interest rate", "relation": "causes decrease in", "object": "demand"}
+{"subject": "real rate", "relation": "causes decrease in", "object": "demand"}
+{"subject": "real interest rate", "relation": "causes", "object": "decrease aggregate demand"}
+{"subject": "higher interest rate", "relation": "causes", "object": "decrease aggregate demand"}
+{"subject": "A lower inflation rate", "relation": "leads to", "object": "a lower nominal interest rate"}
+{"subject": "inflation rate", "relation": "leads to", "object": "lower nominal interest rate"}
+{"subject": "inflation rate", "relation": "leads to", "object": "lower interest rate"}
+{"subject": "inflation rate", "relation": "leads to", "object": "lower interest"}
+{"subject": "inflation rate", "relation": "leads to", "object": "lower nominal rate"}
+{"subject": "lower inflation rate", "relation": "leads to", "object": "nominal interest rate"}
+{"subject": "lower inflation rate", "relation": "leads to", "object": "nominal rate"}
+{"subject": "lower inflation rate", "relation": "leads to", "object": "lower interest rate"}
+{"subject": "lower inflation rate", "relation": "leads to", "object": "lower nominal interest rate"}
+{"subject": "A higher output gap", "relation": "causes increase in", "object": "the nominal interest rate"}
+{"subject": "output gap", "relation": "causes increase in", "object": "nominal interest rate"}
+{"subject": "output gap", "relation": "causes increase in", "object": "nominal rate"}
+{"subject": "higher output gap", "relation": "causes increase in", "object": "interest rate"}
+{"subject": "higher output gap", "relation": "causes increase in", "object": "nominal interest rate"}
+{"subject": "output gap", "relation": "causes", "object": "increase nominal interest rate"}
+{"subject": "output gap", "relation": "causes", "object": "increase nominal interest"}
+{"subject": "A lack of central bank independence", "relation": "causes", "object": "higher inflation expectations"}
+{"subject": "lack of bank independence", "relation": "causes", "object": "higher inflation expectations"}
+{"subject": "lack of bank independence", "relation": "causes", "object": "higher expectations"}
+{"subject": "lack of central bank independence", "relation": "causes", "object": "inflation expectations"}
+{"subject": "lack of central bank independence", "relation": "causes", "object": "higher inflation expectations"}
+{"subject": "Central bank independence", "relation": "leads to", "object": "lower long-term interest rates"}
+{"subject": "bank independence", "relation": "leads to", "object": "lower long-term interest rates"}
+{"subject": "bank independence", "relation": "leads to", "object": "lower-term interest rates"}
+{"subject": "bank independence", "relation": "leads to", "object": "lower-rates"}
+{"subject": "bank independence", "relation": "leads to", "object": "lower long interest rates"}
+{"subject": "Central bank independence", "relation": "leads to", "object": "long-term interest rates"}
+{"subject": "Central bank independence", "relation": "leads to", "object": "long interest rates"}
+{"subject": "Central bank independence", "relation": "leads to", "object": "lower term interest rates"}
+{"subject": "Political pressure on central banks", "relation": "causes", "object": "monetary policy to be less effective"}
+{"subject": "pressure on central banks", "relation": "causes", "object": "monetary policy to be less effective"}
+{"subject": "pressure on central causes", "relation": "to be", "object": "less effective"}
+{"subject": "pressure on central causes", "relation": "be", "object": "less effective"}
+{"subject": "pressure on central causes", "relation": "to be", "object": "less"}
+{"subject": "pressure on central banks", "relation": "causes", "object": "to be less effective"}
+{"subject": "pressure on central banks", "relation": "causes", "object": "to be less"}
+{"subject": "pressure on central banks", "relation": "causes", "object": "monetary policy to be effective"}
+{"subject": "pressure on central banks", "relation": "causes", "object": "monetary policy to be less"}
+{"subject": "Political pressure on banks", "relation": "causes", "object": "monetary policy to be less effective"}
+{"subject": "Political pressure on banks", "relation": "causes", "object": "to be less effective"}
+{"subject": "Political pressure on banks", "relation": "causes", "object": "to be less"}
+{"subject": "Political pressure on banks", "relation": "causes", "object": "monetary policy to be effective"}
+{"subject": "Political pressure on banks", "relation": "causes", "object": "monetary policy to be less"}
+{"subject": "Political pressure on central banks", "relation": "causes", "object": "policy to be less effective"}
+{"subject": "Political pressure on central banks", "relation": "causes", "object": "policy to be effective"}
+{"subject": "A higher interest rate", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "higher interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "An increase in inflation", "relation": "leads to", "object": "a depreciation of the currency"}
+{"subject": "increase in inflation", "relation": "leads to", "object": "depreciation of currency"}
+{"subject": "A rise in the terms of trade", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "rise in terms of trade", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "A decrease in interest rates", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "decrease in interest rates", "relation": "causes increase in", "object": "demand"}
+{"subject": "decrease in interest rates", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "An increase in government spending", "relation": "leads to", "object": "an increase in aggregate demand"}
+{"subject": "increase in government spending", "relation": "leads", "object": "to increase in demand"}
+{"subject": "increase in government spending", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "A decrease in the money supply", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "decrease in money supply", "relation": "causes decrease in", "object": "demand"}
+{"subject": "decrease in money supply", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "decrease in money supply", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "A decrease in aggregate demand", "relation": "leads to", "object": "a reduction in inflation"}
+{"subject": "decrease in demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "decrease in aggregate demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "A decrease in government spending", "relation": "leads to", "object": "a reduction in aggregate demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in aggregate demand"}
+{"subject": "An increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "Expansionary fiscal policy", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "A higher interest rate", "relation": "causes", "object": "increased savings"}
+{"subject": "interest rate", "relation": "causes", "object": "increased savings"}
+{"subject": "higher interest rate", "relation": "causes", "object": "savings"}
+{"subject": "higher interest rate", "relation": "causes", "object": "increased savings"}
+{"subject": "A higher expected return on investment", "relation": "leads to", "object": "increased investment"}
+{"subject": "return on investment", "relation": "leads to", "object": "increased investment"}
+{"subject": "return on investment", "relation": "leads", "object": "to increased"}
+{"subject": "higher return on investment", "relation": "leads to", "object": "increased investment"}
+{"subject": "higher return on investment", "relation": "leads", "object": "to increased"}
+{"subject": "higher expected return on investment", "relation": "leads to", "object": "investment"}
+{"subject": "higher expected return on investment", "relation": "leads to", "object": "increased investment"}
+{"subject": "A decrease in disposable income", "relation": "causes decrease in", "object": "savings"}
+{"subject": "An increase in aggregate demand", "relation": "causes", "object": "inflation"}
+{"subject": "-increase in aggregate demand", "relation": "causes", "object": "inflation"}
+{"subject": "-increase in demand", "relation": "causes", "object": "inflation"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "deflation"}
+{"subject": "A fall in consumer prices", "relation": "causes decrease in", "object": "nominal wages"}
+{"subject": "-fall in consumer prices", "relation": "causes decrease in", "object": "wages"}
+{"subject": "-fall in consumer prices", "relation": "causes decrease in", "object": "nominal wages"}
+{"subject": "A decrease in aggregate demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in aggregate demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in demand", "relation": "causes", "object": "increase unemployment"}
+{"subject": "An increase in labor supply", "relation": "leads to", "object": "an increase in unemployment"}
+{"subject": "increase in labor supply", "relation": "leads", "object": "to increase in unemployment"}
+{"subject": "A decrease in labor productivity", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in labor productivity", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "A bank run", "relation": "causes", "object": "a bank to fail"}
+{"subject": "bank run", "relation": "causes", "object": "bank to fail"}
+{"subject": "A credit crunch", "relation": "leads to", "object": "a reduction in investment"}
+{"subject": "credit crunch", "relation": "leads to", "object": "reduction in investment"}
+{"subject": "A loss of confidence in financial institutions", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "loss of confidence in institutions", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "loss of confidence in financial institutions", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "loss of confidence in institutions", "relation": "causes", "object": "decrease asset prices"}
+{"subject": "-High business confidence", "relation": "leads to", "object": "increased investment"}
+{"subject": "business confidence", "relation": "leads to", "object": "increased investment"}
+{"subject": "-High business confidence", "relation": "leads to", "object": "investment"}
+{"subject": "-Low business confidence", "relation": "causes", "object": "reduced consumer spending"}
+{"subject": "business confidence", "relation": "causes", "object": "reduced consumer spending"}
+{"subject": "business confidence", "relation": "causes", "object": "reduced consumer"}
+{"subject": "business confidence", "relation": "causes", "object": "consumer spending"}
+{"subject": "-Positive economic outlook", "relation": "causes", "object": "high business confidence"}
+{"subject": "economic outlook", "relation": "causes", "object": "high business confidence"}
+{"subject": "economic outlook", "relation": "causes", "object": "high business"}
+{"subject": "-Positive outlook", "relation": "causes", "object": "high business confidence"}
+{"subject": "-Positive outlook", "relation": "causes", "object": "high business"}
+{"subject": "-Positive economic outlook", "relation": "causes", "object": "business confidence"}
+{"subject": "A decrease in sales", "relation": "leads to", "object": "an increase in inventory"}
+{"subject": "decrease in sales", "relation": "leads", "object": "to increase in inventory"}
+{"subject": "An increase in production", "relation": "leads to", "object": "a decrease in inventory"}
+{"subject": "increase in production", "relation": "leads", "object": "to decrease in inventory"}
+{"subject": "A decrease in inventory", "relation": "leads to", "object": "an increase in production"}
+{"subject": "decrease in inventory", "relation": "leads", "object": "to increase in production"}
+{"subject": "A technological shock", "relation": "causes increase in", "object": "productivity"}
+{"subject": "shock", "relation": "causes increase in", "object": "productivity"}
+{"subject": "technological shock", "relation": "causes increase in", "object": "productivity"}
+{"subject": "shock", "relation": "causes", "object": "increase productivity"}
+{"subject": "An increase in productivity", "relation": "leads to", "object": "higher output"}
+{"subject": "increase in productivity", "relation": "leads to", "object": "output"}
+{"subject": "increase in productivity", "relation": "leads to", "object": "higher output"}
+{"subject": "An increase in aggregate demand", "relation": "causes increase in", "object": "the general price level"}
+{"subject": "increase in demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "increase in demand", "relation": "causes increase in", "object": "general level"}
+{"subject": "increase in aggregate demand", "relation": "causes increase in", "object": "price level"}
+{"subject": "increase in aggregate demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "increase in demand", "relation": "causes", "object": "increase general price level"}
+{"subject": "increase in demand", "relation": "causes", "object": "increase general price"}
+{"subject": "An increase in the money supply", "relation": "leads to", "object": "an increase in aggregate demand"}
+{"subject": "increase in money supply", "relation": "leads", "object": "to increase in demand"}
+{"subject": "increase in money supply", "relation": "leads", "object": "to increase in aggregate demand"}
+{"subject": "An increase in aggregate demand", "relation": "leads to", "object": "an increase in output in the short run"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase in output in short run"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase output in short run"}
+{"subject": "increase in demand", "relation": "leads", "object": "to increase in output in short"}
+{"subject": "increase in aggregate demand", "relation": "leads", "object": "to increase in output in run"}
+{"subject": "increase in aggregate demand", "relation": "leads", "object": "to increase in output in short run"}
+{"subject": "Increased production costs", "relation": "cause", "object": "firms to raise prices"}
+{"subject": "firms", "relation": "to raise", "object": "prices"}
+{"subject": "production costs", "relation": "cause", "object": "firms to raise prices"}
+{"subject": "production costs", "relation": "cause", "object": "firms to raise"}
+{"subject": "Increased production costs", "relation": "cause", "object": "firms to raise"}
+{"subject": "Higher prices", "relation": "lead to", "object": "increased wages"}
+{"subject": "prices", "relation": "lead to", "object": "increased wages"}
+{"subject": "prices", "relation": "lead to", "object": "increased"}
+{"subject": "Higher prices", "relation": "lead to", "object": "wages"}
+{"subject": "Increased wages", "relation": "cause", "object": "firms to raise prices again"}
+{"subject": "firms", "relation": "to raise again", "object": "prices"}
+{"subject": "wages", "relation": "cause", "object": "firms to raise prices again"}
+{"subject": "wages", "relation": "cause", "object": "firms to raise again"}
+{"subject": "Increased wages", "relation": "cause", "object": "firms to raise prices"}
+{"subject": "firms", "relation": "to raise", "object": "prices"}
+{"subject": "wages", "relation": "cause", "object": "firms to raise prices"}
+{"subject": "Increased wages", "relation": "cause", "object": "firms to raise again"}
+{"subject": "A higher inflation rate", "relation": "causes", "object": "workers to demand higher wages"}
+{"subject": "workers", "relation": "to demand", "object": "higher wages"}
+{"subject": "inflation rate", "relation": "causes", "object": "workers to demand higher wages"}
+{"subject": "inflation rate", "relation": "causes", "object": "workers to demand wages"}
+{"subject": "workers", "relation": "to demand", "object": "wages"}
+{"subject": "inflation rate", "relation": "causes", "object": "workers to demand higher"}
+{"subject": "higher inflation rate", "relation": "causes", "object": "workers to demand wages"}
+{"subject": "higher inflation rate", "relation": "causes", "object": "workers to demand higher wages"}
+{"subject": "higher inflation rate", "relation": "causes", "object": "workers to demand"}
+{"subject": "Higher wages", "relation": "lead to", "object": "increased production costs"}
+{"subject": "wages", "relation": "lead to", "object": "increased production costs"}
+{"subject": "wages", "relation": "lead to", "object": "increased costs"}
+{"subject": "Higher wages", "relation": "lead to", "object": "production costs"}
+{"subject": "Increased production costs", "relation": "result in", "object": "higher prices"}
+{"subject": "production costs", "relation": "result in", "object": "higher prices"}
+{"subject": "Increased production costs", "relation": "result in", "object": "prices"}
+{"subject": "A rapid increase in the money supply", "relation": "causes", "object": "hyperinflation"}
+{"subject": "increase in money supply", "relation": "causes", "object": "hyperinflation"}
+{"subject": "rapid increase in money supply", "relation": "causes", "object": "hyperinflation"}
+{"subject": "Hyperinflation", "relation": "leads to", "object": "a decrease in the real value of savings"}
+{"subject": "Hyperinflation", "relation": "leads", "object": "to decrease in value of savings"}
+{"subject": "Hyperinflation", "relation": "leads", "object": "to decrease in real value of savings"}
+{"subject": "A loss of confidence in the currency", "relation": "causes", "object": "people to spend money quickly"}
+{"subject": "people", "relation": "to spend quickly", "object": "money"}
+{"subject": "loss of confidence in currency", "relation": "causes", "object": "people to spend money"}
+{"subject": "people", "relation": "to spend", "object": "money"}
+{"subject": "loss of confidence in currency", "relation": "causes", "object": "people to spend money quickly"}
+{"subject": "loss of confidence in currency", "relation": "causes", "object": "people to spend quickly"}
+{"subject": "-High inflation", "relation": "causes decrease in", "object": "real wages"}
+{"subject": "inflation", "relation": "causes decrease in", "object": "real wages"}
+{"subject": "inflation", "relation": "causes decrease in", "object": "real"}
+{"subject": "-High inflation", "relation": "causes decrease in", "object": "wages"}
+{"subject": "inflation", "relation": "causes", "object": "decrease real wages"}
+{"subject": "High unemployment", "relation": "leads to", "object": "a decrease in aggregate demand"}
+{"subject": "-High unemployment", "relation": "leads", "object": "to decrease in demand"}
+{"subject": "-High unemployment", "relation": "leads", "object": "to decrease in aggregate demand"}
+{"subject": "High inflation", "relation": "leads to", "object": "a decrease in real interest rates"}
+{"subject": "inflation", "relation": "leads", "object": "to decrease in real interest rates"}
+{"subject": "inflation", "relation": "leads", "object": "to decrease real interest rates"}
+{"subject": "inflation", "relation": "leads", "object": "to decrease real interest"}
+{"subject": "inflation", "relation": "leads", "object": "to decrease in real rates"}
+{"subject": "-High inflation", "relation": "leads", "object": "to decrease in interest rates"}
+{"subject": "-High inflation", "relation": "leads", "object": "to decrease in real interest rates"}
+{"subject": "-High inflation expectations", "relation": "lead to", "object": "higher actual inflation"}
+{"subject": "inflation expectations", "relation": "lead to", "object": "higher actual inflation"}
+{"subject": "inflation expectations", "relation": "lead to", "object": "higher actual"}
+{"subject": "-High inflation expectations", "relation": "lead to", "object": "actual inflation"}
+{"subject": "-High inflation expectations", "relation": "lead to", "object": "higher inflation"}
+{"subject": "Central bank credibility", "relation": "causes", "object": "lower inflation expectations"}
+{"subject": "Central credibility", "relation": "causes", "object": "lower inflation expectations"}
+{"subject": "Central credibility", "relation": "causes", "object": "lower inflation"}
+{"subject": "credibility", "relation": "causes", "object": "lower inflation"}
+{"subject": "credibility", "relation": "causes", "object": "lower inflation expectations"}
+{"subject": "Central bank credibility", "relation": "causes", "object": "lower expectations"}
+{"subject": "bank credibility", "relation": "causes", "object": "lower expectations"}
+{"subject": "bank credibility", "relation": "causes", "object": "lower inflation expectations"}
+{"subject": "-Central bank credibility", "relation": "causes", "object": "inflation expectations"}
+{"subject": "bank credibility", "relation": "causes", "object": "inflation expectations"}
+{"subject": "credibility", "relation": "causes", "object": "lower expectations"}
+{"subject": "credibility", "relation": "causes", "object": "inflation expectations"}
+{"subject": "Rising commodity prices", "relation": "lead to", "object": "higher inflation expectations"}
+{"subject": "Rising prices", "relation": "lead to", "object": "higher inflation expectations"}
+{"subject": "Rising prices", "relation": "lead to", "object": "higher inflation"}
+{"subject": "prices", "relation": "lead to", "object": "higher inflation"}
+{"subject": "prices", "relation": "lead to", "object": "higher inflation expectations"}
+{"subject": "Rising commodity prices", "relation": "lead to", "object": "higher expectations"}
+{"subject": "commodity prices", "relation": "lead to", "object": "higher expectations"}
+{"subject": "commodity prices", "relation": "lead to", "object": "higher inflation expectations"}
+{"subject": "-commodity prices", "relation": "lead to", "object": "higher inflation expectations"}
+{"subject": "-commodity prices", "relation": "lead to", "object": "higher inflation"}
+{"subject": "-Rising commodity prices", "relation": "lead to", "object": "inflation expectations"}
+{"subject": "commodity prices", "relation": "lead to", "object": "inflation expectations"}
+{"subject": "An increase in the money supply", "relation": "causes", "object": "inflation"}
+{"subject": "-increase in money supply", "relation": "causes", "object": "inflation"}
+{"subject": "A decrease in interest rates", "relation": "leads to", "object": "higher aggregate demand"}
+{"subject": "-decrease in interest rates", "relation": "leads", "object": "to aggregate demand"}
+{"subject": "-decrease in interest rates", "relation": "leads to", "object": "higher demand"}
+{"subject": "-decrease in interest rates", "relation": "leads to", "object": "higher aggregate demand"}
+{"subject": "-Higher inflation expectations", "relation": "cause", "object": "workers to demand higher wages"}
+{"subject": "workers", "relation": "to demand", "object": "higher wages"}
+{"subject": "inflation expectations", "relation": "cause", "object": "workers to demand higher wages"}
+{"subject": "inflation expectations", "relation": "cause", "object": "workers to demand higher"}
+{"subject": "-Higher inflation expectations", "relation": "cause", "object": "workers to demand wages"}
+{"subject": "workers", "relation": "to demand", "object": "wages"}
+{"subject": "-Higher inflation expectations", "relation": "cause", "object": "workers to demand"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "demand"}
+{"subject": "An increase in aggregate demand", "relation": "leads to", "object": "higher inflation"}
+{"subject": "-increase in aggregate demand", "relation": "leads to", "object": "inflation"}
+{"subject": "-increase in aggregate demand", "relation": "leads to", "object": "higher inflation"}
+{"subject": "-Higher inflation", "relation": "reduces value of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces value of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces real of", "object": "government debt"}
+{"subject": "inflation", "relation": "reduces real of", "object": "debt"}
+{"subject": "inflation", "relation": "reduces", "object": "real value government debt"}
+{"subject": "-Higher inflation", "relation": "reduces", "object": "value government debt"}
+{"subject": "A central bank's commitment to an inflation target", "relation": "leads to", "object": "increased credibility and predictability of monetary policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility and predictability of monetary policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased and predictability of monetary policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility and predictability of monetary"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "credibility and predictability of monetary policy"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "credibility and predictability of monetary"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility and predictability of policy"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility and predictability of monetary policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased and predictability monetary policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased and predictability of policy"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility"}
+{"subject": "bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility and predictability monetary policy"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "credibility"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "credibility and predictability monetary policy"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility predictability of monetary policy"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility predictability of monetary"}
+{"subject": "central bank's commitment to inflation target", "relation": "leads to", "object": "increased credibility"}
+{"subject": "Inflation expectations being anchored to the target", "relation": "causes reduction in", "object": "long-term interest rates"}
+{"subject": "expectations", "relation": "anchored to", "object": "the target"}
+{"subject": "Inflation expectations", "relation": "being", "object": "anchored"}
+{"subject": "Inflation expectations", "relation": "being anchored", "object": "to target causes reduction in term interest rates"}
+{"subject": "Inflation expectations", "relation": "to target", "object": "causes reduction in term interest rates"}
+{"subject": "Inflation expectations", "relation": "being anchored", "object": "to target causes reduction in long-term interest rates"}
+{"subject": "Inflation expectations", "relation": "to target", "object": "causes reduction in long-term interest rates"}
+{"subject": "A credible inflation target", "relation": "leads to", "object": "lower inflation volatility"}
+{"subject": "inflation target", "relation": "leads to", "object": "lower inflation volatility"}
+{"subject": "inflation target", "relation": "leads to", "object": "lower volatility"}
+{"subject": "credible inflation target", "relation": "leads to", "object": "inflation volatility"}
+{"subject": "credible inflation target", "relation": "leads to", "object": "lower inflation volatility"}
+{"subject": "A decrease in unemployment", "relation": "causes increase in", "object": "inflation"}
+{"subject": "decrease in unemployment", "relation": "causes increase in", "object": "inflation"}
+{"subject": "An increase in inflation expectations", "relation": "leads to", "object": "an increase in actual inflation"}
+{"subject": "increase in inflation expectations", "relation": "leads", "object": "to increase in inflation"}
+{"subject": "increase in inflation expectations", "relation": "leads", "object": "to increase in actual inflation"}
+{"subject": "A decrease in aggregate demand", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in demand", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in demand", "relation": "causes", "object": "decrease inflation"}
+{"subject": "A lack of information about job openings", "relation": "causes", "object": "frictional unemployment"}
+{"subject": "lack of information about job openings", "relation": "causes", "object": "unemployment"}
+{"subject": "lack of information about job openings", "relation": "causes", "object": "frictional unemployment"}
+{"subject": "Job search", "relation": "takes", "object": "time"}
+{"subject": "Job search", "relation": "takes to", "object": "frictional unemployment"}
+{"subject": "Job search", "relation": "takes to", "object": "unemployment"}
+{"subject": "Geographic immobility of workers", "relation": "causes", "object": "frictional unemployment"}
+{"subject": "immobility of workers", "relation": "causes", "object": "frictional unemployment"}
+{"subject": "Geographic immobility of workers", "relation": "causes", "object": "unemployment"}
+{"subject": "A mismatch between workers ' skills and the skills required by available jobs", "relation": "causes", "object": "structural unemployment"}
+{"subject": "mismatch between workers ' skills and skills", "relation": "causes", "object": "structural unemployment"}
+{"subject": "mismatch between workers ' skills skills required by available jobs", "relation": "causes", "object": "structural unemployment"}
+{"subject": "mismatch between workers ' skills skills required", "relation": "causes", "object": "structural unemployment"}
+{"subject": "mismatch between workers ' skills skills", "relation": "required", "object": "available jobs structural unemployment"}
+{"subject": "mismatch between workers ' skills and required by available jobs", "relation": "causes", "object": "structural unemployment"}
+{"subject": "mismatch between workers ' skills and required", "relation": "causes", "object": "structural unemployment"}
+{"subject": "Technological advancements", "relation": "lead to", "object": "a reduction in demand for certain types of labor"}
+{"subject": "advancements", "relation": "lead to", "object": "reduction in demand for certain types of labor"}
+{"subject": "advancements", "relation": "lead to", "object": "reduction in demand for certain of labor"}
+{"subject": "Technological advancements", "relation": "lead to", "object": "reduction in demand for types of labor"}
+{"subject": "Technological advancements", "relation": "lead to", "object": "reduction in demand for certain types of labor"}
+{"subject": "Globalization", "relation": "causes shift in", "object": "job opportunities"}
+{"subject": "Globalization", "relation": "causes shift from", "object": "high-wage"}
+{"subject": "Globalization", "relation": "causes shift from", "object": "wage to low-wage countries"}
+{"subject": "Globalization", "relation": "causes shift from", "object": "wage"}
+{"subject": "Globalization", "relation": "causes shift from", "object": "high-wage to wage countries"}
+{"subject": "A decrease in aggregate demand", "relation": "causes increase in", "object": "cyclical unemployment"}
+{"subject": "decrease in demand", "relation": "causes increase in", "object": "cyclical unemployment"}
+{"subject": "decrease in aggregate demand", "relation": "causes increase in", "object": "unemployment"}
+{"subject": "decrease in aggregate demand", "relation": "causes increase in", "object": "cyclical unemployment"}
+{"subject": "decrease in demand", "relation": "causes", "object": "increase cyclical unemployment"}
+{"subject": "A decrease in consumer spending", "relation": "leads to", "object": "a reduction in production"}
+{"subject": "decrease in consumer spending", "relation": "leads to", "object": "reduction in production"}
+{"subject": "A reduction in production", "relation": "leads to", "object": "an increase in layoffs"}
+{"subject": "reduction in production", "relation": "leads", "object": "to increase in layoffs"}
+{"subject": "A decrease in the minimum wage", "relation": "leads to", "object": "a decrease in the natural rate of unemployment"}
+{"subject": "decrease in wage", "relation": "leads", "object": "to decrease in natural rate of unemployment"}
+{"subject": "decrease in wage", "relation": "leads", "object": "to decrease natural rate of unemployment"}
+{"subject": "decrease in wage", "relation": "leads", "object": "to decrease natural rate unemployment"}
+{"subject": "decrease in wage", "relation": "leads", "object": "to decrease in natural of unemployment"}
+{"subject": "decrease in minimum wage", "relation": "leads", "object": "to decrease in rate of unemployment"}
+{"subject": "decrease in minimum wage", "relation": "leads", "object": "to decrease in natural rate of unemployment"}
+{"subject": "An increase in labor market flexibility", "relation": "leads to", "object": "a decrease in the natural rate of unemployment"}
+{"subject": "increase in labor market flexibility", "relation": "leads", "object": "to decrease in rate of unemployment"}
+{"subject": "increase in labor market flexibility", "relation": "leads", "object": "to decrease in natural rate of unemployment"}
+{"subject": "A rise in structural unemployment", "relation": "causes increase in", "object": "the natural rate of unemployment"}
+{"subject": "rise in unemployment", "relation": "causes increase in", "object": "natural rate of unemployment"}
+{"subject": "rise in structural unemployment", "relation": "causes increase in", "object": "rate of unemployment"}
+{"subject": "rise in structural unemployment", "relation": "causes increase in", "object": "natural rate of unemployment"}
+{"subject": "rise in unemployment", "relation": "causes", "object": "increase natural rate of unemployment"}
+{"subject": "rise in unemployment", "relation": "causes", "object": "increase natural rate unemployment"}
+{"subject": "A decrease in the unemployment rate", "relation": "causes increase in", "object": "GDP growth"}
+{"subject": "decrease in unemployment rate", "relation": "causes increase in", "object": "GDP growth"}
+{"subject": "An increase in GDP growth", "relation": "leads to", "object": "a decrease in the unemployment rate"}
+{"subject": "increase in GDP growth", "relation": "leads", "object": "to decrease in unemployment rate"}
+{"subject": "A rise in labor productivity", "relation": "causes increase in", "object": "GDP growth"}
+{"subject": "rise in labor productivity", "relation": "causes increase in", "object": "GDP growth"}
+{"subject": "A decrease in unemployment", "relation": "causes increase in", "object": "inflation"}
+{"subject": "decrease in unemployment", "relation": "causes increase in", "object": "inflation"}
+{"subject": "An increase in inflation expectations", "relation": "leads to", "object": "an increase in actual inflation"}
+{"subject": "increase in inflation expectations", "relation": "leads", "object": "to increase in inflation"}
+{"subject": "increase in inflation expectations", "relation": "leads", "object": "to increase in actual inflation"}
+{"subject": "A decrease in aggregate demand", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in demand", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in", "relation": "causes decrease in", "object": "inflation"}
+{"subject": "decrease in demand", "relation": "causes", "object": "decrease inflation"}
+{"subject": "A higher unemployment rate", "relation": "causes decrease in", "object": "the labor force participation rate"}
+{"subject": "unemployment rate", "relation": "causes decrease in", "object": "labor force participation rate"}
+{"subject": "higher unemployment rate", "relation": "causes decrease in", "object": "labor force participation rate"}
+{"subject": "unemployment rate", "relation": "causes", "object": "decrease labor force participation rate"}
+{"subject": "An increase in the number of stay-at-home parents", "relation": "leads to", "object": "a decrease in the labor force participation rate"}
+{"subject": "increase in number of stay at-home parents", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in number of stay at-parents", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in number of stay at-parents", "relation": "leads", "object": "to decrease in force participation rate"}
+{"subject": "increase in number of stay at-home parents", "relation": "leads", "object": "to decrease labor force participation rate"}
+{"subject": "increase in number of stay-at home parents", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in number of stay-at home parents", "relation": "leads", "object": "to decrease labor force participation rate"}
+{"subject": "increase in number of stay-at-home parents", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in number of parents", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in number of parents", "relation": "leads", "object": "to decrease in labor force participation"}
+{"subject": "An increase in the minimum wage", "relation": "leads to", "object": "a decrease in the labor force participation rate"}
+{"subject": "increase in wage", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "increase in wage", "relation": "leads", "object": "to decrease labor force participation rate"}
+{"subject": "increase in minimum wage", "relation": "leads", "object": "to decrease in labor force participation rate"}
+{"subject": "A higher unemployment benefit level", "relation": "causes", "object": "increased job search duration"}
+{"subject": "unemployment benefit level", "relation": "causes", "object": "increased job search duration"}
+{"subject": "unemployment benefit level", "relation": "causes", "object": "increased search duration"}
+{"subject": "higher unemployment benefit level", "relation": "causes", "object": "job search duration"}
+{"subject": "higher unemployment benefit level", "relation": "causes", "object": "increased job search duration"}
+{"subject": "A longer duration of unemployment benefits", "relation": "leads to", "object": "a higher unemployment rate"}
+{"subject": "duration of unemployment benefits", "relation": "leads to", "object": "higher unemployment rate"}
+{"subject": "duration of unemployment benefits", "relation": "leads to", "object": "higher rate"}
+{"subject": "longer duration of unemployment benefits", "relation": "leads to", "object": "unemployment rate"}
+{"subject": "longer duration of unemployment benefits", "relation": "leads to", "object": "higher unemployment rate"}
+{"subject": "A reduction in unemployment benefits", "relation": "causes increase in", "object": "labor supply"}
+{"subject": "reduction in unemployment benefits", "relation": "causes increase in", "object": "labor supply"}
+{"subject": "A higher minimum wage", "relation": "causes labor costs for", "object": "employers"}
+{"subject": "minimum wage", "relation": "causes labor costs for", "object": "employers"}
+{"subject": "minimum wage", "relation": "causes costs for", "object": "employers"}
+{"subject": "higher minimum wage", "relation": "causes labor costs for", "object": "employers"}
+{"subject": "minimum wage", "relation": "causes", "object": "increased labor costs employers"}
+{"subject": "higher minimum wage", "relation": "causes", "object": "labor costs employers"}
+{"subject": "Increased labor costs for employers", "relation": "leads to", "object": "reduced employment"}
+{"subject": "labor costs for employers", "relation": "leads to", "object": "reduced employment"}
+{"subject": "labor costs for employers", "relation": "leads to", "object": "reduced"}
+{"subject": "Increased labor costs for employers", "relation": "leads to", "object": "employment"}
+{"subject": "Reduced employment", "relation": "leads", "object": "to lower aggregate demand"}
+{"subject": "employment", "relation": "leads", "object": "to lower aggregate demand"}
+{"subject": "employment", "relation": "leads to", "object": "lower demand"}
+{"subject": "employment", "relation": "leads to", "object": "lower aggregate"}
+{"subject": "Reduced employment", "relation": "leads to", "object": "lower demand"}
+{"subject": "A higher unemployment rate", "relation": "causes", "object": "longer job search durations"}
+{"subject": "unemployment rate", "relation": "causes", "object": "longer job search durations"}
+{"subject": "unemployment rate", "relation": "causes", "object": "longer search durations"}
+{"subject": "higher unemployment rate", "relation": "causes", "object": "job search durations"}
+{"subject": "higher unemployment rate", "relation": "causes", "object": "longer job search durations"}
+{"subject": "Increased job separation rates", "relation": "lead to", "object": "higher unemployment"}
+{"subject": "job separation rates", "relation": "lead to", "object": "higher unemployment"}
+{"subject": "job separation rates", "relation": "lead to", "object": "higher"}
+{"subject": "Increased job separation rates", "relation": "lead to", "object": "unemployment"}
+{"subject": "Higher wages offered by firms", "relation": "result in", "object": "shorter job search durations"}
+{"subject": "wages offered by firms", "relation": "result in", "object": "shorter job search durations"}
+{"subject": "wages", "relation": "offered", "object": "result in shorter job search durations"}
+{"subject": "wages", "relation": "offered", "object": "result in shorter job durations"}
+{"subject": "wages offered by firms", "relation": "result in", "object": "shorter search durations"}
+{"subject": "Higher wages", "relation": "result in", "object": "shorter job search durations"}
+{"subject": "Higher wages", "relation": "result in", "object": "shorter job search"}
+{"subject": "Higher wages offered by firms", "relation": "result in", "object": "job search durations"}
+{"subject": "Investment in technology", "relation": "causes", "object": "productivity growth"}
+{"subject": "Increased worker skills", "relation": "lead to", "object": "higher productivity"}
+{"subject": "worker skills", "relation": "lead to", "object": "higher productivity"}
+{"subject": "worker skills", "relation": "lead to", "object": "higher"}
+{"subject": "Increased worker skills", "relation": "lead to", "object": "productivity"}
+{"subject": "Improved management practices", "relation": "result in", "object": "enhanced productivity"}
+{"subject": "management practices", "relation": "result in", "object": "enhanced productivity"}
+{"subject": "management practices", "relation": "result in", "object": "enhanced"}
+{"subject": "Improved management practices", "relation": "result in", "object": "productivity"}
+{"subject": "-Higher savings rates", "relation": "lead to", "object": "increased capital accumulation"}
+{"subject": "savings rates", "relation": "lead to", "object": "increased capital accumulation"}
+{"subject": "savings rates", "relation": "lead to", "object": "increased capital"}
+{"subject": "-Higher savings rates", "relation": "lead to", "object": "capital accumulation"}
+{"subject": "-Technological progress", "relation": "causes increase in", "object": "the efficiency of capital"}
+{"subject": "progress", "relation": "causes increase in", "object": "efficiency of capital"}
+{"subject": "-Technological progress", "relation": "causes increase in", "object": "efficiency of capital"}
+{"subject": "progress", "relation": "causes", "object": "increase efficiency of capital"}
+{"subject": "-Lower interest rates", "relation": "lead to", "object": "higher investment in capital goods"}
+{"subject": "interest rates", "relation": "lead to", "object": "higher investment in capital goods"}
+{"subject": "interest rates", "relation": "lead to", "object": "higher investment capital goods"}
+{"subject": "-Lower interest rates", "relation": "lead to", "object": "investment in capital goods"}
+{"subject": "Technological progress", "relation": "causes", "object": "increased productivity"}
+{"subject": "progress", "relation": "causes", "object": "increased productivity"}
+{"subject": "Technological progress", "relation": "causes", "object": "productivity"}
+{"subject": "Technological progress", "relation": "leads to", "object": "structural unemployment"}
+{"subject": "progress", "relation": "leads to", "object": "structural unemployment"}
+{"subject": "progress", "relation": "leads to", "object": "structural"}
+{"subject": "Technological progress", "relation": "leads to", "object": "unemployment"}
+{"subject": "Technological progress", "relation": "causes shifts in", "object": "the demand for labor"}
+{"subject": "progress", "relation": "causes shifts in", "object": "demand for labor"}
+{"subject": "Technological progress", "relation": "causes shifts in", "object": "demand for labor"}
+{"subject": "progress", "relation": "causes", "object": "shifts demand for labor"}
+{"subject": "Investment in education", "relation": "causes", "object": "increased productivity"}
+{"subject": "Investment in education", "relation": "causes", "object": "productivity"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "higher wages"}
+{"subject": "productivity", "relation": "leads to", "object": "higher wages"}
+{"subject": "productivity", "relation": "leads to", "object": "higher"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "wages"}
+{"subject": "Higher wages", "relation": "result in", "object": "greater savings and investment"}
+{"subject": "wages", "relation": "result in", "object": "greater savings and investment"}
+{"subject": "wages", "relation": "result in", "object": "greater and investment"}
+{"subject": "Higher wages", "relation": "result in", "object": "savings and investment"}
+{"subject": "wages", "relation": "result in", "object": "greater savings"}
+{"subject": "Higher wages", "relation": "result in", "object": "savings"}
+{"subject": "Higher wages", "relation": "result in", "object": "greater savings investment"}
+{"subject": "Higher wages", "relation": "result in", "object": "greater savings"}
+{"subject": "-Strong institutions", "relation": "lead to", "object": "lower levels of corruption"}
+{"subject": "institutions", "relation": "lead to", "object": "lower levels of corruption"}
+{"subject": "institutions", "relation": "lead to", "object": "lower levels corruption"}
+{"subject": "-Strong institutions", "relation": "lead to", "object": "levels of corruption"}
+{"subject": "Effective governance", "relation": "enhances", "object": "economic stability"}
+{"subject": "Effective", "relation": "enhances", "object": "economic stability"}
+{"subject": "governance", "relation": "enhances", "object": "economic stability"}
+{"subject": "-governance", "relation": "enhances", "object": "economic stability"}
+{"subject": "-Effective governance", "relation": "enhances", "object": "stability"}
+{"subject": "governance", "relation": "enhances", "object": "stability"}
+{"subject": "-Increased trade openness", "relation": "causes", "object": "economic growth"}
+{"subject": "trade openness", "relation": "causes", "object": "economic growth"}
+{"subject": "-Increased trade openness", "relation": "causes", "object": "growth"}
+{"subject": "Globalization", "relation": "leads to", "object": "increased competition in domestic markets"}
+{"subject": "Globalization", "relation": "leads", "object": "to increased in domestic markets"}
+{"subject": "Globalization", "relation": "leads to", "object": "increased competition in domestic"}
+{"subject": "-Globalization", "relation": "leads to", "object": "competition in domestic markets"}
+{"subject": "-Globalization", "relation": "leads to", "object": "increased competition in markets"}
+{"subject": "-Technological advancements in", "relation": "cause", "object": "reduced trade barriers"}
+{"subject": "advancements in transportation and", "relation": "cause", "object": "trade barriers"}
+{"subject": "A decrease in government spending", "relation": "leads to", "object": "a reduction in aggregate demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in aggregate demand"}
+{"subject": "An increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "Expansionary fiscal policy", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "decrease in money supply", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "A decrease in aggregate demand", "relation": "leads to", "object": "a reduction in inflation"}
+{"subject": "decrease in demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "decrease in aggregate demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "which", "relation": "increases demand for", "object": "high-skilled labor"}
+{"subject": "Technological change", "relation": "causes", "object": "skill-biased technical change, which increases the demand for high-skilled labor and thus exacerbates income inequality"}
+{"subject": "change", "relation": "causes", "object": "skill-biased technical change, which increases demand for high-skilled labor and thus exacerbates income inequality"}
+{"subject": "change", "relation": "causes", "object": "skill change, which increases demand for high-skilled labor and thus exacerbates income inequality"}
+{"subject": "change", "relation": "causes", "object": "skill change, which demand for high-skilled labor and thus exacerbates income inequality"}
+{"subject": "which", "relation": "demand for", "object": "high-skilled labor"}
+{"subject": "change", "relation": "causes", "object": "skill change, which demand high-skilled labor and thus exacerbates income inequality"}
+{"subject": "which", "relation": "demand", "object": "high-skilled labor"}
+{"subject": "change", "relation": "causes", "object": "skill change, which demand high skilled labor and thus exacerbates income inequality"}
+{"subject": "which", "relation": "demand", "object": "high skilled labor"}
+{"subject": "change", "relation": "causes", "object": "skill change, which demand high skilled labor and"}
+{"subject": "which", "relation": "can depress", "object": "wages"}
+{"subject": "Globalization", "relation": "leads to", "object": "increased competition from low-wage countries, which can depress wages for low-skilled workers in high-wage countries"}
+{"subject": "which", "relation": "can depress for", "object": "low-skilled workers in high-wage countries"}
+{"subject": "Globalization", "relation": "leads to", "object": "competition from low-wage countries, which can depress wages for low-skilled workers in high-wage countries"}
+{"subject": "Globalization", "relation": "leads to", "object": "competition from low countries, which can depress wages for low-skilled workers in high-wage countries"}
+{"subject": "Globalization", "relation": "leads to", "object": "competition from low countries, which can wages for low-skilled workers in high-wage countries"}
+{"subject": "Globalization", "relation": "leads to", "object": "competition from low countries, which can wages for low-workers in high-wage countries"}
+{"subject": "Globalization", "relation": "leads to", "object": "competition from low countries, which can wages for low-workers in countries"}
+{"subject": "which", "relation": "contributes to", "object": "higher income inequality"}
+{"subject": "which", "relation": "contributes to", "object": "income inequality"}
+{"subject": "which", "relation": "contributes", "object": "higher income inequality"}
+{"subject": "which", "relation": "contributes to", "object": "higher income"}
+{"subject": "progressive taxation results in lower redistribution of income from rich to poor", "relation": "contributes to", "object": "higher income inequality"}
+{"subject": "progressive taxation results in lower redistribution of income from rich to poor", "relation": "contributes to", "object": "higher income"}
+{"subject": "which", "relation": "contributes to", "object": "higher inequality"}
+{"subject": "Reduced taxation results in lower redistribution of income from rich to poor", "relation": "contributes to", "object": "higher income inequality"}
+{"subject": "Reduced taxation results in lower redistribution of income from rich to poor", "relation": "contributes to", "object": "higher income"}
+{"subject": "Carbon emissions", "relation": "cause", "object": "global warming"}
+{"subject": "Carbon emissions", "relation": "cause", "object": "warming"}
+{"subject": "Deforestation", "relation": "leads to", "object": "a decrease in carbon sequestration"}
+{"subject": "Deforestation", "relation": "leads", "object": "to decrease in carbon sequestration"}
+{"subject": "Increased renewable energy adoption", "relation": "causes reduction in", "object": "fossil fuel consumption"}
+{"subject": "Increased energy adoption", "relation": "causes reduction in", "object": "fossil fuel consumption"}
+{"subject": "renewable energy adoption", "relation": "causes reduction in", "object": "fossil fuel consumption"}
+{"subject": "Increased energy adoption", "relation": "causes", "object": "reduction fossil fuel consumption"}
+{"subject": "Specialization in", "relation": "causes", "object": "increased productivity"}
+{"subject": "Specialization in production", "relation": "causes", "object": "productivity"}
+{"subject": "Specialization in production causes", "relation": "increased", "object": "productivity"}
+{"subject": "Trade", "relation": "leads to", "object": "consumption of a wider variety of goods"}
+{"subject": "Trade", "relation": "leads to", "object": "consumption of variety of goods"}
+{"subject": "Trade", "relation": "leads to", "object": "consumption of wider variety of goods"}
+{"subject": "Lower opportunity costs", "relation": "lead to", "object": "higher production"}
+{"subject": "opportunity costs", "relation": "lead to", "object": "higher production"}
+{"subject": "opportunity costs", "relation": "lead to", "object": "higher"}
+{"subject": "Lower opportunity costs", "relation": "lead to", "object": "production"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have absolute advantage in producing good"}
+{"subject": "it", "relation": "to have", "object": "absolute advantage"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have advantage in producing good"}
+{"subject": "it", "relation": "to have", "object": "advantage"}
+{"subject": "it", "relation": "to have", "object": "advantage producing good"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have advantage producing good"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have absolute in producing good"}
+{"subject": "it", "relation": "to have in", "object": "good"}
+{"subject": "causes", "relation": "have in", "object": "good"}
+{"subject": "it", "relation": "to have", "object": "advantage producing"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have advantage producing"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have advantage in good"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have absolute in good"}
+{"subject": "country having lower opportunity costs in producing", "relation": "causes", "object": "it to have absolute advantage producing good"}
+{"subject": "it", "relation": "to have", "object": "absolute advantage producing good"}
+{"subject": "it", "relation": "where has", "object": "an absolute advantage"}
+{"subject": "A country specializing in producing goods where it has an absolute advantage", "relation": "leads to", "object": "increased productivity"}
+{"subject": "country", "relation": "leads to", "object": "increased productivity"}
+{"subject": "country specializing in producing goods", "relation": "has", "object": "absolute advantage"}
+{"subject": "it", "relation": "has leads to", "object": "increased productivity"}
+{"subject": "it", "relation": "where has", "object": "advantage"}
+{"subject": "country specializing in producing goods where it has advantage", "relation": "leads to", "object": "increased productivity"}
+{"subject": "country specializing in producing goods where it has advantage", "relation": "leads", "object": "to increased"}
+{"subject": "it", "relation": "where has", "object": "absolute advantage"}
+{"subject": "country specializing in producing goods where it has absolute advantage", "relation": "leads to", "object": "productivity"}
+{"subject": "country specializing in producing goods where it has absolute advantage", "relation": "leads to", "object": "increased productivity"}
+{"subject": "country specializing in producing goods", "relation": "has to", "object": "increased productivity"}
+{"subject": "it", "relation": "where has to", "object": "increased productivity"}
+{"subject": "it", "relation": "where has leads to", "object": "increased productivity"}
+{"subject": "Increased productivity due to absolute advantage", "relation": "leads to", "object": "higher economic growth"}
+{"subject": "productivity due to absolute advantage", "relation": "leads to", "object": "higher economic growth"}
+{"subject": "productivity due to absolute advantage", "relation": "leads to", "object": "higher growth"}
+{"subject": "productivity due to absolute advantage", "relation": "leads to", "object": "higher economic"}
+{"subject": "Increased productivity due to advantage", "relation": "leads to", "object": "higher economic growth"}
+{"subject": "Increased productivity due to advantage", "relation": "leads to", "object": "higher growth"}
+{"subject": "Increased productivity due to advantage", "relation": "leads to", "object": "higher economic"}
+{"subject": "Increased productivity due to absolute advantage", "relation": "leads to", "object": "economic growth"}
+{"subject": "Increased productivity due to absolute advantage", "relation": "leads to", "object": "economic"}
+{"subject": "Increased productivity due to absolute advantage", "relation": "leads to", "object": "higher growth"}
+{"subject": "A reduction in tariffs", "relation": "causes increase in", "object": "international trade"}
+{"subject": "reduction in tariffs", "relation": "causes increase in", "object": "trade"}
+{"subject": "reduction in tariffs", "relation": "causes increase in", "object": "international trade"}
+{"subject": "An increase in trade agreements", "relation": "leads to", "object": "a rise in foreign direct investment"}
+{"subject": "increase in trade agreements", "relation": "leads", "object": "to rise in direct investment"}
+{"subject": "increase in trade agreements", "relation": "leads", "object": "to rise in direct"}
+{"subject": "increase in trade agreements", "relation": "leads", "object": "to rise in foreign investment"}
+{"subject": "increase in trade agreements", "relation": "leads", "object": "to rise in foreign direct investment"}
+{"subject": "The implementation of trade agreements", "relation": "results in", "object": "a decrease in domestic production costs"}
+{"subject": "Tariffs", "relation": "cause increase in", "object": "domestic prices"}
+{"subject": "Tariffs", "relation": "cause increase for", "object": "imported goods"}
+{"subject": "-Tariffs", "relation": "cause increase in", "object": "prices for imported goods"}
+{"subject": "-Tariffs", "relation": "cause increase in", "object": "prices for imported"}
+{"subject": "-Tariffs", "relation": "cause increase in", "object": "domestic prices"}
+{"subject": "-Tariffs", "relation": "cause increase for", "object": "goods"}
+{"subject": "-Tariffs", "relation": "cause increase in", "object": "domestic prices for imported goods"}
+{"subject": "Non-tariff barriers", "relation": "lead to", "object": "increased administrative burdens for exporters"}
+{"subject": "Non", "relation": "lead to", "object": "increased administrative burdens for exporters"}
+{"subject": "Non", "relation": "lead to", "object": "increased administrative burdens for"}
+{"subject": "Non-tariff barriers", "relation": "lead to", "object": "increased burdens for exporters"}
+{"subject": "Non-tariff barriers", "relation": "lead to", "object": "increased burdens exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "increased burdens exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "increased burdens for exporters"}
+{"subject": "Non-tariff barriers", "relation": "lead to", "object": "increased administrative"}
+{"subject": "Non-tariff barriers", "relation": "lead for", "object": "exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "increased administrative"}
+{"subject": "-tariff barriers", "relation": "lead for", "object": "exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "increased administrative burdens for exporters"}
+{"subject": "-barriers", "relation": "lead to", "object": "increased administrative burdens for exporters"}
+{"subject": "-barriers", "relation": "lead to", "object": "increased administrative burdens"}
+{"subject": "-Non-tariff barriers", "relation": "lead to", "object": "administrative burdens for exporters"}
+{"subject": "-Non-tariff barriers", "relation": "lead to", "object": "administrative burdens exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "administrative burdens exporters"}
+{"subject": "-tariff barriers", "relation": "lead to", "object": "administrative burdens for exporters"}
+{"subject": "-Non-tariff barriers", "relation": "lead to", "object": "increased burdens for exporters"}
+{"subject": "Tariffs", "relation": "lead to", "object": "a decrease in the volume of international trade"}
+{"subject": "-Tariffs", "relation": "lead to", "object": "decrease in volume of trade"}
+{"subject": "-Tariffs", "relation": "lead to", "object": "decrease in volume of international trade"}
+{"subject": "A higher interest rate", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "higher interest rate", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "An increase in inflation", "relation": "leads to", "object": "a depreciation of the currency"}
+{"subject": "increase in inflation", "relation": "leads to", "object": "depreciation of currency"}
+{"subject": "A rise in the terms of trade", "relation": "causes", "object": "a currency to appreciate"}
+{"subject": "rise in terms of trade", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "A higher trade deficit", "relation": "causes decrease in", "object": "domestic currency value"}
+{"subject": "trade deficit", "relation": "causes decrease in", "object": "domestic currency value"}
+{"subject": "trade deficit", "relation": "causes decrease in", "object": "domestic value"}
+{"subject": "higher trade deficit", "relation": "causes decrease in", "object": "currency value"}
+{"subject": "higher trade deficit", "relation": "causes decrease in", "object": "domestic currency value"}
+{"subject": "trade deficit", "relation": "causes", "object": "decrease domestic currency value"}
+{"subject": "trade deficit", "relation": "causes", "object": "decrease domestic currency"}
+{"subject": "An increase in exports", "relation": "leads to", "object": "an increase in domestic currency value"}
+{"subject": "increase in exports", "relation": "leads", "object": "to increase in currency value"}
+{"subject": "increase in exports", "relation": "leads", "object": "to increase in domestic currency value"}
+{"subject": "A decrease in imports", "relation": "causes increase in", "object": "domestic currency value"}
+{"subject": "decrease in imports", "relation": "causes increase in", "object": "currency value"}
+{"subject": "decrease in imports", "relation": "causes increase in", "object": "domestic currency value"}
+{"subject": "A rise in the price of a country's exports", "relation": "leads to", "object": "an improvement in its terms of trade"}
+{"subject": "rise in price of country's exports", "relation": "leads to", "object": "improvement in its terms of trade"}
+{"subject": "An increase in the demand for a country's imports", "relation": "causes deterioration in", "object": "its terms of trade"}
+{"subject": "increase in demand for country's imports", "relation": "causes deterioration in", "object": "its terms of trade"}
+{"subject": "-Increased specialization in global value chains", "relation": "leads to", "object": "higher productivity"}
+{"subject": "specialization in global value chains", "relation": "leads to", "object": "higher productivity"}
+{"subject": "specialization in global value", "relation": "leads to", "object": "higher productivity"}
+{"subject": "-Increased specialization in value chains", "relation": "leads to", "object": "higher productivity"}
+{"subject": "-Increased specialization in global value chains", "relation": "leads to", "object": "productivity"}
+{"subject": "Disruptions in global value chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "Disruptions in global chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "supply chain bottlenecks", "relation": "cause in", "object": "global chains"}
+{"subject": "global value chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "-Disruptions in value chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "global chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "value chains", "relation": "cause", "object": "supply chain bottlenecks"}
+{"subject": "-fragmentation of production processes in value chains results in", "relation": "increased in", "object": "intermediate goods"}
+{"subject": "A trade deficit", "relation": "causes", "object": "a country to borrow from abroad"}
+{"subject": "trade deficit", "relation": "causes", "object": "country to borrow from abroad"}
+{"subject": "A persistent trade surplus", "relation": "leads to", "object": "a country accumulating foreign exchange reserves"}
+{"subject": "trade surplus", "relation": "leads to", "object": "country"}
+{"subject": "persistent trade surplus", "relation": "leads to", "object": "country"}
+{"subject": "A trade deficit", "relation": "leads to", "object": "a depreciation of the domestic currency"}
+{"subject": "trade deficit", "relation": "leads to", "object": "depreciation of currency"}
+{"subject": "trade deficit", "relation": "leads to", "object": "depreciation of domestic currency"}
+{"subject": "Protectionism", "relation": "causes decrease in", "object": "international trade"}
+{"subject": "Protectionism", "relation": "causes decrease in", "object": "trade"}
+{"subject": "Protectionism", "relation": "leads to", "object": "higher prices for consumers"}
+{"subject": "Protectionism", "relation": "leads to", "object": "prices for consumers"}
+{"subject": "A monopoly", "relation": "leads to", "object": "higher prices"}
+{"subject": "monopoly", "relation": "leads to", "object": "prices"}
+{"subject": "monopoly", "relation": "leads to", "object": "higher prices"}
+{"subject": "Barriers to entry cause firms", "relation": "to have", "object": "market power"}
+{"subject": "A higher risk-free rate", "relation": "leads to", "object": "higher discount rates"}
+{"subject": "risk-free rate", "relation": "leads to", "object": "higher discount rates"}
+{"subject": "risk", "relation": "leads to", "object": "higher discount rates"}
+{"subject": "risk-free rate", "relation": "leads to", "object": "higher rates"}
+{"subject": "higher rate", "relation": "leads to", "object": "higher discount rates"}
+{"subject": "higher risk-free rate", "relation": "leads to", "object": "discount rates"}
+{"subject": "higher risk-free rate", "relation": "leads to", "object": "higher discount rates"}
+{"subject": "An increase in expected future cash flows", "relation": "causes", "object": "higher asset prices"}
+{"subject": "increase in future cash flows", "relation": "causes", "object": "higher asset prices"}
+{"subject": "increase in future flows", "relation": "causes", "object": "higher asset prices"}
+{"subject": "increase in future flows", "relation": "causes", "object": "higher asset"}
+{"subject": "increase in future cash flows", "relation": "causes", "object": "higher prices"}
+{"subject": "increase in expected cash flows", "relation": "causes", "object": "higher asset prices"}
+{"subject": "increase in expected cash flows", "relation": "causes", "object": "higher prices"}
+{"subject": "increase in expected future cash flows", "relation": "causes", "object": "asset prices"}
+{"subject": "increase in expected future cash flows", "relation": "causes", "object": "higher asset prices"}
+{"subject": "Higher perceived risk", "relation": "leads to", "object": "higher required returns"}
+{"subject": "perceived risk", "relation": "leads to", "object": "higher required returns"}
+{"subject": "perceived", "relation": "leads to", "object": "higher required returns"}
+{"subject": "perceived", "relation": "leads to", "object": "higher required"}
+{"subject": "perceived risk", "relation": "leads to", "object": "higher returns"}
+{"subject": "perceived risk", "relation": "leads to", "object": "higher required"}
+{"subject": "Higher risk", "relation": "leads to", "object": "higher required returns"}
+{"subject": "Higher risk", "relation": "leads to", "object": "higher returns"}
+{"subject": "Higher risk", "relation": "leads to", "object": "higher required"}
+{"subject": "Higher perceived risk", "relation": "leads to", "object": "required returns"}
+{"subject": "Higher perceived risk", "relation": "leads", "object": "to required"}
+{"subject": "Higher perceived risk", "relation": "leads to", "object": "higher returns"}
+{"subject": "lack of diversification", "relation": "causes", "object": "portfolio risk"}
+{"subject": "Inadequate hedging", "relation": "leads to", "object": "higher exposure to market volatility"}
+{"subject": "hedging", "relation": "leads to", "object": "higher exposure to market volatility"}
+{"subject": "Inadequate hedging", "relation": "leads to", "object": "exposure to market volatility"}
+{"subject": "Information asymmetry", "relation": "causes", "object": "adverse selection"}
+{"subject": "Information asymmetry", "relation": "causes", "object": "selection"}
+{"subject": "Public information", "relation": "causes", "object": "prices to reflect all available data"}
+{"subject": "prices", "relation": "to reflect", "object": "all available data"}
+{"subject": "information", "relation": "causes", "object": "prices to reflect all available data"}
+{"subject": "information", "relation": "causes", "object": "prices to reflect available data"}
+{"subject": "prices", "relation": "to reflect", "object": "available data"}
+{"subject": "information", "relation": "causes", "object": "prices to reflect all available"}
+{"subject": "Public information", "relation": "causes", "object": "prices to reflect all data"}
+{"subject": "prices", "relation": "to reflect", "object": "all data"}
+{"subject": "Public information", "relation": "causes", "object": "prices to reflect"}
+{"subject": "High trading volume", "relation": "leads to", "object": "tighter bid-ask spreads"}
+{"subject": "trading volume", "relation": "leads to", "object": "tighter bid-ask spreads"}
+{"subject": "trading volume", "relation": "leads to", "object": "tighter-ask spreads"}
+{"subject": "trading volume", "relation": "leads to", "object": "tighter-ask"}
+{"subject": "trading volume", "relation": "leads to", "object": "tighter bid-spreads"}
+{"subject": "High trading volume", "relation": "leads to", "object": "bid-ask spreads"}
+{"subject": "High trading volume", "relation": "leads to", "object": "bid-spreads"}
+{"subject": "High trading volume", "relation": "leads to", "object": "tighter bid ask spreads"}
+{"subject": "A sudden increase in bank reserves", "relation": "causes increase in", "object": "the money supply"}
+{"subject": "increase in bank reserves", "relation": "causes increase in", "object": "money supply"}
+{"subject": "sudden increase in bank reserves", "relation": "causes increase in", "object": "money supply"}
+{"subject": "increase in bank reserves", "relation": "causes", "object": "increase money supply"}
+{"subject": "A decrease in market liquidity", "relation": "leads to", "object": "an increase in the bid-ask spread"}
+{"subject": "decrease in market liquidity", "relation": "leads", "object": "to increase in bid ask spread"}
+{"subject": "decrease in market liquidity", "relation": "leads", "object": "to increase in bid-ask spread"}
+{"subject": "A rise in interest rates", "relation": "causes decrease in", "object": "liquidity preference"}
+{"subject": "rise in interest rates", "relation": "causes decrease in", "object": "liquidity preference"}
+{"subject": "A lack of trust in financial markets", "relation": "leads to", "object": "increased demand for financial intermediation"}
+{"subject": "lack of trust in markets", "relation": "leads to", "object": "increased demand for financial intermediation"}
+{"subject": "lack of trust in markets", "relation": "leads", "object": "to increased for financial intermediation"}
+{"subject": "lack of trust in markets", "relation": "leads to", "object": "increased demand for financial"}
+{"subject": "lack of trust in financial markets", "relation": "leads to", "object": "demand for financial intermediation"}
+{"subject": "lack of trust in financial markets", "relation": "leads to", "object": "demand for financial"}
+{"subject": "lack of trust in financial markets", "relation": "leads to", "object": "increased demand for intermediation"}
+{"subject": "lack of trust in financial markets", "relation": "leads to", "object": "increased demand for financial intermediation"}
+{"subject": "Increased demand for loans", "relation": "causes", "object": "banks to increase their lending"}
+{"subject": "banks", "relation": "to increase", "object": "their lending"}
+{"subject": "demand for loans", "relation": "causes", "object": "banks to increase their lending"}
+{"subject": "demand for loans", "relation": "causes", "object": "banks to increase lending"}
+{"subject": "banks", "relation": "to increase", "object": "lending"}
+{"subject": "Increased demand for loans", "relation": "causes", "object": "banks to increase"}
+{"subject": "Higher interest rates", "relation": "lead to", "object": "a decrease in investment spending"}
+{"subject": "interest rates", "relation": "lead to", "object": "decrease in investment spending"}
+{"subject": "Higher interest rates", "relation": "lead to", "object": "decrease in investment spending"}
+{"subject": "A rise in interest rates", "relation": "causes decrease in", "object": "the price of interest rate derivatives"}
+{"subject": "rise in interest rates", "relation": "causes decrease in", "object": "price of interest rate derivatives"}
+{"subject": "An increase in volatility", "relation": "leads to", "object": "an increase in the price of options"}
+{"subject": "increase in volatility", "relation": "leads", "object": "to increase in price of options"}
+{"subject": "A decrease in the creditworthiness of a counterparty", "relation": "leads to", "object": "an increase in the cost of credit default swaps"}
+{"subject": "decrease in creditworthiness of counterparty", "relation": "leads", "object": "to increase in cost of credit default swaps"}
+{"subject": "Increased regulatory oversight", "relation": "causes", "object": "improved market transparency"}
+{"subject": "regulatory oversight", "relation": "causes", "object": "improved market transparency"}
+{"subject": "regulatory oversight", "relation": "causes", "object": "improved transparency"}
+{"subject": "Increased oversight", "relation": "causes", "object": "improved market transparency"}
+{"subject": "Increased oversight", "relation": "causes", "object": "improved transparency"}
+{"subject": "Increased regulatory oversight", "relation": "causes", "object": "market transparency"}
+{"subject": "Stricter capital requirements", "relation": "lead to", "object": "reduced bank leverage"}
+{"subject": "capital requirements", "relation": "lead to", "object": "reduced bank leverage"}
+{"subject": "capital requirements", "relation": "lead to", "object": "reduced leverage"}
+{"subject": "Stricter capital requirements", "relation": "lead to", "object": "bank leverage"}
+{"subject": "Enhanced disclosure rules", "relation": "result in", "object": "better-informed investors"}
+{"subject": "disclosure rules", "relation": "result in", "object": "better-informed investors"}
+{"subject": "disclosure rules", "relation": "result in", "object": "better"}
+{"subject": "disclosure rules", "relation": "result in", "object": "better-"}
+{"subject": "Enhanced disclosure rules", "relation": "result in", "object": "investors"}
+{"subject": "Overconfidence", "relation": "causes", "object": "investors to trade excessively"}
+{"subject": "Overconfidence", "relation": "causes", "object": "investors to trade"}
+{"subject": "Loss aversion", "relation": "leads to", "object": "the disposition effect"}
+{"subject": "Loss aversion", "relation": "leads to", "object": "disposition effect"}
+{"subject": "Anchoring", "relation": "causes", "object": "investors to underreact to new information"}
+{"subject": "investors", "relation": "to underreact to", "object": "new information"}
+{"subject": "Anchoring", "relation": "causes", "object": "investors to underreact to information"}
+{"subject": "investors", "relation": "to underreact to", "object": "information"}
+{"subject": "A lack of diversification in financial institutions ' portfolios", "relation": "causes exposure to", "object": "common shocks"}
+{"subject": "lack of diversification in institutions ' portfolios", "relation": "causes exposure to", "object": "common shocks"}
+{"subject": "lack of diversification in institutions ' portfolios causes", "relation": "increased to", "object": "common shocks"}
+{"subject": "lack of diversification in institutions ' portfolios", "relation": "causes exposure to", "object": "common"}
+{"subject": "lack of diversification in financial institutions ' portfolios", "relation": "causes exposure to", "object": "common shocks"}
+{"subject": "lack of diversification in financial institutions ' portfolios", "relation": "causes exposure to", "object": "common"}
+{"subject": "lack of diversification in financial institutions ' portfolios", "relation": "causes exposure to", "object": "shocks"}
+{"subject": "lack of diversification in institutions ' portfolios causes", "relation": "increased to", "object": "shocks"}
+{"subject": "lack of diversification in institutions ' portfolios", "relation": "causes", "object": "increased exposure common shocks"}
+{"subject": "lack of diversification in financial institutions ' portfolios", "relation": "causes", "object": "exposure common shocks"}
+{"subject": "Interconnectedness among financial institutions", "relation": "causes failure of", "object": "one institution"}
+{"subject": "Interconnectedness among institutions", "relation": "causes failure of", "object": "one institution"}
+{"subject": "Interconnectedness among institutions", "relation": "causes", "object": "failure one institution to trigger domino effect"}
+{"subject": "Interconnectedness among institutions", "relation": "causes", "object": "failure one institution"}
+{"subject": "Interconnectedness among institutions", "relation": "causes to", "object": "trigger domino"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "fiscal policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate demand"}
+{"subject": "-Expansionary policy", "relation": "causes increase in", "object": "aggregate"}
+{"subject": "-Expansionary fiscal policy", "relation": "causes increase in", "object": "demand"}
+{"subject": "-Increased government spending", "relation": "causes rise in", "object": "the budget deficit"}
+{"subject": "government spending", "relation": "causes rise in", "object": "budget deficit"}
+{"subject": "-Increased government spending", "relation": "causes rise in", "object": "budget deficit"}
+{"subject": "government spending", "relation": "causes", "object": "rise budget deficit"}
+{"subject": "Increased government spending", "relation": "leads to", "object": "higher aggregate demand"}
+{"subject": "government spending", "relation": "leads to", "object": "higher aggregate demand"}
+{"subject": "government spending", "relation": "leads to", "object": "higher demand"}
+{"subject": "government spending", "relation": "leads to", "object": "higher aggregate"}
+{"subject": "Increased government spending", "relation": "leads", "object": "to aggregate demand"}
+{"subject": "Increased government spending", "relation": "leads", "object": "to aggregate"}
+{"subject": "Increased government spending", "relation": "leads to", "object": "higher demand"}
+{"subject": "Higher taxation", "relation": "reduces", "object": "disposable income"}
+{"subject": "taxation", "relation": "reduces", "object": "disposable income"}
+{"subject": "Higher taxation", "relation": "reduces", "object": "income"}
+{"subject": "Reduced disposable income", "relation": "leads to", "object": "lower consumption"}
+{"subject": "disposable income", "relation": "leads to", "object": "lower consumption"}
+{"subject": "disposable income", "relation": "leads to", "object": "lower"}
+{"subject": "Reduced income", "relation": "leads to", "object": "lower consumption"}
+{"subject": "Reduced income", "relation": "leads to", "object": "lower"}
+{"subject": "Reduced disposable income", "relation": "leads to", "object": "consumption"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "increased debt service costs"}
+{"subject": "interest rates", "relation": "lead to", "object": "increased debt service costs"}
+{"subject": "interest rates", "relation": "lead to", "object": "increased debt costs"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "debt service costs"}
+{"subject": "-Increased debt service costs", "relation": "cause reduction in", "object": "disposable income"}
+{"subject": "debt service costs", "relation": "cause reduction in", "object": "disposable income"}
+{"subject": "debt service costs", "relation": "cause reduction in", "object": "disposable"}
+{"subject": "-Increased debt service costs", "relation": "cause reduction in", "object": "income"}
+{"subject": "debt service costs", "relation": "cause", "object": "reduction disposable income"}
+{"subject": "A reduction in disposable income", "relation": "leads to", "object": "decreased consumer spending"}
+{"subject": "-reduction in income", "relation": "leads to", "object": "decreased consumer spending"}
+{"subject": "-reduction in income", "relation": "leads to", "object": "decreased spending"}
+{"subject": "-reduction in disposable income", "relation": "leads to", "object": "consumer spending"}
+{"subject": "-reduction in disposable income", "relation": "leads to", "object": "decreased consumer spending"}
+{"subject": "which", "relation": "can crowd", "object": "public investment"}
+{"subject": "A high debt-to-GDP ratio", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "debt-to-GDP ratio", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "GDP ratio", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "debt -- GDP ratio lead to increased interest payments", "relation": "can crowd", "object": "public investment"}
+{"subject": "debt -- GDP ratio lead to increased interest payments", "relation": "can crowd", "object": "investment"}
+{"subject": "GDP ratio", "relation": "can lead to", "object": "increased interest payments which can crowd out public investment"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "increased interest payments, which can crowd out public investment"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "increased interest payments which can crowd out public investment"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "increased interest payments which can crowd public investment"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "increased interest payments, which can out public investment"}
+{"subject": "High levels of public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "High levels of public debt", "relation": "can cause due", "object": "the risk of future tax increases"}
+{"subject": "levels of public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "levels of public debt", "relation": "can cause due", "object": "risk of future tax increases"}
+{"subject": "levels of public", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "levels of public", "relation": "can cause due", "object": "risk of future tax increases"}
+{"subject": "levels of public", "relation": "can cause due", "object": "risk of future tax"}
+{"subject": "levels of public debt", "relation": "can cause due", "object": "risk of future tax"}
+{"subject": "levels of public debt", "relation": "can cause due", "object": "risk of future increases"}
+{"subject": "High levels of debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "High levels of debt", "relation": "can cause due", "object": "risk of future tax increases"}
+{"subject": "High levels of debt", "relation": "can cause due", "object": "risk of future tax"}
+{"subject": "High levels of debt", "relation": "can cause due", "object": "risk of future increases"}
+{"subject": "High levels of public debt", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "High levels of public debt", "relation": "can cause due", "object": "risk of future tax increases"}
+{"subject": "High levels of public debt", "relation": "can cause due", "object": "risk of future increases"}
+{"subject": "High levels of public debt", "relation": "can cause due", "object": "risk of tax increases"}
+{"subject": "levels of public", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "levels of public", "relation": "can cause reduction in", "object": "investment due risk of future tax increases"}
+{"subject": "levels of public debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "levels of public debt", "relation": "can cause", "object": "reduction private investment to risk of future tax increases"}
+{"subject": "High levels of debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "High levels of debt", "relation": "can cause", "object": "reduction private investment to risk of future tax increases"}
+{"subject": "which", "relation": "increases", "object": "borrowing costs"}
+{"subject": "A rising debt-to-GDP ratio", "relation": "can lead to", "object": "a downgrade in a country's credit rating, which increases borrowing costs"}
+{"subject": "debt-to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "which", "relation": "increases", "object": "borrowing"}
+{"subject": "which", "relation": "increases", "object": "costs"}
+{"subject": "GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases costs"}
+{"subject": "debt-to-ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "debt-to-ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which borrowing costs"}
+{"subject": "debt-to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating"}
+{"subject": "rising debt to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "rising debt to-ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "rising debt to-ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which borrowing costs"}
+{"subject": "rising debt to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating"}
+{"subject": "rising debt-to GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "rising debt-to GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating"}
+{"subject": "rising debt-to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating which increases borrowing costs"}
+{"subject": "rising debt-to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "debt-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases costs"}
+{"subject": "rising ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases borrowing costs"}
+{"subject": "rising debt-to-GDP ratio", "relation": "can lead to", "object": "downgrade in country's credit rating, which increases"}
+{"subject": "-Increased government borrowing", "relation": "causes", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "causes", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "causes", "object": "higher interest"}
+{"subject": "-Increased government borrowing", "relation": "causes", "object": "interest rates"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "lead to", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "lead to", "object": "reduced private"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "private investment"}
+{"subject": "-Higher interest rates", "relation": "lead to", "object": "reduced investment"}
+{"subject": "A high level of public debt", "relation": "causes loss of", "object": "investor confidence"}
+{"subject": "level of public debt", "relation": "causes loss of", "object": "investor confidence"}
+{"subject": "high level of debt", "relation": "causes loss of", "object": "investor confidence"}
+{"subject": "high level of public debt", "relation": "causes loss of", "object": "investor confidence"}
+{"subject": "level of public debt", "relation": "causes", "object": "loss investor confidence"}
+{"subject": "high level of debt", "relation": "causes", "object": "loss investor confidence"}
+{"subject": "A loss of investor confidence", "relation": "leads to", "object": "a sharp increase in borrowing costs"}
+{"subject": "loss of investor confidence", "relation": "leads", "object": "to increase in borrowing costs"}
+{"subject": "loss of investor confidence", "relation": "leads to", "object": "sharp increase in borrowing costs"}
+{"subject": "A sharp increase in borrowing costs", "relation": "causes reduction in", "object": "government spending"}
+{"subject": "increase in borrowing costs", "relation": "causes reduction in", "object": "government spending"}
+{"subject": "sharp increase in borrowing costs", "relation": "causes reduction in", "object": "government spending"}
+{"subject": "increase in borrowing costs", "relation": "causes", "object": "reduction government spending"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "increased rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-levels of public debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-levels of public debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "-High levels of debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-High levels of debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of debt", "relation": "can lead to", "object": "increased interest"}
+{"subject": "levels of debt", "relation": "can lead to", "object": "increased interest rates"}
+{"subject": "-High levels of public debt", "relation": "can lead to", "object": "interest rates"}
+{"subject": "levels of public debt", "relation": "can lead to", "object": "interest rates"}
+{"subject": "-High public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "public debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "public", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "-High debt", "relation": "can cause reduction in", "object": "private investment"}
+{"subject": "-High public debt", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "public", "relation": "can cause reduction in", "object": "investment"}
+{"subject": "public debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "-High debt", "relation": "can cause", "object": "reduction private investment"}
+{"subject": "-High public debt", "relation": "can", "object": "cause"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "a decrease in economic growth"}
+{"subject": "public debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "public", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "public debt", "relation": "can lead to", "object": "decrease in economic"}
+{"subject": "-High debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "-High debt", "relation": "can lead to", "object": "decrease in economic"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "decrease in growth"}
+{"subject": "-High public debt", "relation": "can lead to", "object": "decrease in economic growth"}
+{"subject": "-Expansionary monetary policy", "relation": "leads to", "object": "lower long-term interest rates"}
+{"subject": "policy", "relation": "leads to", "object": "lower long-term interest rates"}
+{"subject": "policy", "relation": "leads to", "object": "lower long-interest rates"}
+{"subject": "policy", "relation": "leads to", "object": "lower long-interest"}
+{"subject": "policy", "relation": "leads to", "object": "lower long-term"}
+{"subject": "-Expansionary monetary policy", "relation": "leads to", "object": "long-term interest rates"}
+{"subject": "-Expansionary monetary policy", "relation": "leads to", "object": "long-rates"}
+{"subject": "-Expansionary monetary policy", "relation": "leads to", "object": "lower term interest rates"}
+{"subject": "-Higher public debt levels", "relation": "lead to", "object": "increased risk premiums on government bonds"}
+{"subject": "public debt levels", "relation": "lead to", "object": "increased risk premiums on government bonds"}
+{"subject": "public debt levels", "relation": "lead to", "object": "increased risk on government bonds"}
+{"subject": "-Higher debt levels", "relation": "lead to", "object": "increased risk premiums on government bonds"}
+{"subject": "-Higher debt levels", "relation": "lead to", "object": "increased risk on government bonds"}
+{"subject": "-Higher public debt levels", "relation": "lead to", "object": "risk premiums on government bonds"}
+{"subject": "-Lower long-term interest rates", "relation": "lead to", "object": "higher public debt levels"}
+{"subject": "long-term interest rates", "relation": "lead to", "object": "higher public debt levels"}
+{"subject": "long-term interest rates", "relation": "lead to", "object": "higher public levels"}
+{"subject": "long-term interest rates", "relation": "lead to", "object": "higher public debt"}
+{"subject": "-Lower term interest rates", "relation": "lead to", "object": "higher public debt levels"}
+{"subject": "-Lower term interest rates", "relation": "lead to", "object": "higher public debt"}
+{"subject": "-Lower long-term interest rates", "relation": "lead to", "object": "public debt levels"}
+{"subject": "-Lower long-term interest rates", "relation": "lead to", "object": "public debt"}
+{"subject": "-Lower long-term interest rates", "relation": "lead to", "object": "higher debt levels"}
+{"subject": "A high fiscal deficit", "relation": "causes", "object": "increased government borrowing"}
+{"subject": "fiscal deficit", "relation": "causes", "object": "increased government borrowing"}
+{"subject": "fiscal causes", "relation": "increased", "object": "government borrowing"}
+{"subject": "fiscal deficit", "relation": "causes", "object": "increased borrowing"}
+{"subject": "high deficit", "relation": "causes", "object": "increased government borrowing"}
+{"subject": "high deficit", "relation": "causes", "object": "increased borrowing"}
+{"subject": "high fiscal deficit", "relation": "causes", "object": "government borrowing"}
+{"subject": "high fiscal deficit", "relation": "causes", "object": "increased government borrowing"}
+{"subject": "Increased government borrowing", "relation": "leads to", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "leads to", "object": "higher interest rates"}
+{"subject": "government borrowing", "relation": "leads to", "object": "higher rates"}
+{"subject": "Increased government borrowing", "relation": "leads to", "object": "interest rates"}
+{"subject": "Higher interest rates", "relation": "result in", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "result in", "object": "reduced private investment"}
+{"subject": "interest rates", "relation": "result in", "object": "reduced investment"}
+{"subject": "interest rates", "relation": "result in", "object": "reduced private"}
+{"subject": "Higher interest rates", "relation": "result in", "object": "private investment"}
+{"subject": "Higher interest rates", "relation": "result in", "object": "reduced investment"}
+{"subject": "which", "relation": "can crowd", "object": "private investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased interest payments, which can crowd out private investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest payments, which can crowd out private investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest, which can crowd out private investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest, which can out private investment"}
+{"subject": "which", "relation": "crowd", "object": "private investment"}
+{"subject": "High of public debt", "relation": "can lead to", "object": "increased interest payments, which crowd out private investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest payments, which can crowd out private investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest, which can crowd out private investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest, which can out private investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest, which can out private investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest, which can crowd out private investment"}
+{"subject": "High levels of public", "relation": "can lead to", "object": "increased interest payments, which crowd out private investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest payments, which crowd out private investment"}
+{"subject": "levels of public", "relation": "can lead to", "object": "increased interest payments, which can crowd out private investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased payments, which can crowd out private investment"}
+{"subject": "High levels of public debt", "relation": "can lead to", "object": "increased payments, which crowd out private investment"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to a decrease in aggregate demand"}
+{"subject": "which", "relation": "can lead to", "object": "a decrease in aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to decrease in aggregate demand"}
+{"subject": "which", "relation": "can lead", "object": "to decrease in aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause reduction in", "object": "government spending"}
+{"subject": "consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to decrease aggregate demand"}
+{"subject": "which", "relation": "can lead", "object": "to decrease aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to decrease in aggregate"}
+{"subject": "which", "relation": "can lead", "object": "to decrease in aggregate"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending which can lead to decrease in aggregate demand"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending which can lead to decrease aggregate demand"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending which can lead to decrease in aggregate"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to decrease in demand"}
+{"subject": "which", "relation": "can lead", "object": "to decrease in demand"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can cause reduction in", "object": "government spending, which can lead to decrease in aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause", "object": "reduction government spending, which can lead to decrease in aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause", "object": "reduction government spending, which lead to decrease in aggregate demand"}
+{"subject": "which", "relation": "lead to", "object": "decrease in aggregate demand"}
+{"subject": "consolidation efforts", "relation": "can cause", "object": "reduction government spending, which lead to decrease in aggregate"}
+{"subject": "which", "relation": "lead to", "object": "decrease in aggregate"}
+{"subject": "consolidation efforts", "relation": "can cause", "object": "reduction government spending, which can lead to decrease in demand"}
+{"subject": "-Fiscal consolidation efforts", "relation": "can", "object": "cause"}
+{"subject": "-High public debt levels", "relation": "can lead to", "object": "a loss of investor confidence, which can result in higher borrowing costs for the government"}
+{"subject": "which", "relation": "can result in", "object": "higher borrowing costs for the government"}
+{"subject": "public debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher borrowing costs for government"}
+{"subject": "which", "relation": "can result in", "object": "higher borrowing costs for government"}
+{"subject": "public levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher borrowing costs for government"}
+{"subject": "public levels", "relation": "can lead to", "object": "loss of investor confidence, which result in higher borrowing costs for government"}
+{"subject": "which", "relation": "result in", "object": "higher borrowing costs for government"}
+{"subject": "public levels", "relation": "can lead to", "object": "loss of investor confidence, which result in higher borrowing costs government"}
+{"subject": "which", "relation": "result in", "object": "higher borrowing costs government"}
+{"subject": "public levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher borrowing for government"}
+{"subject": "which", "relation": "can result in", "object": "higher borrowing for government"}
+{"subject": "public debt levels", "relation": "can lead to", "object": "loss of investor confidence"}
+{"subject": "public debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher costs for government"}
+{"subject": "which", "relation": "can result in", "object": "higher costs for government"}
+{"subject": "-High debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher borrowing costs for government"}
+{"subject": "-High debt levels", "relation": "can lead to", "object": "loss of investor confidence"}
+{"subject": "-High debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher costs for government"}
+{"subject": "-High public debt levels", "relation": "can lead to", "object": "loss of investor confidence which can result in higher borrowing costs for government"}
+{"subject": "-High public debt levels", "relation": "can lead to", "object": "loss of investor confidence which can result in higher costs for government"}
+{"subject": "-High public debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in borrowing costs for government"}
+{"subject": "which", "relation": "can result in", "object": "borrowing costs for government"}
+{"subject": "-High public debt levels", "relation": "can lead to", "object": "loss of investor confidence, which can result in higher borrowing costs for government"}
+{"subject": "its currency", "relation": "to depreciate relative to", "object": "another country"}
+{"subject": "A higher inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative to another country with a lower inflation rate"}
+{"subject": "its currency", "relation": "to depreciate", "object": "relative to another country"}
+{"subject": "its currency", "relation": "to depreciate with", "object": "a lower inflation rate"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative to another country with lower inflation rate"}
+{"subject": "its currency", "relation": "to depreciate with", "object": "lower inflation rate"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate to another country with lower inflation rate"}
+{"subject": "its currency", "relation": "to depreciate to", "object": "another country"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate to another country with lower inflation"}
+{"subject": "its currency", "relation": "to depreciate with", "object": "lower inflation"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative to another country with lower rate"}
+{"subject": "its currency", "relation": "to depreciate with", "object": "lower rate"}
+{"subject": "higher inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative to another country with inflation rate"}
+{"subject": "its currency", "relation": "to depreciate with", "object": "inflation rate"}
+{"subject": "higher inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative to another country with lower inflation rate"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate to country with lower inflation rate"}
+{"subject": "its currency", "relation": "to depreciate to", "object": "country with lower inflation rate"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative another country with lower inflation rate"}
+{"subject": "its currency", "relation": "to depreciate", "object": "relative another country"}
+{"subject": "inflation rate in one country", "relation": "causes", "object": "its currency to depreciate relative another country with lower inflation"}
+{"subject": "higher inflation rate in one country", "relation": "causes", "object": "its currency to depreciate with lower inflation rate"}
+{"subject": "A decrease in the price level in one country", "relation": "leads to", "object": "an appreciation of its currency"}
+{"subject": "decrease in price level in one country", "relation": "leads to", "object": "appreciation of its currency"}
+{"subject": "An increase in the nominal exchange rate", "relation": "causes", "object": "the purchasing power of a country's currency to decrease"}
+{"subject": "increase in", "relation": "causes purchasing power of", "object": "country's currency"}
+{"subject": "increase in", "relation": "causes", "object": "purchasing power of country's currency to decrease"}
+{"subject": "increase in nominal exchange rate", "relation": "causes purchasing power of", "object": "country's currency"}
+{"subject": "increase in nominal exchange rate", "relation": "causes", "object": "purchasing power of country's currency to decrease"}
+{"subject": "increase in", "relation": "causes", "object": "purchasing power country's currency to decrease"}
+{"subject": "A higher domestic interest rate", "relation": "causes return on", "object": "domestic assets"}
+{"subject": "domestic interest rate", "relation": "causes return on", "object": "domestic assets"}
+{"subject": "domestic rate", "relation": "causes return on", "object": "domestic assets"}
+{"subject": "domestic rate", "relation": "causes", "object": "higher expected return domestic assets"}
+{"subject": "domestic interest rate", "relation": "causes", "object": "higher return domestic assets"}
+{"subject": "higher interest rate", "relation": "causes return on", "object": "domestic assets"}
+{"subject": "higher interest rate", "relation": "causes", "object": "higher return domestic assets"}
+{"subject": "higher domestic interest rate", "relation": "causes", "object": "expected return on domestic assets"}
+{"subject": "causes", "relation": "expected on", "object": "domestic assets"}
+{"subject": "domestic rate", "relation": "causes", "object": "higher expected return domestic"}
+{"subject": "domestic rate", "relation": "causes return on", "object": "assets"}
+{"subject": "domestic interest rate", "relation": "causes", "object": "higher return domestic"}
+{"subject": "domestic interest rate", "relation": "causes return on", "object": "assets"}
+{"subject": "domestic interest rate", "relation": "causes", "object": "higher expected return domestic assets"}
+{"subject": "higher interest rate", "relation": "causes", "object": "higher return domestic"}
+{"subject": "higher interest rate", "relation": "causes return on", "object": "assets"}
+{"subject": "higher interest rate", "relation": "causes", "object": "higher expected return domestic assets"}
+{"subject": "causes", "relation": "expected on", "object": "assets"}
+{"subject": "A higher expected return on domestic assets", "relation": "leads to", "object": "an appreciation of the domestic currency"}
+{"subject": "return on domestic assets", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "return on domestic assets", "relation": "leads to", "object": "appreciation of domestic"}
+{"subject": "higher return on domestic assets", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "higher return on domestic assets", "relation": "leads to", "object": "appreciation of domestic"}
+{"subject": "higher expected return on assets", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "higher expected return on assets", "relation": "leads to", "object": "appreciation of domestic"}
+{"subject": "higher expected return on domestic assets", "relation": "leads to", "object": "appreciation of currency"}
+{"subject": "higher expected return on domestic assets", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "A higher domestic interest rate", "relation": "leads to", "object": "a higher demand for domestic assets"}
+{"subject": "domestic interest rate", "relation": "leads to", "object": "higher demand for domestic assets"}
+{"subject": "domestic rate", "relation": "leads to", "object": "higher demand for domestic assets"}
+{"subject": "domestic rate", "relation": "leads to", "object": "higher demand domestic assets"}
+{"subject": "domestic interest rate", "relation": "leads for", "object": "domestic assets"}
+{"subject": "domestic interest rate", "relation": "leads to", "object": "higher demand for domestic"}
+{"subject": "higher interest rate", "relation": "leads to", "object": "higher demand for domestic assets"}
+{"subject": "higher interest rate", "relation": "leads for", "object": "domestic assets"}
+{"subject": "higher interest rate", "relation": "leads to", "object": "higher demand for domestic"}
+{"subject": "higher domestic interest rate", "relation": "leads", "object": "to demand for domestic assets"}
+{"subject": "higher domestic interest rate", "relation": "leads", "object": "to demand for domestic"}
+{"subject": "higher domestic interest rate", "relation": "leads to", "object": "higher demand for assets"}
+{"subject": "higher domestic interest rate", "relation": "leads to", "object": "higher demand for domestic assets"}
+{"subject": "A current account deficit", "relation": "causes", "object": "a country's net foreign asset position to decrease"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net foreign asset position to decrease"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net asset position to decrease"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net asset to decrease"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net foreign position to decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's foreign asset position to decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's foreign position to decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's net asset position to decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's net foreign asset position"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net asset position"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net foreign position"}
+{"subject": "account deficit", "relation": "causes", "object": "country's net foreign asset position decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's foreign position"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's foreign asset position decrease"}
+{"subject": "current account deficit", "relation": "causes", "object": "country's net asset position decrease"}
+{"subject": "A persistent trade surplus", "relation": "leads to", "object": "an appreciation of the domestic currency"}
+{"subject": "trade surplus", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "trade surplus", "relation": "leads to", "object": "appreciation of domestic"}
+{"subject": "persistent trade surplus", "relation": "leads to", "object": "appreciation of currency"}
+{"subject": "persistent trade surplus", "relation": "leads to", "object": "appreciation of domestic currency"}
+{"subject": "A large capital inflow", "relation": "causes", "object": "the domestic currency to appreciate"}
+{"subject": "capital inflow", "relation": "causes", "object": "domestic currency to appreciate"}
+{"subject": "large capital inflow", "relation": "causes", "object": "currency to appreciate"}
+{"subject": "large capital inflow", "relation": "causes", "object": "domestic currency to appreciate"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "decrease in money supply", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "demand"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "aggregate demand"}
+{"subject": "A decrease in aggregate demand", "relation": "leads to", "object": "a reduction in inflation"}
+{"subject": "decrease in demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "decrease in aggregate demand", "relation": "leads to", "object": "reduction in inflation"}
+{"subject": "A decrease in government spending", "relation": "leads to", "object": "a reduction in aggregate demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in demand"}
+{"subject": "decrease in government spending", "relation": "leads to", "object": "reduction in aggregate demand"}
+{"subject": "An increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "income"}
+{"subject": "increase in taxes", "relation": "causes decrease in", "object": "disposable income"}
+{"subject": "Expansionary fiscal policy", "relation": "leads to", "object": "an increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "fiscal policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "Expansionary policy", "relation": "leads", "object": "to increase interest rates"}
+{"subject": "Expansionary fiscal policy", "relation": "leads", "object": "to increase in interest rates"}
+{"subject": "An increase in aggregate demand", "relation": "causes increase in", "object": "the general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "-increase in demand", "relation": "causes increase in", "object": "general level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "price level"}
+{"subject": "-increase in aggregate demand", "relation": "causes increase in", "object": "general price level"}
+{"subject": "A decrease in the money supply", "relation": "leads to", "object": "a decrease in inflation"}
+{"subject": "An increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "-increase in production costs", "relation": "causes increase in", "object": "prices"}
+{"subject": "A high interest rate differential", "relation": "causes", "object": "capital inflows"}
+{"subject": "interest rate differential", "relation": "causes", "object": "capital inflows"}
+{"subject": "high interest rate differential", "relation": "causes", "object": "capital inflows"}
+{"subject": "A sudden stop in capital flows", "relation": "leads to", "object": "a currency depreciation"}
+{"subject": "stop in capital flows", "relation": "leads to", "object": "currency depreciation"}
+{"subject": "sudden stop in capital flows", "relation": "leads to", "object": "currency depreciation"}
+{"subject": "A large capital inflow", "relation": "causes appreciation of", "object": "the domestic currency"}
+{"subject": "capital inflow", "relation": "causes appreciation of", "object": "domestic currency"}
+{"subject": "capital inflow", "relation": "causes appreciation of", "object": "domestic"}
+{"subject": "large capital inflow", "relation": "causes appreciation of", "object": "currency"}
+{"subject": "large capital inflow", "relation": "causes appreciation of", "object": "domestic currency"}
+{"subject": "capital inflow", "relation": "causes", "object": "appreciation domestic currency"}
+{"subject": "A fixed exchange rate regime", "relation": "causes", "object": "lower monetary policy independence"}
+{"subject": "exchange rate regime", "relation": "causes", "object": "lower monetary policy independence"}
+{"subject": "exchange rate regime", "relation": "causes", "object": "lower policy independence"}
+{"subject": "exchange rate regime", "relation": "causes", "object": "lower policy"}
+{"subject": "exchange rate regime", "relation": "causes", "object": "lower monetary independence"}
+{"subject": "fixed exchange rate regime", "relation": "causes", "object": "monetary policy independence"}
+{"subject": "fixed exchange rate regime", "relation": "causes", "object": "monetary independence"}
+{"subject": "fixed exchange rate regime", "relation": "causes", "object": "lower policy independence"}
+{"subject": "fixed exchange rate regime", "relation": "causes", "object": "lower monetary policy independence"}
+{"subject": "A high level of capital mobility", "relation": "leads to", "object": "increased pressure on a fixed exchange rate"}
+{"subject": "level of capital mobility", "relation": "leads to", "object": "increased pressure on fixed exchange rate"}
+{"subject": "level of capital mobility", "relation": "leads", "object": "to increased on fixed exchange rate"}
+{"subject": "level of capital mobility", "relation": "leads", "object": "to increased on fixed exchange"}
+{"subject": "level of capital mobility", "relation": "leads to", "object": "increased pressure on fixed rate"}
+{"subject": "high level of capital mobility", "relation": "leads to", "object": "pressure on fixed exchange rate"}
+{"subject": "high level of capital mobility", "relation": "leads to", "object": "pressure on fixed rate"}
+{"subject": "high level of capital mobility", "relation": "leads to", "object": "increased pressure on exchange rate"}
+{"subject": "high level of capital mobility", "relation": "leads to", "object": "increased pressure on fixed exchange rate"}
+{"subject": "A currency crisis", "relation": "causes depreciation of", "object": "the currency"}
+{"subject": "currency crisis", "relation": "causes depreciation of", "object": "currency"}
+{"subject": "currency crisis", "relation": "causes", "object": "depreciation currency"}
+{"subject": "A sudden increase in interest rates", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "increase in interest rates", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "sudden increase in interest rates", "relation": "causes decrease in", "object": "asset prices"}
+{"subject": "increase in interest rates", "relation": "causes", "object": "decrease asset prices"}
+{"subject": "A loss of confidence in a currency", "relation": "leads to", "object": "a speculative attack"}
+{"subject": "loss of confidence in currency", "relation": "leads to", "object": "attack"}
+{"subject": "loss of confidence in currency", "relation": "leads to", "object": "speculative attack"}
+{"subject": "A large current account deficit", "relation": "leads to", "object": "a depletion of foreign exchange reserves"}
+{"subject": "current account deficit", "relation": "leads to", "object": "depletion of foreign exchange reserves"}
+{"subject": "current deficit", "relation": "leads to", "object": "depletion of foreign exchange reserves"}
+{"subject": "current deficit", "relation": "leads to", "object": "depletion of foreign exchange"}
+{"subject": "current account deficit", "relation": "leads to", "object": "depletion of foreign reserves"}
+{"subject": "large account deficit", "relation": "leads to", "object": "depletion of foreign exchange reserves"}
+{"subject": "large account deficit", "relation": "leads to", "object": "depletion of foreign reserves"}
+{"subject": "large current account deficit", "relation": "leads to", "object": "depletion of exchange reserves"}
+{"subject": "large current account deficit", "relation": "leads to", "object": "depletion of foreign exchange reserves"}
+{"subject": "A higher Real Effective Exchange Rate", "relation": "causes", "object": "a country's exports to become more expensive for foreign buyers"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for foreign buyers"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for foreign buyers"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports to become more for foreign"}
+{"subject": "country's exports", "relation": "to become for", "object": "foreign"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive foreign buyers"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive foreign"}
+{"subject": "Real Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for buyers"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive for foreign buyers"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive foreign"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive for buyers"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive foreign buyers"}
+{"subject": "Real Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for foreign"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for foreign buyers"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive for foreign buyers"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive foreign"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become expensive for buyers"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive foreign buyers"}
+{"subject": "higher Effective Exchange Rate", "relation": "causes", "object": "country's exports to become more expensive for foreign"}
+{"subject": "Real Effective Exchange Rate", "relation": "higher causes", "object": "country's exports to become expensive for foreign buyers"}
+{"subject": "A higher Real Effective Exchange Rate", "relation": "leads to", "object": "a decrease in the country's export competitiveness"}
+{"subject": "Real Effective Exchange Rate", "relation": "leads", "object": "to decrease in country's export competitiveness"}
+{"subject": "Real Exchange Rate", "relation": "leads", "object": "to decrease in country's export competitiveness"}
+{"subject": "Real Exchange Rate", "relation": "leads", "object": "to decrease in's export competitiveness"}
+{"subject": "Real Effective Exchange Rate", "relation": "leads", "object": "to decrease country's export competitiveness"}
+{"subject": "higher Effective Exchange Rate", "relation": "leads", "object": "to decrease in country's export competitiveness"}
+{"subject": "higher Effective Exchange Rate", "relation": "leads", "object": "to decrease country's export competitiveness"}
+{"subject": "higher Real Effective Exchange Rate", "relation": "leads", "object": "to decrease in country's export competitiveness"}
+{"subject": "A decrease in a country's export competitiveness", "relation": "leads to", "object": "a reduction in its trade balance"}
+{"subject": "decrease in country's export competitiveness", "relation": "leads to", "object": "reduction in its trade balance"}

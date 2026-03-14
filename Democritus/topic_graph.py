@@ -55,7 +55,7 @@ def generate_topic_graph_rec(model, domain, path, target_depth, current_depth, f
 
 
 
-def generate_topic_graph(model, domain, TOPIC, target_depth, slice_name=""):
+def generate_topic_graph(model, domain, topic_list, target_depth, slice_name=""):
     '''
         Takes and initial topic, and calls the recursive topic generation to build topic graph
     '''
@@ -65,9 +65,11 @@ def generate_topic_graph(model, domain, TOPIC, target_depth, slice_name=""):
 
     # Write to JSON file
     with open(file_path, "w") as file:
-        topic_entry = {"topic": TOPIC, "path": [TOPIC], "depth": 0}
-        file.write(json.dumps(topic_entry) + "\n")
+        for topic in topic_list:
+            topic_entry = {"topic": topic, "path": [topic], "depth": 0}
+            file.write(json.dumps(topic_entry) + "\n")
 
-    generate_topic_graph_rec(model, domain, [TOPIC], target_depth, 1, file_path)
+    for topic in topic_list:
+        generate_topic_graph_rec(model, domain, [topic], target_depth, 1, file_path)
 
     return
