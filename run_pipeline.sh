@@ -1,0 +1,1 @@
+nohup python Democritus/pipeline.py 2>&1 &

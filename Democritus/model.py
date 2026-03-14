@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
 import time
 
@@ -9,12 +9,20 @@ class Democritus_Model():
     
     def __init__(self):
 
+        # quantization_config = BitsAndBytesConfig(
+        #     load_in_4bit=True,
+        #     bnb_4bit_compute_dtype=torch.bfloat16,
+        #     bnb_4bit_use_double_quant=True,
+        #     bnb_4bit_quant_type="nf4",
+        # )
+
         self.tokenizer = AutoTokenizer.from_pretrained(model_name, fix_mistral_regex=True)
 
         self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 device_map="auto",
                 dtype=torch.float16,
+                # quantization_config=quantization_config,
             )
 
     
