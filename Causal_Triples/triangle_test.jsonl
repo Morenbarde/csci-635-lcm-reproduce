@@ -1,0 +1,7 @@
+{"subject": "interest rates", "relation": "affects", "object": "investment"}
+{"subject": "investment", "relation": "affects", "object": "aggregate demand"}
+{"subject": "interest rates", "relation": "affects", "object": "aggregate demand"}
+
+{"subject": "innovation", "relation": "causes", "object": "productivity"}
+{"subject": "productivity", "relation": "causes", "object": "economic growth"}
+{"subject": "innovation", "relation": "causes", "object": "economic growth"}
