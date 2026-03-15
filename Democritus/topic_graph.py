@@ -48,7 +48,7 @@ def generate_topic_graph_rec(model, domain, path, target_depth, current_depth, f
     for topic in topic_list:
         generate_topic_graph_rec(model, domain, path+[topic], target_depth, current_depth+1, file_path)
 
-    torch.cuda.empty_cache()
+        torch.cuda.empty_cache()
 
     return
 
@@ -66,7 +66,7 @@ def generate_topic_graph(model, domain, topic_list, target_depth, slice_name="")
     # Write to JSON file
     with open(file_path, "w") as file:
         for topic in topic_list:
-            topic_entry = {"topic": topic, "path": [topic], "depth": 0}
+            topic_entry = {"topic": topic, "path": [topic]}
             file.write(json.dumps(topic_entry) + "\n")
 
     for topic in topic_list:

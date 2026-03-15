@@ -51,3 +51,17 @@ Causal Statement Generation Time:  224.24968004226685
 
 Causal Triplets Extraction Time:  4.461267471313477
 ```
+
+## Bilogy Depth 1
+```
+Model Load Time:  7.11812424659729
+
+Topic Graph Generation Time:  275.3255965709686
+
+Causal Question Generation Time:  1784.6692640781403
+
+Causal Statement Generation Time:  2123.7704195976257
+
+Causal Triplets Extraction Time:  20.57916569709778
+```
+
