@@ -87,6 +87,14 @@ def get_or_create_node(graph: Graph, raw_text: str) -> int:
 def build_graph_from_triples(triples: List[dict], domain: str) -> Graph:
     graph = Graph()
 
+    add_triples_to_graph(graph=graph, triples=triples, domain=domain)
+
+    return graph
+
+
+def add_triples_to_graph(graph: Graph, triples: List[dict], domain: str) -> None:
+    """Add triples from one domain into an existing graph in-place."""
+
     for triple in triples:
         s_raw = triple["subject"]
         r_raw = triple["relation"]
@@ -108,6 +116,15 @@ def build_graph_from_triples(triples: List[dict], domain: str) -> Graph:
             )
         else:
             graph.edges[edge_key].count += 1
+
+
+def build_merged_graph_from_domain_triples(domain_to_triples: Dict[str, List[dict]]) -> Graph:
+    """Build one graph from multiple domains while preserving per-edge domain labels."""
+    graph = Graph()
+
+    for domain in sorted(domain_to_triples.keys()):
+        triples = domain_to_triples[domain]
+        add_triples_to_graph(graph=graph, triples=triples, domain=domain)
 
     return graph
 
