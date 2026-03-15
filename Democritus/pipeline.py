@@ -25,17 +25,17 @@ if __name__ == "__main__":
     #                 "Inflation",
     #                 "Unemployment"]
 
-    domain = "neuroscience and medicine"
-    root_topics = [ "Neuroscience",
-                    "Genetics",
-                    "Evolution",
-                    "Botany",
-                    "Cardiology",
-                    "Endocrinology",
-                    "Immunology",
-                    "Oncology",
-                    "Exercise physiology",
-                    "Metabolic disorders"]
+    # domain = "neuroscience and medicine"
+    # root_topics = [ "Neuroscience",
+    #                 "Genetics",
+    #                 "Evolution",
+    #                 "Botany",
+    #                 "Cardiology",
+    #                 "Endocrinology",
+    #                 "Immunology",
+    #                 "Oncology",
+    #                 "Exercise physiology",
+    #                 "Metabolic disorders"]
 
     # domain = "South Asian archaeology and paleoclimate"
     # root_topics = [ "Indus Valley Civilization",
@@ -48,9 +48,24 @@ if __name__ == "__main__":
     #                 "Climate-induced crop shifts and agricultural adaptation strategies",
     #                 "Irrigation and agriculture in semi-arid river basins",
     #                 "Floodplain farming along the Indus and its tributaries"]
+
+    domain = "software engineering and computer science"
+
+    root_topics = [
+        "Software Design and Architecture",
+        "Software Testing and Quality Assurance",
+        "DevOps and Continuous Integration",
+        "Database Systems and Data Management",
+        "Computer Networks and Distributed Systems",
+        "Cybersecurity and Secure Software Development",
+        "Human-Computer Interaction and Usability",
+        "Artificial Intelligence and Machine Learning Engineering",
+        "Software Project Management and Agile Methods",
+        "Programming Languages and Compilers",
+    ]
     
-    slice_name = "bio_depth0" # For File Naming
-    topic_depth = 0
+    topic_depth = 1
+    slice_name = "swe_depth"+str(topic_depth) # For File Naming
 
 
     # --- Load Model ---

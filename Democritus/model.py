@@ -22,7 +22,7 @@ class Democritus_Model():
                 model_name,
                 device_map="auto",
                 dtype=torch.float16,
-                # quantization_config=quantization_config,
+                # quantization_config=quantization_config
             )
 
     

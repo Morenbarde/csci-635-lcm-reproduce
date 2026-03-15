@@ -1,0 +1,1621 @@
+{"subject": "A poor choice of design patterns", "relation": "causes", "object": "increased technical debt"}
+{"subject": "choice of design patterns", "relation": "causes", "object": "increased technical debt"}
+{"subject": "choice of design patterns", "relation": "causes", "object": "increased debt"}
+{"subject": "choice of design patterns", "relation": "causes", "object": "increased technical"}
+{"subject": "poor choice of design patterns", "relation": "causes", "object": "technical debt"}
+{"subject": "poor choice of design patterns", "relation": "causes", "object": "increased debt"}
+{"subject": "poor choice of design patterns", "relation": "causes", "object": "increased technical debt"}
+{"subject": "A lack of modularity", "relation": "leads to", "object": "difficulties in maintenance"}
+{"subject": "lack of modularity", "relation": "leads to", "object": "difficulties in maintenance"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "-Inadequate test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "coverage", "relation": "causes", "object": "software defects"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower and less reliable testing processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and less reliable testing processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and reliable testing processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and reliable testing"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and less reliable processes"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "testing processes"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower and reliable testing processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and reliable processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and less testing processes"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and less testing"}
+{"subject": "test automation", "relation": "leads to", "object": "slower and less reliable testing"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower less reliable testing processes"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower less reliable processes"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower and reliable testing"}
+{"subject": "-Insufficient test automation", "relation": "leads to", "object": "slower and testing processes"}
+{"subject": "-Poorly defined test cases", "relation": "result in", "object": "inconsistent and unreliable test results"}
+{"subject": "test cases", "relation": "result in", "object": "inconsistent and unreliable test results"}
+{"subject": "test cases", "relation": "result in", "object": "inconsistent and unreliable results"}
+{"subject": "-defined test cases", "relation": "result in", "object": "inconsistent and unreliable test results"}
+{"subject": "-defined test cases", "relation": "result in", "object": "inconsistent and test results"}
+{"subject": "-Poorly defined test cases", "relation": "result in", "object": "test results"}
+{"subject": "test cases", "relation": "result in", "object": "inconsistent and unreliable test"}
+{"subject": "-defined test cases", "relation": "result in", "object": "inconsistent and test"}
+{"subject": "-defined test cases", "relation": "result in", "object": "inconsistent and unreliable results"}
+{"subject": "-defined test cases", "relation": "result in", "object": "inconsistent and unreliable test"}
+{"subject": "-Poorly defined test cases", "relation": "result in", "object": "inconsistent unreliable test results"}
+{"subject": "-Poorly defined test cases", "relation": "result in", "object": "inconsistent and test results"}
+{"subject": "Automated testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "testing", "relation": "causes", "object": "faster loops"}
+{"subject": "Automated testing", "relation": "causes", "object": "feedback loops"}
+{"subject": "Continuous integration", "relation": "leads to", "object": "earlier detection of integration issues"}
+{"subject": "integration", "relation": "leads to", "object": "earlier detection of integration issues"}
+{"subject": "integration", "relation": "leads to", "object": "earlier of integration issues"}
+{"subject": "Continuous integration", "relation": "leads to", "object": "detection of integration issues"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "more reliable software builds"}
+{"subject": "code commits", "relation": "cause", "object": "more reliable software builds"}
+{"subject": "code commits", "relation": "cause", "object": "more software builds"}
+{"subject": "code commits", "relation": "cause", "object": "more software"}
+{"subject": "code commits", "relation": "cause", "object": "more reliable builds"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "reliable software builds"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "reliable builds"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "software builds"}
+{"subject": "-Poor indexing", "relation": "causes", "object": "slow query performance"}
+{"subject": "indexing", "relation": "causes", "object": "slow query performance"}
+{"subject": "indexing", "relation": "causes", "object": "slow query"}
+{"subject": "-Poor indexing", "relation": "causes", "object": "query performance"}
+{"subject": "Inadequate normalization", "relation": "leads to", "object": "data redundancy"}
+{"subject": "Inadequate", "relation": "leads to", "object": "data redundancy"}
+{"subject": "normalization", "relation": "leads to", "object": "data redundancy"}
+{"subject": "-normalization", "relation": "leads to", "object": "data redundancy"}
+{"subject": "Packet loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "Packet", "relation": "causes retransmission of", "object": "data"}
+{"subject": "loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "-loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "loss", "relation": "causes", "object": "retransmission data"}
+{"subject": "-High latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased round trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased round trip"}
+{"subject": "latency", "relation": "leads to", "object": "increased round-"}
+{"subject": "-High latency", "relation": "leads to", "object": "round-trip time"}
+{"subject": "-High latency", "relation": "leads to", "object": "round-"}
+{"subject": "-High latency", "relation": "leads to", "object": "increased trip time"}
+{"subject": "-Network congestion", "relation": "causes", "object": "packet delay"}
+{"subject": "Network congestion", "relation": "causes", "object": "packet delay"}
+{"subject": "Network congestion", "relation": "causes", "object": "packet"}
+{"subject": "-Network congestion", "relation": "causes", "object": "delay"}
+{"subject": "Inadequate input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Inadequate validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "-Poorly managed secrets", "relation": "lead to", "object": "unauthorized access"}
+{"subject": "secrets", "relation": "lead to", "object": "unauthorized access"}
+{"subject": "-managed secrets", "relation": "lead to", "object": "unauthorized access"}
+{"subject": "-Poorly managed secrets", "relation": "lead to", "object": "access"}
+{"subject": "A poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "Inadequate usability testing", "relation": "leads to", "object": "undetected design flaws"}
+{"subject": "usability testing", "relation": "leads to", "object": "undetected design flaws"}
+{"subject": "usability testing", "relation": "leads to", "object": "undetected flaws"}
+{"subject": "Inadequate usability testing", "relation": "leads to", "object": "design flaws"}
+{"subject": "-Improper data preprocessing", "relation": "causes", "object": "inaccurate model predictions"}
+{"subject": "data preprocessing", "relation": "causes", "object": "inaccurate model predictions"}
+{"subject": "data preprocessing", "relation": "causes", "object": "inaccurate model"}
+{"subject": "-Improper data preprocessing", "relation": "causes", "object": "model predictions"}
+{"subject": "-Overfitting", "relation": "leads to", "object": "poor generalization on unseen data"}
+{"subject": "Overfitting", "relation": "leads to", "object": "poor generalization on unseen data"}
+{"subject": "Overfitting", "relation": "leads to", "object": "poor"}
+{"subject": "Overfitting", "relation": "leads on", "object": "unseen data"}
+{"subject": "Overfitting", "relation": "leads to", "object": "poor generalization on unseen"}
+{"subject": "-Overfitting", "relation": "leads to", "object": "generalization on unseen data"}
+{"subject": "-Overfitting", "relation": "leads to", "object": "poor generalization on data"}
+{"subject": "-Insufficient model validation", "relation": "causes", "object": "unreliable performance estimates"}
+{"subject": "Insufficient model validation", "relation": "causes", "object": "unreliable performance estimates"}
+{"subject": "Insufficient model validation", "relation": "causes", "object": "unreliable estimates"}
+{"subject": "-Insufficient model validation", "relation": "causes", "object": "performance estimates"}
+{"subject": "A lack of clear requirements", "relation": "causes", "object": "scope creep"}
+{"subject": "lack of requirements", "relation": "causes", "object": "scope creep"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "scope creep"}
+{"subject": "Daily stand-up meetings", "relation": "lead to", "object": "improved communication"}
+{"subject": "stand-up meetings", "relation": "lead to", "object": "improved communication"}
+{"subject": "stand-up meetings", "relation": "lead to", "object": "improved"}
+{"subject": "Daily meetings", "relation": "lead to", "object": "improved communication"}
+{"subject": "Daily stand-up meetings", "relation": "lead to", "object": "communication"}
+{"subject": "Inadequate user involvement", "relation": "causes", "object": "misaligned project priorities"}
+{"subject": "user involvement", "relation": "causes", "object": "misaligned project priorities"}
+{"subject": "user involvement", "relation": "causes", "object": "misaligned priorities"}
+{"subject": "Inadequate user involvement", "relation": "causes", "object": "project priorities"}
+{"subject": "A high-level language abstraction", "relation": "causes", "object": "easier code readability"}
+{"subject": "level language abstraction", "relation": "causes", "object": "easier code readability"}
+{"subject": "level language abstraction", "relation": "causes", "object": "easier code"}
+{"subject": "high-level language abstraction", "relation": "causes", "object": "code readability"}
+{"subject": "high-level language abstraction", "relation": "causes", "object": "easier code readability"}
+{"subject": "A compiler's optimization phase", "relation": "leads to", "object": "improved execution efficiency"}
+{"subject": "compiler's optimization phase", "relation": "leads to", "object": "execution efficiency"}
+{"subject": "compiler's optimization phase", "relation": "leads to", "object": "improved execution efficiency"}
+{"subject": "A syntax error in the source code", "relation": "causes", "object": "compilation failure"}
+{"subject": "syntax error in source code", "relation": "causes", "object": "compilation failure"}
+{"subject": "The use of the Singleton pattern", "relation": "causes point of", "object": "access to an object"}
+{"subject": "use of Singleton pattern", "relation": "causes point of", "object": "access to object"}
+{"subject": "use of Singleton pattern", "relation": "causes point of", "object": "access"}
+{"subject": "use of Singleton pattern", "relation": "causes point access to", "object": "object"}
+{"subject": "The application of the Factory Method pattern", "relation": "leads to", "object": "the decoupling of object creation from the client code"}
+{"subject": "application of Factory Method pattern", "relation": "leads to", "object": "decoupling of object creation from client code"}
+{"subject": "The implementation of the Observer pattern", "relation": "causes dependency between", "object": "objects"}
+{"subject": "implementation of Observer pattern", "relation": "causes one to", "object": "many dependency between objects"}
+{"subject": "implementation of Observer pattern", "relation": "causes dependency between", "object": "objects"}
+{"subject": "implementation of Observer pattern", "relation": "causes one to", "object": "many dependency objects"}
+{"subject": "A layered architecture", "relation": "causes separation of", "object": "concerns"}
+{"subject": "architecture", "relation": "causes separation of", "object": "concerns"}
+{"subject": "architecture", "relation": "causes clear of", "object": "concerns"}
+{"subject": "layered architecture", "relation": "causes separation of", "object": "concerns"}
+{"subject": "architecture", "relation": "causes", "object": "clear separation concerns"}
+{"subject": "layered architecture", "relation": "causes", "object": "separation concerns"}
+{"subject": "A microservices architecture", "relation": "leads to", "object": "increased scalability"}
+{"subject": "microservices architecture", "relation": "leads to", "object": "scalability"}
+{"subject": "microservices architecture", "relation": "leads to", "object": "increased scalability"}
+{"subject": "A monolithic architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "monolithic architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "architecture", "relation": "causes", "object": "tight coupling components"}
+{"subject": "monolithic architecture", "relation": "causes", "object": "coupling components"}
+{"subject": "Decoupling of services", "relation": "causes flexibility in", "object": "deployment and scaling"}
+{"subject": "Decoupling of services causes", "relation": "increased in", "object": "deployment and scaling"}
+{"subject": "-Decoupling of services", "relation": "causes flexibility in", "object": "deployment and scaling"}
+{"subject": "Decoupling of services", "relation": "causes flexibility in", "object": "deployment"}
+{"subject": "Decoupling of services causes", "relation": "increased in", "object": "deployment"}
+{"subject": "-Decoupling of services", "relation": "causes flexibility in", "object": "deployment"}
+{"subject": "-Decoupling of services", "relation": "causes flexibility in", "object": "deployment scaling"}
+{"subject": "services", "relation": "causes", "object": "increased in and scaling"}
+{"subject": "services", "relation": "causes", "object": "increased flexibility deployment and scaling"}
+{"subject": "services", "relation": "causes", "object": "flexibility"}
+{"subject": "-Independent development of services", "relation": "leads to", "object": "faster time-to-market"}
+{"subject": "development of services", "relation": "leads to", "object": "faster time-to-market"}
+{"subject": "development of services", "relation": "leads to", "object": "faster time"}
+{"subject": "development of services", "relation": "leads to", "object": "market"}
+{"subject": "-Independent development of services", "relation": "leads to", "object": "time"}
+{"subject": "-Independent development of services", "relation": "leads to", "object": "market"}
+{"subject": "-Independent development of services", "relation": "leads to", "object": "faster time-to market"}
+{"subject": "Use of lightweight protocols", "relation": "causes", "object": "reduced latency"}
+{"subject": "Use of lightweight protocols", "relation": "causes in", "object": "communication"}
+{"subject": "Use of lightweight protocols", "relation": "causes", "object": "reduced in communication"}
+{"subject": "lightweight protocols", "relation": "causes", "object": "reduced in"}
+{"subject": "lightweight protocols", "relation": "causes", "object": "reduced latency communication"}
+{"subject": "lightweight protocols", "relation": "causes", "object": "latency"}
+{"subject": "A monolithic architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "monolithic architecture", "relation": "causes coupling between", "object": "components"}
+{"subject": "architecture", "relation": "causes", "object": "tight coupling components"}
+{"subject": "monolithic architecture", "relation": "causes", "object": "coupling components"}
+{"subject": "Tight coupling between components", "relation": "leads to", "object": "difficulties in scaling"}
+{"subject": "coupling between components", "relation": "leads to", "object": "difficulties in scaling"}
+{"subject": "Difficulties in scaling", "relation": "increased in", "object": "deployment"}
+{"subject": "A clear and well-defined domain model", "relation": "causes representation of", "object": "the business domain"}
+{"subject": "domain model", "relation": "causes representation of", "object": "business domain"}
+{"subject": "domain model", "relation": "causes representation of", "object": "business"}
+{"subject": "clear well-defined domain model", "relation": "causes representation of", "object": "business domain"}
+{"subject": "domain model", "relation": "clear causes representation of", "object": "business domain"}
+{"subject": "domain model", "relation": "clear causes", "object": "more accurate representation business domain"}
+{"subject": "domain model", "relation": "clear causes", "object": "more accurate representation business"}
+{"subject": "domain model", "relation": "clear causes representation of", "object": "domain"}
+{"subject": "clear well-domain model", "relation": "causes representation of", "object": "business domain"}
+{"subject": "clear well-domain model", "relation": "causes", "object": "more accurate representation business domain"}
+{"subject": "clear well-defined domain model", "relation": "causes", "object": "more representation business domain"}
+{"subject": "A strong collaboration between developers and domain experts", "relation": "leads to", "object": "a more effective domain model"}
+{"subject": "collaboration between developers and domain experts", "relation": "leads to", "object": "more effective domain model"}
+{"subject": "collaboration between developers and domain experts", "relation": "leads to", "object": "more domain model"}
+{"subject": "collaboration between developers and domain experts", "relation": "leads to", "object": "more domain"}
+{"subject": "collaboration between developers and domain experts", "relation": "leads to", "object": "more effective model"}
+{"subject": "strong collaboration between developers and domain experts", "relation": "leads to", "object": "effective domain model"}
+{"subject": "strong collaboration between developers and domain experts", "relation": "leads to", "object": "effective model"}
+{"subject": "strong collaboration between developers and domain experts", "relation": "leads to", "object": "domain model"}
+{"subject": "strong collaboration between developers and domain experts", "relation": "leads to", "object": "more effective domain model"}
+{"subject": "collaboration between developers and experts", "relation": "leads to", "object": "more effective domain model"}
+{"subject": "collaboration between developers and experts", "relation": "leads to", "object": "more effective model"}
+{"subject": "collaboration between developers and experts", "relation": "leads to", "object": "more effective domain"}
+{"subject": "strong collaboration between developers", "relation": "domain", "object": "experts"}
+{"subject": "strong collaboration between developers and", "relation": "leads to", "object": "more effective domain model"}
+{"subject": "strong collaboration between developers and", "relation": "leads to", "object": "more effective model"}
+{"subject": "strong collaboration between developers and", "relation": "leads to", "object": "more effective domain"}
+{"subject": "The use of ubiquitous language", "relation": "causes understanding between", "object": "developers and domain experts"}
+{"subject": "use of language", "relation": "causes understanding between", "object": "developers and domain experts"}
+{"subject": "use", "relation": "shared between", "object": "developers and domain experts"}
+{"subject": "use of ubiquitous language", "relation": "causes understanding between", "object": "developers and domain experts"}
+{"subject": "use", "relation": "shared between", "object": "developers and domain"}
+{"subject": "use of language", "relation": "causes understanding between", "object": "developers and experts"}
+{"subject": "use of ubiquitous language", "relation": "causes understanding between", "object": "developers and experts"}
+{"subject": "use of ubiquitous language causes shared understanding between developers", "relation": "domain", "object": "experts"}
+{"subject": "A loosely coupled service design", "relation": "causes flexibility in", "object": "system integration"}
+{"subject": "coupled service design", "relation": "causes flexibility in", "object": "system integration"}
+{"subject": "coupled design", "relation": "causes flexibility in", "object": "system integration"}
+{"subject": "coupled design", "relation": "causes", "object": "increased flexibility system integration"}
+{"subject": "coupled service design causes", "relation": "increased in", "object": "system integration"}
+{"subject": "service design", "relation": "causes flexibility in", "object": "system integration"}
+{"subject": "service design", "relation": "causes", "object": "increased flexibility system integration"}
+{"subject": "loosely coupled service design", "relation": "causes flexibility in", "object": "system integration"}
+{"subject": "coupled design", "relation": "causes", "object": "increased flexibility system"}
+{"subject": "coupled design", "relation": "causes flexibility in", "object": "integration"}
+{"subject": "coupled service design causes", "relation": "increased in", "object": "integration"}
+{"subject": "coupled service design", "relation": "causes", "object": "increased flexibility system integration"}
+{"subject": "service design", "relation": "causes", "object": "increased flexibility system"}
+{"subject": "service design", "relation": "causes flexibility in", "object": "integration"}
+{"subject": "loosely coupled service design", "relation": "causes", "object": "flexibility system integration"}
+{"subject": "A standardized service interface", "relation": "leads to", "object": "improved interoperability between services"}
+{"subject": "service interface", "relation": "leads to", "object": "improved interoperability between services"}
+{"subject": "service interface", "relation": "leads to", "object": "improved between services"}
+{"subject": "standardized service interface", "relation": "leads to", "object": "interoperability between services"}
+{"subject": "standardized service interface", "relation": "leads to", "object": "improved interoperability between services"}
+{"subject": "A service registry", "relation": "enables", "object": "dynamic service discovery"}
+{"subject": "service registry", "relation": "enables", "object": "service discovery"}
+{"subject": "service registry", "relation": "enables", "object": "dynamic service discovery"}
+{"subject": "A decoupled event producer", "relation": "causes", "object": "an event consumer to react"}
+{"subject": "event producer", "relation": "causes", "object": "event consumer to react"}
+{"subject": "decoupled event producer", "relation": "causes", "object": "event consumer to react"}
+{"subject": "An event broker", "relation": "causes", "object": "events to be routed to appropriate subscribers"}
+{"subject": "events", "relation": "to be routed to", "object": "appropriate subscribers"}
+{"subject": "event broker", "relation": "causes", "object": "events to be routed to subscribers"}
+{"subject": "events", "relation": "to be routed to", "object": "subscribers"}
+{"subject": "event broker", "relation": "causes", "object": "events to be routed to appropriate subscribers"}
+{"subject": "An event-driven system", "relation": "causes", "object": "components to communicate asynchronously"}
+{"subject": "system", "relation": "causes", "object": "components to communicate asynchronously"}
+{"subject": "event-driven system", "relation": "causes", "object": "components to communicate"}
+{"subject": "event-driven system", "relation": "causes", "object": "components to communicate asynchronously"}
+{"subject": "Avoid '", "relation": "leads in", "object": "your statements"}
+{"subject": "Avoid '", "relation": "leads in", "object": "your"}
+{"subject": "Avoid '", "relation": "leads in", "object": "statements"}
+{"subject": "X", "relation": "causes", "object": "Y"}
+{"subject": "Using / Principle", "relation": "causes", "object": "improved maintainability"}
+{"subject": "A lack of clear software architecture documentation", "relation": "causes", "object": "miscommunication"}
+{"subject": "A lack of clear software architecture documentation", "relation": "causes among", "object": "team members"}
+{"subject": "lack of software architecture documentation", "relation": "causes", "object": "miscommunication"}
+{"subject": "lack of software architecture documentation", "relation": "causes among", "object": "team members"}
+{"subject": "lack of clear software architecture documentation", "relation": "causes miscommunication among", "object": "team members"}
+{"subject": "lack of software architecture documentation", "relation": "causes", "object": "miscommunication team members"}
+{"subject": "Inadequate software architecture documentation", "relation": "leads to", "object": "increased technical debt"}
+{"subject": "software architecture documentation", "relation": "leads to", "object": "increased technical debt"}
+{"subject": "software architecture documentation", "relation": "leads to", "object": "increased debt"}
+{"subject": "software architecture documentation", "relation": "leads to", "object": "increased technical"}
+{"subject": "Inadequate software architecture documentation", "relation": "leads to", "object": "technical debt"}
+{"subject": "Inadequate software architecture documentation", "relation": "leads to", "object": "technical"}
+{"subject": "Inadequate software architecture documentation", "relation": "leads to", "object": "increased debt"}
+{"subject": "A poorly defined architecture", "relation": "causes", "object": "increased technical debt"}
+{"subject": "defined architecture", "relation": "causes", "object": "increased technical debt"}
+{"subject": "defined causes", "relation": "increased", "object": "technical debt"}
+{"subject": "defined causes", "relation": "increased", "object": "technical"}
+{"subject": "defined architecture", "relation": "causes", "object": "increased debt"}
+{"subject": "defined architecture", "relation": "causes", "object": "increased technical"}
+{"subject": "architecture", "relation": "causes", "object": "increased technical debt"}
+{"subject": "architecture", "relation": "causes", "object": "increased technical"}
+{"subject": "poorly defined architecture", "relation": "causes", "object": "technical debt"}
+{"subject": "poorly defined architecture", "relation": "causes", "object": "increased debt"}
+{"subject": "poorly defined architecture", "relation": "causes", "object": "increased technical debt"}
+{"subject": "Inadequate documentation of architecture", "relation": "leads to", "object": "miscommunication among team members"}
+{"subject": "documentation of architecture", "relation": "leads to", "object": "miscommunication among team members"}
+{"subject": "A lack of clear test objectives", "relation": "causes", "object": "incomplete test coverage"}
+{"subject": "lack of test objectives", "relation": "causes", "object": "incomplete test coverage"}
+{"subject": "lack of test objectives", "relation": "causes", "object": "incomplete coverage"}
+{"subject": "lack of clear test objectives", "relation": "causes", "object": "test coverage"}
+{"subject": "lack of clear test objectives", "relation": "causes", "object": "incomplete test coverage"}
+{"subject": "Poorly defined test environments", "relation": "lead to", "object": "inconsistent test results"}
+{"subject": "defined test environments", "relation": "lead to", "object": "inconsistent test results"}
+{"subject": "defined environments", "relation": "lead to", "object": "inconsistent test results"}
+{"subject": "defined environments", "relation": "lead to", "object": "inconsistent test"}
+{"subject": "defined test environments", "relation": "lead to", "object": "inconsistent results"}
+{"subject": "test environments", "relation": "lead to", "object": "inconsistent test results"}
+{"subject": "test environments", "relation": "lead to", "object": "inconsistent test"}
+{"subject": "Poorly defined test environments", "relation": "lead to", "object": "test results"}
+{"subject": "-Inadequate test case coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "test case coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "test case coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "-Inadequate test case coverage", "relation": "causes", "object": "software defects"}
+{"subject": "-Poorly designed test cases", "relation": "lead to", "object": "inefficient testing processes"}
+{"subject": "test cases", "relation": "lead to", "object": "inefficient testing processes"}
+{"subject": "-designed test cases", "relation": "lead to", "object": "inefficient testing processes"}
+{"subject": "-designed test cases", "relation": "lead to", "object": "inefficient testing"}
+{"subject": "-Poorly designed test cases", "relation": "lead to", "object": "testing processes"}
+{"subject": "-Implementing test automation", "relation": "leads to", "object": "increased test coverage"}
+{"subject": "test automation", "relation": "leads to", "object": "increased test coverage"}
+{"subject": "test automation", "relation": "leads to", "object": "increased test"}
+{"subject": "-Implementing test automation", "relation": "leads to", "object": "test coverage"}
+{"subject": "Inadequate test maintenance", "relation": "causes", "object": "test automation to become ineffective"}
+{"subject": "Inadequate maintenance", "relation": "causes", "object": "test automation to become ineffective"}
+{"subject": "maintenance", "relation": "causes", "object": "test automation to become ineffective"}
+{"subject": "Inadequate test maintenance", "relation": "causes", "object": "test automation to become"}
+{"subject": "test maintenance", "relation": "causes", "object": "test automation to become"}
+{"subject": "test maintenance", "relation": "causes", "object": "test automation to become ineffective"}
+{"subject": "-Inadequate test maintenance", "relation": "causes", "object": "test automation"}
+{"subject": "test maintenance", "relation": "causes", "object": "test automation"}
+{"subject": "-Inadequate test maintenance", "relation": "causes", "object": "test automation to become"}
+{"subject": "maintenance", "relation": "causes", "object": "test automation to ineffective"}
+{"subject": "test maintenance", "relation": "causes", "object": "test automation become ineffective"}
+{"subject": "maintenance", "relation": "causes", "object": "test automation become ineffective"}
+{"subject": "-High test execution speed", "relation": "enables", "object": "more frequent testing"}
+{"subject": "test execution speed", "relation": "enables", "object": "more frequent testing"}
+{"subject": "-High test execution speed", "relation": "enables", "object": "frequent testing"}
+{"subject": "-High test execution speed", "relation": "enables", "object": "testing"}
+{"subject": "-Inadequate code reviews", "relation": "cause", "object": "undetected defects"}
+{"subject": "code reviews", "relation": "cause", "object": "undetected defects"}
+{"subject": "-Inadequate code reviews", "relation": "cause", "object": "defects"}
+{"subject": "Lack of static analysis tools", "relation": "leads to", "object": "missed code vulnerabilities"}
+{"subject": "Lack of static tools", "relation": "leads to", "object": "missed code vulnerabilities"}
+{"subject": "Lack of static tools", "relation": "leads to", "object": "missed code"}
+{"subject": "Lack of static analysis tools", "relation": "leads to", "object": "missed vulnerabilities"}
+{"subject": "-Lack of analysis tools", "relation": "leads to", "object": "missed code vulnerabilities"}
+{"subject": "-Lack of analysis tools", "relation": "leads to", "object": "missed code"}
+{"subject": "-Lack of static analysis tools", "relation": "leads to", "object": "code vulnerabilities"}
+{"subject": "Poorly defined coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "Poorly coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "Poorly coding standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "coding standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "Poorly defined standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "Poorly defined standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "defined standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "defined standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "Poorly defined coding standards", "relation": "result in", "object": "inconsistent quality"}
+{"subject": "defined coding standards", "relation": "result in", "object": "inconsistent quality"}
+{"subject": "defined coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "-defined coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "-defined coding standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "-coding standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "-coding standards", "relation": "result", "object": "inconsistent code quality"}
+{"subject": "standards", "relation": "result", "object": "inconsistent code quality"}
+{"subject": "standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "-Poorly defined standards", "relation": "result in", "object": "inconsistent code quality"}
+{"subject": "-Poorly defined standards", "relation": "result in", "object": "inconsistent code"}
+{"subject": "-Poorly defined coding standards", "relation": "result in", "object": "code quality"}
+{"subject": "defined coding standards", "relation": "result in", "object": "code quality"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "-Inadequate test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "coverage", "relation": "causes", "object": "software defects"}
+{"subject": "-Insufficient", "relation": "leads to", "object": "incomplete test results"}
+{"subject": "Insufficient test data variety", "relation": "leads to", "object": "incomplete test results"}
+{"subject": "Insufficient test data variety", "relation": "leads to", "object": "incomplete results"}
+{"subject": "test data variety", "relation": "leads", "object": "to test results"}
+{"subject": "test data variety", "relation": "-Insufficient leads to", "object": "incomplete test results"}
+{"subject": "-Poorly designed test cases", "relation": "result in", "object": "ineffective dynamic testing"}
+{"subject": "test cases", "relation": "result in", "object": "ineffective dynamic testing"}
+{"subject": "-designed test cases", "relation": "result in", "object": "ineffective dynamic testing"}
+{"subject": "-designed test cases", "relation": "result in", "object": "ineffective dynamic"}
+{"subject": "-Poorly designed test cases", "relation": "result in", "object": "dynamic testing"}
+{"subject": "-Poorly designed test cases", "relation": "result in", "object": "ineffective testing"}
+{"subject": "Inadequate test environment configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "Inadequate environment configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "Inadequate environment configuration", "relation": "causes", "object": "inconsistent test"}
+{"subject": "environment configuration", "relation": "causes", "object": "inconsistent test"}
+{"subject": "environment configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "Inadequate test environment configuration", "relation": "causes", "object": "inconsistent results"}
+{"subject": "test environment configuration", "relation": "causes", "object": "inconsistent results"}
+{"subject": "test environment configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "-Inadequate test environment configuration", "relation": "causes", "object": "test results"}
+{"subject": "test environment configuration", "relation": "causes", "object": "test results"}
+{"subject": "configuration", "relation": "causes", "object": "inconsistent test"}
+{"subject": "configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "environment configuration", "relation": "causes", "object": "inconsistent results"}
+{"subject": "environment configuration", "relation": "causes", "object": "test results"}
+{"subject": "-Poor test environment management", "relation": "leads to", "object": "increased defect leakage"}
+{"subject": "test environment management", "relation": "leads to", "object": "increased defect leakage"}
+{"subject": "test environment management", "relation": "leads to", "object": "increased defect"}
+{"subject": "-Poor test environment management", "relation": "leads", "object": "to defect leakage"}
+{"subject": "-Lack of test environment", "relation": "monitoring results in", "object": "defect detection"}
+{"subject": "-Lack of test environment", "relation": "monitoring results in", "object": "delayed detection"}
+{"subject": "A lack of clear requirements", "relation": "causes", "object": "defects to be introduced during development"}
+{"subject": "defects", "relation": "to be introduced during", "object": "development"}
+{"subject": "lack of requirements", "relation": "causes", "object": "defects to be introduced during development"}
+{"subject": "lack of requirements", "relation": "causes", "object": "defects to be introduced development"}
+{"subject": "defects", "relation": "to be introduced", "object": "development"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "defects to be introduced during development"}
+{"subject": "Inadequate testing", "relation": "leads to", "object": "undetected defects in the software"}
+{"subject": "testing", "relation": "leads to", "object": "undetected defects in software"}
+{"subject": "testing", "relation": "leads", "object": "to undetected in software"}
+{"subject": "Inadequate testing", "relation": "leads to", "object": "defects in software"}
+{"subject": "Inadequate testing", "relation": "leads to", "object": "undetected defects in software"}
+{"subject": "that", "relation": "cause", "object": "defects"}
+{"subject": "Poor communication among team members", "relation": "results in", "object": "misunderstandings that cause defects"}
+{"subject": "communication among team members results in misunderstandings", "relation": "cause", "object": "defects"}
+{"subject": "Poor communication among team members results in misunderstandings", "relation": "cause", "object": "defects"}
+{"subject": "-Poor test data quality", "relation": "causes", "object": "inaccurate test results"}
+{"subject": "test data quality", "relation": "causes", "object": "inaccurate test results"}
+{"subject": "test data quality", "relation": "causes", "object": "inaccurate test"}
+{"subject": "-Poor test data quality", "relation": "causes", "object": "test results"}
+{"subject": "Inadequate test data management", "relation": "leads to", "object": "increased test maintenance efforts"}
+{"subject": "Inadequate data management", "relation": "leads to", "object": "increased test maintenance efforts"}
+{"subject": "Inadequate data management", "relation": "leads to", "object": "increased test efforts"}
+{"subject": "data management", "relation": "leads to", "object": "increased test efforts"}
+{"subject": "data management", "relation": "leads to", "object": "increased test maintenance efforts"}
+{"subject": "Inadequate test data management", "relation": "leads to", "object": "increased maintenance efforts"}
+{"subject": "test data management", "relation": "leads to", "object": "increased maintenance efforts"}
+{"subject": "test data management", "relation": "leads to", "object": "increased test maintenance efforts"}
+{"subject": "-Inadequate test data management", "relation": "leads to", "object": "test maintenance efforts"}
+{"subject": "test data management", "relation": "leads to", "object": "test maintenance efforts"}
+{"subject": "-High CPU usage", "relation": "causes", "object": "increased response times"}
+{"subject": "CPU usage", "relation": "causes", "object": "increased response times"}
+{"subject": "CPU usage", "relation": "causes", "object": "increased response"}
+{"subject": "-High CPU usage", "relation": "causes", "object": "response times"}
+{"subject": "-Insufficient memory allocation", "relation": "leads to", "object": "frequent garbage collection"}
+{"subject": "Insufficient memory allocation", "relation": "leads to", "object": "frequent garbage collection"}
+{"subject": "Insufficient memory allocation", "relation": "leads to", "object": "frequent collection"}
+{"subject": "-Insufficient memory allocation", "relation": "leads to", "object": "garbage collection"}
+{"subject": "-Network latency", "relation": "causes delays in", "object": "data transmission"}
+{"subject": "Network latency", "relation": "causes delays in", "object": "data transmission"}
+{"subject": "Network latency", "relation": "causes", "object": "delays data transmission"}
+{"subject": "-Frequent code commits", "relation": "cause feedback on", "object": "code quality"}
+{"subject": "code commits", "relation": "cause feedback on", "object": "code quality"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback code quality"}
+{"subject": "-Frequent code commits", "relation": "cause", "object": "feedback"}
+{"subject": "-Frequent code commits", "relation": "cause on", "object": "code quality"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback code"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback"}
+{"subject": "code commits", "relation": "cause on", "object": "quality"}
+{"subject": "-Frequent code commits", "relation": "cause on", "object": "quality"}
+{"subject": "-Automated testing", "relation": "leads to", "object": "early detection of bugs"}
+{"subject": "testing", "relation": "leads to", "object": "early detection of bugs"}
+{"subject": "testing", "relation": "leads to", "object": "early detection bugs"}
+{"subject": "-Automated testing", "relation": "leads to", "object": "detection of bugs"}
+{"subject": "Integration of code changes", "relation": "causes identification of", "object": "conflicts"}
+{"subject": "-Integration of code changes", "relation": "causes identification of", "object": "conflicts"}
+{"subject": "code changes", "relation": "causes", "object": "immediate of"}
+{"subject": "code changes", "relation": "causes", "object": "immediate identification conflicts"}
+{"subject": "A lack of version control", "relation": "causes", "object": "data loss"}
+{"subject": "lack of version control", "relation": "causes", "object": "data loss"}
+{"subject": "Poor branching strategies", "relation": "lead to", "object": "integration issues"}
+{"subject": "Inadequate", "relation": "commit", "object": "messages"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "-test coverage", "relation": "causes", "object": "undetected software"}
+{"subject": "-Inadequate test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "test coverage", "relation": "causes", "object": "software defects"}
+{"subject": "coverage", "relation": "causes", "object": "undetected defects"}
+{"subject": "coverage", "relation": "causes", "object": "software defects"}
+{"subject": "The use of automated testing frameworks", "relation": "leads to", "object": "increased test execution efficiency"}
+{"subject": "-use of testing frameworks", "relation": "leads to", "object": "increased test execution efficiency"}
+{"subject": "-use of testing frameworks", "relation": "leads to", "object": "increased execution efficiency"}
+{"subject": "-use of automated testing frameworks", "relation": "leads", "object": "to test execution efficiency"}
+{"subject": "-use of automated testing frameworks", "relation": "leads to", "object": "increased test execution efficiency"}
+{"subject": "-Continuous integration practices", "relation": "cause feedback loops in", "object": "the development process"}
+{"subject": "integration practices", "relation": "cause feedback loops in", "object": "development process"}
+{"subject": "integration practices", "relation": "cause loops in", "object": "development process"}
+{"subject": "-Continuous integration practices", "relation": "cause feedback loops in", "object": "development process"}
+{"subject": "integration practices", "relation": "cause loops in", "object": "process"}
+{"subject": "integration practices", "relation": "cause", "object": "faster feedback loops development process"}
+{"subject": "-Continuous integration practices", "relation": "cause", "object": "feedback loops development process"}
+{"subject": "-Frequent code commits", "relation": "cause feedback on", "object": "build and test results"}
+{"subject": "code commits", "relation": "cause feedback on", "object": "build and test results"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback build and test results"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback build and test"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback"}
+{"subject": "code commits", "relation": "cause on", "object": "build and results"}
+{"subject": "code commits", "relation": "cause on", "object": "build and test"}
+{"subject": "code commits", "relation": "cause", "object": "rapid feedback build test results"}
+{"subject": "code commits", "relation": "cause feedback on", "object": "build and results"}
+{"subject": "-Automated testing in CI pipelines", "relation": "leads to", "object": "early detection of integration issues"}
+{"subject": "testing in CI pipelines", "relation": "leads to", "object": "early detection of integration issues"}
+{"subject": "testing in CI pipelines", "relation": "leads to", "object": "early detection integration issues"}
+{"subject": "-Automated testing in CI pipelines", "relation": "leads to", "object": "detection of integration issues"}
+{"subject": "Integration of code changes in a shared repository", "relation": "causes", "object": "immediate build and test execution"}
+{"subject": "-Integration of code changes in repository", "relation": "causes", "object": "immediate build and test execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "build and test execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "immediate build and test execution"}
+{"subject": "-Integration of code changes in repository", "relation": "causes", "object": "immediate build and execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "build and execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "immediate build test execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "immediate build"}
+{"subject": "-Integration of code changes in repository", "relation": "causes", "object": "immediate build test execution"}
+{"subject": "-Integration of code changes in shared repository", "relation": "causes", "object": "build test execution"}
+{"subject": "Code", "relation": "causes", "object": "consistency"}
+{"subject": "Code", "relation": "causes in", "object": "environment setups"}
+{"subject": "use of Infrastructure as Code", "relation": "causes consistency in", "object": "environment setups"}
+{"subject": "Code", "relation": "causes", "object": "consistency environment setups"}
+{"subject": "Automated testing of infrastructure code", "relation": "leads to", "object": "increased reliability"}
+{"subject": "testing of infrastructure code", "relation": "leads to", "object": "increased reliability"}
+{"subject": "testing of infrastructure code", "relation": "leads", "object": "to increased"}
+{"subject": "Automated testing of infrastructure code", "relation": "leads to", "object": "reliability"}
+{"subject": "Version control of infrastructure code", "relation": "enables tracking of", "object": "changes"}
+{"subject": "Version control of infrastructure code", "relation": "enables", "object": "tracking changes"}
+{"subject": "A lack of version control", "relation": "causes", "object": "inconsistent software builds"}
+{"subject": "lack of version control", "relation": "causes", "object": "software builds"}
+{"subject": "lack of version control", "relation": "causes", "object": "inconsistent software builds"}
+{"subject": "Inadequate change tracking", "relation": "leads to", "object": "integration issues"}
+{"subject": "change tracking", "relation": "leads to", "object": "integration issues"}
+{"subject": "The use of containerization", "relation": "causes", "object": "improved resource utilization"}
+{"subject": "use of containerization", "relation": "causes", "object": "resource utilization"}
+{"subject": "use of containerization", "relation": "causes", "object": "improved resource utilization"}
+{"subject": "The implementation of container orchestration", "relation": "leads to", "object": "enhanced scalability"}
+{"subject": "implementation of container orchestration", "relation": "leads to", "object": "scalability"}
+{"subject": "implementation of container orchestration", "relation": "leads to", "object": "enhanced scalability"}
+{"subject": "Automated testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "testing", "relation": "causes", "object": "faster loops"}
+{"subject": "Automated testing", "relation": "causes", "object": "feedback loops"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, more manageable changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more manageable changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more manageable changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more manageable"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, manageable changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, manageable"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more changes"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more manageable"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more manageable changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "manageable changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more changes"}
+{"subject": "Frequent code commits", "relation": "lead", "object": "more changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, manageable changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, manageable"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, changes"}
+{"subject": "integration", "relation": "leads to", "object": "quicker of integration issues"}
+{"subject": "Insufficient logging", "relation": "causes", "object": "difficulty diagnosing issues"}
+{"subject": "-High log volume", "relation": "leads to", "object": "increased storage costs"}
+{"subject": "log volume", "relation": "leads to", "object": "increased storage costs"}
+{"subject": "log volume", "relation": "leads to", "object": "increased storage"}
+{"subject": "-High log volume", "relation": "leads to", "object": "storage costs"}
+{"subject": "causes", "relation": "delayed of", "object": "system failures"}
+{"subject": "causes", "relation": "delayed of", "object": "failures"}
+{"subject": "monitoring", "relation": "causes", "object": "delayed detection system failures"}
+{"subject": "-Lack of monitoring", "relation": "causes detection of", "object": "system failures"}
+{"subject": "monitoring", "relation": "causes detection of", "object": "failures"}
+{"subject": "Effective communication", "relation": "causes", "object": "better team cohesion"}
+{"subject": "Effective", "relation": "causes", "object": "better team cohesion"}
+{"subject": "Effective", "relation": "causes", "object": "better team"}
+{"subject": "Effective communication", "relation": "causes", "object": "better cohesion"}
+{"subject": "communication", "relation": "causes", "object": "better cohesion"}
+{"subject": "communication", "relation": "causes", "object": "better team cohesion"}
+{"subject": "-communication", "relation": "causes", "object": "better team cohesion"}
+{"subject": "-communication", "relation": "causes", "object": "better team"}
+{"subject": "-Effective communication", "relation": "causes", "object": "team cohesion"}
+{"subject": "communication", "relation": "causes", "object": "team cohesion"}
+{"subject": "Regular collaboration", "relation": "leads to", "object": "improved problem-solving"}
+{"subject": "Regular", "relation": "leads to", "object": "improved problem-solving"}
+{"subject": "Regular", "relation": "leads to", "object": "improved problem solving"}
+{"subject": "Regular collaboration", "relation": "leads to", "object": "improved-"}
+{"subject": "collaboration", "relation": "leads to", "object": "improved-"}
+{"subject": "collaboration", "relation": "leads to", "object": "improved problem-solving"}
+{"subject": "-collaboration", "relation": "leads to", "object": "improved problem-solving"}
+{"subject": "-collaboration", "relation": "leads to", "object": "improved problem solving"}
+{"subject": "-Regular collaboration", "relation": "leads to", "object": "problem solving"}
+{"subject": "collaboration", "relation": "leads to", "object": "problem solving"}
+{"subject": "documentation", "relation": "causes", "object": "onboarding time"}
+{"subject": "-Inadequate access controls", "relation": "cause access to", "object": "CI / CD pipelines"}
+{"subject": "access controls", "relation": "cause access to", "object": "CI / CD pipelines"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized access CI / CD pipelines"}
+{"subject": "access controls", "relation": "cause access to", "object": "CI / CD"}
+{"subject": "-Inadequate access controls", "relation": "cause access to", "object": "CI CD pipelines"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized access CI / CD"}
+{"subject": "access controls", "relation": "cause access to", "object": "CI / pipelines"}
+{"subject": "-Inadequate access controls", "relation": "cause access to", "object": "CD pipelines"}
+{"subject": "-Inadequate access controls", "relation": "cause access to", "object": "CD"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized access CI CD pipelines"}
+{"subject": "access controls", "relation": "cause access to", "object": "CD pipelines"}
+{"subject": "access controls", "relation": "cause access to", "object": "CD"}
+{"subject": "Lack of secret management", "relation": "leads to", "object": "exposure of sensitive information"}
+{"subject": "Lack of secret", "relation": "leads to", "object": "exposure of sensitive information"}
+{"subject": "Lack of secret management", "relation": "leads to", "object": "exposure of sensitive"}
+{"subject": "-Lack of management", "relation": "leads to", "object": "exposure of sensitive information"}
+{"subject": "-Lack of secret management", "relation": "leads to", "object": "exposure of information"}
+{"subject": "code", "relation": "scanning in", "object": "undetected vulnerabilities in deployed applications"}
+{"subject": "code", "relation": "scanning", "object": "results"}
+{"subject": "code", "relation": "scanning results in", "object": "undetected vulnerabilities deployed applications"}
+{"subject": "A normal form violation", "relation": "causes", "object": "data redundancy"}
+{"subject": "form violation", "relation": "causes", "object": "data redundancy"}
+{"subject": "normal form violation", "relation": "causes", "object": "data redundancy"}
+{"subject": "Data normalization", "relation": "leads to", "object": "improved data integrity"}
+{"subject": "Data normalization", "relation": "leads to", "object": "data integrity"}
+{"subject": "Foreign key constraints", "relation": "cause", "object": "referential integrity"}
+{"subject": "key constraints", "relation": "cause", "object": "referential integrity"}
+{"subject": "Foreign constraints", "relation": "cause", "object": "referential integrity"}
+{"subject": "Foreign key constraints", "relation": "cause", "object": "integrity"}
+{"subject": "The use of schema-less design in NoSQL databases", "relation": "leads to", "object": "increased flexibility in data modeling"}
+{"subject": "use of design in NoSQL databases", "relation": "leads to", "object": "increased flexibility in data modeling"}
+{"subject": "use of design in NoSQL databases", "relation": "leads to", "object": "increased flexibility in modeling"}
+{"subject": "use of schema-less design in NoSQL databases", "relation": "leads to", "object": "flexibility in data modeling"}
+{"subject": "use of schema-less design in NoSQL databases", "relation": "leads to", "object": "increased flexibility in data modeling"}
+{"subject": "The lack of ACID compliance in some NoSQL databases", "relation": "causes", "object": "eventual consistency"}
+{"subject": "lack of ACID compliance in some NoSQL databases", "relation": "causes", "object": "consistency"}
+{"subject": "lack of ACID compliance in some NoSQL databases", "relation": "causes", "object": "eventual consistency"}
+{"subject": "The horizontal scalability of NoSQL databases", "relation": "leads to", "object": "improved performance under high load"}
+{"subject": "scalability of NoSQL", "relation": "leads to", "object": "improved performance under high load"}
+{"subject": "scalability of NoSQL databases", "relation": "leads", "object": "to improved under high load"}
+{"subject": "scalability of NoSQL databases", "relation": "leads to", "object": "improved under high load"}
+{"subject": "scalability of NoSQL", "relation": "leads to", "object": "improved performance under high"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads to", "object": "performance under high load"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads to", "object": "performance"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads under", "object": "high"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads to", "object": "improved performance under load"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads to", "object": "improved performance under high load"}
+{"subject": "A poorly designed data model", "relation": "causes", "object": "data redundancy"}
+{"subject": "designed data model", "relation": "causes", "object": "data redundancy"}
+{"subject": "designed model", "relation": "causes", "object": "data redundancy"}
+{"subject": "data model", "relation": "causes", "object": "data redundancy"}
+{"subject": "poorly designed data model", "relation": "causes", "object": "data redundancy"}
+{"subject": "Inadequate normalization", "relation": "leads to", "object": "data anomalies"}
+{"subject": "normalization", "relation": "leads to", "object": "data anomalies"}
+{"subject": "Indexing", "relation": "causes", "object": "faster query execution"}
+{"subject": "Indexing", "relation": "causes", "object": "faster execution"}
+{"subject": "-Indexing", "relation": "causes", "object": "query execution"}
+{"subject": "-Poorly written queries", "relation": "lead to", "object": "inefficient use of resources"}
+{"subject": "queries", "relation": "lead to", "object": "inefficient use of resources"}
+{"subject": "queries", "relation": "lead to", "object": "inefficient use of"}
+{"subject": "-written queries", "relation": "lead to", "object": "inefficient use of resources"}
+{"subject": "-written queries", "relation": "lead to", "object": "inefficient use resources"}
+{"subject": "-Poorly written queries", "relation": "lead to", "object": "use of resources"}
+{"subject": "A transaction's isolation level", "relation": "causes visibility of", "object": "uncommitted changes"}
+{"subject": "-transaction's isolation level", "relation": "causes visibility of", "object": "changes"}
+{"subject": "-transaction's isolation level", "relation": "causes visibility of", "object": "uncommitted changes"}
+{"subject": "each other", "relation": "to release", "object": "resources"}
+{"subject": "-deadlock", "relation": "occurs", "object": "two or more transactions"}
+{"subject": "two or more transactions", "relation": "when are waiting", "object": "each other"}
+{"subject": "two or more transactions", "relation": "when are waiting", "object": "each other to release"}
+{"subject": "The use of two-phase locking", "relation": "leads overhead to", "object": "increased concurrency control"}
+{"subject": "-use of two-phase locking", "relation": "leads overhead to", "object": "concurrency control"}
+{"subject": "-use of two-phase locking", "relation": "leads to", "object": "increased concurrency control"}
+{"subject": "-use of two-phase locking", "relation": "leads overhead to", "object": "increased concurrency control"}
+{"subject": "A high cardinality of terms", "relation": "causes", "object": "inefficient searching"}
+{"subject": "cardinality of terms", "relation": "causes", "object": "inefficient searching"}
+{"subject": "high cardinality of terms", "relation": "causes", "object": "searching"}
+{"subject": "high cardinality of terms", "relation": "causes", "object": "inefficient searching"}
+{"subject": "A large index size", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "index size", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "index size", "relation": "leads to", "object": "increased requirements"}
+{"subject": "large index size", "relation": "leads to", "object": "storage requirements"}
+{"subject": "large index size", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "-Incorrect data entry", "relation": "causes", "object": "data inconsistency"}
+{"subject": "data entry", "relation": "causes", "object": "data inconsistency"}
+{"subject": "Enforcing primary key constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "key", "relation": "leads", "object": "unique record identification"}
+{"subject": "key", "relation": "leads to", "object": "unique record identification"}
+{"subject": "key constraints", "relation": "leads to", "object": "unique record"}
+{"subject": "key constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "primary constraints", "relation": "leads to", "object": "unique record"}
+{"subject": "primary constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "primary key", "relation": "leads to", "object": "unique record"}
+{"subject": "primary key", "relation": "leads to", "object": "unique record identification"}
+{"subject": "primary key constraints", "relation": "leads to", "object": "unique identification"}
+{"subject": "primary key constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "-primary key constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "-primary key", "relation": "leads", "object": "unique record identification"}
+{"subject": "-primary key constraints", "relation": "leads to", "object": "unique record"}
+{"subject": "primary key constraints", "relation": "leads to", "object": "record identification"}
+{"subject": "-Violating foreign key constraints", "relation": "causes", "object": "referential integrity issues"}
+{"subject": "constraints", "relation": "causes", "object": "referential integrity issues"}
+{"subject": "-Weak access controls", "relation": "cause", "object": "unauthorized data access"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized data access"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized data"}
+{"subject": "-Weak access controls", "relation": "cause", "object": "data access"}
+{"subject": "-Insufficient encryption", "relation": "leads to", "object": "data breaches"}
+{"subject": "Insufficient encryption", "relation": "leads to", "object": "data breaches"}
+{"subject": "encryption", "relation": "-Insufficient leads to", "object": "data breaches"}
+{"subject": "-Network latency", "relation": "causes delays in", "object": "data retrieval"}
+{"subject": "Network latency", "relation": "causes delays in", "object": "data retrieval"}
+{"subject": "updates", "relation": "distributed", "object": "databases"}
+{"subject": "-Network latency", "relation": "causes delays in", "object": "data retrieval updates in distributed databases"}
+{"subject": "Network latency", "relation": "causes", "object": "delays data retrieval"}
+{"subject": "-Data replication", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Data replication", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Data replication", "relation": "leads to", "object": "increased requirements"}
+{"subject": "-Data replication", "relation": "leads to", "object": "storage requirements"}
+{"subject": "Partitioning", "relation": "causes", "object": "data to be distributed across multiple nodes"}
+{"subject": "data", "relation": "to be distributed across", "object": "multiple nodes"}
+{"subject": "data", "relation": "to be distributed", "object": "multiple nodes"}
+{"subject": "Partitioning", "relation": "causes", "object": "data to be distributed across multiple"}
+{"subject": "data", "relation": "to be distributed across", "object": "multiple"}
+{"subject": "-Partitioning", "relation": "causes", "object": "data to be distributed across nodes"}
+{"subject": "data", "relation": "to be distributed across", "object": "nodes"}
+{"subject": "The volume of data", "relation": "causes complexity in", "object": "data management"}
+{"subject": "volume of data", "relation": "causes complexity in", "object": "data management"}
+{"subject": "volume of data", "relation": "causes", "object": "complexity data management"}
+{"subject": "The use of distributed computing", "relation": "leads to", "object": "improved scalability in data processing"}
+{"subject": "use of computing", "relation": "leads to", "object": "improved scalability in data processing"}
+{"subject": "use of computing", "relation": "leads to", "object": "improved in data processing"}
+{"subject": "use of distributed computing", "relation": "leads to", "object": "scalability"}
+{"subject": "use of distributed computing", "relation": "leads in", "object": "data processing"}
+{"subject": "use of distributed computing", "relation": "leads to", "object": "improved scalability in data processing"}
+{"subject": "The implementation of ETL processes", "relation": "causes", "object": "efficient data integration"}
+{"subject": "implementation of ETL processes", "relation": "causes", "object": "data integration"}
+{"subject": "implementation of ETL processes", "relation": "causes", "object": "efficient data integration"}
+{"subject": "A packet loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "packet loss", "relation": "causes retransmission of", "object": "data"}
+{"subject": "loss", "relation": "causes", "object": "retransmission data"}
+{"subject": "A high latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased-"}
+{"subject": "latency", "relation": "leads to", "object": "increased round time"}
+{"subject": "high latency", "relation": "leads to", "object": "round-trip time"}
+{"subject": "high latency", "relation": "leads to", "object": "round time"}
+{"subject": "high latency", "relation": "leads to", "object": "increased trip time"}
+{"subject": "high latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "A misconfigured firewall", "relation": "causes", "object": "network connectivity issues"}
+{"subject": "firewall", "relation": "causes", "object": "network connectivity issues"}
+{"subject": "misconfigured firewall", "relation": "causes", "object": "network connectivity issues"}
+{"subject": "A high latency in network links", "relation": "causes", "object": "increased packet loss"}
+{"subject": "latency in network links", "relation": "causes", "object": "increased packet loss"}
+{"subject": "latency in network links", "relation": "causes", "object": "increased loss"}
+{"subject": "latency in network links", "relation": "causes", "object": "increased packet"}
+{"subject": "high latency in network links", "relation": "causes", "object": "packet loss"}
+{"subject": "high latency in network links", "relation": "causes", "object": "packet"}
+{"subject": "high latency in network links", "relation": "causes", "object": "increased loss"}
+{"subject": "high latency in network links", "relation": "causes", "object": "increased packet loss"}
+{"subject": "A lack of redundancy in network architecture", "relation": "leads to", "object": "single points of failure"}
+{"subject": "lack of redundancy in network architecture", "relation": "leads to", "object": "points of failure"}
+{"subject": "lack of redundancy in network architecture", "relation": "leads to", "object": "single points of failure"}
+{"subject": "Insufficient bandwidth allocation", "relation": "causes", "object": "network congestion"}
+{"subject": "Insufficient allocation", "relation": "causes", "object": "network congestion"}
+{"subject": "bandwidth allocation", "relation": "causes", "object": "network congestion"}
+{"subject": "bandwidth", "relation": "causes", "object": "network congestion"}
+{"subject": "A lack of synchronization", "relation": "causes", "object": "inconsistent states"}
+{"subject": "lack of synchronization", "relation": "causes", "object": "states"}
+{"subject": "lack of synchronization", "relation": "causes", "object": "inconsistent states"}
+{"subject": "Network partitions", "relation": "lead to", "object": "inconsistent reads"}
+{"subject": "Network partitions", "relation": "lead to", "object": "reads"}
+{"subject": "Insufficient fault tolerance", "relation": "causes", "object": "system failures"}
+{"subject": "-Redundancy", "relation": "causes", "object": "increased reliability"}
+{"subject": "Redundancy", "relation": "causes", "object": "increased reliability"}
+{"subject": "Redundancy", "relation": "causes", "object": "increased"}
+{"subject": "-Redundancy", "relation": "causes", "object": "reliability"}
+{"subject": "Checkpointing", "relation": "leads to", "object": "faster recovery from failures"}
+{"subject": "Checkpointing", "relation": "leads from", "object": "failures"}
+{"subject": "-Checkpointing", "relation": "leads to", "object": "recovery from failures"}
+{"subject": "Error detection mechanisms", "relation": "cause", "object": "system to initiate corrective actions"}
+{"subject": "system", "relation": "to initiate", "object": "corrective actions"}
+{"subject": "detection mechanisms", "relation": "cause", "object": "system"}
+{"subject": "mechanisms", "relation": "cause", "object": "system"}
+{"subject": "Error detection mechanisms", "relation": "cause", "object": "system to initiate corrective"}
+{"subject": "system", "relation": "to initiate", "object": "corrective"}
+{"subject": "detection mechanisms", "relation": "cause", "object": "system to initiate corrective actions"}
+{"subject": "-Error detection mechanisms", "relation": "cause", "object": "system"}
+{"subject": "-Error detection mechanisms", "relation": "cause", "object": "system to initiate"}
+{"subject": "detection mechanisms", "relation": "cause", "object": "system to initiate"}
+{"subject": "Increased network latency", "relation": "causes", "object": "degraded application performance"}
+{"subject": "network latency", "relation": "causes", "object": "degraded application performance"}
+{"subject": "network latency", "relation": "causes", "object": "degraded performance"}
+{"subject": "Increased network latency", "relation": "causes", "object": "application performance"}
+{"subject": "Uneven traffic distribution", "relation": "leads", "object": "to server overload"}
+{"subject": "traffic distribution", "relation": "leads", "object": "to server overload"}
+{"subject": "-Network latency", "relation": "causes delays in", "object": "data retrieval"}
+{"subject": "Network latency", "relation": "causes delays in", "object": "data retrieval"}
+{"subject": "updates", "relation": "distributed", "object": "databases"}
+{"subject": "-Network latency", "relation": "causes delays in", "object": "data retrieval updates in distributed databases"}
+{"subject": "Network latency", "relation": "causes", "object": "delays data retrieval"}
+{"subject": "-Data replication", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Data replication", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Data replication", "relation": "leads to", "object": "increased requirements"}
+{"subject": "-Data replication", "relation": "leads to", "object": "storage requirements"}
+{"subject": "Partitioning", "relation": "causes", "object": "data to be distributed across multiple nodes"}
+{"subject": "data", "relation": "to be distributed across", "object": "multiple nodes"}
+{"subject": "data", "relation": "to be distributed", "object": "multiple nodes"}
+{"subject": "Partitioning", "relation": "causes", "object": "data to be distributed across multiple"}
+{"subject": "data", "relation": "to be distributed across", "object": "multiple"}
+{"subject": "-Partitioning", "relation": "causes", "object": "data to be distributed across nodes"}
+{"subject": "data", "relation": "to be distributed across", "object": "nodes"}
+{"subject": "A lack of encryption", "relation": "causes", "object": "data breaches"}
+{"subject": "lack of encryption", "relation": "causes", "object": "data breaches"}
+{"subject": "Improper firewall configuration", "relation": "leads to", "object": "unauthorized access"}
+{"subject": "firewall configuration", "relation": "leads to", "object": "unauthorized access"}
+{"subject": "firewall configuration", "relation": "leads to", "object": "unauthorized"}
+{"subject": "Improper firewall configuration", "relation": "leads to", "object": "access"}
+{"subject": "Insufficient patch management", "relation": "causes", "object": "vulnerabilities"}
+{"subject": "patch management", "relation": "causes", "object": "vulnerabilities"}
+{"subject": "A lack of central coordination", "relation": "causes control in", "object": "peer-to-peer networks"}
+{"subject": "lack of coordination", "relation": "causes control in", "object": "peer-to-peer networks"}
+{"subject": "causes", "relation": "decentralized in", "object": "peer-to-peer networks"}
+{"subject": "causes", "relation": "decentralized in", "object": "peer-to peer networks"}
+{"subject": "causes", "relation": "decentralized in", "object": "peer-to-peer"}
+{"subject": "lack of coordination", "relation": "causes control in", "object": "peer -- peer networks"}
+{"subject": "lack of coordination", "relation": "causes control in", "object": "peer"}
+{"subject": "lack of coordination", "relation": "causes control in", "object": "peer-to-networks"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control"}
+{"subject": "lack of central coordination", "relation": "causes in", "object": "peer-to-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes in", "object": "peer -- peer networks"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer networks"}
+{"subject": "lack of central coordination", "relation": "causes in", "object": "peer"}
+{"subject": "lack of central coordination", "relation": "causes in", "object": "peer-to-networks"}
+{"subject": "lack of central coordination", "relation": "causes control in", "object": "peer to-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes control in", "object": "peer to-networks"}
+{"subject": "lack of central coordination", "relation": "causes control in", "object": "peer-to peer networks"}
+{"subject": "lack of central coordination", "relation": "causes control in", "object": "peer-to-peer networks"}
+{"subject": "causes", "relation": "decentralized in", "object": "peer-peer networks"}
+{"subject": "lack of coordination", "relation": "causes control in", "object": "peer-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes in", "object": "peer-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes control in", "object": "networks"}
+{"subject": "lack of", "relation": "causes", "object": "decentralized control peer-to-peer networks"}
+{"subject": "lack of", "relation": "causes", "object": "decentralized control peer-to peer networks"}
+{"subject": "lack of", "relation": "causes control peer to", "object": "peer"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer-to-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer-to peer networks"}
+{"subject": "lack of central coordination", "relation": "causes control peer to", "object": "peer"}
+{"subject": "lack of", "relation": "causes", "object": "decentralized control peer-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer-peer networks"}
+{"subject": "The absence of a central server", "relation": "leads to", "object": "increased resilience against single points of failure"}
+{"subject": "absence of server", "relation": "leads to", "object": "increased resilience against single points of failure"}
+{"subject": "absence of server", "relation": "leads", "object": "to increased against single points of failure"}
+{"subject": "absence of server", "relation": "leads", "object": "to increased against single points failure"}
+{"subject": "absence of server", "relation": "leads to", "object": "increased resilience against single of failure"}
+{"subject": "absence of central server", "relation": "leads to", "object": "resilience against single points of failure"}
+{"subject": "absence of central server", "relation": "leads to", "object": "resilience against single of failure"}
+{"subject": "absence of central server", "relation": "leads to", "object": "increased resilience"}
+{"subject": "absence of central server", "relation": "leads against", "object": "points of failure"}
+{"subject": "absence of central server", "relation": "leads to", "object": "increased resilience against single points of failure"}
+{"subject": "The adoption of microservices architecture", "relation": "causes scalability in", "object": "cloud applications"}
+{"subject": "adoption of microservices architecture", "relation": "causes scalability in", "object": "cloud applications"}
+{"subject": "adoption of microservices architecture", "relation": "causes", "object": "scalability"}
+{"subject": "adoption of microservices architecture", "relation": "causes", "object": "scalability and flexibility cloud applications"}
+{"subject": "adoption of microservices architecture", "relation": "causes scalability flexibility in", "object": "cloud applications"}
+{"subject": "adoption of microservices architecture", "relation": "causes", "object": "increased scalability"}
+{"subject": "The implementation of Infrastructure as Code ( IaC)", "relation": "leads to", "object": "improved consistency and reliability in cloud deployments"}
+{"subject": "implementation of Infrastructure as Code IaC)", "relation": "leads to", "object": "improved consistency and reliability in cloud deployments"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency and reliability in cloud deployments"}
+{"subject": "Code IaC", "relation": "leads consistency in", "object": "cloud deployments"}
+{"subject": "Code IaC", "relation": "leads", "object": "improved consistency"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency reliability in cloud deployments"}
+{"subject": "implementation of Infrastructure as Code IaC)", "relation": "leads to", "object": "improved and reliability in cloud deployments"}
+{"subject": "Code IaC", "relation": "leads", "object": "improved consistency and reliability"}
+{"subject": "Code IaC", "relation": "leads in", "object": "deployments"}
+{"subject": "Code IaC", "relation": "leads in", "object": "cloud"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency reliability in deployments"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency reliability in cloud"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency and reliability cloud deployments"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency and reliability in deployments"}
+{"subject": "implementation of Infrastructure as Code IaC)", "relation": "leads to", "object": "improved and reliability cloud deployments"}
+{"subject": "A lack of a leader", "relation": "causes", "object": "a decentralized consensus algorithm"}
+{"subject": "lack of leader", "relation": "causes", "object": "consensus algorithm"}
+{"subject": "lack of leader", "relation": "causes", "object": "decentralized consensus algorithm"}
+{"subject": "A high number of faulty nodes", "relation": "leads to", "object": "a decrease in consensus algorithm efficiency"}
+{"subject": "number of faulty nodes", "relation": "leads", "object": "to decrease in consensus algorithm efficiency"}
+{"subject": "number of faulty nodes", "relation": "leads", "object": "to decrease consensus algorithm efficiency"}
+{"subject": "high number of faulty nodes", "relation": "leads", "object": "to decrease in consensus algorithm efficiency"}
+{"subject": "A low latency network", "relation": "causes", "object": "faster consensus algorithm convergence"}
+{"subject": "latency network", "relation": "causes", "object": "faster consensus algorithm convergence"}
+{"subject": "latency network", "relation": "causes", "object": "faster algorithm convergence"}
+{"subject": "low latency network", "relation": "causes", "object": "consensus algorithm convergence"}
+{"subject": "low latency network", "relation": "causes", "object": "faster consensus algorithm convergence"}
+{"subject": "latency network", "relation": "causes", "object": "faster algorithm"}
+{"subject": "latency network", "relation": "causes", "object": "faster consensus convergence"}
+{"subject": "low latency network", "relation": "causes", "object": "consensus convergence"}
+{"subject": "low latency network", "relation": "causes", "object": "algorithm convergence"}
+{"subject": "A lack of threat modeling", "relation": "causes", "object": "incomplete security requirements"}
+{"subject": "lack of threat modeling", "relation": "causes", "object": "security requirements"}
+{"subject": "lack of threat modeling", "relation": "causes", "object": "incomplete security requirements"}
+{"subject": "Inadequate threat modeling", "relation": "leads to", "object": "undetected vulnerabilities"}
+{"subject": "threat modeling", "relation": "leads to", "object": "undetected vulnerabilities"}
+{"subject": "threat modeling", "relation": "leads", "object": "to undetected"}
+{"subject": "Inadequate threat modeling", "relation": "leads to", "object": "vulnerabilities"}
+{"subject": "-Improper input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "-Insufficient error handling", "relation": "leads to", "object": "information disclosure"}
+{"subject": "Insufficient error handling", "relation": "leads to", "object": "information disclosure"}
+{"subject": "A lack of regular security updates", "relation": "causes vulnerability to", "object": "known exploits"}
+{"subject": "lack of security updates", "relation": "causes vulnerability to", "object": "known exploits"}
+{"subject": "lack of security updates", "relation": "increased to", "object": "known exploits"}
+{"subject": "lack of security updates", "relation": "causes", "object": "increased vulnerability to known"}
+{"subject": "lack of regular security updates", "relation": "causes vulnerability to", "object": "known exploits"}
+{"subject": "lack of regular security updates", "relation": "causes", "object": "vulnerability to known"}
+{"subject": "lack of regular security updates", "relation": "causes vulnerability to", "object": "exploits"}
+{"subject": "lack of security updates", "relation": "increased to", "object": "exploits"}
+{"subject": "lack of security updates", "relation": "causes", "object": "increased vulnerability known exploits"}
+{"subject": "lack of regular security updates", "relation": "causes", "object": "vulnerability known exploits"}
+{"subject": "Insufficient input validation", "relation": "leads to", "object": "injection attacks"}
+{"subject": "input validation", "relation": "leads to", "object": "injection attacks"}
+{"subject": "configured controls", "relation": "result in", "object": "unauthorized access"}
+{"subject": "access controls", "relation": "result in", "object": "unauthorized access"}
+{"subject": "A lack of proper input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "lack of input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "lack of proper input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Inadequate patch management", "relation": "leads to", "object": "unpatched vulnerabilities"}
+{"subject": "patch management", "relation": "leads to", "object": "unpatched vulnerabilities"}
+{"subject": "patch management", "relation": "leads to", "object": "unpatched"}
+{"subject": "Inadequate patch management", "relation": "leads to", "object": "vulnerabilities"}
+{"subject": "Poorly configured firewalls", "relation": "result in", "object": "unauthorized access"}
+{"subject": "configured firewalls", "relation": "result in", "object": "unauthorized access"}
+{"subject": "firewalls", "relation": "result in", "object": "unauthorized access"}
+{"subject": "Poorly configured firewalls", "relation": "result in", "object": "access"}
+{"subject": "lack of preparedness", "relation": "causes", "object": "response times"}
+{"subject": "Inadequate logging", "relation": "leads to", "object": "incomplete incident analysis"}
+{"subject": "logging", "relation": "leads to", "object": "incomplete incident analysis"}
+{"subject": "logging", "relation": "leads to", "object": "incomplete analysis"}
+{"subject": "Inadequate logging", "relation": "leads to", "object": "incident analysis"}
+{"subject": "Inadequate input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Inadequate validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "-Poorly designed access controls", "relation": "lead to", "object": "unauthorized data access"}
+{"subject": "access controls", "relation": "lead to", "object": "unauthorized data access"}
+{"subject": "-designed access controls", "relation": "lead to", "object": "unauthorized data access"}
+{"subject": "-designed access controls", "relation": "lead to", "object": "unauthorized data"}
+{"subject": "Lack of encryption mechanisms", "relation": "causes", "object": "data breaches"}
+{"subject": "encryption mechanisms", "relation": "causes", "object": "data breaches"}
+{"subject": "A weak key space", "relation": "causes", "object": "poor security"}
+{"subject": "key space", "relation": "causes", "object": "poor security"}
+{"subject": "weak space", "relation": "causes", "object": "poor security"}
+{"subject": "weak key space", "relation": "causes", "object": "security"}
+{"subject": "weak key space", "relation": "causes", "object": "poor security"}
+{"subject": "A small block size", "relation": "leads to", "object": "increased vulnerability"}
+{"subject": "A small block size", "relation": "leads to", "object": "birthday attacks"}
+{"subject": "block size", "relation": "leads to", "object": "increased vulnerability"}
+{"subject": "block size", "relation": "leads to", "object": "birthday attacks"}
+{"subject": "block size", "relation": "leads", "object": "to increased to birthday attacks"}
+{"subject": "small block size", "relation": "leads to", "object": "vulnerability to birthday attacks"}
+{"subject": "small block size", "relation": "leads to", "object": "increased vulnerability"}
+{"subject": "small block size", "relation": "leads to", "object": "birthday attacks"}
+{"subject": "A lack of proper access controls", "relation": "causes", "object": "unauthorized data access"}
+{"subject": "lack of access controls", "relation": "causes", "object": "unauthorized data access"}
+{"subject": "lack of access controls", "relation": "causes", "object": "unauthorized access"}
+{"subject": "lack of proper access controls", "relation": "causes", "object": "data access"}
+{"subject": "lack of proper access controls", "relation": "causes", "object": "unauthorized data access"}
+{"subject": "Improper identity verification", "relation": "leads to", "object": "account hijacking"}
+{"subject": "identity verification", "relation": "leads to", "object": "account hijacking"}
+{"subject": "Insufficient", "relation": "logging", "object": "monitoring results"}
+{"subject": "Insufficient", "relation": "logging in", "object": "undetected security breaches"}
+{"subject": "Insufficient", "relation": "logging in", "object": "undetected breaches"}
+{"subject": "-Inadequate threat modeling", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "threat modeling", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Lack of secure coding practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "Lack of secure practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "secure practices", "relation": "to exploitable", "object": "code"}
+{"subject": "secure practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "Lack of secure coding", "relation": "leads", "object": "to exploitable code"}
+{"subject": "secure coding", "relation": "leads", "object": "to exploitable code"}
+{"subject": "secure coding practices", "relation": "leads", "object": "to exploitable"}
+{"subject": "-Lack of coding practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "coding practices", "relation": "to exploitable", "object": "code"}
+{"subject": "coding practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "-Lack of secure practices", "relation": "leads", "object": "to exploitable code"}
+{"subject": "A lack of clear regulatory guidelines", "relation": "causes confusion among", "object": "developers"}
+{"subject": "lack of regulatory guidelines", "relation": "causes confusion among", "object": "developers"}
+{"subject": "lack of clear guidelines", "relation": "causes confusion among", "object": "developers"}
+{"subject": "lack of clear regulatory guidelines", "relation": "causes confusion among", "object": "developers"}
+{"subject": "lack of regulatory guidelines", "relation": "causes", "object": "confusion developers"}
+{"subject": "lack of clear guidelines", "relation": "causes", "object": "confusion developers"}
+{"subject": "Inadequate compliance training", "relation": "leads to", "object": "increased risk of non-compliance"}
+{"subject": "compliance training", "relation": "leads to", "object": "increased risk of non-compliance"}
+{"subject": "compliance training", "relation": "leads to", "object": "increased of non-compliance"}
+{"subject": "Inadequate compliance training", "relation": "leads to", "object": "risk of non-compliance"}
+{"subject": "Poorly defined data governance policies", "relation": "result in", "object": "data breaches"}
+{"subject": "defined data governance policies", "relation": "result in", "object": "data breaches"}
+{"subject": "defined governance policies", "relation": "result in", "object": "data breaches"}
+{"subject": "data governance policies", "relation": "result in", "object": "data breaches"}
+{"subject": "A lack of user involvement", "relation": "causes", "object": "design flaws"}
+{"subject": "lack of user involvement", "relation": "causes", "object": "design flaws"}
+{"subject": "Iterative", "relation": "leads to", "object": "better user satisfaction"}
+{"subject": "Iterative", "relation": "leads to", "object": "better satisfaction"}
+{"subject": "A clear understanding of user needs", "relation": "causes", "object": "effective interaction design"}
+{"subject": "understanding of user", "relation": "needs", "object": "causes effective interaction design"}
+{"subject": "understanding of", "relation": "needs", "object": "causes effective design"}
+{"subject": "clear understanding of user needs", "relation": "causes", "object": "interaction design"}
+{"subject": "clear understanding of", "relation": "needs", "object": "causes effective interaction design"}
+{"subject": "understanding of user needs", "relation": "causes", "object": "interaction design"}
+{"subject": "understanding of user needs", "relation": "causes", "object": "interaction"}
+{"subject": "Poor usability testing", "relation": "leads to", "object": "ineffective interaction design"}
+{"subject": "usability testing", "relation": "leads to", "object": "ineffective interaction design"}
+{"subject": "usability testing", "relation": "leads to", "object": "ineffective design"}
+{"subject": "Poor usability testing", "relation": "leads to", "object": "interaction design"}
+{"subject": "Iterative", "relation": "causes", "object": "improved user satisfaction"}
+{"subject": "Iterative", "relation": "causes", "object": "improved satisfaction"}
+{"subject": "A lack of clear objectives", "relation": "causes", "object": "ineffective usability testing"}
+{"subject": "lack of objectives", "relation": "causes", "object": "ineffective usability testing"}
+{"subject": "lack of objectives", "relation": "causes", "object": "ineffective testing"}
+{"subject": "lack of clear objectives", "relation": "causes", "object": "usability testing"}
+{"subject": "lack of clear objectives", "relation": "causes", "object": "ineffective usability testing"}
+{"subject": "Poorly designed test scenarios", "relation": "lead to", "object": "misleading results"}
+{"subject": "designed test scenarios", "relation": "lead to", "object": "misleading results"}
+{"subject": "designed scenarios", "relation": "lead to", "object": "misleading results"}
+{"subject": "designed test scenarios", "relation": "lead to", "object": "misleading"}
+{"subject": "test scenarios", "relation": "lead to", "object": "misleading results"}
+{"subject": "Poorly designed test scenarios", "relation": "lead to", "object": "results"}
+{"subject": "A clear and intuitive navigation structure", "relation": "causes", "object": "users to find information more efficiently"}
+{"subject": "users", "relation": "to find efficiently", "object": "information"}
+{"subject": "navigation structure", "relation": "causes", "object": "users to find information more efficiently"}
+{"subject": "navigation structure", "relation": "causes", "object": "users to find information more"}
+{"subject": "users", "relation": "to find more", "object": "information"}
+{"subject": "clear intuitive navigation structure", "relation": "causes", "object": "users to find information more efficiently"}
+{"subject": "clear intuitive navigation structure", "relation": "causes", "object": "users to find more efficiently"}
+{"subject": "clear intuitive navigation structure", "relation": "causes", "object": "users to find information more"}
+{"subject": "clear and navigation structure", "relation": "causes", "object": "users to find information more efficiently"}
+{"subject": "clear and navigation structure", "relation": "causes", "object": "users to find more efficiently"}
+{"subject": "clear intuitive navigation structure", "relation": "causes", "object": "users to find more"}
+{"subject": "users", "relation": "to find", "object": "more"}
+{"subject": "clear intuitive navigation structure", "relation": "causes", "object": "users to find information efficiently"}
+{"subject": "clear and navigation structure", "relation": "causes", "object": "users to find more"}
+{"subject": "Poorly designed user interfaces", "relation": "lead to", "object": "increased user frustration"}
+{"subject": "designed user interfaces", "relation": "lead to", "object": "increased user frustration"}
+{"subject": "designed interfaces", "relation": "lead to", "object": "increased user frustration"}
+{"subject": "designed interfaces", "relation": "lead to", "object": "increased user"}
+{"subject": "designed user interfaces", "relation": "lead to", "object": "increased frustration"}
+{"subject": "user interfaces", "relation": "lead to", "object": "increased user frustration"}
+{"subject": "user interfaces", "relation": "lead to", "object": "increased user"}
+{"subject": "Poorly designed user interfaces", "relation": "lead to", "object": "user frustration"}
+{"subject": "Inconsistent design elements", "relation": "result in", "object": "a confusing user experience"}
+{"subject": "design elements", "relation": "result in", "object": "confusing user experience"}
+{"subject": "design elements", "relation": "result in", "object": "confusing experience"}
+{"subject": "Inconsistent design elements", "relation": "result in", "object": "user experience"}
+{"subject": "Inconsistent design elements", "relation": "result in", "object": "confusing user experience"}
+{"subject": "A lack of keyboard navigation support", "relation": "causes", "object": "users with motor impairments to be unable to interact with web content"}
+{"subject": "lack of keyboard navigation support", "relation": "causes", "object": "users with motor impairments to be"}
+{"subject": "lack of keyboard navigation support", "relation": "causes", "object": "users with motor impairments to be unable"}
+{"subject": "lack of keyboard navigation support", "relation": "causes", "object": "users with motor impairments to be unable to interact with web content"}
+{"subject": "Insufficient color contrast", "relation": "leads to", "object": "reduced readability for users with visual impairments"}
+{"subject": "color contrast", "relation": "leads to", "object": "reduced readability for users with visual impairments"}
+{"subject": "color contrast", "relation": "leads", "object": "to reduced for users with visual impairments"}
+{"subject": "color contrast", "relation": "leads to", "object": "reduced readability for users with visual"}
+{"subject": "Insufficient color contrast", "relation": "leads to", "object": "readability for users with visual impairments"}
+{"subject": "Insufficient color contrast", "relation": "leads to", "object": "readability for users with visual"}
+{"subject": "Insufficient color contrast", "relation": "leads to", "object": "reduced readability for users with impairments"}
+{"subject": "Poorly structured content", "relation": "causes", "object": "screen readers to misinterpret or skip important information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret or skip important information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret skip important information"}
+{"subject": "screen readers", "relation": "to misinterpret", "object": "skip important information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret or skip important"}
+{"subject": "content", "relation": "causes", "object": "screen readers to misinterpret or skip important information"}
+{"subject": "content", "relation": "causes", "object": "screen readers to misinterpret or important information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret skip information"}
+{"subject": "screen readers", "relation": "to misinterpret", "object": "skip information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret skip important"}
+{"subject": "screen readers", "relation": "to misinterpret", "object": "skip important"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret or important information"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret or important"}
+{"subject": "structured content", "relation": "causes", "object": "screen readers to misinterpret or skip information"}
+{"subject": "content", "relation": "causes", "object": "screen readers to misinterpret or important"}
+{"subject": "content", "relation": "causes", "object": "screen readers to misinterpret or skip information"}
+{"subject": "content", "relation": "causes", "object": "screen readers to misinterpret or skip important"}
+{"subject": "Poorly structured content", "relation": "causes", "object": "screen readers to misinterpret skip important information"}
+{"subject": "Excessive cognitive load", "relation": "causes", "object": "mental fatigue"}
+{"subject": "cognitive load", "relation": "causes", "object": "mental fatigue"}
+{"subject": "Excessive load", "relation": "causes", "object": "mental fatigue"}
+{"subject": "Excessive cognitive load", "relation": "causes", "object": "fatigue"}
+{"subject": "High cognitive load", "relation": "leads to", "object": "decreased working memory capacity"}
+{"subject": "cognitive load", "relation": "leads to", "object": "decreased working memory capacity"}
+{"subject": "cognitive load", "relation": "leads to", "object": "decreased memory capacity"}
+{"subject": "cognitive load", "relation": "leads to", "object": "decreased memory"}
+{"subject": "cognitive load", "relation": "leads to", "object": "decreased working capacity"}
+{"subject": "High load", "relation": "leads to", "object": "decreased working memory capacity"}
+{"subject": "High load", "relation": "leads to", "object": "decreased memory capacity"}
+{"subject": "High load", "relation": "leads to", "object": "decreased memory"}
+{"subject": "High load", "relation": "leads to", "object": "decreased working capacity"}
+{"subject": "High cognitive load", "relation": "leads to", "object": "working memory capacity"}
+{"subject": "High cognitive load", "relation": "leads to", "object": "working capacity"}
+{"subject": "High cognitive load", "relation": "leads to", "object": "decreased memory capacity"}
+{"subject": "Increased cognitive load", "relation": "causes", "object": "reduced learning efficiency"}
+{"subject": "cognitive load", "relation": "causes", "object": "reduced learning efficiency"}
+{"subject": "cognitive load", "relation": "causes", "object": "reduced efficiency"}
+{"subject": "Increased load", "relation": "causes", "object": "reduced learning efficiency"}
+{"subject": "Increased load", "relation": "causes", "object": "reduced efficiency"}
+{"subject": "Increased cognitive load", "relation": "causes", "object": "learning efficiency"}
+{"subject": "A poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "Inadequate user training", "relation": "leads to", "object": "increased error rates"}
+{"subject": "user training", "relation": "leads to", "object": "increased error rates"}
+{"subject": "user training", "relation": "leads to", "object": "increased rates"}
+{"subject": "Inadequate user training", "relation": "leads to", "object": "error rates"}
+{"subject": "A clear information architecture", "relation": "causes", "object": "intuitive navigation"}
+{"subject": "information architecture", "relation": "causes", "object": "intuitive navigation"}
+{"subject": "clear information architecture", "relation": "causes", "object": "navigation"}
+{"subject": "clear information architecture", "relation": "causes", "object": "intuitive navigation"}
+{"subject": "Poor information architecture", "relation": "leads to", "object": "user confusion"}
+{"subject": "information architecture", "relation": "leads to", "object": "user confusion"}
+{"subject": "A direct manipulation interface", "relation": "causes", "object": "immediate visual feedback"}
+{"subject": "manipulation interface", "relation": "causes", "object": "immediate visual feedback"}
+{"subject": "manipulation interface", "relation": "causes", "object": "immediate feedback"}
+{"subject": "manipulation interface", "relation": "causes", "object": "immediate visual"}
+{"subject": "direct manipulation interface", "relation": "causes", "object": "visual feedback"}
+{"subject": "direct manipulation interface", "relation": "causes", "object": "immediate feedback"}
+{"subject": "direct manipulation interface", "relation": "causes", "object": "immediate visual feedback"}
+{"subject": "A high degree of interactivity", "relation": "leads to", "object": "better user engagement"}
+{"subject": "degree of interactivity", "relation": "leads to", "object": "better user engagement"}
+{"subject": "degree of interactivity", "relation": "leads to", "object": "better engagement"}
+{"subject": "high degree of interactivity", "relation": "leads to", "object": "user engagement"}
+{"subject": "high degree of interactivity", "relation": "leads to", "object": "better user engagement"}
+{"subject": "A well-designed interaction technique", "relation": "causes", "object": "efficient task completion"}
+{"subject": "interaction technique", "relation": "causes", "object": "efficient task completion"}
+{"subject": "well-designed interaction technique", "relation": "causes", "object": "task completion"}
+{"subject": "well-designed interaction technique", "relation": "causes", "object": "efficient task completion"}
+{"subject": "A lack of clear heuristics", "relation": "causes", "object": "inconsistent user experiences"}
+{"subject": "lack of heuristics", "relation": "causes", "object": "inconsistent user experiences"}
+{"subject": "lack of heuristics", "relation": "causes", "object": "inconsistent experiences"}
+{"subject": "lack of clear heuristics", "relation": "causes", "object": "user experiences"}
+{"subject": "lack of clear heuristics", "relation": "causes", "object": "inconsistent user experiences"}
+{"subject": "Inadequate heuristic evaluation", "relation": "leads to", "object": "poor usability"}
+{"subject": "heuristic evaluation", "relation": "leads to", "object": "poor usability"}
+{"subject": "heuristic", "relation": "leads to", "object": "poor usability"}
+{"subject": "heuristic evaluation", "relation": "leads to", "object": "poor"}
+{"subject": "Inadequate evaluation", "relation": "leads to", "object": "poor usability"}
+{"subject": "Inadequate evaluation", "relation": "leads to", "object": "poor"}
+{"subject": "Inadequate heuristic evaluation", "relation": "leads to", "object": "usability"}
+{"subject": "A well-defined target variable", "relation": "causes predictions in", "object": "supervised learning"}
+{"subject": "target variable", "relation": "causes predictions in", "object": "supervised learning"}
+{"subject": "target variable", "relation": "causes predictions in", "object": "learning"}
+{"subject": "well-defined target variable", "relation": "causes predictions in", "object": "supervised learning"}
+{"subject": "well-defined target variable", "relation": "causes", "object": "predictions"}
+{"subject": "well-defined target variable", "relation": "causes in", "object": "supervised"}
+{"subject": "well-defined target variable", "relation": "causes predictions in", "object": "learning"}
+{"subject": "target variable", "relation": "causes predictions in", "object": "supervised"}
+{"subject": "well-defined target variable", "relation": "causes", "object": "predictions supervised learning"}
+{"subject": "predictions", "relation": "supervised", "object": "learning"}
+{"subject": "A large and diverse dataset", "relation": "leads to", "object": "improved model generalization"}
+{"subject": "dataset", "relation": "leads to", "object": "improved model generalization"}
+{"subject": "large and diverse dataset", "relation": "leads to", "object": "model generalization"}
+{"subject": "large and diverse dataset", "relation": "leads to", "object": "improved model generalization"}
+{"subject": "large diverse dataset", "relation": "leads to", "object": "improved model generalization"}
+{"subject": "large diverse dataset", "relation": "leads to", "object": "improved generalization"}
+{"subject": "Regularization techniques", "relation": "cause overfitting in", "object": "models"}
+{"subject": "cause", "relation": "overfitting in", "object": "models"}
+{"subject": "Regularization techniques", "relation": "cause", "object": "overfitting models"}
+{"subject": "A lack of labeled data", "relation": "causes use of", "object": "unsupervised learning algorithms"}
+{"subject": "lack of data", "relation": "causes use of", "object": "unsupervised learning algorithms"}
+{"subject": "lack of data", "relation": "causes use of", "object": "unsupervised algorithms"}
+{"subject": "lack of labeled data", "relation": "causes use of", "object": "algorithms"}
+{"subject": "lack of labeled data", "relation": "causes use of", "object": "unsupervised learning"}
+{"subject": "lack of data causes", "relation": "use", "object": "unsupervised learning"}
+{"subject": "The presence of underlying patterns in data", "relation": "leads to", "object": "the discovery of meaningful structures through unsupervised learning"}
+{"subject": "presence of patterns in data", "relation": "leads to", "object": "discovery of meaningful structures"}
+{"subject": "presence of patterns in data", "relation": "leads through", "object": "unsupervised learning"}
+{"subject": "presence of patterns in data", "relation": "leads to", "object": "discovery of meaningful"}
+{"subject": "presence of patterns in data", "relation": "leads through", "object": "unsupervised"}
+{"subject": "presence of underlying patterns in data", "relation": "leads to", "object": "discovery of structures through unsupervised learning"}
+{"subject": "presence of underlying patterns in data", "relation": "leads to", "object": "discovery of structures"}
+{"subject": "presence of underlying patterns in data", "relation": "leads through", "object": "unsupervised"}
+{"subject": "presence of underlying patterns in data", "relation": "leads to", "object": "discovery of meaningful structures"}
+{"subject": "presence of underlying patterns in data", "relation": "leads through", "object": "learning"}
+{"subject": "presence of underlying patterns in data", "relation": "leads through", "object": "unsupervised learning"}
+{"subject": "absence of categories results in formation of clusters or groups", "relation": "unsupervised", "object": "learning"}
+{"subject": "A high exploration rate", "relation": "causes", "object": "slower convergence"}
+{"subject": "exploration rate", "relation": "causes", "object": "slower convergence"}
+{"subject": "high exploration rate", "relation": "causes", "object": "convergence"}
+{"subject": "high exploration rate", "relation": "causes", "object": "slower convergence"}
+{"subject": "A sparse reward signal", "relation": "leads to", "object": "difficulty in learning"}
+{"subject": "sparse reward signal", "relation": "leads to", "object": "difficulty in learning"}
+{"subject": "-Increasing number of layers in network", "relation": "causes", "object": "improved ability to model complex patterns"}
+{"subject": "-Increasing number of layers in network", "relation": "causes", "object": "improved ability to model patterns"}
+{"subject": "-Increasing number of layers in network", "relation": "causes", "object": "improved ability to model complex"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "ability to model complex patterns"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "ability to model patterns"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "ability to model complex"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "improved ability"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "improved ability to model patterns"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "improved ability to model complex patterns"}
+{"subject": "-Increasing number of layers in network causes", "relation": "improved to", "object": "complex patterns"}
+{"subject": "-Increasing number of layers in network", "relation": "causes", "object": "improved ability model complex patterns"}
+{"subject": "-Increasing number of layers in network", "relation": "causes", "object": "improved ability model complex"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "ability model complex patterns"}
+{"subject": "-Increasing number of layers in neural network", "relation": "causes", "object": "ability model complex"}
+{"subject": "-Regularization techniques, such as dropout,", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "Regularization techniques, such as dropout,", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "techniques", "relation": "lead as", "object": "dropout"}
+{"subject": "techniques", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "Regularization techniques, such dropout,", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "techniques, such dropout,", "relation": "lead", "object": "reduced overfitting"}
+{"subject": "Regularization techniques, such as dropout,", "relation": "lead to", "object": "reduced"}
+{"subject": "Regularization techniques such as dropout,", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "Regularization techniques such as", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "techniques such as", "relation": "lead to", "object": "overfitting"}
+{"subject": "techniques such as dropout,", "relation": "lead", "object": "reduced overfitting"}
+{"subject": "-Regularization techniques", "relation": "lead as", "object": "dropout"}
+{"subject": "-Regularization techniques", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "techniques, as dropout,", "relation": "lead", "object": "reduced overfitting"}
+{"subject": "-Regularization techniques, such as dropout,", "relation": "lead to", "object": "overfitting"}
+{"subject": "that", "relation": "minimize", "object": "the loss function"}
+{"subject": "-Gradient descent optimization", "relation": "causes", "object": "weights to converge towards values that minimize the loss function"}
+{"subject": "weights", "relation": "to converge towards", "object": "values that minimize the loss function"}
+{"subject": "descent optimization", "relation": "causes", "object": "weights to converge towards values"}
+{"subject": "weights", "relation": "to converge towards", "object": "values"}
+{"subject": "descent optimization", "relation": "causes", "object": "weights to converge values minimize loss function"}
+{"subject": "weights", "relation": "to converge", "object": "values minimize loss function"}
+{"subject": "values", "relation": "minimize", "object": "loss function"}
+{"subject": "-Gradient descent optimization", "relation": "causes", "object": "minimize loss function"}
+{"subject": "-Gradient descent optimization", "relation": "causes", "object": "weights to converge towards values"}
+{"subject": "descent optimization", "relation": "causes", "object": "weights to converge values minimize loss"}
+{"subject": "weights", "relation": "to converge", "object": "values minimize loss"}
+{"subject": "descent optimization", "relation": "causes", "object": "weights to converge towards values minimize function"}
+{"subject": "weights", "relation": "to converge towards", "object": "values minimize function"}
+{"subject": "-Increased model complexity", "relation": "causes", "object": "overfitting"}
+{"subject": "model complexity", "relation": "causes", "object": "overfitting"}
+{"subject": "Regularization techniques", "relation": "lead to", "object": "improved generalization"}
+{"subject": "Regularization techniques", "relation": "lead to", "object": "improved"}
+{"subject": "techniques", "relation": "lead to", "object": "improved"}
+{"subject": "techniques", "relation": "lead to", "object": "improved generalization"}
+{"subject": "-Regularization techniques", "relation": "lead to", "object": "generalization"}
+{"subject": "techniques", "relation": "lead to", "object": "generalization"}
+{"subject": "neurons", "relation": "to learn", "object": "redundant representations"}
+{"subject": "training", "relation": "causes", "object": "neurons to learn representations"}
+{"subject": "neurons", "relation": "to learn", "object": "representations"}
+{"subject": "The lack of labeled data", "relation": "causes", "object": "difficulties in training supervised NLP models"}
+{"subject": "difficulties in training", "relation": "supervised", "object": "NLP models"}
+{"subject": "lack of data", "relation": "causes", "object": "difficulties in training supervised NLP models"}
+{"subject": "lack of labeled data", "relation": "causes", "object": "difficulties in training supervised NLP models"}
+{"subject": "lack of labeled data", "relation": "causes", "object": "difficulties in training supervised"}
+{"subject": "Improper preprocessing", "relation": "leads to", "object": "poor model performance"}
+{"subject": "preprocessing", "relation": "leads to", "object": "poor model performance"}
+{"subject": "preprocessing", "relation": "leads to", "object": "poor performance"}
+{"subject": "Improper preprocessing", "relation": "leads to", "object": "model performance"}
+{"subject": "Improper lighting", "relation": "causes", "object": "inaccurate object detection"}
+{"subject": "lighting", "relation": "causes", "object": "inaccurate object detection"}
+{"subject": "lighting", "relation": "causes", "object": "inaccurate detection"}
+{"subject": "Improper lighting", "relation": "causes", "object": "object detection"}
+{"subject": "Insufficient training data", "relation": "leads to", "object": "poor model generalization"}
+{"subject": "training data", "relation": "leads to", "object": "poor model generalization"}
+{"subject": "training data", "relation": "leads to", "object": "poor generalization"}
+{"subject": "Insufficient training data", "relation": "leads to", "object": "model generalization"}
+{"subject": "High computational complexity", "relation": "causes", "object": "slow inference times"}
+{"subject": "computational complexity", "relation": "causes", "object": "slow inference times"}
+{"subject": "computational complexity", "relation": "causes", "object": "slow times"}
+{"subject": "High complexity", "relation": "causes", "object": "slow inference times"}
+{"subject": "High complexity", "relation": "causes", "object": "slow times"}
+{"subject": "High computational complexity", "relation": "causes", "object": "inference times"}
+{"subject": "Missing values", "relation": "cause", "object": "biased model predictions"}
+{"subject": "values", "relation": "cause", "object": "biased model predictions"}
+{"subject": "values", "relation": "cause", "object": "biased predictions"}
+{"subject": "Missing values", "relation": "cause", "object": "model predictions"}
+{"subject": "Inconsistent data formats", "relation": "lead to", "object": "errors in data analysis"}
+{"subject": "data formats", "relation": "lead to", "object": "errors in data analysis"}
+{"subject": "A low bias in the model", "relation": "leads to", "object": "underfitting"}
+{"subject": "bias in model", "relation": "leads to", "object": "underfitting"}
+{"subject": "A poor choice of evaluation metrics", "relation": "causes", "object": "misleading results"}
+{"subject": "choice of evaluation metrics", "relation": "causes", "object": "misleading results"}
+{"subject": "poor choice of evaluation metrics", "relation": "causes", "object": "results"}
+{"subject": "poor choice of evaluation metrics", "relation": "causes", "object": "misleading results"}
+{"subject": "A lack of transparency in AI algorithms", "relation": "causes", "object": "biased decision-making"}
+{"subject": "lack of transparency in AI algorithms", "relation": "causes", "object": "decision making"}
+{"subject": "lack of transparency in AI algorithms", "relation": "causes", "object": "biased decision-making"}
+{"subject": "lack of transparency in AI algorithms", "relation": "causes", "object": "making"}
+{"subject": "Over-reliance on AI systems", "relation": "leads to", "object": "deskilling of human operators"}
+{"subject": "Over-", "relation": "leads to", "object": "deskilling of operators"}
+{"subject": "Inadequate data privacy measures", "relation": "result in", "object": "misuse of personal information"}
+{"subject": "data privacy measures", "relation": "result in", "object": "misuse of personal information"}
+{"subject": "data privacy measures", "relation": "result in", "object": "misuse of personal"}
+{"subject": "Inadequate data privacy measures", "relation": "result in", "object": "misuse of information"}
+{"subject": "A lack of clear requirements", "relation": "causes changes in", "object": "project scope"}
+{"subject": "lack of requirements", "relation": "causes changes in", "object": "project scope"}
+{"subject": "lack of clear requirements", "relation": "causes changes in", "object": "project scope"}
+{"subject": "lack of requirements", "relation": "causes", "object": "frequent changes project scope"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "changes project scope"}
+{"subject": "Regular customer feedback", "relation": "leads to", "object": "continuous improvement"}
+{"subject": "customer feedback", "relation": "leads to", "object": "continuous improvement"}
+{"subject": "customer feedback", "relation": "leads to", "object": "continuous"}
+{"subject": "Regular customer feedback", "relation": "leads to", "object": "improvement"}
+{"subject": "Daily stand-up meetings", "relation": "cause", "object": "better team communication"}
+{"subject": "stand-up meetings", "relation": "cause", "object": "better team communication"}
+{"subject": "stand-up meetings", "relation": "cause", "object": "better communication"}
+{"subject": "Daily meetings", "relation": "cause", "object": "better team communication"}
+{"subject": "Daily stand-up meetings", "relation": "cause", "object": "team communication"}
+{"subject": "A lack of clear product vision", "relation": "causes", "object": "misalignment"}
+{"subject": "A lack of clear product vision", "relation": "causes among", "object": "team members"}
+{"subject": "lack of product vision", "relation": "causes", "object": "misalignment"}
+{"subject": "lack of product vision", "relation": "causes among", "object": "team members"}
+{"subject": "lack of clear product vision", "relation": "causes", "object": "misalignment"}
+{"subject": "lack of clear product vision", "relation": "causes among", "object": "team members"}
+{"subject": "lack of product vision", "relation": "causes", "object": "misalignment team members"}
+{"subject": "Regular sprint reviews", "relation": "lead to", "object": "continuous improvement"}
+{"subject": "sprint reviews", "relation": "lead to", "object": "continuous improvement"}
+{"subject": "sprint reviews", "relation": "lead to", "object": "continuous"}
+{"subject": "Regular sprint reviews", "relation": "lead to", "object": "improvement"}
+{"subject": "Daily stand-ups", "relation": "cause communication among", "object": "team members"}
+{"subject": "ups", "relation": "cause communication among", "object": "team members"}
+{"subject": "ups", "relation": "cause communication coordination among", "object": "team members"}
+{"subject": "ups", "relation": "cause communication coordination among", "object": "members"}
+{"subject": "ups", "relation": "cause communication coordination among", "object": "team"}
+{"subject": "ups", "relation": "cause communication among", "object": "members"}
+{"subject": "Daily stand-ups", "relation": "cause", "object": "communication and coordination team members"}
+{"subject": "Daily stand-ups", "relation": "cause communication coordination among", "object": "team members"}
+{"subject": "A lack of work-in-progress limits", "relation": "causes reduction in", "object": "multitasking"}
+{"subject": "lack of work", "relation": "causes reduction in", "object": "multitasking"}
+{"subject": "lack of work in-limits", "relation": "causes reduction in", "object": "multitasking"}
+{"subject": "lack of work-in progress limits", "relation": "causes reduction in", "object": "multitasking"}
+{"subject": "lack of limits", "relation": "causes reduction in", "object": "multitasking"}
+{"subject": "lack of work", "relation": "causes", "object": "reduction multitasking"}
+{"subject": "lack of work-in progress limits", "relation": "causes", "object": "reduction multitasking"}
+{"subject": "-Frequent code refactoring", "relation": "causes", "object": "improved code quality"}
+{"subject": "code refactoring", "relation": "causes", "object": "improved code quality"}
+{"subject": "code refactoring", "relation": "causes", "object": "improved code"}
+{"subject": "-Frequent code refactoring", "relation": "causes", "object": "code quality"}
+{"subject": "-Pair programming", "relation": "leads to", "object": "better knowledge sharing among team members"}
+{"subject": "Pair programming", "relation": "leads to", "object": "better knowledge sharing among team members"}
+{"subject": "Pair programming", "relation": "leads to", "object": "better sharing among team members"}
+{"subject": "programming", "relation": "leads to", "object": "knowledge sharing among team members"}
+{"subject": "programming", "relation": "leads to", "object": "better knowledge sharing among team members"}
+{"subject": "Continuous integration", "relation": "causes detection of", "object": "integration issues"}
+{"subject": "integration", "relation": "causes detection of", "object": "integration issues"}
+{"subject": "-integration", "relation": "causes detection of", "object": "integration issues"}
+{"subject": "-integration", "relation": "causes", "object": "early detection integration issues"}
+{"subject": "-Continuous integration", "relation": "causes detection of", "object": "integration issues"}
+{"subject": "integration", "relation": "causes", "object": "early detection integration issues"}
+{"subject": "integration", "relation": "causes detection of", "object": "issues"}
+{"subject": "A poorly defined user story", "relation": "causes misunderstandings among", "object": "team members"}
+{"subject": "defined user story", "relation": "causes misunderstandings among", "object": "team members"}
+{"subject": "defined story", "relation": "causes misunderstandings among", "object": "team members"}
+{"subject": "user story", "relation": "causes misunderstandings among", "object": "team members"}
+{"subject": "poorly defined user story", "relation": "causes misunderstandings among", "object": "team members"}
+{"subject": "defined story", "relation": "causes", "object": "misunderstandings"}
+{"subject": "defined story", "relation": "causes among", "object": "members"}
+{"subject": "defined user story", "relation": "causes", "object": "misunderstandings team members"}
+{"subject": "user story", "relation": "causes", "object": "misunderstandings"}
+{"subject": "user story", "relation": "causes among", "object": "members"}
+{"subject": "Inadequate backlog grooming", "relation": "leads to", "object": "an unclear product vision"}
+{"subject": "backlog grooming", "relation": "leads to", "object": "unclear product vision"}
+{"subject": "backlog grooming", "relation": "leads to", "object": "unclear vision"}
+{"subject": "Inadequate backlog grooming", "relation": "leads to", "object": "unclear product vision"}
+{"subject": "A clear and detailed sprint goal", "relation": "causes", "object": "a focused and productive sprint"}
+{"subject": "sprint goal", "relation": "causes", "object": "focused and productive sprint"}
+{"subject": "clear detailed sprint goal", "relation": "causes", "object": "focused and productive sprint"}
+{"subject": "clear detailed sprint goal", "relation": "causes", "object": "focused productive sprint"}
+{"subject": "clear and sprint goal", "relation": "causes", "object": "focused and productive sprint"}
+{"subject": "Inadequate task estimation", "relation": "leads to", "object": "unrealistic sprint commitments"}
+{"subject": "task estimation", "relation": "leads to", "object": "unrealistic sprint commitments"}
+{"subject": "task estimation", "relation": "leads to", "object": "unrealistic commitments"}
+{"subject": "Inadequate task estimation", "relation": "leads to", "object": "sprint commitments"}
+{"subject": "stand ups", "relation": "result in", "object": "timely issue resolution"}
+{"subject": "Automated testing", "relation": "causes feedback on", "object": "code changes"}
+{"subject": "testing", "relation": "causes feedback on", "object": "code changes"}
+{"subject": "testing", "relation": "causes faster on", "object": "changes"}
+{"subject": "testing", "relation": "causes", "object": "faster feedback code changes"}
+{"subject": "Automated testing", "relation": "causes", "object": "feedback code changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, more manageable integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more manageable integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more manageable integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more integration"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more manageable issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller more manageable integration"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, manageable integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, manageable issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, manageable integration"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more integration issues"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more integration"}
+{"subject": "code commits", "relation": "lead to", "object": "smaller, more manageable issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more manageable integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "manageable integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "manageable issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "manageable integration"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more integration"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "more manageable issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more integration"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, manageable integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, manageable issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, integration issues"}
+{"subject": "Automated deployment pipelines", "relation": "cause intervention in", "object": "the release process"}
+{"subject": "deployment pipelines", "relation": "cause intervention in", "object": "release process"}
+{"subject": "deployment pipelines", "relation": "cause", "object": "reduced intervention release process"}
+{"subject": "deployment pipelines", "relation": "cause manual in", "object": "release process"}
+{"subject": "Automated deployment pipelines", "relation": "cause intervention in", "object": "release process"}
+{"subject": "Automated deployment pipelines", "relation": "cause", "object": "manual"}
+{"subject": "Automated deployment pipelines", "relation": "cause in", "object": "release process"}
+{"subject": "deployment pipelines", "relation": "cause", "object": "reduced intervention release"}
+{"subject": "deployment pipelines", "relation": "cause intervention in", "object": "process"}
+{"subject": "deployment pipelines", "relation": "cause manual in", "object": "process"}
+{"subject": "deployment pipelines", "relation": "cause", "object": "reduced manual intervention release process"}
+{"subject": "Automated deployment pipelines", "relation": "cause in", "object": "process"}
+{"subject": "Automated deployment pipelines", "relation": "cause", "object": "manual intervention release process"}
+{"subject": "Automated deployment pipelines", "relation": "cause", "object": "reduced intervention release process"}
+{"subject": "Using story points", "relation": "causes", "object": "teams to focus on relative sizing rather than absolute time estimates"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing rather than absolute time estimates"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on sizing rather than absolute time estimates"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on sizing rather than time estimates"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on sizing rather than"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on sizing rather than absolute time"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing"}
+{"subject": "teams", "relation": "to focus than", "object": "absolute time estimates"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing than absolute estimates"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on relative sizing than absolute estimates"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on relative sizing than absolute time estimates"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing rather than time estimates"}
+{"subject": "teams", "relation": "to focus than", "object": "absolute estimates"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing than absolute time"}
+{"subject": "points", "relation": "causes", "object": "teams to focus on relative sizing than absolute time"}
+{"subject": "teams", "relation": "to focus on", "object": "relative sizing rather than time"}
+{"subject": "-Overestimating tasks", "relation": "leads to", "object": "a decrease in team morale and productivity"}
+{"subject": "tasks", "relation": "leads", "object": "to decrease in team morale and productivity"}
+{"subject": "tasks", "relation": "leads", "object": "to decrease team morale and productivity"}
+{"subject": "-Overestimating tasks", "relation": "leads", "object": "to decrease in team morale and productivity"}
+{"subject": "tasks", "relation": "leads", "object": "to decrease in team morale"}
+{"subject": "-Overestimating tasks", "relation": "leads", "object": "to decrease in team morale productivity"}
+{"subject": "-Overestimating tasks", "relation": "leads", "object": "to decrease in team morale"}
+{"subject": "Regularly estimates during sprints", "relation": "leads to", "object": "improved accuracy and better planning"}
+{"subject": "Regularly estimates during sprints", "relation": "leads to", "object": "improved accuracy better planning"}
+{"subject": "estimates during sprints", "relation": "leads to", "object": "improved accuracy better planning"}
+{"subject": "estimates during sprints", "relation": "leads to", "object": "improved accuracy and better planning"}
+{"subject": "-updating estimates during sprints", "relation": "leads to", "object": "improved accuracy and better planning"}
+{"subject": "-updating estimates during sprints", "relation": "leads to", "object": "improved accuracy better planning"}
+{"subject": "Regularly estimates during sprints", "relation": "leads to", "object": "improved accuracy and better"}
+{"subject": "estimates during sprints", "relation": "leads to", "object": "improved accuracy and better"}
+{"subject": "-updating estimates during sprints", "relation": "leads to", "object": "improved accuracy and better"}
+{"subject": "-Frequent stand-up meetings", "relation": "cause communication among", "object": "team members"}
+{"subject": "stand-up meetings", "relation": "cause communication among", "object": "team members"}
+{"subject": "stand-up meetings", "relation": "cause", "object": "improved communication team members"}
+{"subject": "-Frequent meetings", "relation": "cause communication among", "object": "team members"}
+{"subject": "-Frequent meetings", "relation": "cause communication among", "object": "team"}
+{"subject": "stand-up meetings", "relation": "cause", "object": "improved communication team"}
+{"subject": "stand-up meetings", "relation": "cause communication among", "object": "members"}
+{"subject": "-Frequent stand-up meetings", "relation": "cause communication among", "object": "members"}
+{"subject": "-Regular sprint reviews", "relation": "lead to", "object": "better alignment with stakeholder expectations"}
+{"subject": "sprint reviews", "relation": "lead to", "object": "better alignment with stakeholder expectations"}
+{"subject": "sprint reviews", "relation": "lead to", "object": "better alignment stakeholder expectations"}
+{"subject": "A lack of clear vision and goals", "relation": "causes", "object": "misalignment"}
+{"subject": "A lack of clear vision and goals", "relation": "causes among", "object": "teams"}
+{"subject": "lack of vision and goals", "relation": "causes", "object": "misalignment"}
+{"subject": "lack of vision and goals", "relation": "causes among", "object": "teams"}
+{"subject": "lack of clear vision and goals", "relation": "causes", "object": "misalignment"}
+{"subject": "lack of clear vision and goals", "relation": "causes among", "object": "teams"}
+{"subject": "lack of clear vision goals", "relation": "causes", "object": "misalignment"}
+{"subject": "lack of clear vision goals", "relation": "causes among", "object": "teams"}
+{"subject": "lack of vision and goals", "relation": "causes", "object": "misalignment teams"}
+{"subject": "training coaching", "relation": "results adoption of", "object": "Agile practices"}
+{"subject": "training coaching", "relation": "results adoption of", "object": "practices"}
+{"subject": "-Ambiguous syntax", "relation": "causes", "object": "semantic errors"}
+{"subject": "syntax", "relation": "causes", "object": "semantic errors"}
+{"subject": "-Incorrect semantic rules", "relation": "lead to", "object": "logical errors in programs"}
+{"subject": "rules", "relation": "lead to", "object": "logical errors in programs"}
+{"subject": "rules", "relation": "lead to", "object": "logical errors"}
+{"subject": "-Incorrect semantic rules", "relation": "lead to", "object": "errors in programs"}
+{"subject": "-Incorrect semantic rules", "relation": "lead to", "object": "logical errors"}
+{"subject": "-Incorrect semantic rules", "relation": "lead in", "object": "programs"}
+{"subject": "Misinterpretation of syntax", "relation": "leads to", "object": "incorrect parsing"}
+{"subject": "-Misinterpretation of syntax", "relation": "leads to", "object": "parsing"}
+{"subject": "A tokenization algorithm", "relation": "causes generation of", "object": "tokens"}
+{"subject": "A tokenization algorithm", "relation": "causes from", "object": "input text"}
+{"subject": "tokenization algorithm", "relation": "causes generation of", "object": "tokens"}
+{"subject": "tokenization algorithm", "relation": "causes from", "object": "input text"}
+{"subject": "A regular expression", "relation": "causes identification of", "object": "patterns in the input text"}
+{"subject": "expression", "relation": "causes identification of", "object": "patterns in input text"}
+{"subject": "regular expression", "relation": "causes identification of", "object": "patterns in input text"}
+{"subject": "expression", "relation": "causes", "object": "identification patterns"}
+{"subject": "expression", "relation": "causes in", "object": "input text"}
+{"subject": "A finite state machine", "relation": "causes transition between", "object": "states based on input symbols"}
+{"subject": "states", "relation": "based on", "object": "input symbols"}
+{"subject": "state machine", "relation": "causes transition between", "object": "states based on input symbols"}
+{"subject": "state machine", "relation": "causes", "object": "states based input symbols"}
+{"subject": "finite state machine", "relation": "causes transition between", "object": "states"}
+{"subject": "finite state machine", "relation": "causes transition between", "object": "states based on input symbols"}
+{"subject": "state machine", "relation": "causes", "object": "transition states"}
+{"subject": "state machine", "relation": "causes", "object": "transition states based on symbols"}
+{"subject": "states", "relation": "based on", "object": "symbols"}
+{"subject": "A lack of clear grammar rules", "relation": "causes", "object": "parsing errors"}
+{"subject": "lack of grammar rules", "relation": "causes", "object": "parsing errors"}
+{"subject": "lack of grammar rules", "relation": "causes", "object": "parsing"}
+{"subject": "lack of clear grammar rules", "relation": "causes", "object": "parsing errors"}
+{"subject": "Ambiguous syntax", "relation": "leads to", "object": "multiple valid parse trees"}
+{"subject": "syntax", "relation": "leads to", "object": "multiple valid parse trees"}
+{"subject": "syntax", "relation": "leads to", "object": "multiple parse trees"}
+{"subject": "syntax", "relation": "leads to", "object": "multiple parse"}
+{"subject": "syntax", "relation": "leads to", "object": "multiple valid trees"}
+{"subject": "Ambiguous syntax", "relation": "leads to", "object": "valid parse trees"}
+{"subject": "Ambiguous syntax", "relation": "leads to", "object": "valid trees"}
+{"subject": "Ambiguous syntax", "relation": "leads to", "object": "multiple parse trees"}
+{"subject": "The use of intermediate representations", "relation": "causes", "object": "improved code optimization"}
+{"subject": "use of representations", "relation": "causes", "object": "improved code optimization"}
+{"subject": "use of representations", "relation": "causes", "object": "improved optimization"}
+{"subject": "use of intermediate representations", "relation": "causes", "object": "code optimization"}
+{"subject": "use of intermediate representations", "relation": "causes", "object": "improved code optimization"}
+{"subject": "The presence of platform-independent intermediate representations", "relation": "leads to", "object": "enhanced portability"}
+{"subject": "presence of intermediate representations", "relation": "leads to", "object": "enhanced portability"}
+{"subject": "presence of intermediate representations", "relation": "leads", "object": "enhanced portability"}
+{"subject": "presence of platform-independent representations", "relation": "leads to", "object": "enhanced portability"}
+{"subject": "presence of platform-independent representations", "relation": "leads", "object": "to enhanced"}
+{"subject": "presence of platform-independent intermediate representations", "relation": "leads to", "object": "portability"}
+{"subject": "presence of platform-independent intermediate representations", "relation": "leads to", "object": "enhanced portability"}
+{"subject": "The generation of intermediate representations from high-level source code", "relation": "causes abstraction from", "object": "low-level details"}
+{"subject": "generation of representations from high-level source code", "relation": "causes abstraction from", "object": "low-level details"}
+{"subject": "generation of representations from high source code", "relation": "causes abstraction from", "object": "low-level details"}
+{"subject": "generation of representations from high source code", "relation": "causes abstraction from", "object": "low-level"}
+{"subject": "generation of representations from high-level source code", "relation": "causes", "object": "abstraction"}
+{"subject": "generation of representations from high-level source code", "relation": "causes from", "object": "low details"}
+{"subject": "generation of intermediate representations from", "relation": "causes abstraction from", "object": "low-level details"}
+{"subject": "generation of intermediate representations from", "relation": "causes", "object": "abstraction"}
+{"subject": "generation of intermediate representations from", "relation": "causes from", "object": "low-"}
+{"subject": "generation of intermediate representations from high-level source code", "relation": "causes", "object": "abstraction"}
+{"subject": "generation of intermediate representations from high-level source code", "relation": "causes from", "object": "level details"}
+{"subject": "generation of intermediate representations from high-level source code", "relation": "causes abstraction from", "object": "low-level details"}
+{"subject": "generation of representations from high source code", "relation": "causes abstraction from", "object": "low level details"}
+{"subject": "generation of representations from high-level source code", "relation": "causes", "object": "abstraction low-level details"}
+{"subject": "generation of representations from high-level source code", "relation": "causes low-", "object": "abstraction"}
+{"subject": "generation of intermediate representations from", "relation": "causes from", "object": "level"}
+{"subject": "A well-defined grammar", "relation": "causes", "object": "precise code generation"}
+{"subject": "grammar", "relation": "causes", "object": "precise code generation"}
+{"subject": "well-defined grammar", "relation": "causes", "object": "code generation"}
+{"subject": "well-defined grammar", "relation": "causes", "object": "precise code generation"}
+{"subject": "Automated refactoring", "relation": "leads to", "object": "improved code maintainability"}
+{"subject": "refactoring", "relation": "leads to", "object": "improved code maintainability"}
+{"subject": "refactoring", "relation": "leads to", "object": "improved maintainability"}
+{"subject": "Automated refactoring", "relation": "leads to", "object": "code maintainability"}
+{"subject": "The use of dynamic programming", "relation": "causes reduction in", "object": "redundant calculations"}
+{"subject": "-use of programming", "relation": "causes reduction in", "object": "redundant calculations"}
+{"subject": "-use of programming", "relation": "causes reduction in", "object": "redundant"}
+{"subject": "-use of dynamic programming", "relation": "causes reduction in", "object": "calculations"}
+{"subject": "-use of dynamic programming", "relation": "causes reduction in", "object": "redundant calculations"}
+{"subject": "-use of programming", "relation": "causes", "object": "reduction redundant calculations"}
+{"subject": "The application of greedy algorithms", "relation": "leads to", "object": "suboptimal solutions in certain scenarios"}
+{"subject": "-application of algorithms", "relation": "leads to", "object": "suboptimal solutions in certain scenarios"}
+{"subject": "-application of algorithms", "relation": "leads to", "object": "suboptimal"}
+{"subject": "-application of algorithms", "relation": "leads in", "object": "certain scenarios"}
+{"subject": "-application of algorithms", "relation": "leads to", "object": "suboptimal solutions in certain"}
+{"subject": "-application of greedy algorithms", "relation": "leads to", "object": "solutions in certain scenarios"}
+{"subject": "-application of greedy algorithms", "relation": "leads to", "object": "solutions in certain"}
+{"subject": "-application of greedy algorithms", "relation": "leads to", "object": "suboptimal solutions in scenarios"}
+{"subject": "-application of greedy algorithms", "relation": "leads to", "object": "suboptimal solutions in certain scenarios"}
+{"subject": "The implementation of parallel processing", "relation": "causes increase in", "object": "computational throughput"}
+{"subject": "-implementation of processing", "relation": "causes increase in", "object": "computational throughput"}
+{"subject": "-implementation of processing", "relation": "causes increase in", "object": "computational"}
+{"subject": "-implementation of parallel processing", "relation": "causes increase in", "object": "throughput"}
+{"subject": "-implementation of parallel processing", "relation": "causes increase in", "object": "computational throughput"}
+{"subject": "-implementation of processing causes", "relation": "increase", "object": "computational throughput"}
+{"subject": "A high level of concurrency", "relation": "causes complexity in", "object": "synchronization"}
+{"subject": "level of concurrency", "relation": "causes complexity in", "object": "synchronization"}
+{"subject": "level of concurrency causes", "relation": "increased in", "object": "synchronization"}
+{"subject": "high level of concurrency", "relation": "causes complexity in", "object": "synchronization"}
+{"subject": "level of concurrency", "relation": "causes", "object": "increased complexity synchronization"}
+{"subject": "high level of concurrency", "relation": "causes", "object": "complexity synchronization"}
+{"subject": "Efficient garbage collection", "relation": "leads to", "object": "improved memory management"}
+{"subject": "garbage collection", "relation": "leads to", "object": "improved memory management"}
+{"subject": "garbage collection", "relation": "leads to", "object": "improved management"}
+{"subject": "Efficient garbage collection", "relation": "leads to", "object": "memory management"}
+{"subject": "Dynamic linking causes", "relation": "delayed binding of", "object": "symbols"}
+{"subject": "Dynamic causes", "relation": "delayed binding of", "object": "symbols"}
+{"subject": "Dynamic causes", "relation": "delayed", "object": "binding symbols"}
+{"subject": "A clear and concise syntax", "relation": "causes", "object": "easier learning"}
+{"subject": "syntax", "relation": "causes", "object": "easier learning"}
+{"subject": "clear concise syntax", "relation": "causes", "object": "easier learning"}
+{"subject": "A strong type system", "relation": "causes", "object": "fewer runtime errors"}
+{"subject": "type system", "relation": "causes", "object": "fewer runtime errors"}
+{"subject": "type system", "relation": "causes", "object": "fewer errors"}
+{"subject": "strong type system", "relation": "causes", "object": "runtime errors"}
+{"subject": "strong type system", "relation": "causes", "object": "fewer runtime errors"}
+{"subject": "A modular design", "relation": "causes", "object": "better maintainability"}
+{"subject": "design", "relation": "causes", "object": "better maintainability"}
+{"subject": "design", "relation": "causes", "object": "maintainability"}
+{"subject": "modular design", "relation": "causes", "object": "better maintainability"}
+{"subject": "modular design", "relation": "causes", "object": "maintainability"}
+{"subject": "A strong type system", "relation": "causes", "object": "increased compile-time error detection"}
+{"subject": "type system", "relation": "causes", "object": "increased compile-time error detection"}
+{"subject": "type system", "relation": "causes", "object": "increased-time error detection"}
+{"subject": "type system", "relation": "causes", "object": "increased-time detection"}
+{"subject": "type system", "relation": "causes", "object": "increased compile-error detection"}
+{"subject": "strong type system", "relation": "causes", "object": "compile-time error detection"}
+{"subject": "strong type system", "relation": "causes", "object": "compile-error detection"}
+{"subject": "strong type system", "relation": "causes", "object": "increased compile time error detection"}
+{"subject": "strong type system", "relation": "causes", "object": "increased compile-time error detection"}
+{"subject": "Dynamic typing", "relation": "leads to", "object": "reduced runtime errors"}
+{"subject": "typing", "relation": "leads to", "object": "reduced runtime errors"}
+{"subject": "typing", "relation": "leads to", "object": "reduced errors"}
+{"subject": "Dynamic typing", "relation": "leads to", "object": "runtime errors"}
+{"subject": "Type inference", "relation": "causes", "object": "improved developer productivity"}
+{"subject": "Type inference", "relation": "causes", "object": "developer productivity"}
+{"subject": "A lack of proper error handling", "relation": "causes", "object": "increased software crashes"}
+{"subject": "lack of error handling", "relation": "causes", "object": "increased software crashes"}
+{"subject": "lack of error handling", "relation": "causes", "object": "increased crashes"}
+{"subject": "lack of proper error handling", "relation": "causes", "object": "software crashes"}
+{"subject": "lack of proper error handling", "relation": "causes", "object": "increased software crashes"}
+{"subject": "Poorly designed error messages", "relation": "lead to", "object": "user confusion"}
+{"subject": "designed error messages", "relation": "lead to", "object": "user confusion"}
+{"subject": "designed messages", "relation": "lead to", "object": "user confusion"}
+{"subject": "error messages", "relation": "lead to", "object": "user confusion"}
+{"subject": "Insufficient logging", "relation": "causes", "object": "difficulties"}
+{"subject": "Insufficient logging", "relation": "causes in", "object": "debugging"}

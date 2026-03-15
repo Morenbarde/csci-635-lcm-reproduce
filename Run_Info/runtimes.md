@@ -1,17 +1,3 @@
-## Economics Depth 1:
-```
-Model Load Time:  12.766969203948975
-
-Topic Graph Generation Time:  3683.467141151428
-
-Causal Question Generation Time:  18499.44256591797
-
-Causal Statement Generation Time:  21865.874705553055
-
-Causal Triplets Extraction Time:  18.45565128326416
-```
-
-
 ## Economics Depth 0:
 ```
 Model Load Time:  7.573575735092163
@@ -51,3 +37,56 @@ Causal Statement Generation Time:  224.24968004226685
 
 Causal Triplets Extraction Time:  4.461267471313477
 ```
+
+## Economics Depth 1:
+```
+Model Load Time:  15.589242458343506
+
+Topic Graph Generation Time:  1720.1686084270477
+
+Causal Question Generation Time:  10264.786449432373
+
+Causal Statement Generation Time:  11564.4514336586
+
+Causal Triplets Extraction Time:  20.817588806152344
+```
+
+## Biology Depth 1:
+```
+Model Load Time:  7.11812424659729
+
+Topic Graph Generation Time:  275.3255965709686
+
+Causal Question Generation Time:  1784.6692640781403
+
+Causal Statement Generation Time:  2123.7704195976257
+
+Causal Triplets Extraction Time:  20.57916569709778
+```
+
+## Indus Depth 1:
+```
+Model Load Time:  15.730164527893066
+
+Topic Graph Generation Time:  1684.640899181366
+
+Causal Question Generation Time:  9960.009642362595
+
+Causal Statement Generation Time:  8757.01040148735
+
+Causal Triplets Extraction Time:  16.406423807144165
+```
+
+## Software Engineering Depth 1:
+```
+Model Load Time:  15.754502773284912
+
+Topic Graph Generation Time:  1169.4340963363647
+
+Causal Question Generation Time:  7377.241956949234
+
+Causal Statement Generation Time:  7199.066256761551
+
+Causal Triplets Extraction Time:  17.729013919830322
+```
+
