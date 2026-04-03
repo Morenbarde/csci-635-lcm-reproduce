@@ -1,7 +1,3 @@
-{"subject": "interest rates", "relation": "affects", "object": "investment"}
-{"subject": "investment", "relation": "affects", "object": "aggregate demand"}
-{"subject": "interest rates", "relation": "affects", "object": "aggregate demand"}
-
-{"subject": "innovation", "relation": "causes", "object": "productivity"}
-{"subject": "productivity", "relation": "causes", "object": "economic growth"}
-{"subject": "innovation", "relation": "causes", "object": "economic growth"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd28d02744de42eacade48fec05c8a27c6b84671763e6274e4206f048f8d4376
+size 469

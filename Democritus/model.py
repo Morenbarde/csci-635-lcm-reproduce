@@ -1,4 +1,5 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+import transformers
 import torch
 import time
 
@@ -16,7 +17,12 @@ class Democritus_Model():
         #     bnb_4bit_quant_type="nf4",
         # )
 
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name, fix_mistral_regex=True)
+        from packaging import version
+        if version.parse(transformers.__version__) < version.parse("4.48.0"):
+            self.tokenizer = AutoTokenizer.from_pretrained(model_name, fix_mistral_regex=True)
+        else:
+            self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        # self.tokenizer = AutoTokenizer.from_pretrained(model_name, fix_mistral_regex=True)
 
         self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
