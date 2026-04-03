@@ -1,3 +1,128 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77155f59b84b68989d81dbad8f84c3233dafb84e35e4242e4ecec6e78a522b5d
-size 11759
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of the hippocampus"}
+{"subject": "stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Increased dopamine levels in the nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward pleasure"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause", "object": "feelings reward and pleasure"}
+{"subject": "Disruption of the blood-brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "-Disruption of blood brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "-Disruption of blood-brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "A mutation in the CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "A deletion in the SMN1 gene", "relation": "leads to", "object": "spinal muscular atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "muscular atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "muscular"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "spinal atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "spinal muscular atrophy"}
+{"subject": "A trinucleotide repeat expansion in the HTT gene", "relation": "causes", "object": "Huntington's disease"}
+{"subject": "trinucleotide repeat expansion in HTT gene", "relation": "causes", "object": "Huntington's disease"}
+{"subject": "Natural selection", "relation": "leads to", "object": "the survival of advantageous traits"}
+{"subject": "selection", "relation": "leads to", "object": "survival of advantageous traits"}
+{"subject": "selection", "relation": "leads to", "object": "survival of advantageous"}
+{"subject": "Natural selection", "relation": "leads to", "object": "survival of traits"}
+{"subject": "Natural selection", "relation": "leads to", "object": "survival of advantageous traits"}
+{"subject": "Genetic drift", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes in", "object": "frequencies"}
+{"subject": "drift", "relation": "causes", "object": "random changes allele frequencies"}
+{"subject": "Genetic drift", "relation": "causes", "object": "changes allele frequencies"}
+{"subject": "Phototropism", "relation": "causes", "object": "plants to grow towards light"}
+{"subject": "plants", "relation": "to grow towards", "object": "light"}
+{"subject": "Auxin transport", "relation": "leads to", "object": "differential cell elongation"}
+{"subject": "Auxin transport", "relation": "leads to", "object": "cell elongation"}
+{"subject": "Mycorrhizal fungi colonization causes", "relation": "increased", "object": "nutrient uptake"}
+{"subject": "Mycorrhizal fungi colonization causes", "relation": "increased in", "object": "plants"}
+{"subject": "-Atherosclerosis", "relation": "causes", "object": "coronary artery disease"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "coronary artery disease"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "coronary disease"}
+{"subject": "-Atherosclerosis", "relation": "causes", "object": "artery disease"}
+{"subject": "Hypertension", "relation": "leads to", "object": "left ventricular"}
+{"subject": "-Hypertension", "relation": "leads to", "object": "left hypertrophy"}
+{"subject": "-Hypertension", "relation": "leads to", "object": "left ventricular hypertrophy"}
+{"subject": "-Myocardial infarction", "relation": "causes", "object": "heart failure"}
+{"subject": "infarction", "relation": "causes", "object": "heart failure"}
+{"subject": "-Hypersecretion of growth hormone in adults", "relation": "causes", "object": "acromegaly"}
+{"subject": "Hypersecretion of growth hormone in adults", "relation": "causes", "object": "acromegaly"}
+{"subject": "-Insulin deficiency", "relation": "leads to", "object": "hyperglycemia"}
+{"subject": "Insulin deficiency", "relation": "leads to", "object": "hyperglycemia"}
+{"subject": "-Insulin deficiency", "relation": "leads", "object": "to hyperglycemia"}
+{"subject": "-Excessive cortisol production", "relation": "causes", "object": "Cushing's syndrome"}
+{"subject": "cortisol production", "relation": "causes", "object": "Cushing's syndrome"}
+{"subject": "A pathogen invasion", "relation": "causes activation of", "object": "the innate immune system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "immune system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "immune"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "innate system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "innate immune system"}
+{"subject": "Cytokine release", "relation": "leads to", "object": "inflammation"}
+{"subject": "release", "relation": "leads to", "object": "inflammation"}
+{"subject": "T cell activation", "relation": "results in", "object": "the adaptive immune response"}
+{"subject": "T cell activation", "relation": "results in", "object": "adaptive response"}
+{"subject": "T cell activation", "relation": "results in", "object": "immune response"}
+{"subject": "T cell activation", "relation": "results in", "object": "immune"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage, leading oncogenesis"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage,"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage leading to oncogenesis"}
+{"subject": "damage", "relation": "leading to", "object": "oncogenesis"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage leading to"}
+{"subject": "inflammation", "relation": "causes to", "object": "oncogenesis"}
+{"subject": "causes", "relation": "leading to", "object": "oncogenesis"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "uncontrolled cell proliferation"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "uncontrolled proliferation"}
+{"subject": "-Activation of oncogenes", "relation": "leads to", "object": "cell proliferation"}
+{"subject": "Inactivation of tumor suppressor genes", "relation": "leads to", "object": "loss of cell cycle control"}
+{"subject": "-Increased muscle contraction", "relation": "causes release of", "object": "myokines"}
+{"subject": "muscle contraction", "relation": "causes release of", "object": "myokines"}
+{"subject": "muscle contraction", "relation": "causes", "object": "release myokines"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "heart rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "-heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "-Elevated heart rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "heart rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "-Elevated heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "rate", "relation": "causes", "object": "increased output"}
+{"subject": "rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "enhanced mitochondrial biogenesis"}
+{"subject": "oxygen demand", "relation": "causes", "object": "enhanced mitochondrial biogenesis"}
+{"subject": "oxygen demand", "relation": "causes", "object": "enhanced mitochondrial"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "mitochondrial biogenesis"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "enhanced biogenesis"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Dysregulation of lipid metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "Dysregulation of lipid", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "Dysregulation of lipid metabolism", "relation": "causes", "object": "hepatic"}
+{"subject": "-Dysregulation of metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "-Dysregulation of lipid metabolism", "relation": "causes", "object": "steatosis"}
+{"subject": "lipid", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "hepatic"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "steatosis"}

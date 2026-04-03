@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d00f4e7fed0b86bc181f40917205129bf29184512062664b397c0c73ecb99166
-size 628
+{"topic": "Neuroscience", "path": ["Neuroscience"], "depth": 0}
+{"topic": "Genetics", "path": ["Genetics"], "depth": 0}
+{"topic": "Evolution", "path": ["Evolution"], "depth": 0}
+{"topic": "Botany", "path": ["Botany"], "depth": 0}
+{"topic": "Cardiology", "path": ["Cardiology"], "depth": 0}
+{"topic": "Endocrinology", "path": ["Endocrinology"], "depth": 0}
+{"topic": "Immunology", "path": ["Immunology"], "depth": 0}
+{"topic": "Oncology", "path": ["Oncology"], "depth": 0}
+{"topic": "Exercise physiology", "path": ["Exercise physiology"], "depth": 0}
+{"topic": "Metabolic disorders", "path": ["Metabolic disorders"], "depth": 0}

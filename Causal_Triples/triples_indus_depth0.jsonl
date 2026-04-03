@@ -1,3 +1,146 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e639298a0688e6e119052dfcb40507c6cacb28d58419e81769345a48cc5868e9
-size 17097
+{"subject": "The decline of monsoon rains", "relation": "causes", "object": "agricultural failure"}
+{"subject": "decline of monsoon rains", "relation": "causes", "object": "failure"}
+{"subject": "decline of monsoon rains", "relation": "causes", "object": "agricultural failure"}
+{"subject": "Agricultural failure", "relation": "leads to", "object": "urban depopulation"}
+{"subject": "failure", "relation": "leads to", "object": "urban depopulation"}
+{"subject": "failure", "relation": "leads to", "object": "urban"}
+{"subject": "Agricultural failure", "relation": "leads to", "object": "depopulation"}
+{"subject": "Urban depopulation", "relation": "causes abandonment of", "object": "cities"}
+{"subject": "depopulation", "relation": "causes abandonment of", "object": "cities"}
+{"subject": "depopulation", "relation": "causes", "object": "abandonment cities"}
+{"subject": "The decline of the Indus Valley Civilization", "relation": "leads to", "object": "the abandonment of Harappan urban centers"}
+{"subject": "decline of Indus Valley Civilization", "relation": "leads to", "object": "abandonment of Harappan centers"}
+{"subject": "decline of Indus Valley Civilization", "relation": "leads to", "object": "abandonment of Harappan urban centers"}
+{"subject": "decline of Indus Valley Civilization", "relation": "leads to", "object": "abandonment of urban centers"}
+{"subject": "decline of Indus Valley Civilization", "relation": "leads to", "object": "abandonment of urban"}
+{"subject": "The monsoon variability", "relation": "causes fluctuations in", "object": "agricultural productivity in Harappan urban centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "productivity in Harappan urban centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "productivity in Harappan urban"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "agricultural productivity in Harappan centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "agricultural productivity in Harappan urban centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "productivity in Harappan centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "agricultural productivity in urban centers"}
+{"subject": "monsoon variability", "relation": "causes fluctuations in", "object": "agricultural productivity in urban"}
+{"subject": "The construction of sophisticated water management systems", "relation": "leads to", "object": "the growth and sustainability of Harappan urban centers"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth and sustainability of Harappan urban centers"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth and sustainability of Harappan urban"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth and sustainability of Harappan centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth and sustainability of Harappan urban centers"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth and sustainability of Harappan centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth and sustainability of urban centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth and sustainability of urban"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth and sustainability Harappan urban centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth sustainability of Harappan urban centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth sustainability of Harappan urban"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth"}
+{"subject": "construction of water management systems", "relation": "leads to", "object": "growth and sustainability Harappan urban"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth sustainability of Harappan centers"}
+{"subject": "construction of sophisticated water management systems", "relation": "leads to", "object": "growth and of Harappan centers"}
+{"subject": "The grid-like urban planning of Mohenjo-daro", "relation": "leads to", "object": "efficient land use and organization"}
+{"subject": "urban planning of Mohenjo-daro", "relation": "leads to", "object": "efficient land use and organization"}
+{"subject": "urban planning of-daro", "relation": "leads to", "object": "efficient land use and organization"}
+{"subject": "urban planning of-daro", "relation": "leads to", "object": "land use and organization"}
+{"subject": "urban planning of-daro", "relation": "leads to", "object": "efficient land use"}
+{"subject": "urban planning of Mohenjo-daro", "relation": "leads", "object": "efficient land use and organization"}
+{"subject": "urban planning of Mohenjo-daro", "relation": "leads", "object": "efficient land use"}
+{"subject": "urban planning of Mohenjo-daro", "relation": "leads to", "object": "efficient land use organization"}
+{"subject": "The advanced drainage system of Mohenjo-daro causes", "relation": "improved", "object": "public health"}
+{"subject": "drainage system of Mohenjo-daro causes", "relation": "improved", "object": "public health"}
+{"subject": "advanced drainage system of causes", "relation": "improved", "object": "public health"}
+{"subject": "advanced drainage system of causes", "relation": "improved by", "object": "waste removal"}
+{"subject": "advanced drainage system of Mohenjo-daro causes", "relation": "improved", "object": "public health"}
+{"subject": "drainage system of Mohenjo-daro causes", "relation": "improved public by", "object": "waste removal"}
+{"subject": "drainage system of Mohenjo-daro causes", "relation": "improved", "object": "public health facilitating waste removal"}
+{"subject": "advanced drainage system of causes", "relation": "improved by", "object": "waste"}
+{"subject": "advanced drainage system of Mohenjo-daro causes", "relation": "facilitating", "object": "waste removal"}
+{"subject": "The lack of bilingual texts", "relation": "causes", "object": "the Indus script to remain undeciphered"}
+{"subject": "lack of texts", "relation": "causes", "object": "Indus script to remain undeciphered"}
+{"subject": "lack of texts", "relation": "causes", "object": "Indus script to remain"}
+{"subject": "lack of bilingual texts", "relation": "causes", "object": "Indus script to remain"}
+{"subject": "lack of bilingual texts", "relation": "causes", "object": "Indus script to remain undeciphered"}
+{"subject": "The absence of a known language for the Indus script", "relation": "leads to", "object": "difficulties in deciphering it"}
+{"subject": "absence of language for Indus script", "relation": "leads to", "object": "difficulties in deciphering it"}
+{"subject": "absence of known language for Indus script", "relation": "leads to", "object": "difficulties in deciphering it"}
+{"subject": "The lack of a standardized writing system", "relation": "causes variations in", "object": "the Indus script"}
+{"subject": "lack of writing system", "relation": "causes variations in", "object": "Indus script"}
+{"subject": "lack of standardized writing system", "relation": "causes variations in", "object": "Indus script"}
+{"subject": "lack of writing system", "relation": "causes", "object": "variations Indus script"}
+{"subject": "The presence of epigraphic evidence", "relation": "causes reconstruction of", "object": "historical events"}
+{"subject": "presence of evidence", "relation": "causes reconstruction of", "object": "historical events"}
+{"subject": "presence of evidence", "relation": "causes reconstruction of", "object": "historical"}
+{"subject": "presence of epigraphic evidence", "relation": "causes reconstruction of", "object": "events"}
+{"subject": "presence of epigraphic evidence", "relation": "causes reconstruction of", "object": "historical events"}
+{"subject": "presence of evidence", "relation": "causes", "object": "reconstruction historical events"}
+{"subject": "The standardization of scripts", "relation": "leads to", "object": "the decipherment of ancient scripts"}
+{"subject": "standardization of scripts", "relation": "leads to", "object": "decipherment of scripts"}
+{"subject": "standardization of scripts", "relation": "leads to", "object": "decipherment of ancient scripts"}
+{"subject": "The understanding of paleoclimate", "relation": "causes contextualization of", "object": "epigraphic findings"}
+{"subject": "understanding of paleoclimate", "relation": "causes contextualization of", "object": "findings"}
+{"subject": "understanding of paleoclimate", "relation": "causes contextualization of", "object": "epigraphic findings"}
+{"subject": "solar insolation", "relation": "causes", "object": "enhanced summer monsoon rainfall"}
+{"subject": "Increased solar insolation", "relation": "causes", "object": "summer monsoon rainfall"}
+{"subject": "A rapid and widespread decrease in monsoon rainfall", "relation": "causes crop failures in", "object": "South Asia"}
+{"subject": "decrease in monsoon rainfall", "relation": "causes crop failures in", "object": "South Asia"}
+{"subject": "decrease in monsoon rainfall", "relation": "causes", "object": "widespread crop failures South Asia"}
+{"subject": "rapid and widespread decrease in monsoon rainfall", "relation": "causes crop failures in", "object": "South Asia"}
+{"subject": "rapid widespread decrease in monsoon rainfall", "relation": "causes crop failures in", "object": "South Asia"}
+{"subject": "rapid widespread decrease in monsoon rainfall", "relation": "causes failures in", "object": "South Asia"}
+{"subject": "decrease in monsoon rainfall", "relation": "causes crop failures in", "object": "South"}
+{"subject": "rapid and widespread decrease in monsoon rainfall", "relation": "causes", "object": "crop failures South Asia"}
+{"subject": "A decrease in agricultural productivity", "relation": "leads to", "object": "societal disruptions and migrations in the Bronze Age"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal disruptions and migrations in Bronze Age"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal and migrations in Bronze Age"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "disruptions and migrations in Bronze Age"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "societal disruptions and migrations in Bronze Age"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal and migrations Bronze Age"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal and migrations in Age"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal disruptions"}
+{"subject": "decrease in productivity", "relation": "leads to", "object": "societal disruptions and migrations Bronze Age"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "disruptions"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "disruptions and migrations Bronze Age"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "societal disruptions migrations in Bronze Age"}
+{"subject": "decrease in agricultural productivity", "relation": "leads to", "object": "societal disruptions"}
+{"subject": "A weakening of the African and Asian monsoons", "relation": "leads to", "object": "a reduction in the strength of the Atlantic Meridional Overturning Circulation"}
+{"subject": "weakening of monsoons", "relation": "leads to", "object": "reduction in strength of Atlantic Meridional Overturning Circulation"}
+{"subject": "weakening of African and Asian monsoons", "relation": "leads to", "object": "reduction in strength of Atlantic Meridional Overturning Circulation"}
+{"subject": "weakening of African Asian monsoons", "relation": "leads to", "object": "reduction in strength of Atlantic Meridional Overturning Circulation"}
+{"subject": "weakening of African and monsoons", "relation": "leads to", "object": "reduction in strength of Atlantic Meridional Overturning Circulation"}
+{"subject": "A decrease in monsoon rainfall", "relation": "causes shift from", "object": "rice"}
+{"subject": "A decrease in monsoon rainfall", "relation": "causes shift to", "object": "millet cultivation"}
+{"subject": "decrease in monsoon rainfall", "relation": "causes shift from", "object": "rice"}
+{"subject": "decrease in monsoon rainfall", "relation": "causes shift to", "object": "millet cultivation"}
+{"subject": "Increased aridity", "relation": "leads to", "object": "the adoption of drought-resistant crops"}
+{"subject": "aridity", "relation": "leads to", "object": "adoption of drought-resistant crops"}
+{"subject": "aridity", "relation": "leads to", "object": "adoption of drought"}
+{"subject": "aridity", "relation": "leads to", "object": "adoption of drought-"}
+{"subject": "Increased aridity", "relation": "leads to", "object": "adoption of crops"}
+{"subject": "Increased aridity", "relation": "leads to", "object": "adoption of drought-resistant crops"}
+{"subject": "A rise in temperature", "relation": "causes shift from", "object": "winter"}
+{"subject": "A rise in temperature", "relation": "causes shift to", "object": "summer crops"}
+{"subject": "The development of irrigation systems", "relation": "causes", "object": "increased agricultural productivity"}
+{"subject": "development of irrigation systems", "relation": "causes", "object": "agricultural productivity"}
+{"subject": "development of irrigation systems", "relation": "causes", "object": "increased productivity"}
+{"subject": "development of irrigation systems", "relation": "causes", "object": "increased agricultural productivity"}
+{"subject": "Increased agricultural productivity", "relation": "leads to", "object": "population growth"}
+{"subject": "agricultural productivity", "relation": "leads to", "object": "population growth"}
+{"subject": "Increased productivity", "relation": "leads to", "object": "population growth"}
+{"subject": "The development of floodplain farming along the Indus and its tributaries", "relation": "leads to", "object": "the establishment of permanent settlements"}
+{"subject": "development of floodplain farming along Indus and its tributaries", "relation": "leads to", "object": "establishment of settlements"}
+{"subject": "development of floodplain farming along Indus and its tributaries", "relation": "leads to", "object": "establishment of permanent settlements"}
+{"subject": "development of floodplain farming along Indus", "relation": "leads to", "object": "establishment of permanent settlements"}
+{"subject": "development of floodplain farming along Indus", "relation": "leads to", "object": "establishment of permanent"}
+{"subject": "The seasonal flooding of the Indus River", "relation": "causes deposition of", "object": "nutrient-rich silt"}
+{"subject": "flooding of Indus River", "relation": "causes deposition of", "object": "nutrient-rich silt"}
+{"subject": "flooding of Indus River", "relation": "causes deposition of", "object": "nutrient"}
+{"subject": "flooding of Indus River", "relation": "causes deposition of", "object": "nutrient-"}
+{"subject": "seasonal flooding of Indus River", "relation": "causes deposition of", "object": "silt"}
+{"subject": "seasonal flooding of Indus River", "relation": "causes deposition of", "object": "nutrient-rich silt enhancing soil fertility"}
+{"subject": "seasonal flooding of Indus River", "relation": "causes deposition of", "object": "nutrient-rich silt enhancing fertility"}
+{"subject": "flooding of Indus River", "relation": "causes", "object": "deposition nutrient-rich silt"}
+{"subject": "flooding of Indus River", "relation": "causes", "object": "deposition nutrient-enhancing soil fertility"}
+{"subject": "flooding of Indus River", "relation": "causes", "object": "deposition nutrient-rich enhancing soil fertility"}
+{"subject": "deposition nutrient-rich", "relation": "enhancing", "object": "soil fertility"}
+{"subject": "The construction of irrigation systems", "relation": "leads to", "object": "the expansion of agricultural lands"}
+{"subject": "construction of irrigation systems", "relation": "leads to", "object": "expansion of lands"}
+{"subject": "construction of irrigation systems", "relation": "leads to", "object": "expansion of agricultural lands"}

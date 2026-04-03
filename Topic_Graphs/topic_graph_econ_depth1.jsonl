@@ -1,3 +1,165 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5dab2b7f89aaa7e142da0b7b6db726408ec90065f2119275c1059de93f4c3a98
-size 12614
+{"topic": "Macroeconomics", "path": ["Macroeconomics"]}
+{"topic": "Microeconomics", "path": ["Microeconomics"]}
+{"topic": "Game Theory", "path": ["Game Theory"]}
+{"topic": "Finance", "path": ["Finance"]}
+{"topic": "Trade", "path": ["Trade"]}
+{"topic": "Marketing", "path": ["Marketing"]}
+{"topic": "Stock Market", "path": ["Stock Market"]}
+{"topic": "Investing", "path": ["Investing"]}
+{"topic": "Cryptocurrency", "path": ["Cryptocurrency"]}
+{"topic": "Bonds", "path": ["Bonds"]}
+{"topic": "Monetary Policy", "path": ["Monetary Policy"]}
+{"topic": "Banking", "path": ["Banking"]}
+{"topic": "Fiscal Policy", "path": ["Fiscal Policy"]}
+{"topic": "Inflation", "path": ["Inflation"]}
+{"topic": "Unemployment", "path": ["Unemployment"]}
+{"topic": "National Income Accounting", "path": ["Macroeconomics", "National Income Accounting"]}
+{"topic": "Business Cycles", "path": ["Macroeconomics", "Business Cycles"]}
+{"topic": "Fiscal Policy", "path": ["Macroeconomics", "Fiscal Policy"]}
+{"topic": "Monetary Policy", "path": ["Macroeconomics", "Monetary Policy"]}
+{"topic": "Inflation", "path": ["Macroeconomics", "Inflation"]}
+{"topic": "Unemployment", "path": ["Macroeconomics", "Unemployment"]}
+{"topic": "Economic Growth", "path": ["Macroeconomics", "Economic Growth"]}
+{"topic": "International Trade", "path": ["Macroeconomics", "International Trade"]}
+{"topic": "Exchange Rates", "path": ["Macroeconomics", "Exchange Rates"]}
+{"topic": "Aggregate Demand and Supply", "path": ["Macroeconomics", "Aggregate Demand and Supply"]}
+{"topic": "Consumer Theory", "path": ["Microeconomics", "Consumer Theory"]}
+{"topic": "Production Theory", "path": ["Microeconomics", "Production Theory"]}
+{"topic": "Market Structures", "path": ["Microeconomics", "Market Structures"]}
+{"topic": "General Equilibrium", "path": ["Microeconomics", "General Equilibrium"]}
+{"topic": "Game Theory", "path": ["Microeconomics", "Game Theory"]}
+{"topic": "Externalities", "path": ["Microeconomics", "Externalities"]}
+{"topic": "Public Goods", "path": ["Microeconomics", "Public Goods"]}
+{"topic": "Asymmetric Information", "path": ["Microeconomics", "Asymmetric Information"]}
+{"topic": "Principal-Agent Problem", "path": ["Microeconomics", "Principal-Agent Problem"]}
+{"topic": "Welfare Economics", "path": ["Microeconomics", "Welfare Economics"]}
+{"topic": "Nash Equilibrium", "path": ["Game Theory", "Nash Equilibrium"]}
+{"topic": "Prisoner's Dilemma", "path": ["Game Theory", "Prisoner's Dilemma"]}
+{"topic": "Zero-Sum Games", "path": ["Game Theory", "Zero-Sum Games"]}
+{"topic": "Dominant Strategies", "path": ["Game Theory", "Dominant Strategies"]}
+{"topic": "Mixed Strategies", "path": ["Game Theory", "Mixed Strategies"]}
+{"topic": "Sequential Games", "path": ["Game Theory", "Sequential Games"]}
+{"topic": "Repeated Games", "path": ["Game Theory", "Repeated Games"]}
+{"topic": "Evolutionary Game Theory", "path": ["Game Theory", "Evolutionary Game Theory"]}
+{"topic": "Mechanism Design", "path": ["Game Theory", "Mechanism Design"]}
+{"topic": "Bargaining Theory", "path": ["Game Theory", "Bargaining Theory"]}
+{"topic": "Financial Markets", "path": ["Finance", "Financial Markets"]}
+{"topic": "Monetary Policy", "path": ["Finance", "Monetary Policy"]}
+{"topic": "Fiscal Policy", "path": ["Finance", "Fiscal Policy"]}
+{"topic": "Interest Rates", "path": ["Finance", "Interest Rates"]}
+{"topic": "Inflation", "path": ["Finance", "Inflation"]}
+{"topic": "Exchange Rates", "path": ["Finance", "Exchange Rates"]}
+{"topic": "Banking System", "path": ["Finance", "Banking System"]}
+{"topic": "Financial Regulation", "path": ["Finance", "Financial Regulation"]}
+{"topic": "Capital Markets", "path": ["Finance", "Capital Markets"]}
+{"topic": "Risk Management", "path": ["Finance", "Risk Management"]}
+{"topic": "Comparative Advantage", "path": ["Trade", "Comparative Advantage"]}
+{"topic": "Absolute Advantage", "path": ["Trade", "Absolute Advantage"]}
+{"topic": "Terms of Trade", "path": ["Trade", "Terms of Trade"]}
+{"topic": "Balance of Trade", "path": ["Trade", "Balance of Trade"]}
+{"topic": "Trade Agreements", "path": ["Trade", "Trade Agreements"]}
+{"topic": "Tariffs and Non-Tariff Barriers", "path": ["Trade", "Tariffs and Non-Tariff Barriers"]}
+{"topic": "Exchange Rates", "path": ["Trade", "Exchange Rates"]}
+{"topic": "Trade Deficit and Surplus", "path": ["Trade", "Trade Deficit and Surplus"]}
+{"topic": "Global Value Chains", "path": ["Trade", "Global Value Chains"]}
+{"topic": "Trade and Economic Growth", "path": ["Trade", "Trade and Economic Growth"]}
+{"topic": "Consumer Behavior", "path": ["Marketing", "Consumer Behavior"]}
+{"topic": "Market Segmentation", "path": ["Marketing", "Market Segmentation"]}
+{"topic": "Brand Management", "path": ["Marketing", "Brand Management"]}
+{"topic": "Product Life Cycle", "path": ["Marketing", "Product Life Cycle"]}
+{"topic": "Pricing Strategies", "path": ["Marketing", "Pricing Strategies"]}
+{"topic": "Distribution Channels", "path": ["Marketing", "Distribution Channels"]}
+{"topic": "Promotion Techniques", "path": ["Marketing", "Promotion Techniques"]}
+{"topic": "Market Research", "path": ["Marketing", "Market Research"]}
+{"topic": "Competitive Analysis", "path": ["Marketing", "Competitive Analysis"]}
+{"topic": "Digital Marketing", "path": ["Marketing", "Digital Marketing"]}
+{"topic": "Market Efficiency", "path": ["Stock Market", "Market Efficiency"]}
+{"topic": "Asset Pricing Models", "path": ["Stock Market", "Asset Pricing Models"]}
+{"topic": "Behavioral Finance", "path": ["Stock Market", "Behavioral Finance"]}
+{"topic": "Market Sentiment", "path": ["Stock Market", "Market Sentiment"]}
+{"topic": "Market Volatility", "path": ["Stock Market", "Market Volatility"]}
+{"topic": "Stock Market Bubbles", "path": ["Stock Market", "Stock Market Bubbles"]}
+{"topic": "Stock Market Crashes", "path": ["Stock Market", "Stock Market Crashes"]}
+{"topic": "Market Microstructure", "path": ["Stock Market", "Market Microstructure"]}
+{"topic": "Portfolio Theory", "path": ["Stock Market", "Portfolio Theory"]}
+{"topic": "Index Funds and ETFs", "path": ["Stock Market", "Index Funds and ETFs"]}
+{"topic": "Asset Allocation", "path": ["Investing", "Asset Allocation"]}
+{"topic": "Diversification", "path": ["Investing", "Diversification"]}
+{"topic": "Risk Management", "path": ["Investing", "Risk Management"]}
+{"topic": "Portfolio Theory", "path": ["Investing", "Portfolio Theory"]}
+{"topic": "Capital Market Theory", "path": ["Investing", "Capital Market Theory"]}
+{"topic": "Efficient Market Hypothesis", "path": ["Investing", "Efficient Market Hypothesis"]}
+{"topic": "Behavioral Finance", "path": ["Investing", "Behavioral Finance"]}
+{"topic": "Investment Strategies", "path": ["Investing", "Investment Strategies"]}
+{"topic": "Market Efficiency", "path": ["Investing", "Market Efficiency"]}
+{"topic": "Financial Instruments", "path": ["Investing", "Financial Instruments"]}
+{"topic": "Blockchain Technology", "path": ["Cryptocurrency", "Blockchain Technology"]}
+{"topic": "Decentralized Finance (DeFi)", "path": ["Cryptocurrency", "Decentralized Finance (DeFi)"]}
+{"topic": "Regulatory Frameworks", "path": ["Cryptocurrency", "Regulatory Frameworks"]}
+{"topic": "Market Volatility", "path": ["Cryptocurrency", "Market Volatility"]}
+{"topic": "Initial Coin Offerings (ICOs)", "path": ["Cryptocurrency", "Initial Coin Offerings (ICOs)"]}
+{"topic": "Cryptocurrency Mining", "path": ["Cryptocurrency", "Cryptocurrency Mining"]}
+{"topic": "Smart Contracts", "path": ["Cryptocurrency", "Smart Contracts"]}
+{"topic": "Central Bank Digital Currencies (CBDCs)", "path": ["Cryptocurrency", "Central Bank Digital Currencies (CBDCs)"]}
+{"topic": "Environmental Impact", "path": ["Cryptocurrency", "Environmental Impact"]}
+{"topic": "Adoption and Integration", "path": ["Cryptocurrency", "Adoption and Integration"]}
+{"topic": "Bond Pricing", "path": ["Bonds", "Bond Pricing"]}
+{"topic": "Yield Curve", "path": ["Bonds", "Yield Curve"]}
+{"topic": "Interest Rates", "path": ["Bonds", "Interest Rates"]}
+{"topic": "Credit Risk", "path": ["Bonds", "Credit Risk"]}
+{"topic": "Duration and Convexity", "path": ["Bonds", "Duration and Convexity"]}
+{"topic": "Bond Ratings", "path": ["Bonds", "Bond Ratings"]}
+{"topic": "Inflation and Bonds", "path": ["Bonds", "Inflation and Bonds"]}
+{"topic": "Government Bonds", "path": ["Bonds", "Government Bonds"]}
+{"topic": "Corporate Bonds", "path": ["Bonds", "Corporate Bonds"]}
+{"topic": "Bond Market Liquidity", "path": ["Bonds", "Bond Market Liquidity"]}
+{"topic": "Money Supply", "path": ["Monetary Policy", "Money Supply"]}
+{"topic": "Interest Rates", "path": ["Monetary Policy", "Interest Rates"]}
+{"topic": "Inflation", "path": ["Monetary Policy", "Inflation"]}
+{"topic": "Quantitative Easing", "path": ["Monetary Policy", "Quantitative Easing"]}
+{"topic": "Open Market Operations", "path": ["Monetary Policy", "Open Market Operations"]}
+{"topic": "Reserve Requirements", "path": ["Monetary Policy", "Reserve Requirements"]}
+{"topic": "Monetary Policy Transmission Mechanism", "path": ["Monetary Policy", "Monetary Policy Transmission Mechanism"]}
+{"topic": "Taylor Rule", "path": ["Monetary Policy", "Taylor Rule"]}
+{"topic": "Central Bank Independence", "path": ["Monetary Policy", "Central Bank Independence"]}
+{"topic": "Exchange Rates", "path": ["Monetary Policy", "Exchange Rates"]}
+{"topic": "Fractional Reserve Banking", "path": ["Banking", "Fractional Reserve Banking"]}
+{"topic": "Bank Capital Requirements", "path": ["Banking", "Bank Capital Requirements"]}
+{"topic": "Liquidity Management", "path": ["Banking", "Liquidity Management"]}
+{"topic": "Credit Risk", "path": ["Banking", "Credit Risk"]}
+{"topic": "Interest Rate Risk", "path": ["Banking", "Interest Rate Risk"]}
+{"topic": "Bank Runs", "path": ["Banking", "Bank Runs"]}
+{"topic": "Moral Hazard", "path": ["Banking", "Moral Hazard"]}
+{"topic": "Too Big to Fail", "path": ["Banking", "Too Big to Fail"]}
+{"topic": "Basel Accords", "path": ["Banking", "Basel Accords"]}
+{"topic": "Shadow Banking", "path": ["Banking", "Shadow Banking"]}
+{"topic": "Government Spending", "path": ["Fiscal Policy", "Government Spending"]}
+{"topic": "Taxation", "path": ["Fiscal Policy", "Taxation"]}
+{"topic": "Budget Deficit and Surplus", "path": ["Fiscal Policy", "Budget Deficit and Surplus"]}
+{"topic": "Automatic Stabilizers", "path": ["Fiscal Policy", "Automatic Stabilizers"]}
+{"topic": "Discretionary Fiscal Policy", "path": ["Fiscal Policy", "Discretionary Fiscal Policy"]}
+{"topic": "Crowding Out Effect", "path": ["Fiscal Policy", "Crowding Out Effect"]}
+{"topic": "Multiplier Effect", "path": ["Fiscal Policy", "Multiplier Effect"]}
+{"topic": "Fiscal Policy and Inflation", "path": ["Fiscal Policy", "Fiscal Policy and Inflation"]}
+{"topic": "Fiscal Policy and Economic Growth", "path": ["Fiscal Policy", "Fiscal Policy and Economic Growth"]}
+{"topic": "Public Debt and Fiscal Sustainability", "path": ["Fiscal Policy", "Public Debt and Fiscal Sustainability"]}
+{"topic": "Demand-Pull Inflation", "path": ["Inflation", "Demand-Pull Inflation"]}
+{"topic": "Cost-Push Inflation", "path": ["Inflation", "Cost-Push Inflation"]}
+{"topic": "Built-In Inflation", "path": ["Inflation", "Built-In Inflation"]}
+{"topic": "Hyperinflation", "path": ["Inflation", "Hyperinflation"]}
+{"topic": "Stagflation", "path": ["Inflation", "Stagflation"]}
+{"topic": "Inflation Expectations", "path": ["Inflation", "Inflation Expectations"]}
+{"topic": "Monetary Policy and Inflation", "path": ["Inflation", "Monetary Policy and Inflation"]}
+{"topic": "Fiscal Policy and Inflation", "path": ["Inflation", "Fiscal Policy and Inflation"]}
+{"topic": "Inflation Targeting", "path": ["Inflation", "Inflation Targeting"]}
+{"topic": "Phillips Curve", "path": ["Inflation", "Phillips Curve"]}
+{"topic": "Frictional Unemployment", "path": ["Unemployment", "Frictional Unemployment"]}
+{"topic": "Structural Unemployment", "path": ["Unemployment", "Structural Unemployment"]}
+{"topic": "Cyclical Unemployment", "path": ["Unemployment", "Cyclical Unemployment"]}
+{"topic": "Natural Rate of Unemployment", "path": ["Unemployment", "Natural Rate of Unemployment"]}
+{"topic": "Okun's Law", "path": ["Unemployment", "Okun's Law"]}
+{"topic": "Phillips Curve", "path": ["Unemployment", "Phillips Curve"]}
+{"topic": "Labor Force Participation Rate", "path": ["Unemployment", "Labor Force Participation Rate"]}
+{"topic": "Unemployment Benefits", "path": ["Unemployment", "Unemployment Benefits"]}
+{"topic": "Minimum Wage", "path": ["Unemployment", "Minimum Wage"]}
+{"topic": "Job Search Theory", "path": ["Unemployment", "Job Search Theory"]}

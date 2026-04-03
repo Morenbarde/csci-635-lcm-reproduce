@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2f9ad1c3d61a4e19a1af899eefd2ce599905397cf461170210594f7be406a6f
-size 784
+{"subject": "interest rates", "relation": "cause", "object": "investment"}
+{"subject": "investment", "relation": "affects", "object": "aggregate demand"}
+{"subject": "aggregate demand", "relation": "affects", "object": "inflation"}
+{"subject": "inflation", "relation": "affects", "object": "interest rates"}
+
+{"subject": "government spending", "relation": "increases", "object": "aggregate demand"}
+{"subject": "taxes", "relation": "reduce", "object": "disposable income"}
+{"subject": "disposable income", "relation": "affects", "object": "consumption"}
+
+{"subject": "productivity", "relation": "causes", "object": "economic growth"}
+{"subject": "innovation", "relation": "causes", "object": "productivity"}
+{"subject": "human capital", "relation": "causes", "object": "productivity"}

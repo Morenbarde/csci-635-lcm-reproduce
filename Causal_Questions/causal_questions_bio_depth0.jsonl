@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79a0579434d96c4fb73b2ddbe9c6c28d4bacdf841438817b7677f64d02fa7d0e
-size 2383
+{"topic": "Neuroscience", "path": ["Neuroscience"], "depth": 0, "questions": ["What causes the brain to form memories?", "What leads to the development of neurodegenerative diseases?", "What causes the brain to process sensory information?"]}
+{"topic": "Genetics", "path": ["Genetics"], "depth": 0, "questions": ["What causes genetic mutations?", "What leads to the expression of certain genes?", "What causes genetic disorders?"]}
+{"topic": "Evolution", "path": ["Evolution"], "depth": 0, "questions": ["What causes the evolution of new species?", "What leads to the development of complex brains in certain species?", "What causes the extinction of certain species during evolution?"]}
+{"topic": "Botany", "path": ["Botany"], "depth": 0, "questions": ["What causes plants to grow towards light?", "What leads to the formation of different plant species?", "What causes some plants to be carnivorous?"]}
+{"topic": "Cardiology", "path": ["Cardiology"], "depth": 0, "questions": ["What causes heart failure?", "What leads to arrhythmias?", "What causes coronary artery disease?"]}
+{"topic": "Endocrinology", "path": ["Endocrinology"], "depth": 0, "questions": ["What causes diabetes?", "What leads to thyroid dysfunction?", "What causes Cushing's syndrome?"]}
+{"topic": "Immunology", "path": ["Immunology"], "depth": 0, "questions": ["What causes the immune system to attack healthy tissue in autoimmune diseases?", "What leads to the development of allergies in some individuals but not others?", "What causes the immune system to become suppressed in certain conditions, such as HIV/AIDS?"]}
+{"topic": "Oncology", "path": ["Oncology"], "depth": 0, "questions": ["What causes cancer cells to become resistant to chemotherapy?", "What leads to the development of metastatic cancer?", "What causes certain cancers to be more aggressive than others?"]}
+{"topic": "Exercise physiology", "path": ["Exercise physiology"], "depth": 0, "questions": ["What causes the release of endorphins during exercise?", "What leads to improved cardiovascular health through regular physical activity?", "What causes the increase in muscle strength and endurance with resistance training?"]}
+{"topic": "Metabolic disorders", "path": ["Metabolic disorders"], "depth": 0, "questions": ["What causes type 2 diabetes?", "What leads to metabolic syndrome?", "What causes non-alcoholic fatty liver disease?"]}

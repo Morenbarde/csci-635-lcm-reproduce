@@ -1,3 +1,1727 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6e5dcb81ab8e39e088e1c2018d89cba78899f41c012b5f5b5f9780653fd979c
-size 173448
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of the hippocampus"}
+{"subject": "stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Increased dopamine levels in the nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward and pleasure"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward pleasure"}
+{"subject": "-Increased dopamine levels in nucleus accumbens", "relation": "cause feelings of", "object": "reward"}
+{"subject": "dopamine levels in nucleus accumbens", "relation": "cause", "object": "feelings reward and pleasure"}
+{"subject": "Disruption of the blood-brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "-Disruption of blood brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "-Disruption of blood-brain barrier", "relation": "leads to", "object": "neuroinflammation"}
+{"subject": "A mutation in the CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "A deletion in the SMN1 gene", "relation": "leads to", "object": "spinal muscular atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "muscular atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "muscular"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "spinal atrophy"}
+{"subject": "deletion in SMN1 gene", "relation": "leads to", "object": "spinal muscular atrophy"}
+{"subject": "A trinucleotide repeat expansion in the HTT gene", "relation": "causes", "object": "Huntington's disease"}
+{"subject": "trinucleotide repeat expansion in HTT gene", "relation": "causes", "object": "Huntington's disease"}
+{"subject": "Natural selection", "relation": "leads to", "object": "the survival of advantageous traits"}
+{"subject": "selection", "relation": "leads to", "object": "survival of advantageous traits"}
+{"subject": "selection", "relation": "leads to", "object": "survival of advantageous"}
+{"subject": "Natural selection", "relation": "leads to", "object": "survival of traits"}
+{"subject": "Natural selection", "relation": "leads to", "object": "survival of advantageous traits"}
+{"subject": "Genetic drift", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes in", "object": "allele frequencies"}
+{"subject": "drift", "relation": "causes in", "object": "frequencies"}
+{"subject": "drift", "relation": "causes", "object": "random changes allele frequencies"}
+{"subject": "Genetic drift", "relation": "causes", "object": "changes allele frequencies"}
+{"subject": "Phototropism", "relation": "causes", "object": "plants to grow towards light"}
+{"subject": "plants", "relation": "to grow towards", "object": "light"}
+{"subject": "Auxin transport", "relation": "leads to", "object": "differential cell elongation"}
+{"subject": "Auxin transport", "relation": "leads to", "object": "cell elongation"}
+{"subject": "Mycorrhizal fungi colonization causes", "relation": "increased", "object": "nutrient uptake"}
+{"subject": "Mycorrhizal fungi colonization causes", "relation": "increased in", "object": "plants"}
+{"subject": "-Atherosclerosis", "relation": "causes", "object": "coronary artery disease"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "coronary artery disease"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "coronary disease"}
+{"subject": "-Atherosclerosis", "relation": "causes", "object": "artery disease"}
+{"subject": "Hypertension", "relation": "leads to", "object": "left ventricular"}
+{"subject": "-Hypertension", "relation": "leads to", "object": "left hypertrophy"}
+{"subject": "-Hypertension", "relation": "leads to", "object": "left ventricular hypertrophy"}
+{"subject": "-Myocardial infarction", "relation": "causes", "object": "heart failure"}
+{"subject": "infarction", "relation": "causes", "object": "heart failure"}
+{"subject": "-Hypersecretion of growth hormone in adults", "relation": "causes", "object": "acromegaly"}
+{"subject": "Hypersecretion of growth hormone in adults", "relation": "causes", "object": "acromegaly"}
+{"subject": "-Insulin deficiency", "relation": "leads to", "object": "hyperglycemia"}
+{"subject": "Insulin deficiency", "relation": "leads to", "object": "hyperglycemia"}
+{"subject": "-Insulin deficiency", "relation": "leads", "object": "to hyperglycemia"}
+{"subject": "-Excessive cortisol production", "relation": "causes", "object": "Cushing's syndrome"}
+{"subject": "cortisol production", "relation": "causes", "object": "Cushing's syndrome"}
+{"subject": "A pathogen invasion", "relation": "causes activation of", "object": "the innate immune system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "immune system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "immune"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "innate system"}
+{"subject": "pathogen invasion", "relation": "causes activation of", "object": "innate immune system"}
+{"subject": "Cytokine release", "relation": "leads to", "object": "inflammation"}
+{"subject": "release", "relation": "leads to", "object": "inflammation"}
+{"subject": "T cell activation", "relation": "results in", "object": "the adaptive immune response"}
+{"subject": "T cell activation", "relation": "results in", "object": "adaptive response"}
+{"subject": "T cell activation", "relation": "results in", "object": "immune response"}
+{"subject": "T cell activation", "relation": "results in", "object": "immune"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage, leading oncogenesis"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage,"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage leading to oncogenesis"}
+{"subject": "damage", "relation": "leading to", "object": "oncogenesis"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage leading to"}
+{"subject": "inflammation", "relation": "causes to", "object": "oncogenesis"}
+{"subject": "causes", "relation": "leading to", "object": "oncogenesis"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "uncontrolled cell proliferation"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "uncontrolled proliferation"}
+{"subject": "-Activation of oncogenes", "relation": "leads to", "object": "cell proliferation"}
+{"subject": "Inactivation of tumor suppressor genes", "relation": "leads to", "object": "loss of cell cycle control"}
+{"subject": "-Increased muscle contraction", "relation": "causes release of", "object": "myokines"}
+{"subject": "muscle contraction", "relation": "causes release of", "object": "myokines"}
+{"subject": "muscle contraction", "relation": "causes", "object": "release myokines"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "Elevated heart rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "heart rate", "relation": "causes", "object": "increased cardiac"}
+{"subject": "heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "-heart rate", "relation": "causes", "object": "increased cardiac output"}
+{"subject": "-Elevated heart rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "heart rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "-Elevated heart rate", "relation": "causes", "object": "increased output"}
+{"subject": "rate", "relation": "causes", "object": "increased output"}
+{"subject": "rate", "relation": "causes", "object": "cardiac output"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "enhanced mitochondrial biogenesis"}
+{"subject": "oxygen demand", "relation": "causes", "object": "enhanced mitochondrial biogenesis"}
+{"subject": "oxygen demand", "relation": "causes", "object": "enhanced mitochondrial"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "mitochondrial biogenesis"}
+{"subject": "-Increased oxygen demand", "relation": "causes", "object": "enhanced biogenesis"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Dysregulation of lipid metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "Dysregulation of lipid", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "Dysregulation of lipid metabolism", "relation": "causes", "object": "hepatic"}
+{"subject": "-Dysregulation of metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "-Dysregulation of lipid metabolism", "relation": "causes", "object": "steatosis"}
+{"subject": "lipid", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "hepatic"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "metabolism", "relation": "causes", "object": "hepatic steatosis"}
+{"subject": "lipid metabolism", "relation": "causes", "object": "steatosis"}
+{"subject": "Damage to the hippocampus", "relation": "causes", "object": "memory impairment"}
+{"subject": "-Damage to hippocampus", "relation": "causes", "object": "memory impairment"}
+{"subject": "Activation of the substantia nigra", "relation": "leads to", "object": "increased dopamine release in the striatum"}
+{"subject": "-Activation of substantia nigra", "relation": "leads to", "object": "dopamine release in striatum"}
+{"subject": "-Activation of substantia nigra", "relation": "leads to", "object": "increased dopamine release in striatum"}
+{"subject": "-Action potentials", "relation": "cause release of", "object": "neurotransmitters from presynaptic neurons"}
+{"subject": "-Action potentials", "relation": "cause release of", "object": "neurotransmitters"}
+{"subject": "-Action potentials", "relation": "cause release from", "object": "neurons"}
+{"subject": "-Increased intracellular calcium levels", "relation": "lead to", "object": "the activation of calcium-dependent enzymes"}
+{"subject": "intracellular calcium levels", "relation": "lead to", "object": "activation of calcium-dependent enzymes"}
+{"subject": "intracellular levels", "relation": "lead to", "object": "activation of calcium-dependent enzymes"}
+{"subject": "intracellular levels", "relation": "lead to", "object": "activation of calcium-"}
+{"subject": "intracellular levels", "relation": "lead to", "object": "activation of calcium-dependent"}
+{"subject": "intracellular calcium levels", "relation": "lead to", "object": "activation of calcium"}
+{"subject": "intracellular calcium levels", "relation": "lead to", "object": "activation of calcium-"}
+{"subject": "-Increased calcium levels", "relation": "lead to", "object": "activation of calcium-dependent enzymes"}
+{"subject": "-Increased calcium levels", "relation": "lead to", "object": "activation of calcium"}
+{"subject": "-Increased calcium levels", "relation": "lead to", "object": "activation of calcium-"}
+{"subject": "-Increased intracellular calcium levels", "relation": "lead to", "object": "activation of enzymes"}
+{"subject": "-Increased intracellular calcium levels", "relation": "lead to", "object": "activation of calcium-dependent enzymes"}
+{"subject": "Inhibition of acetylcholinesterase", "relation": "causes activation of", "object": "acetylcholine receptors"}
+{"subject": "Inhibition of acetylcholinesterase", "relation": "causes activation of", "object": "acetylcholine"}
+{"subject": "-Inhibition of acetylcholinesterase", "relation": "causes activation of", "object": "acetylcholine receptors"}
+{"subject": "-Inhibition of acetylcholinesterase", "relation": "causes activation of", "object": "receptors"}
+{"subject": "acetylcholinesterase", "relation": "causes", "object": "prolonged activation acetylcholine receptors"}
+{"subject": "acetylcholinesterase", "relation": "causes activation of", "object": "receptors"}
+{"subject": "-Increased glutamate release", "relation": "causes", "object": "excitatory postsynaptic potentials"}
+{"subject": "glutamate release", "relation": "causes", "object": "excitatory postsynaptic potentials"}
+{"subject": "-Increased release", "relation": "causes", "object": "excitatory postsynaptic potentials"}
+{"subject": "-Increased glutamate release", "relation": "causes", "object": "excitatory potentials"}
+{"subject": "Inhibition of acetylcholinesterase", "relation": "leads to", "object": "increased acetylcholine levels"}
+{"subject": "Inhibition of acetylcholinesterase", "relation": "leads to", "object": "increased levels"}
+{"subject": "Inhibition of acetylcholinesterase", "relation": "leads to", "object": "increased acetylcholine"}
+{"subject": "-Inhibition of acetylcholinesterase", "relation": "leads to", "object": "acetylcholine levels"}
+{"subject": "-Inhibition of acetylcholinesterase", "relation": "leads to", "object": "increased levels"}
+{"subject": "Activation of NMDA receptors", "relation": "causes", "object": "calcium influx into neurons"}
+{"subject": "calcium", "relation": "influx into", "object": "neurons"}
+{"subject": "NMDA receptors", "relation": "causes", "object": "calcium influx neurons"}
+{"subject": "Activation of dopamine D2 receptors", "relation": "causes inhibition of", "object": "adenylate cyclase"}
+{"subject": "Activation of dopamine D2 receptors", "relation": "causes inhibition of", "object": "adenylate"}
+{"subject": "-Activation of dopamine D2 receptors", "relation": "causes inhibition of", "object": "cyclase"}
+{"subject": "dopamine D2 receptors", "relation": "causes", "object": "inhibition adenylate cyclase"}
+{"subject": "Blockade of NMDA receptors", "relation": "leads to", "object": "decreased calcium influx"}
+{"subject": "Blockade of NMDA receptors", "relation": "leads to", "object": "decreased influx"}
+{"subject": "-Blockade of NMDA receptors", "relation": "leads to", "object": "calcium influx"}
+{"subject": "Inhibition of monoamine oxidase", "relation": "causes levels of", "object": "monoamines"}
+{"subject": "Inhibition of monoamine oxidase causes", "relation": "increased of", "object": "monoamines"}
+{"subject": "-Inhibition of monoamine oxidase", "relation": "causes levels of", "object": "monoamines"}
+{"subject": "monoamine oxidase", "relation": "causes", "object": "increased levels monoamines"}
+{"subject": "Mutations in the HTT gene", "relation": "cause", "object": "Huntington's disease"}
+{"subject": "Mutations in HTT gene", "relation": "cause", "object": "Huntington's disease"}
+{"subject": "Dysfunction of the PARK2 gene", "relation": "leads to", "object": "Parkinson's disease"}
+{"subject": "Dysfunction of PARK2 gene", "relation": "leads to", "object": "Parkinson's disease"}
+{"subject": "Variants in the APOE gene cause", "relation": "increased risk of", "object": "Alzheimer's disease"}
+{"subject": "Variants in APOE gene cause", "relation": "increased risk of", "object": "Alzheimer's disease"}
+{"subject": "Prenatal exposure to alcohol", "relation": "causes", "object": "fetal alcohol spectrum disorder"}
+{"subject": "Prenatal to alcohol", "relation": "causes", "object": "fetal alcohol disorder"}
+{"subject": "Prenatal exposure to alcohol", "relation": "causes", "object": "fetal spectrum disorder"}
+{"subject": "exposure to alcohol", "relation": "causes", "object": "fetal spectrum disorder"}
+{"subject": "exposure to alcohol", "relation": "causes", "object": "fetal alcohol spectrum disorder"}
+{"subject": "-exposure to alcohol", "relation": "causes", "object": "fetal alcohol disorder"}
+{"subject": "-Prenatal exposure to alcohol", "relation": "causes", "object": "alcohol spectrum disorder"}
+{"subject": "exposure to alcohol", "relation": "causes", "object": "alcohol spectrum disorder"}
+{"subject": "alcohol", "relation": "causes", "object": "fetal alcohol disorder"}
+{"subject": "alcohol", "relation": "causes", "object": "fetal alcohol spectrum disorder"}
+{"subject": "Disruption of neural crest cell migration", "relation": "leads to", "object": "craniofacial abnormalities"}
+{"subject": "Disruption of neural cell migration", "relation": "leads to", "object": "craniofacial abnormalities"}
+{"subject": "Disruption of neural crest cell migration", "relation": "leads to", "object": "craniofacial"}
+{"subject": "-Disruption of crest cell migration", "relation": "leads to", "object": "craniofacial abnormalities"}
+{"subject": "-Disruption of neural crest cell migration", "relation": "leads to", "object": "abnormalities"}
+{"subject": "-Long-term potentiation ( LTP)", "relation": "causes strengthening of", "object": "synaptic connections"}
+{"subject": "Long-term potentiation ( LTP)", "relation": "causes strengthening of", "object": "synaptic connections"}
+{"subject": "Long potentiation ( LTP)", "relation": "causes strengthening of", "object": "synaptic connections"}
+{"subject": "potentiation ( LTP)", "relation": "causes", "object": "strengthening synaptic connections"}
+{"subject": "Long potentiation ( LTP)", "relation": "causes strengthening of", "object": "synaptic"}
+{"subject": "-Increased neural activity", "relation": "leads to", "object": "enhanced dendritic branching"}
+{"subject": "neural activity", "relation": "leads to", "object": "enhanced dendritic branching"}
+{"subject": "neural activity", "relation": "leads to", "object": "enhanced dendritic"}
+{"subject": "-Increased activity", "relation": "leads to", "object": "enhanced dendritic branching"}
+{"subject": "-Increased activity", "relation": "leads to", "object": "enhanced dendritic"}
+{"subject": "-Increased neural activity", "relation": "leads to", "object": "dendritic branching"}
+{"subject": "-Increased neural activity", "relation": "leads to", "object": "enhanced branching"}
+{"subject": "-Chronic stress", "relation": "induces atrophy of", "object": "the hippocampus"}
+{"subject": "stress", "relation": "induces atrophy of", "object": "hippocampus"}
+{"subject": "-Chronic stress", "relation": "induces atrophy of", "object": "hippocampus"}
+{"subject": "stress", "relation": "induces", "object": "atrophy hippocampus"}
+{"subject": "-Amyloid-beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-beta accumulation", "relation": "causes", "object": "synaptic"}
+{"subject": "-Amyloid beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "-Amyloid-beta accumulation", "relation": "causes", "object": "dysfunction"}
+{"subject": "-Tau protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "Tau protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "Mitochondrial dysfunction causes", "relation": "increased", "object": "oxidative stress"}
+{"subject": "Mitochondrial", "relation": "causes", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "causes", "object": "increased oxidative"}
+{"subject": "Mitochondrial dysfunction", "relation": "causes", "object": "increased stress"}
+{"subject": "dysfunction", "relation": "causes", "object": "increased stress"}
+{"subject": "Mitochondrial dysfunction", "relation": "causes", "object": "increased oxidative"}
+{"subject": "dysfunction causes", "relation": "increased", "object": "oxidative stress"}
+{"subject": "-dysfunction", "relation": "causes", "object": "increased oxidative"}
+{"subject": "-Mitochondrial dysfunction", "relation": "causes", "object": "oxidative stress"}
+{"subject": "dysfunction", "relation": "causes", "object": "oxidative stress"}
+{"subject": "-Increased blood flow", "relation": "causes", "object": "BOLD signal in fMRI"}
+{"subject": "-Increased blood flow", "relation": "causes BOLD signal in", "object": "fMRI"}
+{"subject": "Disruption of white matter tracts", "relation": "leads to", "object": "impaired neural connectivity"}
+{"subject": "Disruption of white tracts", "relation": "leads to", "object": "impaired neural connectivity"}
+{"subject": "Disruption of white tracts", "relation": "leads to", "object": "impaired neural"}
+{"subject": "Disruption of white matter tracts", "relation": "leads to", "object": "impaired connectivity"}
+{"subject": "-Disruption of matter tracts", "relation": "leads to", "object": "impaired neural connectivity"}
+{"subject": "-Disruption of matter tracts", "relation": "leads to", "object": "impaired neural"}
+{"subject": "-Disruption of white matter tracts", "relation": "leads to", "object": "neural connectivity"}
+{"subject": "Activation of specific brain regions", "relation": "causes changes in", "object": "cerebral metabolism"}
+{"subject": "Activation of specific regions", "relation": "causes changes in", "object": "cerebral metabolism"}
+{"subject": "Activation of specific brain regions", "relation": "causes changes in", "object": "cerebral"}
+{"subject": "-Activation of brain regions", "relation": "causes changes in", "object": "cerebral metabolism"}
+{"subject": "-Activation of specific brain regions", "relation": "causes changes in", "object": "metabolism"}
+{"subject": "specific regions", "relation": "causes changes in", "object": "metabolism"}
+{"subject": "specific brain regions", "relation": "causes", "object": "changes cerebral metabolism"}
+{"subject": "brain regions", "relation": "causes changes in", "object": "metabolism"}
+{"subject": "Damage to the prefrontal cortex", "relation": "causes", "object": "executive dysfunction"}
+{"subject": "-Damage to cortex", "relation": "causes", "object": "executive dysfunction"}
+{"subject": "-Damage to prefrontal cortex", "relation": "causes", "object": "dysfunction"}
+{"subject": "-Damage to prefrontal cortex", "relation": "causes", "object": "executive dysfunction"}
+{"subject": "Disruption of the hippocampus", "relation": "leads to", "object": "memory impairment"}
+{"subject": "-Disruption of hippocampus", "relation": "leads to", "object": "memory impairment"}
+{"subject": "-Abnormalities in the basal ganglia", "relation": "result in", "object": "movement disorders"}
+{"subject": "-Abnormalities in basal ganglia", "relation": "result in", "object": "movement disorders"}
+{"subject": "The sequence of nucleotides in DNA", "relation": "causes sequence of", "object": "amino acids"}
+{"subject": "The sequence of nucleotides in DNA", "relation": "causes in", "object": "proteins"}
+{"subject": "sequence of nucleotides in", "relation": "causes sequence of", "object": "acids"}
+{"subject": "sequence of nucleotides in", "relation": "causes in", "object": "proteins"}
+{"subject": "DNA replication", "relation": "leads to", "object": "the transmission of genetic information from one cell to its daughter cells"}
+{"subject": "DNA replication", "relation": "leads to", "object": "transmission of information"}
+{"subject": "DNA replication", "relation": "leads from", "object": "one cell"}
+{"subject": "DNA replication", "relation": "leads to", "object": "its daughter cells"}
+{"subject": "DNA replication", "relation": "leads to", "object": "transmission of genetic information"}
+{"subject": "DNA damage", "relation": "causes activation of", "object": "DNA repair mechanisms"}
+{"subject": "A transcription factor binding to DNA", "relation": "causes", "object": "gene expression"}
+{"subject": "transcription factor", "relation": "causes", "object": "gene expression"}
+{"subject": "transcription factor binding to DNA", "relation": "causes", "object": "gene expression"}
+{"subject": "DNA methylation", "relation": "leads to", "object": "gene silencing"}
+{"subject": "DNA methylation", "relation": "leads to", "object": "gene"}
+{"subject": "MicroRNA binding to mRNA", "relation": "causes", "object": "translational repression"}
+{"subject": "MicroRNA binding to mRNA", "relation": "causes", "object": "repression"}
+{"subject": "A single nucleotide polymorphism ( SNP)", "relation": "causes", "object": "altered protein function"}
+{"subject": "nucleotide polymorphism ( SNP)", "relation": "causes", "object": "altered protein function"}
+{"subject": "nucleotide polymorphism ()", "relation": "altered", "object": "protein function"}
+{"subject": "nucleotide polymorphism (", "relation": "causes", "object": "protein function"}
+{"subject": "nucleotide polymorphism (", "relation": "causes", "object": "altered protein"}
+{"subject": "SNP", "relation": "causes", "object": "altered protein function"}
+{"subject": "SNP", "relation": "causes", "object": "protein function"}
+{"subject": "SNP", "relation": "causes", "object": "altered protein"}
+{"subject": "nucleotide polymorphism ( SNP)", "relation": "altered", "object": "protein function"}
+{"subject": "nucleotide polymorphism ( SNP)", "relation": "causes", "object": "altered function"}
+{"subject": "single nucleotide polymorphism SNP)", "relation": "causes", "object": "altered protein function"}
+{"subject": "single nucleotide polymorphism", "relation": "causes", "object": "altered protein function"}
+{"subject": "single nucleotide polymorphism", "relation": "causes", "object": "protein function"}
+{"subject": "single nucleotide polymorphism", "relation": "causes", "object": "altered protein"}
+{"subject": "single nucleotide polymorphism SNP)", "relation": "altered", "object": "protein function"}
+{"subject": "single nucleotide polymorphism SNP)", "relation": "causes", "object": "altered function"}
+{"subject": "single nucleotide polymorphism", "relation": "altered", "object": "protein function"}
+{"subject": "A mutation in the CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "leads to", "object": "fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "A copy number variation ( CNV)", "relation": "causes changes in", "object": "gene expression"}
+{"subject": "copy number variation CNV)", "relation": "causes changes in", "object": "gene expression"}
+{"subject": "CNV", "relation": "causes changes in", "object": "gene expression"}
+{"subject": "CNV", "relation": "causes in", "object": "gene expression"}
+{"subject": "copy number variation ()", "relation": "causes changes in", "object": "gene expression"}
+{"subject": "copy number variation ( CNV)", "relation": "causes changes in", "object": "gene expression"}
+{"subject": "CNV", "relation": "causes in", "object": "gene"}
+{"subject": "CNV", "relation": "causes changes in", "object": "expression"}
+{"subject": "copy number variation CNV)", "relation": "causes", "object": "changes gene expression"}
+{"subject": "copy number variation ()", "relation": "causes", "object": "changes gene expression"}
+{"subject": "CNV", "relation": "causes", "object": "changes gene expression"}
+{"subject": "A mutation in the BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and cancer"}
+{"subject": "a phenotype", "relation": "being expressed in", "object": "the heterozygous state"}
+{"subject": "allele", "relation": "leads", "object": "to phenotype being expressed in heterozygous state"}
+{"subject": "allele", "relation": "leads", "object": "to phenotype"}
+{"subject": "allele", "relation": "leads", "object": "to phenotype being expressed heterozygous state"}
+{"subject": "allele", "relation": "leads", "object": "heterozygous state to phenotype being expressed"}
+{"subject": "allele", "relation": "leads", "object": "to phenotype being expressed in heterozygous"}
+{"subject": "dominant allele", "relation": "leads", "object": "to phenotype"}
+{"subject": "dominant allele", "relation": "leads", "object": "to phenotype being expressed in state"}
+{"subject": "dominant allele", "relation": "leads", "object": "to phenotype being expressed in heterozygous state"}
+{"subject": "A deletion in the CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "deletion in CFTR gene", "relation": "leads to", "object": "fibrosis"}
+{"subject": "deletion in CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "A mutation in the BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and cancer"}
+{"subject": "A frameshift mutation", "relation": "leads to", "object": "a premature stop codon"}
+{"subject": "frameshift mutation", "relation": "leads", "object": "to stop codon"}
+{"subject": "frameshift mutation", "relation": "leads to", "object": "premature stop codon"}
+{"subject": "A point mutation in the CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "point mutation in CFTR gene", "relation": "causes", "object": "fibrosis"}
+{"subject": "point mutation in CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "DNA methylation", "relation": "causes", "object": "gene silencing"}
+{"subject": "Histone acetylation", "relation": "leads to", "object": "increased gene expression"}
+{"subject": "Histone acetylation", "relation": "leads to", "object": "gene expression"}
+{"subject": "MicroRNAs", "relation": "cause", "object": "post-transcriptional gene silencing"}
+{"subject": "MicroRNAs", "relation": "cause", "object": "gene silencing"}
+{"subject": "A mutation in the BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and cancer"}
+{"subject": "A mutation in the CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "leads to", "object": "fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "A mutation in the APOE gene", "relation": "causes risk of", "object": "Alzheimer's disease"}
+{"subject": "mutation in APOE gene", "relation": "causes risk of", "object": "Alzheimer's disease"}
+{"subject": "mutation in APOE gene", "relation": "causes", "object": "risk Alzheimer's disease"}
+{"subject": "Adeno-associated virus ( AAV) vectors", "relation": "cause", "object": "efficient gene delivery"}
+{"subject": "virus ( AAV) vectors", "relation": "cause", "object": "efficient gene delivery"}
+{"subject": "virus ( AAV)", "relation": "cause", "object": "efficient gene delivery"}
+{"subject": "virus ( AAV)", "relation": "cause", "object": "efficient delivery"}
+{"subject": "AAV vectors", "relation": "cause", "object": "efficient gene delivery"}
+{"subject": "AAV", "relation": "vectors", "object": "efficient gene delivery"}
+{"subject": "AAV", "relation": "vectors", "object": "efficient gene"}
+{"subject": "AAV vectors", "relation": "cause", "object": "efficient delivery"}
+{"subject": "virus ( AAV)", "relation": "cause", "object": "gene delivery"}
+{"subject": "virus ( AAV)", "relation": "vectors", "object": "efficient delivery"}
+{"subject": "AAV", "relation": "vectors", "object": "efficient delivery"}
+{"subject": "AAV vectors", "relation": "cause", "object": "gene delivery"}
+{"subject": "AAV vectors", "relation": "cause", "object": "gene"}
+{"subject": "Gene editing via CRISPR-Cas9", "relation": "leads to", "object": "precise DNA modifications"}
+{"subject": "Gene", "relation": "editing via", "object": "CRISPR-Cas9"}
+{"subject": "Gene", "relation": "leads to", "object": "precise DNA modifications"}
+{"subject": "Gene editing via CRISPR Cas9", "relation": "leads to", "object": "precise DNA modifications"}
+{"subject": "Gene", "relation": "editing via", "object": "CRISPR Cas9"}
+{"subject": "Gene editing via CRISPR Cas9", "relation": "leads to", "object": "precise modifications"}
+{"subject": "Gene editing via CRISPR-Cas9", "relation": "leads to", "object": "DNA modifications"}
+{"subject": "Mutations in the CFTR gene", "relation": "cause", "object": "cystic fibrosis"}
+{"subject": "Mutations in CFTR gene", "relation": "cause", "object": "fibrosis"}
+{"subject": "Mutations in CFTR gene", "relation": "cause", "object": "cystic fibrosis"}
+{"subject": "A mutation in the CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "fibrosis"}
+{"subject": "mutation in CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "A trinucleotide repeat expansion in the HTT gene", "relation": "leads to", "object": "Huntington's disease"}
+{"subject": "trinucleotide repeat expansion in HTT gene", "relation": "leads to", "object": "Huntington's disease"}
+{"subject": "A deletion in the DMD gene", "relation": "causes", "object": "Duchenne muscular dystrophy"}
+{"subject": "deletion in DMD gene", "relation": "causes", "object": "Duchenne dystrophy"}
+{"subject": "deletion in DMD gene", "relation": "causes", "object": "Duchenne muscular dystrophy"}
+{"subject": "deletion in DMD gene", "relation": "causes", "object": "muscular dystrophy"}
+{"subject": "A mutation in the BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and cancer"}
+{"subject": "A deletion in the CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "deletion in CFTR gene", "relation": "leads to", "object": "fibrosis"}
+{"subject": "deletion in CFTR gene", "relation": "leads to", "object": "cystic fibrosis"}
+{"subject": "A single nucleotide polymorphism in the APOE gene", "relation": "causes risk of", "object": "Alzheimer's disease"}
+{"subject": "nucleotide polymorphism in APOE gene", "relation": "causes risk of", "object": "Alzheimer's disease"}
+{"subject": "nucleotide polymorphism in APOE gene causes", "relation": "increased of", "object": "Alzheimer's disease"}
+{"subject": "single nucleotide polymorphism in APOE gene", "relation": "causes risk of", "object": "Alzheimer's disease"}
+{"subject": "nucleotide polymorphism in APOE gene causes", "relation": "increased of", "object": "disease"}
+{"subject": "nucleotide polymorphism in APOE gene", "relation": "causes", "object": "increased risk Alzheimer's disease"}
+{"subject": "single nucleotide polymorphism in APOE gene", "relation": "causes", "object": "risk Alzheimer's disease"}
+{"subject": "Mutations", "relation": "cause", "object": "genetic variation"}
+{"subject": "Mutations", "relation": "cause", "object": "variation"}
+{"subject": "Genetic variation", "relation": "leads to", "object": "differential survival"}
+{"subject": "variation", "relation": "leads to", "object": "differential survival"}
+{"subject": "variation", "relation": "leads to", "object": "differential"}
+{"subject": "Genetic variation", "relation": "leads to", "object": "survival"}
+{"subject": "Random genetic mutations", "relation": "cause changes in", "object": "allele frequencies"}
+{"subject": "genetic mutations", "relation": "cause changes in", "object": "allele frequencies"}
+{"subject": "Random mutations", "relation": "cause changes in", "object": "allele frequencies"}
+{"subject": "genetic mutations", "relation": "cause", "object": "changes allele frequencies"}
+{"subject": "Random mutations", "relation": "cause", "object": "changes allele frequencies"}
+{"subject": "Small population size", "relation": "leads to", "object": "increased genetic drift"}
+{"subject": "population size", "relation": "leads to", "object": "increased genetic drift"}
+{"subject": "population size", "relation": "leads to", "object": "increased drift"}
+{"subject": "population size", "relation": "leads to", "object": "increased genetic"}
+{"subject": "Small population size", "relation": "leads to", "object": "genetic drift"}
+{"subject": "Small population size", "relation": "leads to", "object": "genetic"}
+{"subject": "Small population size", "relation": "leads to", "object": "increased drift"}
+{"subject": "Genetic drift", "relation": "causes loss of", "object": "genetic diversity"}
+{"subject": "drift", "relation": "causes loss of", "object": "genetic diversity"}
+{"subject": "drift", "relation": "causes loss of", "object": "genetic"}
+{"subject": "Genetic drift", "relation": "causes loss of", "object": "diversity"}
+{"subject": "drift", "relation": "causes", "object": "loss genetic diversity"}
+{"subject": "A mutation in the BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast and ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and ovarian cancer"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes risk of", "object": "breast ovarian"}
+{"subject": "mutation in BRCA1 gene", "relation": "causes", "object": "risk breast and cancer"}
+{"subject": "A frameshift mutation", "relation": "leads to", "object": "a premature stop codon"}
+{"subject": "frameshift mutation", "relation": "leads", "object": "to stop codon"}
+{"subject": "frameshift mutation", "relation": "leads to", "object": "premature stop codon"}
+{"subject": "A point mutation in the CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "point mutation in CFTR gene", "relation": "causes", "object": "fibrosis"}
+{"subject": "point mutation in CFTR gene", "relation": "causes", "object": "cystic fibrosis"}
+{"subject": "Migration of individuals", "relation": "causes", "object": "gene flow"}
+{"subject": "Natural selection", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "selection", "relation": "causes changes in", "object": "allele frequencies"}
+{"subject": "selection", "relation": "causes", "object": "changes allele frequencies"}
+{"subject": "Recombination", "relation": "causes", "object": "genetic variation"}
+{"subject": "Recombination", "relation": "causes", "object": "variation"}
+{"subject": "Geographic isolation", "relation": "causes", "object": "reproductive isolation"}
+{"subject": "isolation", "relation": "causes", "object": "reproductive isolation"}
+{"subject": "Geographic isolation", "relation": "causes", "object": "isolation"}
+{"subject": "Genetic drift", "relation": "leads to", "object": "genetic divergence"}
+{"subject": "drift", "relation": "leads to", "object": "genetic divergence"}
+{"subject": "Genetic drift", "relation": "leads to", "object": "divergence"}
+{"subject": "Natural selection", "relation": "causes", "object": "adaptive divergence"}
+{"subject": "selection", "relation": "causes", "object": "adaptive divergence"}
+{"subject": "Natural selection", "relation": "causes", "object": "divergence"}
+{"subject": "Natural selection", "relation": "causes", "object": "adaptive"}
+{"subject": "selection", "relation": "causes", "object": "adaptive"}
+{"subject": "-Chronic stress", "relation": "causes changes in", "object": "the hippocampus"}
+{"subject": "stress", "relation": "causes changes in", "object": "hippocampus"}
+{"subject": "stress", "relation": "causes in", "object": "hippocampus"}
+{"subject": "-Chronic stress", "relation": "causes changes in", "object": "hippocampus"}
+{"subject": "stress", "relation": "causes", "object": "structural changes hippocampus"}
+{"subject": "-Chronic stress", "relation": "causes", "object": "changes hippocampus"}
+{"subject": "-Increased neural activity", "relation": "leads to", "object": "long-term potentiation"}
+{"subject": "neural activity", "relation": "leads to", "object": "long-term potentiation"}
+{"subject": "neural activity", "relation": "leads to", "object": "long-"}
+{"subject": "-Increased activity", "relation": "leads to", "object": "long-term potentiation"}
+{"subject": "-Increased activity", "relation": "leads to", "object": "long-"}
+{"subject": "-Increased neural activity", "relation": "leads to", "object": "term potentiation"}
+{"subject": "Similar selective pressures", "relation": "cause", "object": "convergent evolution"}
+{"subject": "selective pressures", "relation": "cause", "object": "convergent evolution"}
+{"subject": "Similar pressures", "relation": "cause", "object": "convergent evolution"}
+{"subject": "Genetic drift", "relation": "leads to", "object": "convergent evolution"}
+{"subject": "drift", "relation": "leads to", "object": "convergent evolution"}
+{"subject": "Parallel evolution", "relation": "causes", "object": "convergent evolution"}
+{"subject": "evolution", "relation": "causes", "object": "convergent evolution"}
+{"subject": "The coevolution of host and parasite", "relation": "leads to", "object": "increased virulence"}
+{"subject": "coevolution of host and parasite", "relation": "leads to", "object": "virulence"}
+{"subject": "coevolution of host and parasite", "relation": "leads to", "object": "increased virulence"}
+{"subject": "coevolution of host parasite", "relation": "leads to", "object": "increased virulence"}
+{"subject": "coevolution of host parasite", "relation": "leads", "object": "to increased"}
+{"subject": "coevolution of host and", "relation": "leads to", "object": "increased virulence"}
+{"subject": "Increased virulence in parasites", "relation": "causes selection for", "object": "host resistance"}
+{"subject": "virulence in parasites", "relation": "causes selection for", "object": "host resistance"}
+{"subject": "virulence in parasites", "relation": "causes", "object": "selection host resistance"}
+{"subject": "Host resistance", "relation": "leads to", "object": "selection for reduced virulence in parasites"}
+{"subject": "Host resistance", "relation": "leads to", "object": "selection for virulence in parasites"}
+{"subject": "Mutations in regulatory genes", "relation": "cause changes in", "object": "developmental pathways"}
+{"subject": "Mutations in genes", "relation": "cause changes in", "object": "developmental pathways"}
+{"subject": "Mutations in genes", "relation": "cause changes in", "object": "developmental"}
+{"subject": "Mutations in regulatory genes", "relation": "cause changes in", "object": "pathways"}
+{"subject": "Mutations in genes", "relation": "cause", "object": "changes developmental pathways"}
+{"subject": "Mutations in genes", "relation": "cause", "object": "changes"}
+{"subject": "Rapid speciation events", "relation": "lead to", "object": "the formation of new species"}
+{"subject": "speciation events", "relation": "lead to", "object": "formation of new species"}
+{"subject": "speciation events", "relation": "lead to", "object": "formation of new"}
+{"subject": "Rapid speciation events", "relation": "lead to", "object": "formation of species"}
+{"subject": "Rapid speciation events", "relation": "lead to", "object": "formation of new species"}
+{"subject": "Environmental changes", "relation": "cause shifts in", "object": "selective pressures"}
+{"subject": "changes", "relation": "cause shifts in", "object": "selective pressures"}
+{"subject": "Environmental changes", "relation": "cause shifts in", "object": "pressures"}
+{"subject": "changes", "relation": "cause", "object": "shifts selective pressures"}
+{"subject": "The accumulation of mutations in DNA", "relation": "causes divergence between", "object": "species"}
+{"subject": "The accumulation of mutations in DNA", "relation": "causes over", "object": "time"}
+{"subject": "-accumulation of mutations in DNA", "relation": "causes divergence between", "object": "species"}
+{"subject": "-accumulation of mutations in DNA", "relation": "causes over", "object": "time"}
+{"subject": "-accumulation of mutations in DNA", "relation": "causes", "object": "divergence species"}
+{"subject": "The process of natural selection", "relation": "leads to", "object": "the preservation of advantageous traits"}
+{"subject": "-process of selection", "relation": "leads to", "object": "preservation of advantageous traits"}
+{"subject": "-process of selection", "relation": "leads to", "object": "preservation of advantageous"}
+{"subject": "-process of natural selection", "relation": "leads to", "object": "preservation of traits"}
+{"subject": "-process of natural selection", "relation": "leads to", "object": "preservation of advantageous traits"}
+{"subject": "-Photosynthesis", "relation": "causes production of", "object": "glucose and oxygen"}
+{"subject": "-Photosynthesis", "relation": "causes production from", "object": "carbon dioxide and water"}
+{"subject": "-Photosynthesis", "relation": "causes production of", "object": "glucose oxygen"}
+{"subject": "-Photosynthesis", "relation": "causes production of", "object": "glucose"}
+{"subject": "-Photosynthesis", "relation": "causes from", "object": "carbon dioxide and water"}
+{"subject": "-Photosynthesis", "relation": "causes production from", "object": "carbon dioxide water"}
+{"subject": "-Photosynthesis", "relation": "causes production from", "object": "carbon dioxide"}
+{"subject": "Stomatal opening", "relation": "leads to", "object": "increased carbon dioxide uptake and water loss"}
+{"subject": "Stomatal", "relation": "leads to", "object": "increased carbon dioxide uptake and water loss"}
+{"subject": "Stomatal", "relation": "leads to", "object": "increased carbon uptake and water loss"}
+{"subject": "Stomatal opening", "relation": "leads to", "object": "increased dioxide uptake and water loss"}
+{"subject": "opening", "relation": "leads to", "object": "increased dioxide uptake and water loss"}
+{"subject": "opening", "relation": "leads to", "object": "increased carbon dioxide uptake and water loss"}
+{"subject": "-opening", "relation": "leads to", "object": "increased carbon dioxide uptake and water loss"}
+{"subject": "-opening", "relation": "leads to", "object": "increased carbon uptake and water loss"}
+{"subject": "-Stomatal opening", "relation": "leads to", "object": "carbon dioxide uptake and water loss"}
+{"subject": "opening", "relation": "leads to", "object": "carbon dioxide uptake and water loss"}
+{"subject": "Stomatal", "relation": "leads to", "object": "increased carbon dioxide uptake and water"}
+{"subject": "Stomatal opening", "relation": "leads to", "object": "increased dioxide uptake and water"}
+{"subject": "opening", "relation": "leads to", "object": "increased dioxide uptake and water"}
+{"subject": "Stomatal opening", "relation": "leads to", "object": "increased carbon dioxide uptake and loss"}
+{"subject": "opening", "relation": "leads to", "object": "increased carbon dioxide uptake and loss"}
+{"subject": "-opening", "relation": "leads to", "object": "increased carbon dioxide uptake and water"}
+{"subject": "-Stomatal opening", "relation": "leads to", "object": "carbon dioxide uptake and water"}
+{"subject": "opening", "relation": "leads to", "object": "carbon dioxide uptake and water"}
+{"subject": "opening", "relation": "leads to", "object": "increased carbon dioxide uptake water loss"}
+{"subject": "opening", "relation": "leads to", "object": "increased carbon dioxide uptake"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "differential cell elongation and plant growth"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential cell elongation and plant growth"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential elongation and plant growth"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "cell elongation and plant growth"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential elongation and plant"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential cell elongation and growth"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "cell elongation and plant"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "differential cell elongation plant growth"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "differential cell elongation"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential elongation and growth"}
+{"subject": "Auxin transport", "relation": "causes", "object": "differential cell elongation plant growth"}
+{"subject": "-Auxin transport", "relation": "causes", "object": "cell elongation and growth"}
+{"subject": "The presence of stomata", "relation": "causes", "object": "gas exchange"}
+{"subject": "The presence of stomata", "relation": "causes in", "object": "plants"}
+{"subject": "presence of stomata", "relation": "causes", "object": "gas exchange"}
+{"subject": "presence of stomata", "relation": "causes in", "object": "plants"}
+{"subject": "The activity of the xylem", "relation": "leads to", "object": "water transport"}
+{"subject": "The activity of the xylem", "relation": "leads in", "object": "plants"}
+{"subject": "activity of xylem", "relation": "leads to", "object": "water transport"}
+{"subject": "activity of xylem", "relation": "leads in", "object": "plants"}
+{"subject": "The process of photosynthesis", "relation": "causes production of", "object": "glucose"}
+{"subject": "The process of photosynthesis", "relation": "causes production in", "object": "plants"}
+{"subject": "process of photosynthesis", "relation": "causes production of", "object": "glucose"}
+{"subject": "process of photosynthesis", "relation": "causes in", "object": "plants"}
+{"subject": "The presence of specific chemical markers", "relation": "causes", "object": "a plant to be classified into a particular family"}
+{"subject": "a plant", "relation": "to be classified into", "object": "a particular family"}
+{"subject": "presence of chemical markers", "relation": "causes", "object": "plant to be classified into particular family"}
+{"subject": "plant", "relation": "to be classified into", "object": "particular family"}
+{"subject": "presence of chemical markers", "relation": "causes", "object": "plant to be classified particular family"}
+{"subject": "presence of chemical markers", "relation": "causes", "object": "plant to be classified into particular"}
+{"subject": "presence of specific chemical markers", "relation": "causes", "object": "plant to be classified into family"}
+{"subject": "plant", "relation": "to be classified into", "object": "family"}
+{"subject": "presence of specific chemical markers", "relation": "causes", "object": "plant to be classified into particular family"}
+{"subject": "The arrangement of floral parts", "relation": "leads to", "object": "the determination of a plant's genus"}
+{"subject": "arrangement of parts", "relation": "leads to", "object": "determination of plant's genus"}
+{"subject": "arrangement of floral parts", "relation": "leads to", "object": "determination of plant's genus"}
+{"subject": "The evolutionary history of a plant", "relation": "causes placement in", "object": "a specific order"}
+{"subject": "history of plant", "relation": "causes placement in", "object": "specific order"}
+{"subject": "history of plant", "relation": "causes placement in", "object": "specific"}
+{"subject": "evolutionary history of plant", "relation": "causes", "object": "its placement"}
+{"subject": "evolutionary history of plant", "relation": "causes in", "object": "order"}
+{"subject": "evolutionary history of plant", "relation": "causes placement in", "object": "specific order"}
+{"subject": "history of plant", "relation": "causes", "object": "its placement specific order"}
+{"subject": "Increased soil salinity", "relation": "causes", "object": "reduced plant growth"}
+{"subject": "soil salinity", "relation": "causes", "object": "reduced plant growth"}
+{"subject": "soil salinity", "relation": "causes", "object": "reduced growth"}
+{"subject": "Increased soil salinity", "relation": "causes", "object": "plant growth"}
+{"subject": "Increased atmospheric CO2 levels", "relation": "lead to", "object": "enhanced photosynthesis rates"}
+{"subject": "atmospheric CO2 levels", "relation": "lead to", "object": "enhanced photosynthesis rates"}
+{"subject": "atmospheric levels", "relation": "lead to", "object": "enhanced photosynthesis rates"}
+{"subject": "atmospheric levels", "relation": "lead to", "object": "enhanced photosynthesis"}
+{"subject": "atmospheric CO2 levels", "relation": "lead to", "object": "enhanced rates"}
+{"subject": "Increased CO2 levels", "relation": "lead to", "object": "enhanced photosynthesis rates"}
+{"subject": "Increased CO2 levels", "relation": "lead to", "object": "enhanced rates"}
+{"subject": "Increased atmospheric CO2 levels", "relation": "lead to", "object": "photosynthesis rates"}
+{"subject": "Decreased water availability", "relation": "causes", "object": "stomatal closure"}
+{"subject": "water availability", "relation": "causes", "object": "stomatal closure"}
+{"subject": "Decreased water availability", "relation": "causes", "object": "closure"}
+{"subject": "The evolution of vascular tissue", "relation": "causes", "object": "plants to grow taller"}
+{"subject": "evolution of tissue", "relation": "causes", "object": "plants to grow taller"}
+{"subject": "evolution of tissue", "relation": "causes", "object": "plants to grow"}
+{"subject": "evolution of vascular tissue", "relation": "causes", "object": "plants to grow"}
+{"subject": "evolution of vascular tissue", "relation": "causes", "object": "plants to grow taller"}
+{"subject": "The development of seeds", "relation": "leads to", "object": "increased reproductive success"}
+{"subject": "development of seeds", "relation": "leads to", "object": "reproductive success"}
+{"subject": "development of seeds", "relation": "leads to", "object": "reproductive"}
+{"subject": "development of seeds", "relation": "leads to", "object": "increased success"}
+{"subject": "development of seeds", "relation": "leads to", "object": "increased reproductive success"}
+{"subject": "A mutation in a plant's DNA", "relation": "causes change in", "object": "the plant's phenotype"}
+{"subject": "mutation in", "relation": "causes change in", "object": "plant's phenotype"}
+{"subject": "The insertion of a transgene into a plant's genome", "relation": "leads to", "object": "the expression of a new trait"}
+{"subject": "insertion of transgene into plant's genome", "relation": "leads to", "object": "expression of trait"}
+{"subject": "insertion of transgene into plant's genome", "relation": "leads to", "object": "expression of new trait"}
+{"subject": "RNA interference", "relation": "causes", "object": "gene silencing in plants"}
+{"subject": "gene", "relation": "silencing in", "object": "plants"}
+{"subject": "RNA interference", "relation": "causes", "object": "gene"}
+{"subject": "A fungal pathogen", "relation": "infects", "object": "a plant cell"}
+{"subject": "cell", "relation": "leading to", "object": "activation of plant's defense mechanisms"}
+{"subject": "fungal pathogen", "relation": "infects activation of", "object": "plant's defense mechanisms"}
+{"subject": "fungal pathogen", "relation": "infects", "object": "plant cell"}
+{"subject": "infects", "relation": "leading to", "object": "activation of plant's defense mechanisms"}
+{"subject": "bacterial pathogen secretes effector proteins", "relation": "causing of", "object": "plant's immune response"}
+{"subject": "that", "relation": "facilitate spread of", "object": "the virus"}
+{"subject": "A virus", "relation": "infects", "object": "a plant cell"}
+{"subject": "that", "relation": "facilitate to", "object": "neighboring cells"}
+{"subject": "cell", "relation": "resulting in", "object": "production of viral movement proteins facilitate spread of virus"}
+{"subject": "cell", "relation": "resulting to", "object": "neighboring cells"}
+{"subject": "cell", "relation": "resulting in", "object": "production of viral proteins facilitate spread of virus"}
+{"subject": "cell", "relation": "resulting in", "object": "production of movement proteins facilitate spread of virus"}
+{"subject": "The Calvin cycle", "relation": "causes conversion of", "object": "carbon dioxide"}
+{"subject": "The Calvin cycle", "relation": "causes conversion into", "object": "glucose"}
+{"subject": "Calvin cycle", "relation": "causes conversion of", "object": "carbon dioxide"}
+{"subject": "Calvin cycle", "relation": "causes into", "object": "glucose"}
+{"subject": "Photosynthesis", "relation": "leads to", "object": "the production of oxygen"}
+{"subject": "Photosynthesis", "relation": "leads as", "object": "a byproduct"}
+{"subject": "Photosynthesis", "relation": "leads to", "object": "production of oxygen"}
+{"subject": "Photosynthesis", "relation": "leads as", "object": "byproduct"}
+{"subject": "The shikimate pathway", "relation": "causes synthesis of", "object": "aromatic amino acids"}
+{"subject": "pathway", "relation": "causes synthesis of", "object": "amino acids"}
+{"subject": "pathway", "relation": "causes synthesis of", "object": "aromatic amino acids"}
+{"subject": "Abiotic stress", "relation": "causes upregulation of", "object": "stress-responsive genes"}
+{"subject": "stress", "relation": "causes upregulation of", "object": "stress-responsive genes"}
+{"subject": "stress", "relation": "causes upregulation of", "object": "stress"}
+{"subject": "stress", "relation": "causes upregulation of", "object": "stress-"}
+{"subject": "Abiotic stress", "relation": "causes upregulation of", "object": "genes"}
+{"subject": "stress", "relation": "causes", "object": "upregulation stress-responsive genes"}
+{"subject": "stress", "relation": "causes", "object": "upregulation"}
+{"subject": "stress", "relation": "causes", "object": "upregulation stress-responsive"}
+{"subject": "Phytohormones", "relation": "regulate", "object": "plant growth and development"}
+{"subject": "Phytohormones", "relation": "regulate", "object": "plant growth development"}
+{"subject": "Phytohormones", "relation": "regulate", "object": "plant growth"}
+{"subject": "RNA interference", "relation": "silences", "object": "specific genes"}
+{"subject": "The presence of specific chemical compounds in plants", "relation": "causes", "object": "them to be classified into particular families"}
+{"subject": "them", "relation": "to be classified into", "object": "particular families"}
+{"subject": "presence of chemical compounds in plants", "relation": "causes", "object": "them to be classified into particular families"}
+{"subject": "presence of chemical compounds in plants", "relation": "causes", "object": "them to be classified particular families"}
+{"subject": "presence of chemical compounds in plants", "relation": "causes", "object": "them to be classified into particular"}
+{"subject": "presence of specific chemical compounds in plants", "relation": "causes", "object": "them to be classified into families"}
+{"subject": "them", "relation": "to be classified into", "object": "families"}
+{"subject": "presence of specific chemical compounds in plants", "relation": "causes", "object": "them to be classified into particular families"}
+{"subject": "The evolution of reproductive structures", "relation": "leads to", "object": "the development of distinct plant lineages"}
+{"subject": "evolution of structures", "relation": "leads to", "object": "development of distinct plant lineages"}
+{"subject": "evolution of structures", "relation": "leads to", "object": "development of distinct lineages"}
+{"subject": "evolution of reproductive structures", "relation": "leads to", "object": "development of plant lineages"}
+{"subject": "evolution of reproductive structures", "relation": "leads to", "object": "development of distinct plant lineages"}
+{"subject": "The use of molecular markers", "relation": "causes determination of", "object": "phylogenetic relationships"}
+{"subject": "use of markers", "relation": "causes determination of", "object": "phylogenetic relationships"}
+{"subject": "use of markers", "relation": "causes", "object": "more determination phylogenetic relationships"}
+{"subject": "use of markers", "relation": "causes determination of", "object": "phylogenetic"}
+{"subject": "use of molecular markers", "relation": "causes determination of", "object": "phylogenetic relationships"}
+{"subject": "use of molecular markers", "relation": "causes determination of", "object": "phylogenetic"}
+{"subject": "use of molecular markers", "relation": "causes determination of", "object": "relationships"}
+{"subject": "use of markers", "relation": "causes", "object": "more determination phylogenetic"}
+{"subject": "use of markers", "relation": "causes determination of", "object": "relationships"}
+{"subject": "use of markers", "relation": "causes", "object": "more accurate determination phylogenetic relationships"}
+{"subject": "use of molecular markers", "relation": "causes", "object": "accurate determination phylogenetic relationships"}
+{"subject": "-Atherosclerosis", "relation": "causes narrowing of", "object": "coronary arteries"}
+{"subject": "Atherosclerosis", "relation": "causes narrowing of", "object": "coronary arteries"}
+{"subject": "Atherosclerosis", "relation": "causes narrowing of", "object": "coronary"}
+{"subject": "-Atherosclerosis", "relation": "causes narrowing of", "object": "arteries"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "narrowing coronary arteries"}
+{"subject": "Plaque rupture", "relation": "leads to", "object": "thrombus formation"}
+{"subject": "Plaque", "relation": "leads to", "object": "thrombus formation"}
+{"subject": "rupture", "relation": "leads to", "object": "thrombus formation"}
+{"subject": "-rupture", "relation": "leads to", "object": "thrombus formation"}
+{"subject": "Thrombus formation", "relation": "causes", "object": "myocardial infarction"}
+{"subject": "Thrombus formation", "relation": "causes", "object": "myocardial"}
+{"subject": "formation", "relation": "causes", "object": "myocardial"}
+{"subject": "formation", "relation": "causes", "object": "myocardial infarction"}
+{"subject": "-Thrombus formation", "relation": "causes", "object": "infarction"}
+{"subject": "formation", "relation": "causes", "object": "infarction"}
+{"subject": "-Chronic hypertension", "relation": "causes", "object": "left ventricular hypertrophy"}
+{"subject": "hypertension causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "-Chronic hypertension", "relation": "causes", "object": "left hypertrophy"}
+{"subject": "-Chronic hypertension causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "Myocardial infarction", "relation": "leads to", "object": "reduced cardiac output"}
+{"subject": "Myocardial", "relation": "leads to", "object": "reduced cardiac output"}
+{"subject": "Myocardial", "relation": "leads to", "object": "reduced cardiac"}
+{"subject": "Myocardial infarction", "relation": "leads to", "object": "reduced output"}
+{"subject": "infarction", "relation": "leads to", "object": "reduced output"}
+{"subject": "Myocardial infarction", "relation": "leads to", "object": "reduced cardiac"}
+{"subject": "infarction", "relation": "leads to", "object": "reduced cardiac"}
+{"subject": "infarction", "relation": "leads to", "object": "reduced cardiac output"}
+{"subject": "-infarction", "relation": "leads to", "object": "reduced cardiac output"}
+{"subject": "-infarction", "relation": "leads to", "object": "reduced cardiac"}
+{"subject": "-Myocardial infarction", "relation": "leads to", "object": "cardiac output"}
+{"subject": "infarction", "relation": "leads to", "object": "cardiac output"}
+{"subject": "-Myocardial infarction", "relation": "leads to", "object": "reduced output"}
+{"subject": "Activation of the renin-angiotensin-aldosterone system", "relation": "causes", "object": "increased systemic vascular resistance"}
+{"subject": "-Activation of renin angiotensin aldosterone system", "relation": "causes", "object": "increased systemic vascular resistance"}
+{"subject": "-Activation of renin angiotensin aldosterone system", "relation": "causes", "object": "increased systemic resistance"}
+{"subject": "-Activation of renin angiotensin aldosterone system", "relation": "causes", "object": "increased systemic vascular"}
+{"subject": "-Activation of renin-angiotensin-aldosterone system", "relation": "causes", "object": "systemic vascular resistance"}
+{"subject": "-Activation of renin-angiotensin-aldosterone system", "relation": "causes", "object": "systemic resistance"}
+{"subject": "-Activation of renin-angiotensin-aldosterone system", "relation": "causes", "object": "increased vascular resistance"}
+{"subject": "-Activation of renin-angiotensin-aldosterone system", "relation": "causes", "object": "increased systemic vascular resistance"}
+{"subject": "-Chronic activation of the sympathetic nervous system", "relation": "causes", "object": "increased peripheral vascular resistance"}
+{"subject": "activation of sympathetic nervous system", "relation": "causes", "object": "increased peripheral vascular resistance"}
+{"subject": "activation of sympathetic system", "relation": "causes", "object": "increased peripheral vascular resistance"}
+{"subject": "activation of sympathetic system", "relation": "increased", "object": "peripheral vascular resistance"}
+{"subject": "activation of sympathetic system", "relation": "increased", "object": "peripheral vascular"}
+{"subject": "activation of sympathetic system", "relation": "causes", "object": "increased peripheral resistance"}
+{"subject": "activation of sympathetic system", "relation": "causes", "object": "increased peripheral vascular"}
+{"subject": "activation of sympathetic nervous causes", "relation": "increased", "object": "peripheral vascular"}
+{"subject": "activation of sympathetic nervous system", "relation": "causes", "object": "increased vascular resistance"}
+{"subject": "activation of", "relation": "causes", "object": "increased vascular"}
+{"subject": "activation of sympathetic nervous system", "relation": "causes", "object": "increased peripheral resistance"}
+{"subject": "-Chronic activation of nervous system", "relation": "causes", "object": "increased peripheral vascular resistance"}
+{"subject": "-Chronic activation of nervous causes", "relation": "increased", "object": "peripheral vascular"}
+{"subject": "-Chronic activation of nervous system", "relation": "causes", "object": "increased vascular resistance"}
+{"subject": "-Chronic activation of nervous system", "relation": "causes", "object": "increased peripheral resistance"}
+{"subject": "-Chronic activation of sympathetic system", "relation": "causes", "object": "increased peripheral vascular resistance"}
+{"subject": "-Chronic activation of sympathetic system", "relation": "causes", "object": "increased vascular resistance"}
+{"subject": "-Chronic activation of sympathetic system", "relation": "causes", "object": "increased vascular"}
+{"subject": "-Increased automaticity of pacemaker cells", "relation": "causes", "object": "atrial fibrillation"}
+{"subject": "automaticity of pacemaker cells", "relation": "causes", "object": "atrial fibrillation"}
+{"subject": "-Increased automaticity of pacemaker cells", "relation": "causes", "object": "fibrillation"}
+{"subject": "-Abnormal conduction through the atrioventricular node", "relation": "leads to", "object": "atrioventricular block"}
+{"subject": "conduction through atrioventricular node", "relation": "leads to", "object": "atrioventricular block"}
+{"subject": "conduction through atrioventricular node", "relation": "leads to", "object": "atrioventricular"}
+{"subject": "-Abnormal conduction through node", "relation": "leads to", "object": "atrioventricular block"}
+{"subject": "-Abnormal conduction through node", "relation": "leads to", "object": "atrioventricular"}
+{"subject": "-Abnormal conduction through atrioventricular node", "relation": "leads", "object": "to block"}
+{"subject": "-Abnormal conduction through atrioventricular node", "relation": "leads to", "object": "atrioventricular block"}
+{"subject": "-Re-entry circuits in the heart", "relation": "cause", "object": "ventricular tachycardia"}
+{"subject": "-entry circuits in heart", "relation": "cause", "object": "ventricular tachycardia"}
+{"subject": "-entry in heart", "relation": "cause", "object": "ventricular tachycardia"}
+{"subject": "entry circuits in heart", "relation": "cause", "object": "ventricular tachycardia"}
+{"subject": "-entry circuits in heart", "relation": "cause", "object": "tachycardia"}
+{"subject": "Rheumatic fever", "relation": "causes", "object": "valvular heart disease"}
+{"subject": "Rheumatic", "relation": "causes", "object": "valvular heart disease"}
+{"subject": "Rheumatic", "relation": "causes", "object": "valvular heart"}
+{"subject": "Rheumatic fever", "relation": "causes", "object": "valvular disease"}
+{"subject": "fever", "relation": "causes", "object": "valvular disease"}
+{"subject": "fever", "relation": "causes", "object": "valvular heart disease"}
+{"subject": "-fever", "relation": "causes", "object": "valvular heart disease"}
+{"subject": "-fever", "relation": "causes", "object": "valvular heart"}
+{"subject": "-Rheumatic fever", "relation": "causes", "object": "heart disease"}
+{"subject": "fever", "relation": "causes", "object": "heart disease"}
+{"subject": "Calcification of the aortic valve", "relation": "leads to", "object": "aortic stenosis"}
+{"subject": "-Calcification of valve", "relation": "leads to", "object": "aortic stenosis"}
+{"subject": "-Calcification of valve", "relation": "leads to", "object": "aortic"}
+{"subject": "-Calcification of aortic valve", "relation": "leads to", "object": "stenosis"}
+{"subject": "-Calcification of aortic valve", "relation": "leads to", "object": "aortic stenosis"}
+{"subject": "Infective endocarditis", "relation": "causes", "object": "valvular damage"}
+{"subject": "Infective", "relation": "causes", "object": "valvular damage"}
+{"subject": "endocarditis", "relation": "causes", "object": "valvular damage"}
+{"subject": "-endocarditis", "relation": "causes", "object": "valvular damage"}
+{"subject": "-Infective endocarditis", "relation": "causes", "object": "damage"}
+{"subject": "endocarditis", "relation": "causes", "object": "damage"}
+{"subject": "-Aortic stenosis causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "Aortic stenosis causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "Aortic causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "-stenosis causes", "relation": "left", "object": "ventricular hypertrophy"}
+{"subject": "-Aortic stenosis causes", "relation": "left", "object": "hypertrophy"}
+{"subject": "Tetralogy of Fallot", "relation": "leads to", "object": "right ventricular hypertrophy"}
+{"subject": "Tetralogy of Fallot", "relation": "leads to", "object": "right hypertrophy"}
+{"subject": "Tetralogy of Fallot", "relation": "leads to", "object": "right ventricular"}
+{"subject": "-Tetralogy of Fallot", "relation": "leads to", "object": "ventricular hypertrophy"}
+{"subject": "-Tetralogy of Fallot", "relation": "leads to", "object": "hypertrophy"}
+{"subject": "septal defect", "relation": "causes", "object": "left-right shunting"}
+{"subject": "septal defect causes", "relation": "left to", "object": "right"}
+{"subject": "-Atrial defect", "relation": "causes", "object": "left-right shunting"}
+{"subject": "-Atrial defect causes", "relation": "left to", "object": "right"}
+{"subject": "Genetic mutations in sarcomere proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "Genetic in sarcomere proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "sarcomere proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "mutations in sarcomere proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "-Genetic mutations in proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "mutations in proteins", "relation": "cause", "object": "hypertrophic cardiomyopathy"}
+{"subject": "-Myocardial inflammation", "relation": "leads", "object": "to dilated cardiomyopathy"}
+{"subject": "inflammation", "relation": "leads", "object": "to dilated cardiomyopathy"}
+{"subject": "-Myocardial inflammation", "relation": "leads", "object": "to dilated"}
+{"subject": "-Chronic alcohol consumption", "relation": "causes", "object": "alcoholic cardiomyopathy"}
+{"subject": "alcohol consumption", "relation": "causes", "object": "alcoholic cardiomyopathy"}
+{"subject": "Atherosclerosis", "relation": "causes narrowing of", "object": "the arteries"}
+{"subject": "Atherosclerosis", "relation": "causes narrowing of", "object": "arteries"}
+{"subject": "Reduced blood flow", "relation": "leads to", "object": "ischemia"}
+{"subject": "blood flow", "relation": "leads to", "object": "ischemia"}
+{"subject": "Ischemia", "relation": "results in", "object": "tissue damage"}
+{"subject": "Endothelial dysfunction", "relation": "causes permeability of", "object": "the vascular wall"}
+{"subject": "dysfunction", "relation": "causes permeability of", "object": "vascular wall"}
+{"subject": "dysfunction causes", "relation": "increased of", "object": "vascular wall"}
+{"subject": "-Endothelial dysfunction", "relation": "causes permeability of", "object": "vascular wall"}
+{"subject": "dysfunction causes", "relation": "increased of", "object": "wall"}
+{"subject": "dysfunction", "relation": "causes", "object": "increased permeability vascular wall"}
+{"subject": "-Endothelial dysfunction", "relation": "causes", "object": "permeability vascular wall"}
+{"subject": "Oxidized low-density lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized-density lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized- ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized-", "relation": "leads to", "object": "cell formation"}
+{"subject": "( LDL)", "relation": "leads to", "object": "cell"}
+{"subject": "( LDL)", "relation": "leads to", "object": "cell formation"}
+{"subject": "Oxidized-", "relation": "leads to", "object": "foam formation"}
+{"subject": "( LDL)", "relation": "leads to", "object": "foam formation"}
+{"subject": "( LDL)", "relation": "leads to", "object": "foam cell"}
+{"subject": "( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "LDL", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "LDL", "relation": "leads", "object": "foam cell formation"}
+{"subject": "LDL", "relation": "leads", "object": "foam formation"}
+{"subject": "LDL", "relation": "leads to", "object": "cell formation"}
+{"subject": "Oxidized-density lipoprotein ( LDL)", "relation": "leads", "object": "foam cell formation"}
+{"subject": "-density lipoprotein ( LDL)", "relation": "leads", "object": "foam cell formation"}
+{"subject": "-density lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized low lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized low lipoprotein ( LDL)", "relation": "leads", "object": "foam cell formation"}
+{"subject": "Oxidized low lipoprotein ( LDL)", "relation": "leads", "object": "foam formation"}
+{"subject": "low lipoprotein ( LDL)", "relation": "leads", "object": "foam formation"}
+{"subject": "low lipoprotein ( LDL)", "relation": "leads", "object": "foam cell formation"}
+{"subject": "Oxidized low lipoprotein ( LDL)", "relation": "leads to", "object": "cell formation"}
+{"subject": "low lipoprotein ( LDL)", "relation": "leads to", "object": "cell formation"}
+{"subject": "low lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized low-density lipoprotein (", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "Oxidized low-density lipoprotein (", "relation": "leads", "object": "foam cell formation"}
+{"subject": "low-density lipoprotein (", "relation": "leads", "object": "foam cell formation"}
+{"subject": "low-density lipoprotein (", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "low-density lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "-low-density lipoprotein ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "-low- ( LDL)", "relation": "leads to", "object": "foam cell formation"}
+{"subject": "-low- ( LDL)", "relation": "leads to", "object": "cell formation"}
+{"subject": "-low- ( LDL)", "relation": "leads to", "object": "cell"}
+{"subject": "Inflammation", "relation": "causes", "object": "plaque instability"}
+{"subject": "Inflammation", "relation": "causes", "object": "plaque"}
+{"subject": "-Inflammation", "relation": "causes", "object": "instability"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "coronary artery occlusion"}
+{"subject": "Atherosclerosis", "relation": "causes", "object": "artery occlusion"}
+{"subject": "Coronary artery occlusion", "relation": "leads to", "object": "myocardial ischemia"}
+{"subject": "artery occlusion", "relation": "leads to", "object": "myocardial ischemia"}
+{"subject": "artery occlusion", "relation": "leads to", "object": "myocardial"}
+{"subject": "Coronary artery occlusion", "relation": "leads to", "object": "ischemia"}
+{"subject": "Stress", "relation": "causes", "object": "the hypothalamus to release corticotropin-releasing hormone ( CRH)"}
+{"subject": "the hypothalamus", "relation": "to release", "object": "corticotropin-releasing hormone ( CRH)"}
+{"subject": "-Stress", "relation": "causes", "object": "hypothalamus to release hormone ( CRH)"}
+{"subject": "hypothalamus", "relation": "to release", "object": "hormone ( CRH)"}
+{"subject": "-Stress", "relation": "causes", "object": "hypothalamus to release hormone ( CRH"}
+{"subject": "hypothalamus", "relation": "to release", "object": "hormone ( CRH"}
+{"subject": "-Stress", "relation": "causes", "object": "hypothalamus to release"}
+{"subject": "-CRH", "relation": "stimulates", "object": "the anterior pituitary"}
+{"subject": "Autoimmune attack on the thyroid gland", "relation": "causes", "object": "Hashimoto's thyroiditis"}
+{"subject": "-Autoimmune attack on thyroid gland", "relation": "causes", "object": "Hashimoto's thyroiditis"}
+{"subject": "-Excessive production of thyroid hormones", "relation": "leads to", "object": "hyperthyroidism"}
+{"subject": "production of thyroid hormones", "relation": "leads to", "object": "hyperthyroidism"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "hyperglycemia"}
+{"subject": "Hyperglycemia", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Hyperglycemia", "relation": "leads to", "object": "increased stress"}
+{"subject": "Hyperglycemia", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "-Hyperglycemia", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "-Hyperglycemia", "relation": "leads to", "object": "increased stress"}
+{"subject": "-Increased oxidative stress", "relation": "causes", "object": "endothelial dysfunction"}
+{"subject": "oxidative stress", "relation": "causes", "object": "endothelial dysfunction"}
+{"subject": "-Increased stress", "relation": "causes", "object": "endothelial dysfunction"}
+{"subject": "-Increased oxidative stress", "relation": "causes", "object": "dysfunction"}
+{"subject": "-Chronic stress", "relation": "leads to", "object": "adrenal gland hypertrophy"}
+{"subject": "stress", "relation": "leads to", "object": "adrenal gland hypertrophy"}
+{"subject": "-Prolonged cortisol exposure", "relation": "causes suppression of", "object": "the hypothalamic-pituitary-adrenal ( HPA) axis"}
+{"subject": "cortisol exposure", "relation": "causes suppression of", "object": "hypothalamic-pituitary-adrenal ( HPA) axis"}
+{"subject": "cortisol exposure", "relation": "causes", "object": "suppression hypothalamic-pituitary-adrenal ( HPA) axis"}
+{"subject": "cortisol exposure", "relation": "causes", "object": "suppression hypothalamic- ( HPA) axis"}
+{"subject": "cortisol exposure", "relation": "causes", "object": "suppression hypothalamic-"}
+{"subject": "LH", "relation": "cause", "object": "ovulation"}
+{"subject": "-Increased levels of follicle-stimulating hormone ( FSH)", "relation": "lead to", "object": "follicular development"}
+{"subject": "levels of follicle-stimulating hormone ( FSH)", "relation": "lead to", "object": "follicular development"}
+{"subject": "levels of follicle-stimulating FSH)", "relation": "lead to", "object": "follicular development"}
+{"subject": "levels of follicle-stimulating FSH)", "relation": "lead", "object": "follicular development"}
+{"subject": "FSH", "relation": "lead to", "object": "follicular development"}
+{"subject": "FSH", "relation": "lead", "object": "follicular development"}
+{"subject": "-High levels of progesterone", "relation": "inhibit release of", "object": "gonadotropin-releasing hormone ( GnRH"}
+{"subject": "-Deficiency in growth hormone ( GH) secretion", "relation": "causes growth in", "object": "children"}
+{"subject": "Deficiency in growth hormone ( GH) secretion", "relation": "causes growth in", "object": "children"}
+{"subject": "Deficiency in growth hormone", "relation": "causes growth in", "object": "children"}
+{"subject": "Deficiency in growth hormone () secretion", "relation": "causes growth in", "object": "children"}
+{"subject": "Deficiency in growth hormone () secretion", "relation": "causes", "object": "linear growth children"}
+{"subject": "Deficiency in growth hormone", "relation": "causes", "object": "linear"}
+{"subject": "Deficiency in growth hormone", "relation": "causes in", "object": "children"}
+{"subject": "Deficiency in growth hormone", "relation": "causes", "object": "linear growth"}
+{"subject": "Deficiency in growth hormone", "relation": "causes", "object": "impaired growth"}
+{"subject": "Deficiency in growth hormone", "relation": "causes", "object": "impaired linear growth children"}
+{"subject": "Deficiency in growth hormone", "relation": "causes", "object": "impaired linear growth"}
+{"subject": "-Excessive growth hormone ( GH) secretion", "relation": "leads to", "object": "acromegaly"}
+{"subject": "-Excessive growth hormone ( GH) secretion", "relation": "leads in", "object": "adults"}
+{"subject": "growth hormone", "relation": "leads to", "object": "acromegaly"}
+{"subject": "growth hormone", "relation": "leads in", "object": "adults"}
+{"subject": "GH secretion", "relation": "leads to", "object": "acromegaly"}
+{"subject": "GH secretion", "relation": "leads in", "object": "adults"}
+{"subject": "GH secretion", "relation": "leads acromegaly in", "object": "adults"}
+{"subject": "-Excessive growth hormone GH) secretion", "relation": "leads to", "object": "acromegaly"}
+{"subject": "-Excessive growth hormone GH) secretion", "relation": "leads in", "object": "adults"}
+{"subject": "-Excessive growth hormone", "relation": "leads to", "object": "acromegaly"}
+{"subject": "-Excessive growth hormone", "relation": "leads in", "object": "adults"}
+{"subject": "secretion", "relation": "leads to", "object": "acromegaly"}
+{"subject": "secretion", "relation": "leads in", "object": "adults"}
+{"subject": "secretion", "relation": "leads acromegaly in", "object": "adults"}
+{"subject": "secretion", "relation": "leads to", "object": "acromegaly adults"}
+{"subject": "growth hormone ( GH)", "relation": "leads to", "object": "acromegaly"}
+{"subject": "growth hormone ( GH)", "relation": "leads in", "object": "adults"}
+{"subject": "growth hormone ( GH)", "relation": "leads acromegaly in", "object": "adults"}
+{"subject": "( GH) secretion", "relation": "leads to", "object": "acromegaly"}
+{"subject": "( GH) secretion", "relation": "leads in", "object": "adults"}
+{"subject": "-Excessive growth hormone GH)", "relation": "leads to", "object": "acromegaly"}
+{"subject": "-Excessive growth hormone GH)", "relation": "leads in", "object": "adults"}
+{"subject": "-Excessive growth hormone GH)", "relation": "leads acromegaly in", "object": "adults"}
+{"subject": "secretion", "relation": "leads", "object": "acromegaly adults"}
+{"subject": "( GH) secretion", "relation": "leads acromegaly in", "object": "adults"}
+{"subject": "( GH) secretion", "relation": "leads", "object": "acromegaly adults"}
+{"subject": "( GH) action", "relation": "results", "object": "growth failure"}
+{"subject": "( GH) action", "relation": "results despite", "object": "normal GH levels"}
+{"subject": "growth hormone", "relation": "results", "object": "growth failure"}
+{"subject": "growth hormone", "relation": "results despite", "object": "normal GH levels"}
+{"subject": "Resistance to growth hormone", "relation": "results", "object": "growth failure"}
+{"subject": "Resistance to growth hormone", "relation": "results despite", "object": "normal GH levels"}
+{"subject": "-Resistance to growth hormone GH", "relation": "results", "object": "growth failure"}
+{"subject": "-Resistance to growth hormone GH", "relation": "results despite", "object": "normal GH levels"}
+{"subject": "growth hormone GH", "relation": "results", "object": "growth failure"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "increased hepatic glucose production"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "increased hepatic glucose production"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "increased glucose production"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "increased glucose"}
+{"subject": "Insulin resistance", "relation": "causes", "object": "increased hepatic production"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "hepatic glucose production"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "hepatic glucose"}
+{"subject": "-Insulin resistance", "relation": "causes", "object": "increased glucose production"}
+{"subject": "-Elevated free fatty acids", "relation": "lead to", "object": "increased lipolysis"}
+{"subject": "acids", "relation": "lead to", "object": "increased lipolysis"}
+{"subject": "-Elevated fatty acids", "relation": "lead to", "object": "increased lipolysis"}
+{"subject": "-Elevated free fatty acids", "relation": "lead to", "object": "lipolysis"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "endothelial dysfunction"}
+{"subject": "inflammation", "relation": "causes", "object": "endothelial dysfunction"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "dysfunction"}
+{"subject": "Hyperparathyroidism", "relation": "causes", "object": "hypercalcemia"}
+{"subject": "Parathyroid adenoma", "relation": "leads to", "object": "primary hyperparathyroidism"}
+{"subject": "Parathyroid adenoma", "relation": "leads to", "object": "primary"}
+{"subject": "adenoma", "relation": "leads to", "object": "primary"}
+{"subject": "adenoma", "relation": "leads to", "object": "primary hyperparathyroidism"}
+{"subject": "-Parathyroid adenoma", "relation": "leads to", "object": "hyperparathyroidism"}
+{"subject": "adenoma", "relation": "leads to", "object": "hyperparathyroidism"}
+{"subject": "Prolactinomas", "relation": "cause", "object": "hyperprolactinemia"}
+{"subject": "-Excessive growth hormone secretion from somatotroph adenomas", "relation": "leads to", "object": "acromegaly"}
+{"subject": "growth hormone secretion from somatotroph adenomas", "relation": "leads to", "object": "acromegaly"}
+{"subject": "Compression of the optic chiasm by a pituitary tumor", "relation": "causes", "object": "bitemporal hemianopia"}
+{"subject": "-Compression of chiasm by pituitary tumor", "relation": "causes", "object": "bitemporal hemianopia"}
+{"subject": "-Compression of chiasm by pituitary tumor", "relation": "causes", "object": "bitemporal"}
+{"subject": "-Compression of optic chiasm by tumor", "relation": "causes", "object": "bitemporal hemianopia"}
+{"subject": "-Compression of optic chiasm by tumor", "relation": "causes", "object": "bitemporal"}
+{"subject": "-Compression of optic chiasm by pituitary tumor", "relation": "causes", "object": "hemianopia"}
+{"subject": "-Compression of optic chiasm by pituitary tumor", "relation": "causes", "object": "bitemporal hemianopia"}
+{"subject": "Exposure to Bisphenol A ( BPA)", "relation": "causes gene expression in", "object": "the hypothalamus"}
+{"subject": "Exposure to Bisphenol A BPA)", "relation": "causes gene expression in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A BPA", "relation": "causes", "object": "gene expression"}
+{"subject": "Exposure to Bisphenol A BPA", "relation": "causes in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A BPA", "relation": "causes", "object": "gene expression hypothalamus"}
+{"subject": "Exposure to Bisphenol A BPA)", "relation": "causes expression in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A)", "relation": "causes gene expression in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A)", "relation": "causes", "object": "gene expression"}
+{"subject": "Exposure to Bisphenol A)", "relation": "causes in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A)", "relation": "causes", "object": "gene expression hypothalamus"}
+{"subject": "Exposure to Bisphenol A)", "relation": "causes gene in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A ( BPA)", "relation": "causes", "object": "gene expression"}
+{"subject": "Exposure to Bisphenol A ( BPA)", "relation": "causes in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A ( BPA)", "relation": "causes gene expression in", "object": "hypothalamus"}
+{"subject": "Exposure to Bisphenol A BPA)", "relation": "causes", "object": "altered expression"}
+{"subject": "Exposure to Bisphenol A BPA)", "relation": "causes", "object": "altered gene expression hypothalamus"}
+{"subject": "Exposure to Bisphenol A ( BPA)", "relation": "causes", "object": "gene expression hypothalamus"}
+{"subject": "Exposure to phthalates", "relation": "leads to", "object": "decreased testosterone production in the testes"}
+{"subject": "Exposure to phthalates", "relation": "leads", "object": "to testosterone production in testes"}
+{"subject": "Exposure to phthalates", "relation": "leads to", "object": "decreased testosterone production in testes"}
+{"subject": "Exposure to polychlorinated biphenyls ( PCBs)", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "Exposure", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls PCBs)", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls PCBs", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "PCBs", "relation": "causes disruption of", "object": "thyroid hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls (", "relation": "causes disruption of", "object": "thyroid hormone"}
+{"subject": "Exposure to polychlorinated biphenyls PCBs", "relation": "causes disruption of", "object": "hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls PCBs)", "relation": "causes", "object": "disruption thyroid hormone signaling"}
+{"subject": "Exposure to polychlorinated biphenyls (", "relation": "causes", "object": "disruption thyroid hormone signaling"}
+{"subject": "PCBs", "relation": "causes", "object": "disruption thyroid hormone signaling"}
+{"subject": "-Pathogen recognition by Toll-like receptors ( TLRs)", "relation": "causes activation of", "object": "NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll-like receptors ( TLRs)", "relation": "causes activation of", "object": "NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes activation of", "object": "NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes", "object": "of-"}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes", "object": "activation NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes", "object": "activation NF \u03baB."}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes activation of", "object": "\u03baB."}
+{"subject": "Pathogen recognition by Toll- ( TLRs)", "relation": "causes activation of", "object": "NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll- ( TLRs", "relation": "causes", "object": "of-"}
+{"subject": "Pathogen recognition by Toll- ( TLRs)", "relation": "causes", "object": "activation NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll- ( TLRs)", "relation": "causes", "object": "activation NF \u03baB."}
+{"subject": "Pathogen recognition by Toll- ( TLRs)", "relation": "causes activation of", "object": "\u03baB."}
+{"subject": "Pathogen recognition by Toll-like receptors (", "relation": "causes activation of", "object": "NF-\u03baB."}
+{"subject": "Pathogen recognition by Toll ( TLRs)", "relation": "causes activation of", "object": "NF-"}
+{"subject": "Pathogen recognition by Toll- ( TLRs)", "relation": "causes activation of", "object": "NF-"}
+{"subject": "Activation of the complement system", "relation": "leads to", "object": "opsonization of pathogens"}
+{"subject": "-Activation of complement system", "relation": "leads to", "object": "opsonization of pathogens"}
+{"subject": "Antigen presentation by dendritic cells", "relation": "leads to", "object": "T cell activation"}
+{"subject": "Antigen presentation by cells", "relation": "leads to", "object": "T cell activation"}
+{"subject": "T cell activation", "relation": "causes", "object": "cytokine release"}
+{"subject": "T cell activation", "relation": "causes", "object": "release"}
+{"subject": "Cytokine release", "relation": "leads to", "object": "B cell activation"}
+{"subject": "release", "relation": "leads to", "object": "B cell activation"}
+{"subject": "Antigen processing by dendritic cells", "relation": "leads to", "object": "the presentation of peptide-MHC complexes on their surface"}
+{"subject": "-Antigen processing by cells", "relation": "leads to", "object": "presentation of peptide-MHC complexes on their surface"}
+{"subject": "-Antigen processing by cells", "relation": "leads to", "object": "presentation of peptide complexes on their surface"}
+{"subject": "-Antigen processing by dendritic cells", "relation": "leads to", "object": "presentation of MHC complexes on their surface"}
+{"subject": "-Antigen processing by dendritic cells", "relation": "leads to", "object": "presentation of peptide-MHC complexes on their surface"}
+{"subject": "Binding of peptide-MHC complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "Binding of peptide complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "-Binding of MHC complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "peptide complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "peptide-MHC complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "MHC complexes to T cell receptors", "relation": "causes", "object": "T cell activation"}
+{"subject": "Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent presentation"}
+{"subject": "Internalization of extracellular by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent presentation"}
+{"subject": "Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent"}
+{"subject": "-Internalization of antigens by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent presentation"}
+{"subject": "-Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation and presentation"}
+{"subject": "Internalization of extracellular by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent"}
+{"subject": "Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation and presentation"}
+{"subject": "-Internalization of antigens by macrophages", "relation": "leads to", "object": "antigen degradation and subsequent"}
+{"subject": "-Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation subsequent presentation"}
+{"subject": "-Internalization of extracellular antigens by macrophages", "relation": "leads to", "object": "antigen degradation"}
+{"subject": "-Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor ( TCR) activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor ( TCR) activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor () activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor ( TCR)"}
+{"subject": "-Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor TCR) activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor TCR) activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor TCR activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor ("}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor ( TCR activation"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor"}
+{"subject": "-Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor TCR"}
+{"subject": "Antigen presentation by MHC molecules", "relation": "causes", "object": "T cell receptor TCR"}
+{"subject": "-TCR activation", "relation": "leads to", "object": "increased intracellular calcium levels"}
+{"subject": "TCR activation", "relation": "leads to", "object": "increased intracellular calcium levels"}
+{"subject": "TCR activation", "relation": "leads to", "object": "increased calcium levels"}
+{"subject": "TCR activation", "relation": "leads to", "object": "increased calcium"}
+{"subject": "TCR activation", "relation": "leads to", "object": "increased intracellular levels"}
+{"subject": "activation", "relation": "leads to", "object": "intracellular calcium levels"}
+{"subject": "activation", "relation": "leads to", "object": "intracellular calcium"}
+{"subject": "activation", "relation": "leads to", "object": "increased calcium levels"}
+{"subject": "activation", "relation": "leads to", "object": "increased intracellular calcium levels"}
+{"subject": "-Increased intracellular calcium levels", "relation": "cause activation of", "object": "calcineurin"}
+{"subject": "intracellular calcium levels", "relation": "cause activation of", "object": "calcineurin"}
+{"subject": "-Increased calcium levels", "relation": "cause activation of", "object": "calcineurin"}
+{"subject": ")", "relation": "causes", "object": "B cell activation"}
+{"subject": "Antigen", "relation": "binding to", "object": "the B cell receptor ( BCR"}
+{"subject": "binding B cell receptor ( BCR)", "relation": "causes", "object": "B cell activation"}
+{"subject": "BCR", "relation": "causes", "object": "B cell activation"}
+{"subject": "BCR", "relation": "causes", "object": "B cell"}
+{"subject": "-Antigen binding to B cell receptor BCR)", "relation": "causes", "object": "B cell activation"}
+{"subject": "-Interaction of CD40 on B cells with CD40 L on T helper cells", "relation": "leads to", "object": "B cell activation"}
+{"subject": "Interaction of CD40 on B cells with CD40 L on T helper cells", "relation": "leads to", "object": "B cell activation"}
+{"subject": "-Engagement of the BCR with antigen and co-stimulation by cytokines such as IL-4", "relation": "causes", "object": "B cell differentiation and activation"}
+{"subject": "-Engagement of BCR with antigen co stimulation by cytokines such as IL-4", "relation": "causes", "object": "B cell differentiation and activation"}
+{"subject": "A foreign antigen entering the body", "relation": "causes", "object": "B cells to differentiate into plasma cells"}
+{"subject": "B cells", "relation": "to differentiate into", "object": "plasma cells"}
+{"subject": "foreign antigen", "relation": "causes", "object": "B cells to differentiate into plasma cells"}
+{"subject": "foreign antigen", "relation": "causes", "object": "B cells to differentiate into cells"}
+{"subject": "B cells", "relation": "to differentiate into", "object": "cells"}
+{"subject": "foreign antigen entering body", "relation": "causes", "object": "B cells to differentiate into plasma cells"}
+{"subject": "Plasma cells", "relation": "produce", "object": "antibodies specific to the foreign antigen"}
+{"subject": "Plasma cells", "relation": "produce", "object": "antibodies"}
+{"subject": "Plasma cells", "relation": "produce", "object": "antibodies specific to antigen"}
+{"subject": "Plasma cells", "relation": "produce", "object": "antibodies specific to foreign antigen"}
+{"subject": "Antigen exposure", "relation": "leads to", "object": "the activation of naive T cells"}
+{"subject": "Antigen exposure", "relation": "leads to", "object": "activation of T cells"}
+{"subject": "Antigen exposure", "relation": "leads to", "object": "activation of naive T cells"}
+{"subject": "T cell activation", "relation": "causes expansion of", "object": "antigen-specific T cells"}
+{"subject": "T cell activation", "relation": "causes expansion of", "object": "antigen cells"}
+{"subject": "T cell activation", "relation": "causes expansion of", "object": "antigen-cells"}
+{"subject": "T cell activation", "relation": "causes expansion of", "object": "T cells"}
+{"subject": "T cell activation", "relation": "causes", "object": "expansion antigen-specific T cells"}
+{"subject": "T cell activation", "relation": "causes antigen-", "object": "expansion"}
+{"subject": "T cell activation", "relation": "causes", "object": "expansion antigen-specific"}
+{"subject": "Memory T cells", "relation": "result from", "object": "the differentiation of effector T cells"}
+{"subject": "Memory T cells", "relation": "result from", "object": "differentiation of effector T cells"}
+{"subject": "Tregs", "relation": "cause", "object": "immune tolerance"}
+{"subject": "Tregs", "relation": "cause", "object": "immune tolerance suppressing effector T cells"}
+{"subject": "Tregs", "relation": "cause", "object": "immune tolerance suppressing effector"}
+{"subject": "Tregs", "relation": "cause tolerance by", "object": "effector T cells"}
+{"subject": "T cells ( Tregs)", "relation": "cause", "object": "tolerance"}
+{"subject": "( Tregs)", "relation": "cause", "object": "tolerance suppressing effector T cells"}
+{"subject": "( Tregs)", "relation": "cause", "object": "tolerance suppressing effector T."}
+{"subject": "T cells ( Tregs)", "relation": "cause tolerance by", "object": "effector T cells"}
+{"subject": "( Tregs)", "relation": "cause tolerance by", "object": "effector T cells"}
+{"subject": "( Tregs)", "relation": "cause", "object": "tolerance"}
+{"subject": "Tregs", "relation": "cause", "object": "tolerance"}
+{"subject": "Tregs", "relation": "cause", "object": "tolerance suppressing effector T cells"}
+{"subject": "Tregs", "relation": "cause", "object": "tolerance suppressing T cells"}
+{"subject": "tolerance", "relation": "suppressing", "object": "T cells"}
+{"subject": "Tregs", "relation": "cause", "object": "tolerance suppressing effector cells"}
+{"subject": "-Continuous exposure to self-antigens", "relation": "leads to", "object": "the induction of anergy in autoreactive T cells"}
+{"subject": "exposure to self-antigens", "relation": "leads to", "object": "induction of anergy"}
+{"subject": "exposure to self-antigens", "relation": "leads in", "object": "autoreactive T cells"}
+{"subject": "exposure to self-antigens", "relation": "leads to", "object": "induction of anergy in autoreactive cells"}
+{"subject": "-Continuous exposure to self antigens", "relation": "leads to", "object": "induction of anergy"}
+{"subject": "-Continuous exposure to self antigens", "relation": "leads in", "object": "autoreactive T cells"}
+{"subject": "-Continuous exposure to self antigens", "relation": "leads to", "object": "induction of anergy in autoreactive cells"}
+{"subject": "-Continuous exposure to self-antigens", "relation": "leads to", "object": "induction of anergy"}
+{"subject": "-Continuous exposure to self-antigens", "relation": "leads in", "object": "T cells"}
+{"subject": "-Continuous exposure to self-antigens", "relation": "leads in", "object": "autoreactive T cells"}
+{"subject": "-Dysregulation of regulatory T cells", "relation": "causes loss of", "object": "self-tolerance"}
+{"subject": "Dysregulation of regulatory T cells", "relation": "causes loss of", "object": "self-tolerance"}
+{"subject": "Dysregulation of regulatory cells", "relation": "causes loss of", "object": "self-tolerance"}
+{"subject": "Dysregulation of regulatory T cells", "relation": "causes loss of", "object": "self-"}
+{"subject": "-Dysregulation of T cells", "relation": "causes loss of", "object": "self-tolerance"}
+{"subject": "-Dysregulation of regulatory T cells", "relation": "causes loss of", "object": "self tolerance"}
+{"subject": "Dysregulation of regulatory cells", "relation": "causes loss of", "object": "tolerance"}
+{"subject": "Dysregulation of regulatory T cells", "relation": "causes", "object": "loss self-tolerance"}
+{"subject": "-Dysregulation of T cells", "relation": "causes loss of", "object": "tolerance"}
+{"subject": "Molecular mimicry", "relation": "leads to", "object": "cross-reactive immune responses"}
+{"subject": "Molecular", "relation": "leads to", "object": "cross-reactive immune responses"}
+{"subject": "Molecular", "relation": "leads", "object": "to cross-"}
+{"subject": "Molecular mimicry", "relation": "leads to", "object": "cross"}
+{"subject": "mimicry", "relation": "leads to", "object": "cross"}
+{"subject": "mimicry", "relation": "leads to", "object": "cross-reactive immune responses"}
+{"subject": "-mimicry", "relation": "leads to", "object": "cross-reactive immune responses"}
+{"subject": "-Molecular mimicry", "relation": "leads to", "object": "responses"}
+{"subject": "mimicry", "relation": "leads to", "object": "responses"}
+{"subject": "Deficiency in T cells", "relation": "leads to", "object": "increased susceptibility"}
+{"subject": "Deficiency in T cells", "relation": "leads to", "object": "viral infections"}
+{"subject": "Deficiency in T cells", "relation": "leads", "object": "to increased to viral infections"}
+{"subject": "Deficiency in T cells", "relation": "leads to", "object": "viral"}
+{"subject": "-Deficiency in T cells", "relation": "leads to", "object": "susceptibility"}
+{"subject": "-Deficiency in T cells", "relation": "leads to", "object": "viral infections"}
+{"subject": "-Deficiency in T cells", "relation": "leads to", "object": "increased susceptibility"}
+{"subject": "-Deficiency in T cells", "relation": "leads to", "object": "infections"}
+{"subject": "-Impaired phagocytosis", "relation": "causes clearance of", "object": "bacterial pathogens"}
+{"subject": "phagocytosis", "relation": "causes clearance of", "object": "bacterial pathogens"}
+{"subject": "phagocytosis", "relation": "causes", "object": "reduced clearance bacterial pathogens"}
+{"subject": "-Impaired phagocytosis", "relation": "causes clearance of", "object": "pathogens"}
+{"subject": "phagocytosis", "relation": "causes", "object": "reduced clearance bacterial"}
+{"subject": "phagocytosis", "relation": "causes clearance of", "object": "pathogens"}
+{"subject": "Mutations in the BTK gene result in X-linked agammaglobulinemia", "relation": "leading to", "object": "a lack of mature B cells"}
+{"subject": "-Mutations in BTK gene result in agammaglobulinemia,", "relation": "leading to", "object": "lack of mature B cells"}
+{"subject": "-Mutations in BTK gene result in agammaglobulinemia,", "relation": "leading", "object": "to lack mature B cells"}
+{"subject": "-Mutations in BTK gene result in agammaglobulinemia", "relation": "leading to", "object": "lack of mature B cells"}
+{"subject": "-Mutations in BTK gene result in X-linked agammaglobulinemia", "relation": "leading to", "object": "lack of mature B cells"}
+{"subject": "-Mutations in BTK gene result in X-linked agammaglobulinemia", "relation": "leading to", "object": "lack of mature cells"}
+{"subject": "-Mutations", "relation": "leading to", "object": "lack of B cells"}
+{"subject": "-Mutations in BTK gene result in X-linked agammaglobulinemia,", "relation": "leading to", "object": "lack of mature B cells"}
+{"subject": "Mutations in tumor suppressor genes", "relation": "cause", "object": "uncontrolled cell proliferation"}
+{"subject": "Mutations in tumor suppressor genes", "relation": "cause", "object": "cell proliferation"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "increased cell division"}
+{"subject": "Activation of oncogenes", "relation": "leads to", "object": "cell division"}
+{"subject": "Inherited mutations in BRCA1 and BRCA2 genes", "relation": "lead to", "object": "increased risk of breast and ovarian cancer"}
+{"subject": "mutations in BRCA1 and BRCA2 genes", "relation": "lead to", "object": "increased risk of breast and ovarian cancer"}
+{"subject": "mutations in BRCA1 BRCA2 genes", "relation": "lead to", "object": "increased risk of breast and ovarian cancer"}
+{"subject": "mutations in BRCA1 BRCA2 genes", "relation": "lead to", "object": "increased risk breast and ovarian cancer"}
+{"subject": "mutations in BRCA1 BRCA2 genes", "relation": "lead to", "object": "increased risk breast and ovarian"}
+{"subject": "mutations in BRCA1 BRCA2", "relation": "lead to", "object": "increased risk of breast and ovarian cancer"}
+{"subject": "mutations in BRCA1 BRCA2", "relation": "lead to", "object": "increased risk of and ovarian cancer"}
+{"subject": "mutations in BRCA1 BRCA2", "relation": "lead to", "object": "increased risk of breast and ovarian"}
+{"subject": "Immune checkpoint inhibition", "relation": "causes", "object": "enhanced T cell activation"}
+{"subject": "Immune checkpoint inhibition", "relation": "causes", "object": "enhanced cell activation"}
+{"subject": "checkpoint inhibition", "relation": "causes", "object": "enhanced cell activation"}
+{"subject": "checkpoint inhibition", "relation": "causes", "object": "enhanced T cell activation"}
+{"subject": "-Immune checkpoint inhibition", "relation": "causes", "object": "T cell activation"}
+{"subject": "checkpoint inhibition", "relation": "causes", "object": "T cell activation"}
+{"subject": "inhibition", "relation": "causes", "object": "enhanced cell activation"}
+{"subject": "inhibition", "relation": "causes", "object": "enhanced T cell activation"}
+{"subject": "inhibition", "relation": "causes", "object": "T cell activation"}
+{"subject": "Tumor antigen presentation", "relation": "leads to", "object": "T cell priming"}
+{"subject": "antigen presentation", "relation": "leads to", "object": "T cell priming"}
+{"subject": "-Chronic inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "inflammation", "relation": "causes", "object": "DNA damage"}
+{"subject": "Mutations in tumor suppressor genes", "relation": "lead to", "object": "uncontrolled cell proliferation"}
+{"subject": "Mutations in tumor suppressor genes", "relation": "lead to", "object": "uncontrolled proliferation"}
+{"subject": "-Mutations in tumor suppressor genes", "relation": "lead to", "object": "cell proliferation"}
+{"subject": "Activation of oncogenes", "relation": "causes", "object": "increased cell division"}
+{"subject": "Activation of oncogenes", "relation": "causes", "object": "increased division"}
+{"subject": "-Activation of oncogenes", "relation": "causes", "object": "cell division"}
+{"subject": "oncogenes", "relation": "causes", "object": "increased division"}
+{"subject": "oncogenes", "relation": "causes", "object": "increased cell division"}
+{"subject": "oncogenes", "relation": "causes", "object": "cell division"}
+{"subject": "The epithelial-mesenchymal transition ( EMT)", "relation": "causes", "object": "increased cell motility and invasiveness"}
+{"subject": "mesenchymal transition ( EMT)", "relation": "causes", "object": "increased cell motility and invasiveness"}
+{"subject": "EMT", "relation": "causes", "object": "increased cell motility and invasiveness"}
+{"subject": "EMT", "relation": "causes", "object": "cell motility and invasiveness"}
+{"subject": "EMT", "relation": "causes", "object": "cell and invasiveness"}
+{"subject": "EMT", "relation": "causes", "object": "cell"}
+{"subject": "EMT", "relation": "causes", "object": "cell motility"}
+{"subject": "EMT", "relation": "causes", "object": "increased motility and invasiveness"}
+{"subject": "EMT", "relation": "causes", "object": "increased motility"}
+{"subject": "EMT", "relation": "causes", "object": "increased cell motility invasiveness"}
+{"subject": "Hypoxia-inducible factor 1-alpha ( HIF-1\u03b1)", "relation": "leads to", "object": "upregulation of genes involved in angiogenesis"}
+{"subject": "genes", "relation": "involved in", "object": "angiogenesis"}
+{"subject": "factor 1-alpha ( HIF-1\u03b1)", "relation": "leads to", "object": "upregulation of genes involved in angiogenesis"}
+{"subject": "factor 1 alpha (", "relation": "leads to", "object": "upregulation of genes involved in angiogenesis"}
+{"subject": "factor 1 alpha (", "relation": "leads to", "object": "upregulation genes involved in angiogenesis"}
+{"subject": "factor 1 alpha (", "relation": "leads to", "object": "upregulation genes"}
+{"subject": "factor 1 alpha (", "relation": "leads in", "object": "angiogenesis"}
+{"subject": "factor 1 alpha (", "relation": "leads to", "object": "upregulation of involved in angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation of genes involved in angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation genes involved in angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation genes"}
+{"subject": "factor 1 alpha", "relation": "leads in", "object": "angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation genes involved angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation of involved in angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation of involved angiogenesis"}
+{"subject": "factor 1 alpha", "relation": "leads to", "object": "upregulation of genes"}
+{"subject": "The activation of the Wnt / \u03b2-catenin pathway", "relation": "causes expression of", "object": "genes promoting cell proliferation and metastasis"}
+{"subject": "activation of / \u03b2-catenin pathway", "relation": "causes expression of", "object": "genes promoting cell proliferation and metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes promoting cell proliferation and metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes promoting proliferation and metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes cell proliferation and metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes promoting proliferation metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes promoting cell and metastasis"}
+{"subject": "activation of /-catenin pathway", "relation": "causes expression of", "object": "genes cell and metastasis"}
+{"subject": "-Chemotherapy drugs", "relation": "cause DNA damage in", "object": "cancer cells"}
+{"subject": "Chemotherapy drugs", "relation": "cause DNA damage in", "object": "cancer cells"}
+{"subject": "Chemotherapy drugs", "relation": "cause", "object": "DNA damage cancer cells"}
+{"subject": "-DNA damage", "relation": "leads to", "object": "cell death in cancer cells"}
+{"subject": "DNA damage", "relation": "leads to", "object": "cell death in cancer cells"}
+{"subject": "damage", "relation": "leads to", "object": "cell death in cancer cells"}
+{"subject": "Chemotherapy drugs", "relation": "cause", "object": "side effects"}
+{"subject": "Chemotherapy", "relation": "cause", "object": "side effects"}
+{"subject": "Chemotherapy drugs", "relation": "cause by", "object": "damaging healthy"}
+{"subject": "drugs", "relation": "cause", "object": "side effects"}
+{"subject": "drugs", "relation": "cause by", "object": "damaging healthy"}
+{"subject": "-drugs", "relation": "cause", "object": "side effects"}
+{"subject": "-Chemotherapy drugs", "relation": "cause side effects by", "object": "damaging cells"}
+{"subject": "drugs", "relation": "cause side effects by", "object": "damaging cells"}
+{"subject": "drugs", "relation": "cause", "object": "side effects damaging healthy cells"}
+{"subject": "side effects", "relation": "damaging", "object": "healthy cells"}
+{"subject": "Radiation therapy", "relation": "causes DNA damage in", "object": "cancer cells"}
+{"subject": "DNA damage", "relation": "leads to", "object": "cell death"}
+{"subject": "Radiation therapy", "relation": "leads to", "object": "inflammation in normal tissues"}
+{"subject": "Radiation therapy", "relation": "leads to", "object": "inflammation in tissues"}
+{"subject": "-Targeted therapy with monoclonal antibodies", "relation": "causes inhibition of", "object": "specific molecular pathways"}
+{"subject": "therapy with monoclonal antibodies", "relation": "causes inhibition of", "object": "specific molecular pathways"}
+{"subject": "therapy with monoclonal antibodies", "relation": "causes inhibition of", "object": "specific molecular"}
+{"subject": "therapy with monoclonal antibodies", "relation": "causes inhibition of", "object": "molecular pathways"}
+{"subject": "therapy with monoclonal antibodies", "relation": "causes inhibition of", "object": "specific pathways"}
+{"subject": "Activation of specific oncogenes", "relation": "leads to", "object": "uncontrolled cell proliferation"}
+{"subject": "Activation of specific oncogenes", "relation": "leads to", "object": "uncontrolled proliferation"}
+{"subject": "-Activation of oncogenes", "relation": "leads to", "object": "uncontrolled cell proliferation"}
+{"subject": "-Activation of oncogenes", "relation": "leads to", "object": "uncontrolled cell"}
+{"subject": "-Activation of specific oncogenes", "relation": "leads to", "object": "cell proliferation"}
+{"subject": "The presence of cancer stem cells", "relation": "leads to", "object": "tumor recurrence"}
+{"subject": "presence of cancer stem cells", "relation": "leads to", "object": "tumor recurrence"}
+{"subject": "The activation of Wnt / \u03b2-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "activation of Wnt \u03b2-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "activation of Wnt \u03b2 signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "activation of", "relation": "causes renewal of", "object": "cancer stem cells"}
+{"subject": "activation of / \u03b2-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "activation of /-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "activation of /-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer stem"}
+{"subject": "activation of /-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer cells"}
+{"subject": "activation of / \u03b2 signaling causes", "relation": "increased self renewal of", "object": "cancer stem cells"}
+{"subject": "\u03b2 signaling", "relation": "causes renewal of", "object": "cancer stem cells"}
+{"subject": "\u03b2 signaling", "relation": "causes renewal of", "object": "cancer cells"}
+{"subject": "activation of / \u03b2 signaling causes", "relation": "increased self renewal of", "object": "stem cells"}
+{"subject": "activation of /-catenin signaling causes", "relation": "increased self renewal of", "object": "cancer"}
+{"subject": "\u03b2 signaling", "relation": "causes renewal of", "object": "cancer"}
+{"subject": "activation of / \u03b2 signaling causes", "relation": "increased self renewal of", "object": "cells"}
+{"subject": "The epithelial-mesenchymal transition", "relation": "induces generation of", "object": "cancer stem cells"}
+{"subject": "transition", "relation": "induces generation of", "object": "cancer stem cells"}
+{"subject": "epithelial-mesenchymal transition", "relation": "induces generation of", "object": "cancer stem cells"}
+{"subject": "transition", "relation": "induces generation of", "object": "cancer cells"}
+{"subject": "Abnormal DNA methylation", "relation": "causes", "object": "gene silencing in cancer"}
+{"subject": "gene", "relation": "silencing in", "object": "cancer"}
+{"subject": "DNA methylation", "relation": "causes", "object": "gene silencing in cancer"}
+{"subject": "DNA methylation", "relation": "causes", "object": "gene silencing cancer"}
+{"subject": "Abnormal DNA methylation", "relation": "causes", "object": "gene"}
+{"subject": "DNA methylation", "relation": "causes gene in", "object": "cancer"}
+{"subject": "DNA methylation", "relation": "causes in", "object": "gene"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation and reduced gene expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "condensation and reduced gene expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "condensation"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation and gene expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "condensation and gene expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "condensation and gene in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "condensation and reduced gene expression cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation reduced gene expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation reduced expression in cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation and gene expression cancer"}
+{"subject": "Histone deacetylase activity", "relation": "leads to", "object": "chromatin condensation"}
+{"subject": "Mutations in epigenetic regulators", "relation": "cause dysregulation of", "object": "gene expression in cancer"}
+{"subject": "Mutations in regulators", "relation": "cause dysregulation of", "object": "gene expression in cancer"}
+{"subject": "Mutations in regulators", "relation": "cause dysregulation gene expression in", "object": "cancer"}
+{"subject": "sensitivity", "relation": "detecting in", "object": "cancer patients"}
+{"subject": "sensitivity", "relation": "detecting in", "object": "cancer"}
+{"subject": "-Aberrant methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing and subsequent tumor progression"}
+{"subject": "methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing and subsequent tumor progression"}
+{"subject": "methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing and subsequent tumor"}
+{"subject": "-Aberrant methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing and tumor progression"}
+{"subject": "methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing and subsequent progression"}
+{"subject": "their", "relation": "silencing", "object": "subsequent tumor progression"}
+{"subject": "-Aberrant methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing subsequent tumor"}
+{"subject": "-Aberrant methylation of tumor suppressor genes", "relation": "leads to", "object": "their silencing"}
+{"subject": "-Over-expression of the epidermal growth factor receptor ( EGFR)", "relation": "causes cell proliferation in", "object": "cancer cells"}
+{"subject": "-Over expression of epidermal growth factor receptor ( EGFR)", "relation": "causes cell proliferation in", "object": "cancer cells"}
+{"subject": "-Over expression of epidermal factor receptor ( EGFR)", "relation": "causes cell proliferation in", "object": "cancer cells"}
+{"subject": "EGFR", "relation": "causes cell proliferation in", "object": "cancer cells"}
+{"subject": "EGFR", "relation": "causes proliferation in", "object": "cancer cells"}
+{"subject": "EGFR", "relation": "causes", "object": "enhanced proliferation"}
+{"subject": "EGFR", "relation": "causes proliferation in", "object": "cells"}
+{"subject": "EGFR", "relation": "causes cell in", "object": "cancer cells"}
+{"subject": "EGFR", "relation": "causes", "object": "enhanced cell and survival cancer cells"}
+{"subject": "EGFR", "relation": "causes cell in", "object": "cancer"}
+{"subject": "-High oxidative capacity", "relation": "causes", "object": "to be resistant to fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "to be resistant to fatigue"}
+{"subject": "oxidative capacity slow-twitch muscle fibers", "relation": "to be", "object": "resistant to fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "slow-fibers to be resistant to fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "slow-twitch muscle fibers to be resistant fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "to be resistant fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "to be resistant to"}
+{"subject": "oxidative capacity slow-twitch muscle fibers", "relation": "to be to", "object": "fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "slow-fibers to be resistant fatigue"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "slow-twitch muscle fibers"}
+{"subject": "oxidative capacity", "relation": "causes", "object": "to resistant to"}
+{"subject": "-Increased myosin ATPase activity", "relation": "leads to", "object": "faster contraction speeds in fast-twitch muscle fibers"}
+{"subject": "myosin ATPase activity", "relation": "leads to", "object": "faster contraction speeds in fast-twitch muscle fibers"}
+{"subject": "myosin ATPase activity", "relation": "leads to", "object": "faster contraction in fast-twitch muscle fibers"}
+{"subject": "myosin ATPase activity", "relation": "leads to", "object": "faster contraction in fast-twitch"}
+{"subject": "myosin ATPase activity", "relation": "leads to", "object": "faster contraction speeds in fast-fibers"}
+{"subject": "-Increased myosin ATPase activity", "relation": "leads to", "object": "contraction speeds in fast-twitch muscle fibers"}
+{"subject": "-Increased myosin ATPase activity", "relation": "leads to", "object": "contraction speeds in fast-fibers"}
+{"subject": "-Increased myosin ATPase activity", "relation": "leads to", "object": "faster contraction speeds in twitch muscle fibers"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have capacity for", "object": "anaerobic metabolism"}
+{"subject": "-High glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have a greater capacity for anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have", "object": "a greater capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have greater capacity for anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have", "object": "greater capacity for anaerobic metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have capacity for", "object": "anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have greater capacity for anaerobic metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "greater capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have greater capacity anaerobic metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "greater capacity anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have greater capacity anaerobic"}
+{"subject": "fast muscle fibers", "relation": "to have anaerobic", "object": "greater capacity"}
+{"subject": "fast muscle fibers", "relation": "to have capacity for", "object": "metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have greater capacity for metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "greater capacity for metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have capacity for anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have", "object": "capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have capacity anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have", "object": "capacity anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have greater for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers to have greater capacity for anaerobic"}
+{"subject": "fast-twitch muscle fibers", "relation": "to have", "object": "greater capacity for anaerobic"}
+{"subject": "twitch muscle fibers", "relation": "to have capacity for", "object": "anaerobic metabolism"}
+{"subject": "-High glycogen content", "relation": "causes", "object": "twitch muscle fibers to have greater capacity for anaerobic metabolism"}
+{"subject": "twitch muscle fibers", "relation": "to have", "object": "greater capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have capacity for anaerobic metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have capacity for metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "capacity for metabolism"}
+{"subject": "fast muscle fibers", "relation": "to have capacity for", "object": "anaerobic"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast muscle fibers to have capacity for anaerobic"}
+{"subject": "fast muscle fibers", "relation": "to have", "object": "capacity for anaerobic"}
+{"subject": "fast-twitch muscle fibers", "relation": "have capacity for", "object": "anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers have greater capacity for anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "have", "object": "greater capacity for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers have greater for anaerobic metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers have greater for metabolism"}
+{"subject": "glycogen content", "relation": "causes", "object": "fast-twitch muscle fibers have greater capacity anaerobic metabolism"}
+{"subject": "fast-twitch muscle fibers", "relation": "have", "object": "greater capacity anaerobic metabolism"}
+{"subject": "-High glycogen content", "relation": "causes", "object": "twitch muscle fibers"}
+{"subject": "-High glycogen content", "relation": "causes to", "object": "greater capacity for anaerobic metabolism"}
+{"subject": "-High glycogen content", "relation": "causes to", "object": "greater capacity anaerobic metabolism"}
+{"subject": "-Increased ATP demand", "relation": "causes activation of", "object": "glycolysis"}
+{"subject": "ATP demand", "relation": "causes activation of", "object": "glycolysis"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative stress"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased oxidative"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "dysfunction", "relation": "leads to", "object": "oxidative stress"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "increased stress"}
+{"subject": "Impaired glucose uptake", "relation": "causes", "object": "reduced ATP production"}
+{"subject": "Impaired uptake", "relation": "causes", "object": "reduced ATP production"}
+{"subject": "Impaired uptake", "relation": "causes", "object": "reduced ATP"}
+{"subject": "Impaired glucose uptake", "relation": "causes", "object": "reduced production"}
+{"subject": "glucose uptake", "relation": "causes", "object": "reduced production"}
+{"subject": "glucose uptake", "relation": "causes", "object": "reduced ATP production"}
+{"subject": "uptake", "relation": "causes", "object": "reduced ATP production"}
+{"subject": "uptake", "relation": "causes", "object": "reduced ATP"}
+{"subject": "-Impaired glucose uptake", "relation": "causes", "object": "ATP production"}
+{"subject": "glucose uptake", "relation": "causes", "object": "ATP production"}
+{"subject": "uptake", "relation": "causes", "object": "reduced production"}
+{"subject": "uptake", "relation": "causes", "object": "ATP production"}
+{"subject": "-Increased sympathetic nervous system activity", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "sympathetic nervous system activity", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "sympathetic nervous activity", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "sympathetic nervous system", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "-Increased nervous system activity", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "-Increased nervous system", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "-Increased sympathetic system activity", "relation": "causes", "object": "vasoconstriction"}
+{"subject": "hypertension", "relation": "leads to", "object": "left ventricular hypertrophy"}
+{"subject": "-Chronic hypertension", "relation": "leads to", "object": "left hypertrophy"}
+{"subject": "-Chronic hypertension", "relation": "leads to", "object": "left ventricular hypertrophy"}
+{"subject": "Hypoxia", "relation": "causes", "object": "increased ventilation"}
+{"subject": "Hypoxia", "relation": "causes", "object": "increased"}
+{"subject": "-Hypoxia", "relation": "causes", "object": "ventilation"}
+{"subject": "-Increased carbon dioxide levels", "relation": "lead to", "object": "increased respiratory rate"}
+{"subject": "carbon dioxide levels", "relation": "lead to", "object": "increased respiratory rate"}
+{"subject": "carbon dioxide levels", "relation": "lead to", "object": "increased respiratory"}
+{"subject": "-Increased carbon dioxide levels", "relation": "lead to", "object": "respiratory rate"}
+{"subject": "-Increased carbon dioxide levels", "relation": "lead to", "object": "increased rate"}
+{"subject": "Activation of the carotid bodies", "relation": "causes", "object": "increased respiratory drive"}
+{"subject": "-Activation of carotid bodies", "relation": "causes", "object": "respiratory drive"}
+{"subject": "-Activation of carotid bodies", "relation": "causes", "object": "respiratory"}
+{"subject": "-Activation of carotid bodies", "relation": "causes", "object": "increased drive"}
+{"subject": "-Activation of carotid bodies", "relation": "causes", "object": "increased respiratory drive"}
+{"subject": "-Increased glucose levels", "relation": "cause", "object": "the pancreas to release insulin"}
+{"subject": "the pancreas", "relation": "to release", "object": "insulin"}
+{"subject": "glucose levels", "relation": "cause", "object": "pancreas to release insulin"}
+{"subject": "pancreas", "relation": "to release", "object": "insulin"}
+{"subject": "glucose levels", "relation": "cause", "object": "pancreas to release"}
+{"subject": "-Increased glucose levels", "relation": "cause", "object": "pancreas to release insulin"}
+{"subject": "-Increased glucose levels", "relation": "cause", "object": "pancreas to release"}
+{"subject": "-Insulin", "relation": "leads to", "object": "the uptake of glucose by muscle and fat cells"}
+{"subject": "-Insulin", "relation": "leads to", "object": "uptake of glucose by muscle and fat cells"}
+{"subject": "-Insulin", "relation": "leads to", "object": "uptake of glucose"}
+{"subject": "-Insulin", "relation": "leads by", "object": "cells"}
+{"subject": "-Insulin", "relation": "leads to", "object": "uptake of glucose by muscle fat cells"}
+{"subject": "-Insulin", "relation": "leads to", "object": "uptake of glucose by muscle and cells"}
+{"subject": "Hypoglycemia", "relation": "causes release of", "object": "glucagon"}
+{"subject": "Hypoglycemia", "relation": "causes release from", "object": "the pancreas"}
+{"subject": "-Hypoglycemia", "relation": "causes release of", "object": "glucagon"}
+{"subject": "-Hypoglycemia", "relation": "causes release from", "object": "pancreas"}
+{"subject": "Stress", "relation": "causes release of", "object": "cortisol"}
+{"subject": "Stress", "relation": "causes release from", "object": "the adrenal cortex"}
+{"subject": "-Stress", "relation": "causes release of", "object": "cortisol"}
+{"subject": "-Stress", "relation": "causes release from", "object": "cortex"}
+{"subject": "-Stress", "relation": "causes release from", "object": "adrenal cortex"}
+{"subject": "-Increased cortisol levels", "relation": "lead to", "object": "elevated blood glucose levels"}
+{"subject": "cortisol levels", "relation": "lead to", "object": "elevated blood glucose levels"}
+{"subject": "cortisol levels", "relation": "lead to", "object": "elevated blood levels"}
+{"subject": "-Increased cortisol levels", "relation": "lead to", "object": "blood glucose levels"}
+{"subject": "-Elevated blood glucose levels", "relation": "cause", "object": "the pancreas to release insulin"}
+{"subject": "the pancreas", "relation": "to release", "object": "insulin"}
+{"subject": "blood glucose levels", "relation": "cause", "object": "pancreas to release insulin"}
+{"subject": "pancreas", "relation": "to release", "object": "insulin"}
+{"subject": "blood glucose levels", "relation": "cause", "object": "pancreas to release"}
+{"subject": "-Elevated blood glucose levels", "relation": "cause", "object": "pancreas to release insulin"}
+{"subject": "-Elevated blood glucose levels", "relation": "cause", "object": "pancreas to release"}
+{"subject": "-Increased activity of brown adipose tissue", "relation": "causes", "object": "heat production"}
+{"subject": "activity of brown adipose tissue", "relation": "causes", "object": "heat production"}
+{"subject": "activity of brown adipose", "relation": "causes", "object": "heat production"}
+{"subject": "activity of brown adipose", "relation": "causes", "object": "production"}
+{"subject": "-Increased activity of adipose tissue", "relation": "causes", "object": "heat production"}
+{"subject": "-Increased activity of brown tissue", "relation": "causes", "object": "heat production"}
+{"subject": "Activation of the hypothalamus", "relation": "leads to", "object": "increased sympathetic nervous system activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "sympathetic nervous system activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "sympathetic system activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "sympathetic system"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "sympathetic nervous activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "increased nervous system activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "increased nervous activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "increased sympathetic system activity"}
+{"subject": "-Activation of hypothalamus", "relation": "leads to", "object": "increased sympathetic nervous system activity"}
+{"subject": "Vasodilation", "relation": "causes", "object": "increased heat loss"}
+{"subject": "Vasodilation", "relation": "causes", "object": "increased loss"}
+{"subject": "-Vasodilation", "relation": "causes", "object": "heat loss"}
+{"subject": "-Increased motor unit recruitment", "relation": "causes", "object": "enhanced force production"}
+{"subject": "motor unit recruitment", "relation": "causes", "object": "enhanced force production"}
+{"subject": "motor unit recruitment", "relation": "causes", "object": "enhanced force"}
+{"subject": "-Increased motor unit recruitment", "relation": "causes", "object": "force production"}
+{"subject": "Resistance training", "relation": "leads to", "object": "increased muscle fiber size"}
+{"subject": "Resistance training", "relation": "leads to", "object": "increased fiber size"}
+{"subject": "training", "relation": "leads to", "object": "increased fiber size"}
+{"subject": "training", "relation": "leads to", "object": "increased muscle fiber size"}
+{"subject": "-Resistance training", "relation": "leads to", "object": "muscle fiber size"}
+{"subject": "training", "relation": "leads to", "object": "muscle fiber size"}
+{"subject": "-Increased neural drive", "relation": "causes", "object": "motor unit synchronization"}
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of the hippocampus"}
+{"subject": "stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Chronic stress", "relation": "leads to", "object": "atrophy of hippocampus"}
+{"subject": "-Increased synaptic plasticity", "relation": "causes", "object": "enhanced learning and memory"}
+{"subject": "synaptic plasticity", "relation": "causes", "object": "enhanced learning and memory"}
+{"subject": "synaptic plasticity", "relation": "enhanced", "object": "learning and memory"}
+{"subject": "synaptic plasticity", "relation": "enhanced", "object": "learning"}
+{"subject": "synaptic plasticity", "relation": "causes", "object": "enhanced learning memory"}
+{"subject": "synaptic plasticity", "relation": "causes", "object": "enhanced learning"}
+{"subject": "Neuroinflammation", "relation": "causes disruption of", "object": "the blood-brain barrier"}
+{"subject": "-Neuroinflammation", "relation": "causes disruption of", "object": "blood brain barrier"}
+{"subject": "-Neuroinflammation", "relation": "causes disruption of", "object": "blood-brain barrier"}
+{"subject": "-Acute exercise", "relation": "causes release of", "object": "pro-inflammatory cytokines"}
+{"subject": "-Acute exercise", "relation": "causes release from", "object": "muscle tissue"}
+{"subject": "exercise", "relation": "causes release of", "object": "pro-inflammatory cytokines"}
+{"subject": "exercise", "relation": "causes release from", "object": "muscle tissue"}
+{"subject": "exercise", "relation": "causes release of", "object": "pro"}
+{"subject": "-Acute exercise", "relation": "causes release of", "object": "cytokines"}
+{"subject": "exercise", "relation": "causes", "object": "release pro-inflammatory cytokines from muscle tissue"}
+{"subject": "exercise", "relation": "causes", "object": "release pro-muscle tissue"}
+{"subject": "-Muscle damage from intense exercise", "relation": "leads to", "object": "the infiltration of immune cells into the muscle"}
+{"subject": "-Muscle damage from exercise", "relation": "leads to", "object": "infiltration of immune cells into muscle"}
+{"subject": "-Muscle damage from exercise", "relation": "leads to", "object": "infiltration of immune"}
+{"subject": "-Muscle damage from exercise", "relation": "leads into", "object": "muscle"}
+{"subject": "-Muscle damage from intense exercise", "relation": "leads to", "object": "infiltration of cells"}
+{"subject": "-Muscle damage from intense exercise", "relation": "leads into", "object": "muscle"}
+{"subject": "-Muscle damage from intense exercise", "relation": "leads to", "object": "infiltration of immune cells into muscle"}
+{"subject": "The activation of the hypothalamic-pituitary-adrenal ( HPA) axis during exercise", "relation": "causes release of", "object": "cortisol, which has anti-inflammatory effects"}
+{"subject": "which", "relation": "has", "object": "anti-inflammatory effects"}
+{"subject": "-activation of-adrenal ( HPA) axis during exercise", "relation": "causes release of", "object": "cortisol, which has anti-inflammatory effects"}
+{"subject": "-activation of-adrenal) axis during exercise", "relation": "causes release of", "object": "cortisol, which has anti-inflammatory effects"}
+{"subject": "-activation of-adrenal exercise", "relation": "causes release of", "object": "cortisol, which has anti-inflammatory effects"}
+{"subject": "-activation of-adrenal exercise", "relation": "causes", "object": "release cortisol, which has anti-inflammatory effects"}
+{"subject": "-activation of-adrenal exercise", "relation": "causes", "object": "release cortisol which has anti-inflammatory effects"}
+{"subject": "-activation of-adrenal exercise", "relation": "causes", "object": "release cortisol which anti-inflammatory effects"}
+{"subject": "insulin", "relation": "signaling in", "object": "muscle and liver cells"}
+{"subject": "free acids bloodstream", "relation": "cause", "object": "insulin resistance"}
+{"subject": "insulin", "relation": "signaling in", "object": "muscle liver cells"}
+{"subject": "insulin", "relation": "signaling in", "object": "liver cells"}
+{"subject": "insulin", "relation": "signaling in", "object": "muscle and liver"}
+{"subject": "insulin", "relation": "signaling in", "object": "muscle and cells"}
+{"subject": "-Chronic inflammation", "relation": "leads to", "object": "insulin resistance"}
+{"subject": "-Chronic inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate ( IRS) function"}
+{"subject": "inflammation", "relation": "leads to", "object": "insulin resistance"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate ( IRS) function"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin substrate ( IRS) function"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin substrate ( IRS)"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin substrate ( IRS function"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin substrate"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate () function"}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate ("}
+{"subject": "inflammation", "relation": "leads by", "object": "impairing insulin receptor substrate ( IRS)"}
+{"subject": "-Hyperinsulinemia", "relation": "causes", "object": "insulin resistance"}
+{"subject": "Hyperinsulinemia", "relation": "causes", "object": "insulin resistance"}
+{"subject": "Hyperinsulinemia", "relation": "causes", "object": "insulin resistance downregulating insulin receptors"}
+{"subject": "Mitochondrial DNA mutations", "relation": "cause", "object": "impaired oxidative phosphorylation"}
+{"subject": "Mitochondrial DNA mutations", "relation": "cause", "object": "oxidative phosphorylation"}
+{"subject": "Mitochondrial DNA mutations", "relation": "cause", "object": "oxidative"}
+{"subject": "Mitochondrial DNA mutations", "relation": "cause", "object": "impaired phosphorylation"}
+{"subject": "Impaired oxidative phosphorylation", "relation": "leads to", "object": "increased reactive oxygen species production"}
+{"subject": "oxidative phosphorylation", "relation": "leads to", "object": "increased reactive oxygen species production"}
+{"subject": "oxidative", "relation": "leads to", "object": "increased reactive oxygen species production"}
+{"subject": "oxidative", "relation": "leads to", "object": "increased reactive species production"}
+{"subject": "oxidative phosphorylation", "relation": "leads to", "object": "increased oxygen species production"}
+{"subject": "Impaired phosphorylation", "relation": "leads to", "object": "increased reactive oxygen species production"}
+{"subject": "Impaired phosphorylation", "relation": "leads to", "object": "increased oxygen species production"}
+{"subject": "Impaired oxidative phosphorylation", "relation": "leads", "object": "to reactive oxygen species production"}
+{"subject": "Increased reactive oxygen species production", "relation": "causes", "object": "further mitochondrial DNA damage"}
+{"subject": "reactive oxygen species production", "relation": "causes", "object": "further mitochondrial DNA damage"}
+{"subject": "reactive species production", "relation": "causes", "object": "further mitochondrial DNA damage"}
+{"subject": "reactive species production", "relation": "causes", "object": "further mitochondrial damage"}
+{"subject": "reactive species production", "relation": "causes", "object": "further mitochondrial DNA"}
+{"subject": "reactive oxygen species production", "relation": "causes", "object": "further DNA damage"}
+{"subject": "reactive oxygen species production", "relation": "causes", "object": "further DNA"}
+{"subject": "reactive oxygen species production", "relation": "causes", "object": "further mitochondrial damage"}
+{"subject": "Increased oxygen species production", "relation": "causes", "object": "further mitochondrial DNA damage"}
+{"subject": "Increased oxygen species production", "relation": "causes", "object": "further DNA damage"}
+{"subject": "Increased oxygen species production", "relation": "causes", "object": "further DNA"}
+{"subject": "Increased oxygen species production", "relation": "causes", "object": "further mitochondrial damage"}
+{"subject": "Increased reactive oxygen species production", "relation": "causes", "object": "mitochondrial DNA damage"}
+{"subject": "Increased reactive oxygen species production", "relation": "causes", "object": "mitochondrial damage"}
+{"subject": "Increased reactive oxygen species production", "relation": "causes", "object": "further DNA damage"}
+{"subject": "-High levels of triglycerides", "relation": "lead to", "object": "increased production of very-low-density lipoprotein ( VLDL) particles, which contribute to the development of dyslipidemia"}
+{"subject": "which", "relation": "contribute to", "object": "the development of dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased production of very-low-density lipoprotein ( VLDL) particles, which contribute to development of dyslipidemia"}
+{"subject": "which", "relation": "contribute to", "object": "development of dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very-low-density lipoprotein ( VLDL) particles, which contribute to development of dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute to development of dyslipidemia"}
+{"subject": "which", "relation": "contribute development of", "object": "dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute development of dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute development of"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute to development"}
+{"subject": "which", "relation": "contribute to", "object": "development"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute to development of"}
+{"subject": "which", "relation": "contribute to", "object": "development of"}
+{"subject": "which", "relation": "contribute", "object": "development dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute development dyslipidemia"}
+{"subject": "which", "relation": "contribute", "object": "development"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute development"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute to of dyslipidemia"}
+{"subject": "levels of triglycerides", "relation": "lead to", "object": "increased of very- ( VLDL) particles, which contribute to of"}
+{"subject": "which", "relation": "contribute to", "object": "of"}
+{"subject": "which", "relation": "causes risk of", "object": "cardiovascular disease"}
+{"subject": "which", "relation": "causes in", "object": "turn"}
+{"subject": "clearance of apolipoprotein-in elevated LDL cholesterol levels", "relation": "causes risk of", "object": "cardiovascular disease"}
+{"subject": "clearance of apolipoprotein-in elevated LDL cholesterol levels", "relation": "causes in", "object": "turn"}
+{"subject": "clearance of apolipoprotein-in elevated LDL cholesterol levels", "relation": "increased of", "object": "cardiovascular disease"}
+{"subject": "-Excessive production of reactive oxygen species ( ROS)", "relation": "causes damage to", "object": "cellular macromolecules"}
+{"subject": "production of reactive oxygen species ( ROS)", "relation": "causes damage to", "object": "cellular macromolecules"}
+{"subject": "ROS", "relation": "causes damage to", "object": "cellular macromolecules"}
+{"subject": "ROS", "relation": "causes", "object": "damage cellular macromolecules"}
+{"subject": "ROS", "relation": "causes damage to", "object": "cellular"}
+{"subject": "ROS", "relation": "causes to", "object": "cellular"}
+{"subject": "ROS", "relation": "causes damage to", "object": "macromolecules"}
+{"subject": "production of reactive oxygen species ( ROS)", "relation": "causes damage to", "object": "macromolecules"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased ROS production"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased ROS production"}
+{"subject": "Mitochondrial", "relation": "leads to", "object": "increased ROS"}
+{"subject": "Mitochondrial dysfunction", "relation": "leads to", "object": "increased production"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased production"}
+{"subject": "dysfunction", "relation": "leads to", "object": "increased ROS production"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased ROS production"}
+{"subject": "-dysfunction", "relation": "leads to", "object": "increased ROS"}
+{"subject": "-Mitochondrial dysfunction", "relation": "leads to", "object": "ROS production"}
+{"subject": "dysfunction", "relation": "leads to", "object": "ROS production"}
+{"subject": "-Chronic activation of microglia", "relation": "leads to", "object": "increased production of pro-inflammatory cytokines"}
+{"subject": "activation of microglia", "relation": "leads to", "object": "increased production of pro-inflammatory cytokines"}
+{"subject": "activation of microglia", "relation": "leads to", "object": "increased production pro-inflammatory cytokines"}
+{"subject": "activation of microglia", "relation": "leads to", "object": "increased production pro"}
+{"subject": "activation of microglia", "relation": "leads to", "object": "increased production of pro-"}
+{"subject": "-Chronic activation of microglia", "relation": "leads to", "object": "production of pro-inflammatory cytokines"}
+{"subject": "-Chronic activation of microglia", "relation": "leads to", "object": "production of pro-"}
+{"subject": "-Chronic activation of microglia", "relation": "leads to", "object": "increased production of cytokines"}
+{"subject": "-Elevated levels of pro-inflammatory cytokines", "relation": "cause", "object": "blood-brain barrier disruption"}
+{"subject": "levels of pro-inflammatory cytokines", "relation": "cause", "object": "blood-brain barrier disruption"}
+{"subject": "levels of pro-inflammatory cytokines", "relation": "cause", "object": "blood-brain disruption"}
+{"subject": "-Elevated levels of cytokines", "relation": "cause", "object": "blood-brain barrier disruption"}
+{"subject": "-Elevated levels of pro-inflammatory cytokines", "relation": "cause", "object": "blood brain barrier disruption"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral immune cells"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads into", "object": "the brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral immune cells"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads into", "object": "brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased of peripheral immune cells into brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased of peripheral immune into brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased of peripheral immune"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased of peripheral immune cells brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral cells"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral cells brain"}
+{"subject": "-Blood brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral immune into brain"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "infiltration of peripheral immune cells"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads into", "object": "brain"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "infiltration of peripheral cells"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "infiltration of peripheral cells brain"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "infiltration of peripheral immune into brain"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "increased infiltration of immune cells"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "increased infiltration of immune"}
+{"subject": "-Blood-brain barrier disruption", "relation": "leads to", "object": "increased infiltration of peripheral cells"}
+{"subject": "Accumulation of misfolded proteins in the endoplasmic reticulum", "relation": "causes activation of", "object": "the unfolded protein response"}
+{"subject": "-Accumulation of proteins in endoplasmic reticulum", "relation": "causes activation of", "object": "unfolded protein response"}
+{"subject": "-Accumulation of proteins in endoplasmic reticulum", "relation": "causes activation of", "object": "unfolded response"}
+{"subject": "-Accumulation of misfolded proteins in reticulum", "relation": "causes activation of", "object": "unfolded protein response"}
+{"subject": "-Accumulation of misfolded proteins in reticulum", "relation": "causes activation of", "object": "unfolded response"}
+{"subject": "-Accumulation of misfolded proteins in endoplasmic reticulum", "relation": "causes activation of", "object": "protein response"}
+{"subject": "-Accumulation of misfolded proteins in endoplasmic reticulum", "relation": "causes activation of", "object": "unfolded protein response"}
+{"subject": "-Accumulation of proteins in endoplasmic reticulum", "relation": "causes", "object": "activation unfolded protein response"}
+{"subject": "activation", "relation": "unfolded", "object": "protein response"}
+{"subject": "-Accumulation of proteins in endoplasmic reticulum", "relation": "causes", "object": "activation unfolded protein"}
+{"subject": "activation", "relation": "unfolded", "object": "protein"}
+{"subject": "-Accumulation of misfolded proteins in reticulum", "relation": "causes", "object": "activation unfolded protein response"}
+{"subject": "-Accumulation of misfolded proteins in reticulum", "relation": "causes", "object": "activation unfolded protein"}
+{"subject": "-Prolonged endoplasmic reticulum stress", "relation": "leads to", "object": "apoptosis"}
+{"subject": "endoplasmic reticulum stress", "relation": "leads to", "object": "apoptosis"}
+{"subject": "endoplasmic reticulum", "relation": "leads to", "object": "apoptosis"}
+{"subject": "-Prolonged reticulum stress", "relation": "leads to", "object": "apoptosis"}
+{"subject": "Activation of the unfolded protein response", "relation": "causes upregulation of", "object": "chaperone proteins"}
+{"subject": "-Activation of protein response", "relation": "causes upregulation of", "object": "chaperone proteins"}
+{"subject": "-Activation of unfolded protein response", "relation": "causes upregulation of", "object": "chaperone proteins"}
+{"subject": "-Activation of protein response", "relation": "causes", "object": "upregulation chaperone proteins"}
+{"subject": "-mTOR inhibition", "relation": "causes", "object": "autophagy induction"}
+{"subject": "mTOR inhibition", "relation": "causes", "object": "autophagy induction"}
+{"subject": "-Beclin-1 activation", "relation": "leads", "object": "to autophagosome formation"}
+{"subject": "Beclin-1 activation", "relation": "leads", "object": "to autophagosome formation"}
+{"subject": "Beclin-1 activation", "relation": "leads", "object": "to autophagosome"}
+{"subject": "free acids blood cause ectopic fat accumulation non", "relation": "adipose", "object": "tissues"}
+{"subject": "-Ectopic fat accumulation in the liver", "relation": "leads to", "object": "hepatic insulin resistance"}
+{"subject": "-Ectopic accumulation in liver", "relation": "leads to", "object": "hepatic insulin resistance"}
+{"subject": "-Ectopic accumulation in liver", "relation": "leads to", "object": "hepatic resistance"}
+{"subject": "-Ectopic fat accumulation in liver", "relation": "leads to", "object": "insulin resistance"}
+{"subject": "-Ectopic fat accumulation in liver", "relation": "leads to", "object": "hepatic insulin resistance"}
+{"subject": "fat accumulation in liver", "relation": "leads to", "object": "hepatic insulin resistance"}
+{"subject": "fat in liver", "relation": "leads to", "object": "hepatic insulin resistance"}
+{"subject": "fat in liver", "relation": "leads to", "object": "hepatic insulin"}
+{"subject": "fat accumulation in liver", "relation": "leads to", "object": "hepatic resistance"}
+{"subject": "-Accumulation of diacylglycerol in muscle cells", "relation": "causes", "object": "impaired insulin signaling"}
+{"subject": "Accumulation of diacylglycerol in muscle cells", "relation": "causes", "object": "impaired insulin signaling"}
+{"subject": "Accumulation of diacylglycerol in muscle cells", "relation": "causes", "object": "impaired signaling"}
+{"subject": "-Accumulation of diacylglycerol in muscle cells", "relation": "causes", "object": "insulin signaling"}
+{"subject": "-Amyloid-beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "Amyloid-beta accumulation", "relation": "causes", "object": "synaptic"}
+{"subject": "-Amyloid beta accumulation", "relation": "causes", "object": "synaptic dysfunction"}
+{"subject": "-Amyloid-beta accumulation", "relation": "causes", "object": "dysfunction"}
+{"subject": "-Tau protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "Tau protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "protein hyperphosphorylation", "relation": "leads to", "object": "neurofibrillary tangle formation"}
+{"subject": "Mitochondrial dysfunction causes", "relation": "increased", "object": "oxidative stress"}
+{"subject": "Mitochondrial", "relation": "causes", "object": "increased oxidative stress"}
+{"subject": "Mitochondrial", "relation": "causes", "object": "increased oxidative"}
+{"subject": "Mitochondrial dysfunction", "relation": "causes", "object": "increased stress"}
+{"subject": "dysfunction", "relation": "causes", "object": "increased stress"}
+{"subject": "Mitochondrial dysfunction", "relation": "causes", "object": "increased oxidative"}
+{"subject": "dysfunction causes", "relation": "increased", "object": "oxidative stress"}
+{"subject": "-dysfunction", "relation": "causes", "object": "increased oxidative"}
+{"subject": "-Mitochondrial dysfunction", "relation": "causes", "object": "oxidative stress"}
+{"subject": "dysfunction", "relation": "causes", "object": "oxidative stress"}
+{"subject": "DNA methylation", "relation": "causes", "object": "gene silencing"}
+{"subject": "Histone acetylation", "relation": "leads to", "object": "increased gene expression"}
+{"subject": "Histone acetylation", "relation": "leads to", "object": "gene expression"}
+{"subject": "MicroRNAs", "relation": "cause", "object": "post-transcriptional gene silencing"}
+{"subject": "MicroRNAs", "relation": "cause", "object": "gene silencing"}

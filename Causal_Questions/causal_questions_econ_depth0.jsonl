@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e8b0605603cb79a6c9585ea877786de8db9c471754207b4aa1cb404fd7bdf5c
-size 3277
+{"topic": "Macroeconomics", "path": ["Macroeconomics"], "depth": 0, "questions": ["What causes economic growth?", "What leads to inflation?", "What causes recessions?"]}
+{"topic": "Microeconomics", "path": ["Microeconomics"], "depth": 0, "questions": ["What causes the demand for a good to increase?", "What leads to a shift in the supply curve of a product?", "What causes a firm to maximize its profits?"]}
+{"topic": "Game Theory", "path": ["Game Theory"], "depth": 0, "questions": ["What causes players to cooperate in a game?", "What leads to the emergence of Nash equilibria in strategic interactions?", "What causes deviations from rational behavior in game theory scenarios?"]}
+{"topic": "Finance", "path": ["Finance"], "depth": 0, "questions": ["What causes financial markets to experience volatility?", "What leads to the formation of financial bubbles?", "What causes interest rates to fluctuate?"]}
+{"topic": "Trade", "path": ["Trade"], "depth": 0, "questions": ["What causes a country to have a trade surplus?", "What leads to a decrease in a country's imports?", "What causes a country to impose tariffs on imported goods?"]}
+{"topic": "Marketing", "path": ["Marketing"], "depth": 0, "questions": ["What causes a product to become a bestseller?", "What leads to a successful marketing campaign?", "What causes a brand to lose its market share?"]}
+{"topic": "Stock Market", "path": ["Stock Market"], "depth": 0, "questions": ["What causes stock market crashes?", "What leads to bull markets?", "What causes stock market volatility?"]}
+{"topic": "Investing", "path": ["Investing"], "depth": 0, "questions": ["What causes the stock market to rise or fall?", "What leads to changes in interest rates?", "What causes fluctuations in the value of a currency?"]}
+{"topic": "Cryptocurrency", "path": ["Cryptocurrency"], "depth": 0, "questions": ["What causes the price volatility of cryptocurrencies?", "What leads to the adoption of cryptocurrencies by mainstream institutions?", "What causes the regulatory responses to cryptocurrencies in different countries?"]}
+{"topic": "Bonds", "path": ["Bonds"], "depth": 0, "questions": ["What causes bond prices to fluctuate?", "What leads to changes in bond yields?", "What causes the demand for bonds to increase?"]}
+{"topic": "Monetary Policy", "path": ["Monetary Policy"], "depth": 0, "questions": ["What causes changes in interest rates?", "What leads to inflationary pressures?", "What causes shifts in the money supply?"]}
+{"topic": "Banking", "path": ["Banking"], "depth": 0, "questions": ["What causes a bank run?", "What leads to a banking crisis?", "What causes a bank to fail?"]}
+{"topic": "Fiscal Policy", "path": ["Fiscal Policy"], "depth": 0, "questions": ["What causes a fiscal stimulus to increase economic growth?", "What leads to a budget deficit in a country?", "What causes a government to implement austerity measures?"]}
+{"topic": "Inflation", "path": ["Inflation"], "depth": 0, "questions": ["What causes inflation to accelerate?", "What leads to hyperinflation?", "What causes inflation to decelerate?"]}
+{"topic": "Unemployment", "path": ["Unemployment"], "depth": 0, "questions": ["What causes structural unemployment?", "What leads to cyclical unemployment?", "What causes frictional unemployment?"]}
