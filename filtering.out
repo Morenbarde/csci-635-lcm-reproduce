@@ -1,0 +1,13 @@
+nohup: ignoring input
+Filtering File: triples_swe_depth1.jsonl
+Removed 1346 out of 1621 triples
+Runtime: 8.850083351135254 seconds
+Filtering File: triples_swe_depth2.jsonl
+Removed 13734 out of 16368 triples
+Runtime: 67.95426869392395 seconds
+Filtering File: triples_swe_depth3.jsonl
+Removed 139785 out of 165948 triples
+Runtime: 805.3265869617462 seconds
+Filtering File: triples_swe_depth4.jsonl
+Removed 1403262 out of 1663254 triples
+Runtime: 8374.743888139725 seconds
