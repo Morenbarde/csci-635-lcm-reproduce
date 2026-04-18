@@ -1,0 +1,275 @@
+{"subject": "poor choice of design patterns", "relation": "causes", "object": "increased technical debt"}
+{"subject": "lack of modularity", "relation": "leads to", "object": "difficulties in maintenance"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Insufficient test automation", "relation": "leads to", "object": "slower and less reliable testing processes"}
+{"subject": "Automated testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "Continuous integration", "relation": "leads to", "object": "earlier detection of integration issues"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "more reliable software builds"}
+{"subject": "Poor indexing", "relation": "causes", "object": "slow query performance"}
+{"subject": "Inadequate normalization", "relation": "leads to", "object": "data redundancy"}
+{"subject": "High latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "latency", "relation": "leads to", "object": "increased round trip time"}
+{"subject": "High latency", "relation": "leads to", "object": "round-"}
+{"subject": "Network congestion", "relation": "causes", "object": "packet delay"}
+{"subject": "Inadequate input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Poorly managed secrets", "relation": "lead to", "object": "unauthorized access"}
+{"subject": "poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "Inadequate usability testing", "relation": "leads to", "object": "undetected design flaws"}
+{"subject": "Improper data preprocessing", "relation": "causes", "object": "inaccurate model predictions"}
+{"subject": "Overfitting", "relation": "leads to", "object": "poor generalization on unseen data"}
+{"subject": "Insufficient model validation", "relation": "causes", "object": "unreliable performance estimates"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "scope creep"}
+{"subject": "Daily stand-up meetings", "relation": "lead to", "object": "improved communication"}
+{"subject": "Inadequate user involvement", "relation": "causes", "object": "misaligned project priorities"}
+{"subject": "high-level language abstraction", "relation": "causes", "object": "easier code readability"}
+{"subject": "compiler's optimization phase", "relation": "leads to", "object": "improved execution efficiency"}
+{"subject": "syntax error in the source code", "relation": "causes", "object": "compilation failure"}
+{"subject": "application of the Factory Method pattern", "relation": "leads to", "object": "decoupling of object creation from the client code"}
+{"subject": "layered architecture", "relation": "causes", "object": "separation concerns"}
+{"subject": "microservices architecture", "relation": "leads to", "object": "increased scalability"}
+{"subject": "services", "relation": "causes", "object": "increased in and scaling"}
+{"subject": "services", "relation": "causes", "object": "increased flexibility deployment and scaling"}
+{"subject": "Independent development of services", "relation": "leads to", "object": "faster time-to-market"}
+{"subject": "Independent development of services", "relation": "leads to", "object": "faster time-to market"}
+{"subject": "Use of lightweight protocols", "relation": "causes", "object": "reduced latency"}
+{"subject": "Use of lightweight protocols", "relation": "causes", "object": "reduced in communication"}
+{"subject": "monolithic architecture", "relation": "causes", "object": "coupling components"}
+{"subject": "Tight coupling between components", "relation": "leads to", "object": "difficulties in scaling"}
+{"subject": "clear well-defined domain model", "relation": "causes", "object": "more representation business domain"}
+{"subject": "strong collaboration between developers and domain experts", "relation": "leads to", "object": "more effective domain model"}
+{"subject": "loosely coupled service design", "relation": "causes", "object": "flexibility system integration"}
+{"subject": "standardized service interface", "relation": "leads to", "object": "improved interoperability between services"}
+{"subject": "decoupled event producer", "relation": "causes", "object": "event consumer to react"}
+{"subject": "event broker", "relation": "causes", "object": "events to be routed to appropriate subscribers"}
+{"subject": "event-driven system", "relation": "causes", "object": "components to communicate asynchronously"}
+{"subject": "Using / Principle", "relation": "causes", "object": "improved maintainability"}
+{"subject": "lack of clear software architecture documentation", "relation": "causes", "object": "miscommunication"}
+{"subject": "Inadequate software architecture documentation", "relation": "leads to", "object": "increased technical debt"}
+{"subject": "poorly defined architecture", "relation": "causes", "object": "increased technical debt"}
+{"subject": "Inadequate documentation of architecture", "relation": "leads to", "object": "miscommunication among team members"}
+{"subject": "lack of clear test objectives", "relation": "causes", "object": "incomplete test coverage"}
+{"subject": "Poorly defined test environments", "relation": "lead to", "object": "inconsistent test results"}
+{"subject": "Inadequate test case coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "Poorly designed test cases", "relation": "lead to", "object": "inefficient testing processes"}
+{"subject": "Implementing test automation", "relation": "leads to", "object": "increased test coverage"}
+{"subject": "Inadequate test maintenance", "relation": "causes", "object": "test automation to become ineffective"}
+{"subject": "Inadequate code reviews", "relation": "cause", "object": "undetected defects"}
+{"subject": "Lack of static analysis tools", "relation": "leads to", "object": "missed code vulnerabilities"}
+{"subject": "Insufficient test data variety", "relation": "leads to", "object": "incomplete test results"}
+{"subject": "Inadequate test environment configuration", "relation": "causes", "object": "inconsistent test results"}
+{"subject": "Poor test environment management", "relation": "leads to", "object": "increased defect leakage"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "defects to be introduced during development"}
+{"subject": "Inadequate testing", "relation": "leads to", "object": "undetected defects in the software"}
+{"subject": "Poor communication among team members results in misunderstandings", "relation": "cause", "object": "defects"}
+{"subject": "Poor test data quality", "relation": "causes", "object": "inaccurate test results"}
+{"subject": "Inadequate test data management", "relation": "leads to", "object": "increased test maintenance efforts"}
+{"subject": "High CPU usage", "relation": "causes", "object": "increased response times"}
+{"subject": "Insufficient memory allocation", "relation": "leads to", "object": "frequent garbage collection"}
+{"subject": "Network latency", "relation": "causes", "object": "delays data transmission"}
+{"subject": "Frequent code commits", "relation": "cause", "object": "feedback"}
+{"subject": "Automated testing", "relation": "leads to", "object": "early detection of bugs"}
+{"subject": "code changes", "relation": "causes", "object": "immediate of"}
+{"subject": "code changes", "relation": "causes", "object": "immediate identification conflicts"}
+{"subject": "lack of version control", "relation": "causes", "object": "data loss"}
+{"subject": "Poor branching strategies", "relation": "lead to", "object": "integration issues"}
+{"subject": "Inadequate test coverage", "relation": "causes", "object": "undetected software defects"}
+{"subject": "use of automated testing frameworks", "relation": "leads to", "object": "increased test execution efficiency"}
+{"subject": "Continuous integration practices", "relation": "cause", "object": "feedback loops development process"}
+{"subject": "Automated testing in CI pipelines", "relation": "leads to", "object": "early detection of integration issues"}
+{"subject": "Integration of code changes in a shared repository", "relation": "causes", "object": "immediate build and test execution"}
+{"subject": "Automated testing of infrastructure code", "relation": "leads to", "object": "increased reliability"}
+{"subject": "lack of version control", "relation": "causes", "object": "inconsistent software builds"}
+{"subject": "Inadequate change tracking", "relation": "leads to", "object": "integration issues"}
+{"subject": "use of containerization", "relation": "causes", "object": "improved resource utilization"}
+{"subject": "implementation of container orchestration", "relation": "leads to", "object": "enhanced scalability"}
+{"subject": "Automated testing", "relation": "causes", "object": "faster feedback loops"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, more manageable changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable changes"}
+{"subject": "integration", "relation": "leads to", "object": "quicker of integration issues"}
+{"subject": "Insufficient logging", "relation": "causes", "object": "difficulty diagnosing issues"}
+{"subject": "High log volume", "relation": "leads to", "object": "increased storage costs"}
+{"subject": "monitoring", "relation": "causes", "object": "delayed detection system failures"}
+{"subject": "Effective communication", "relation": "causes", "object": "better team cohesion"}
+{"subject": "Regular collaboration", "relation": "leads to", "object": "improved problem-solving"}
+{"subject": "Regular", "relation": "leads to", "object": "improved problem solving"}
+{"subject": "Regular collaboration", "relation": "leads to", "object": "improved-"}
+{"subject": "collaboration", "relation": "leads to", "object": "improved problem solving"}
+{"subject": "documentation", "relation": "causes", "object": "onboarding time"}
+{"subject": "access controls", "relation": "cause", "object": "unauthorized access CI / CD pipelines"}
+{"subject": "Lack of secret management", "relation": "leads to", "object": "exposure of sensitive information"}
+{"subject": "normal form violation", "relation": "causes", "object": "data redundancy"}
+{"subject": "Data normalization", "relation": "leads to", "object": "improved data integrity"}
+{"subject": "Foreign key constraints", "relation": "cause", "object": "referential integrity"}
+{"subject": "use of schema-less design in NoSQL databases", "relation": "leads to", "object": "increased flexibility in data modeling"}
+{"subject": "lack of ACID compliance in some NoSQL databases", "relation": "causes", "object": "eventual consistency"}
+{"subject": "horizontal scalability of NoSQL databases", "relation": "leads to", "object": "improved performance under high load"}
+{"subject": "poorly designed data model", "relation": "causes", "object": "data redundancy"}
+{"subject": "Inadequate normalization", "relation": "leads to", "object": "data anomalies"}
+{"subject": "Indexing", "relation": "causes", "object": "faster query execution"}
+{"subject": "Poorly written queries", "relation": "lead to", "object": "inefficient use of resources"}
+{"subject": "use of two-phase locking", "relation": "leads to", "object": "increased concurrency control"}
+{"subject": "high cardinality of terms", "relation": "causes", "object": "inefficient searching"}
+{"subject": "large index size", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Incorrect data entry", "relation": "causes", "object": "data inconsistency"}
+{"subject": "Enforcing primary key constraints", "relation": "leads to", "object": "unique record identification"}
+{"subject": "Violating foreign key constraints", "relation": "causes", "object": "referential integrity issues"}
+{"subject": "Weak access controls", "relation": "cause", "object": "unauthorized data access"}
+{"subject": "Insufficient encryption", "relation": "leads to", "object": "data breaches"}
+{"subject": "volume of data", "relation": "causes", "object": "complexity data management"}
+{"subject": "use of distributed computing", "relation": "leads to", "object": "improved scalability in data processing"}
+{"subject": "implementation of ETL processes", "relation": "causes", "object": "efficient data integration"}
+{"subject": "latency", "relation": "leads to", "object": "increased-"}
+{"subject": "high latency", "relation": "leads to", "object": "increased round-trip time"}
+{"subject": "misconfigured firewall", "relation": "causes", "object": "network connectivity issues"}
+{"subject": "high latency in network links", "relation": "causes", "object": "increased packet loss"}
+{"subject": "lack of redundancy in network architecture", "relation": "leads to", "object": "single points of failure"}
+{"subject": "Insufficient bandwidth allocation", "relation": "causes", "object": "network congestion"}
+{"subject": "lack of synchronization", "relation": "causes", "object": "inconsistent states"}
+{"subject": "Network partitions", "relation": "lead to", "object": "inconsistent reads"}
+{"subject": "Insufficient fault tolerance", "relation": "causes", "object": "system failures"}
+{"subject": "Redundancy", "relation": "causes", "object": "increased reliability"}
+{"subject": "Checkpointing", "relation": "leads to", "object": "faster recovery from failures"}
+{"subject": "Error detection mechanisms", "relation": "cause", "object": "system to initiate corrective actions"}
+{"subject": "Increased network latency", "relation": "causes", "object": "degraded application performance"}
+{"subject": "Network latency", "relation": "causes", "object": "delays data retrieval"}
+{"subject": "Data replication", "relation": "leads to", "object": "increased storage requirements"}
+{"subject": "Partitioning", "relation": "causes", "object": "data to be distributed across multiple nodes"}
+{"subject": "lack of encryption", "relation": "causes", "object": "data breaches"}
+{"subject": "Improper firewall configuration", "relation": "leads to", "object": "unauthorized access"}
+{"subject": "Insufficient patch management", "relation": "causes", "object": "vulnerabilities"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer-to-peer networks"}
+{"subject": "lack of central coordination", "relation": "causes", "object": "control peer-to peer networks"}
+{"subject": "lack of", "relation": "causes", "object": "decentralized control peer-peer networks"}
+{"subject": "absence of a central server", "relation": "leads to", "object": "increased resilience against single points of failure"}
+{"subject": "adoption of microservices architecture", "relation": "causes", "object": "scalability and flexibility cloud applications"}
+{"subject": "adoption of microservices architecture", "relation": "causes", "object": "increased scalability"}
+{"subject": "implementation of Infrastructure as Code ( IaC)", "relation": "leads to", "object": "improved consistency and reliability in cloud deployments"}
+{"subject": "Code IaC", "relation": "leads to", "object": "improved consistency and reliability in cloud deployments"}
+{"subject": "lack of a leader", "relation": "causes", "object": "decentralized consensus algorithm"}
+{"subject": "high number of faulty nodes", "relation": "leads to", "object": "decrease in consensus algorithm efficiency"}
+{"subject": "low latency network", "relation": "causes", "object": "faster consensus algorithm convergence"}
+{"subject": "lack of threat modeling", "relation": "causes", "object": "incomplete security requirements"}
+{"subject": "Inadequate threat modeling", "relation": "leads to", "object": "undetected vulnerabilities"}
+{"subject": "Improper input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Insufficient error handling", "relation": "leads to", "object": "information disclosure"}
+{"subject": "lack of regular security updates", "relation": "causes", "object": "vulnerability to known"}
+{"subject": "lack of regular security updates", "relation": "causes", "object": "vulnerability known exploits"}
+{"subject": "Insufficient input validation", "relation": "leads to", "object": "injection attacks"}
+{"subject": "lack of proper input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Inadequate patch management", "relation": "leads to", "object": "unpatched vulnerabilities"}
+{"subject": "lack of preparedness", "relation": "causes", "object": "response times"}
+{"subject": "Inadequate logging", "relation": "leads to", "object": "incomplete incident analysis"}
+{"subject": "Inadequate input validation", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "Poorly designed access controls", "relation": "lead to", "object": "unauthorized data access"}
+{"subject": "Lack of encryption mechanisms", "relation": "causes", "object": "data breaches"}
+{"subject": "weak key space", "relation": "causes", "object": "poor security"}
+{"subject": "small block size", "relation": "leads to", "object": "vulnerability to birthday attacks"}
+{"subject": "small block size", "relation": "leads to", "object": "increased vulnerability"}
+{"subject": "lack of proper access controls", "relation": "causes", "object": "unauthorized data access"}
+{"subject": "Improper identity verification", "relation": "leads to", "object": "account hijacking"}
+{"subject": "Inadequate threat modeling", "relation": "causes", "object": "security vulnerabilities"}
+{"subject": "lack of regulatory guidelines", "relation": "causes", "object": "confusion developers"}
+{"subject": "lack of clear guidelines", "relation": "causes", "object": "confusion developers"}
+{"subject": "Inadequate compliance training", "relation": "leads to", "object": "increased risk of non-compliance"}
+{"subject": "lack of user involvement", "relation": "causes", "object": "design flaws"}
+{"subject": "Iterative", "relation": "leads to", "object": "better user satisfaction"}
+{"subject": "clear understanding of user needs", "relation": "causes", "object": "effective interaction design"}
+{"subject": "Poor usability testing", "relation": "leads to", "object": "ineffective interaction design"}
+{"subject": "Iterative", "relation": "causes", "object": "improved user satisfaction"}
+{"subject": "lack of clear objectives", "relation": "causes", "object": "ineffective usability testing"}
+{"subject": "Poorly designed test scenarios", "relation": "lead to", "object": "misleading results"}
+{"subject": "clear and intuitive navigation structure", "relation": "causes", "object": "users to find information more efficiently"}
+{"subject": "Poorly designed user interfaces", "relation": "lead to", "object": "increased user frustration"}
+{"subject": "lack of keyboard navigation support", "relation": "causes", "object": "users with motor impairments to be unable to interact with web content"}
+{"subject": "Insufficient color contrast", "relation": "leads to", "object": "reduced readability for users with visual impairments"}
+{"subject": "Poorly structured content", "relation": "causes", "object": "screen readers to misinterpret or skip important information"}
+{"subject": "Excessive cognitive load", "relation": "causes", "object": "mental fatigue"}
+{"subject": "High cognitive load", "relation": "leads to", "object": "decreased working memory capacity"}
+{"subject": "Increased cognitive load", "relation": "causes", "object": "reduced learning efficiency"}
+{"subject": "poor user interface design", "relation": "causes", "object": "user frustration"}
+{"subject": "Inadequate user training", "relation": "leads to", "object": "increased error rates"}
+{"subject": "clear information architecture", "relation": "causes", "object": "intuitive navigation"}
+{"subject": "Poor information architecture", "relation": "leads to", "object": "user confusion"}
+{"subject": "direct manipulation interface", "relation": "causes", "object": "immediate visual feedback"}
+{"subject": "high degree of interactivity", "relation": "leads to", "object": "better user engagement"}
+{"subject": "well-designed interaction technique", "relation": "causes", "object": "efficient task completion"}
+{"subject": "lack of clear heuristics", "relation": "causes", "object": "inconsistent user experiences"}
+{"subject": "Inadequate heuristic evaluation", "relation": "leads to", "object": "poor usability"}
+{"subject": "well-defined target variable", "relation": "causes", "object": "predictions supervised learning"}
+{"subject": "large and diverse dataset", "relation": "leads to", "object": "improved model generalization"}
+{"subject": "Regularization techniques", "relation": "cause", "object": "overfitting models"}
+{"subject": "presence of underlying patterns in data", "relation": "leads to", "object": "discovery of meaningful structures through unsupervised learning"}
+{"subject": "high exploration rate", "relation": "causes", "object": "slower convergence"}
+{"subject": "sparse reward signal", "relation": "leads to", "object": "difficulty in learning"}
+{"subject": "Increasing number of layers in neural network", "relation": "causes", "object": "improved ability to model complex patterns"}
+{"subject": "Regularization techniques, such as dropout", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "Regularization techniques such as dropout", "relation": "lead to", "object": "reduced overfitting"}
+{"subject": "Gradient descent optimization", "relation": "causes", "object": "weights to converge towards values that minimize the loss function"}
+{"subject": "Increased model complexity", "relation": "causes", "object": "overfitting"}
+{"subject": "Regularization techniques", "relation": "lead to", "object": "improved generalization"}
+{"subject": "training", "relation": "causes", "object": "neurons to learn representations"}
+{"subject": "lack of labeled data", "relation": "causes", "object": "difficulties in training supervised NLP models"}
+{"subject": "Improper preprocessing", "relation": "leads to", "object": "poor model performance"}
+{"subject": "Improper lighting", "relation": "causes", "object": "inaccurate object detection"}
+{"subject": "Insufficient training data", "relation": "leads to", "object": "poor model generalization"}
+{"subject": "High computational complexity", "relation": "causes", "object": "slow inference times"}
+{"subject": "Missing values", "relation": "cause", "object": "biased model predictions"}
+{"subject": "Inconsistent data formats", "relation": "lead to", "object": "errors in data analysis"}
+{"subject": "low bias in the model", "relation": "leads to", "object": "underfitting"}
+{"subject": "poor choice of evaluation metrics", "relation": "causes", "object": "misleading results"}
+{"subject": "lack of transparency in AI algorithms", "relation": "causes", "object": "biased decision-making"}
+{"subject": "Over-reliance on AI systems", "relation": "leads to", "object": "deskilling of human operators"}
+{"subject": "Over-", "relation": "leads to", "object": "deskilling of operators"}
+{"subject": "lack of clear requirements", "relation": "causes", "object": "changes project scope"}
+{"subject": "Regular customer feedback", "relation": "leads to", "object": "continuous improvement"}
+{"subject": "Daily stand-up meetings", "relation": "cause", "object": "better team communication"}
+{"subject": "lack of clear product vision", "relation": "causes", "object": "misalignment"}
+{"subject": "Regular sprint reviews", "relation": "lead to", "object": "continuous improvement"}
+{"subject": "Daily stand-ups", "relation": "cause", "object": "communication and coordination team members"}
+{"subject": "lack of work-in progress limits", "relation": "causes", "object": "reduction multitasking"}
+{"subject": "Frequent code refactoring", "relation": "causes", "object": "improved code quality"}
+{"subject": "Pair programming", "relation": "leads to", "object": "better knowledge sharing among team members"}
+{"subject": "integration", "relation": "causes", "object": "early detection integration issues"}
+{"subject": "defined user story", "relation": "causes", "object": "misunderstandings team members"}
+{"subject": "Inadequate backlog grooming", "relation": "leads to", "object": "unclear product vision"}
+{"subject": "clear and detailed sprint goal", "relation": "causes", "object": "focused and productive sprint"}
+{"subject": "Inadequate task estimation", "relation": "leads to", "object": "unrealistic sprint commitments"}
+{"subject": "Automated testing", "relation": "causes", "object": "feedback code changes"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller, more manageable integration issues"}
+{"subject": "Frequent code commits", "relation": "lead to", "object": "smaller more manageable integration issues"}
+{"subject": "Automated deployment pipelines", "relation": "cause", "object": "manual intervention release process"}
+{"subject": "Automated deployment pipelines", "relation": "cause", "object": "reduced intervention release process"}
+{"subject": "Using story points", "relation": "causes", "object": "teams to focus on relative sizing rather than absolute time estimates"}
+{"subject": "Overestimating tasks", "relation": "leads to", "object": "decrease in team morale and productivity"}
+{"subject": "Regularly estimates during sprints", "relation": "leads to", "object": "improved accuracy and better planning"}
+{"subject": "updating estimates during sprints", "relation": "leads to", "object": "improved accuracy and better planning"}
+{"subject": "stand-up meetings", "relation": "cause", "object": "improved communication team members"}
+{"subject": "Regular sprint reviews", "relation": "lead to", "object": "better alignment with stakeholder expectations"}
+{"subject": "lack of clear vision and goals", "relation": "causes", "object": "misalignment"}
+{"subject": "Ambiguous syntax", "relation": "causes", "object": "semantic errors"}
+{"subject": "Incorrect semantic rules", "relation": "lead to", "object": "logical errors in programs"}
+{"subject": "Misinterpretation of syntax", "relation": "leads to", "object": "incorrect parsing"}
+{"subject": "expression", "relation": "causes", "object": "identification patterns"}
+{"subject": "state machine", "relation": "causes", "object": "states based input symbols"}
+{"subject": "state machine", "relation": "causes", "object": "transition states based on symbols"}
+{"subject": "lack of clear grammar rules", "relation": "causes", "object": "parsing errors"}
+{"subject": "Ambiguous syntax", "relation": "leads to", "object": "multiple valid parse trees"}
+{"subject": "use of intermediate representations", "relation": "causes", "object": "improved code optimization"}
+{"subject": "presence of platform-independent intermediate representations", "relation": "leads to", "object": "enhanced portability"}
+{"subject": "generation of intermediate representations from high-level source code", "relation": "causes", "object": "abstraction"}
+{"subject": "well-defined grammar", "relation": "causes", "object": "precise code generation"}
+{"subject": "Automated refactoring", "relation": "leads to", "object": "improved code maintainability"}
+{"subject": "use of programming", "relation": "causes", "object": "reduction redundant calculations"}
+{"subject": "application of greedy algorithms", "relation": "leads to", "object": "suboptimal solutions in certain scenarios"}
+{"subject": "high level of concurrency", "relation": "causes", "object": "complexity synchronization"}
+{"subject": "Efficient garbage collection", "relation": "leads to", "object": "improved memory management"}
+{"subject": "clear and concise syntax", "relation": "causes", "object": "easier learning"}
+{"subject": "strong type system", "relation": "causes", "object": "fewer runtime errors"}
+{"subject": "modular design", "relation": "causes", "object": "better maintainability"}
+{"subject": "strong type system", "relation": "causes", "object": "increased compile time error detection"}
+{"subject": "strong type system", "relation": "causes", "object": "increased compile-time error detection"}
+{"subject": "Dynamic typing", "relation": "leads to", "object": "reduced runtime errors"}
+{"subject": "Type inference", "relation": "causes", "object": "improved developer productivity"}
+{"subject": "lack of proper error handling", "relation": "causes", "object": "increased software crashes"}
+{"subject": "Poorly designed error messages", "relation": "lead to", "object": "user confusion"}
+{"subject": "Insufficient logging", "relation": "causes", "object": "difficulties"}
