@@ -27,3 +27,5 @@ def extract_statement_triples(slice_name):
                 for t in triplets: # Per Triplet
                     triple_out = {"subject": t.subject, "relation": t.relation, "object": t.object}
                     file.write(json.dumps(triple_out) + "\n")
+
+            file.flush()

@@ -90,3 +90,42 @@ Causal Statement Generation Time:  7199.066256761551
 Causal Triplets Extraction Time:  17.729013919830322
 ```
 
+## Software Engineering Depth 2 (BG15):
+```
+Model Load Time:  79.63793730735779
+
+Topic Graph Generation Time:  304.9924237728119
+
+Causal Question Generation Time:  1746.7138493061066
+
+Causal Statement Generation Time:  1762.1675543785095
+
+Causal Triplets Extraction Time:  107.98546743392944
+```
+
+## Software Engineering Depth 3 (BG6)
+```
+Model Load Time:  2.5796279907226562
+
+Topic Graph Generation Time:  2831.3465914726257
+
+Causal Question Generation Time:  15212.707370758057
+
+Causal Statement Generation Time:  15623.932118177414
+
+Triple Extraction Time (BG13):  8667.617831707
+```
+
+
+## Software Engineering Depth 4 (BG6)
+```
+Model Load Time:  2.4313149452209473
+
+Topic Graph Generation Time:  FAILED TO LOG, ~8 Hours
+
+Causal Question Generation Time:  UNFINISHED
+
+Causal Statement Generation Time:  148713.12388515472
+
+Triple Extraction Time (BG13):  87007.46416044235
+```

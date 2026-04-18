@@ -64,46 +64,46 @@ if __name__ == "__main__":
         "Programming Languages and Compilers",
     ]
     
-    topic_depth = 1
+    topic_depth = 4
     slice_name = "swe_depth"+str(topic_depth) # For File Naming
 
 
     # --- Load Model ---
 
-    load_model_start = time.time()
-    model = Democritus_Model()
-    model_load_time = time.time() - load_model_start
-    print("Model Load Time: ", model_load_time)
-    print()
+    # load_model_start = time.time()
+    # model = Democritus_Model()
+    # model_load_time = time.time() - load_model_start
+    # print("Model Load Time: ", model_load_time)
+    # print()
 
 
-    # --- Generate Topic Graph (Module 1) ---
+    # # --- Generate Topic Graph (Module 1) ---
 
-    generate_topics_start = time.time()
-    generate_topic_graph(model, domain, root_topics, topic_depth, slice_name)
-    generate_topics_time = time.time() - generate_topics_start
-    print("Topic Graph Generation Time: ", generate_topics_time)
-    print()
-
-
+    # generate_topics_start = time.time()
+    # generate_topic_graph(model, domain, root_topics, topic_depth, slice_name)
+    # generate_topics_time = time.time() - generate_topics_start
+    # print("Topic Graph Generation Time: ", generate_topics_time)
+    # print()
 
 
-    # --- Generate Causal Questions (Module 2) ---
 
-    generate_questions_start = time.time()
-    generate_causal_questions(model, domain, slice_name)
-    generate_questions_time = time.time() - generate_questions_start
-    print("Causal Question Generation Time: ", generate_questions_time)
-    print()
+
+    # # --- Generate Causal Questions (Module 2) ---
+
+    # generate_questions_start = time.time()
+    # generate_causal_questions(model, domain, slice_name)
+    # generate_questions_time = time.time() - generate_questions_start
+    # print("Causal Question Generation Time: ", generate_questions_time)
+    # print()
 
 
     # --- Generate Causal Statements (Module 3) ---
 
-    generate_statements_start = time.time()
-    generate_causal_statements(model, domain, slice_name)
-    generate_statements_time = time.time() - generate_statements_start
-    print("Causal Statement Generation Time: ", generate_statements_time)
-    print()
+    # generate_statements_start = time.time()
+    # generate_causal_statements(model, domain, slice_name)
+    # generate_statements_time = time.time() - generate_statements_start
+    # print("Causal Statement Generation Time: ", generate_statements_time)
+    # print()
 
 
 
