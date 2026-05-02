@@ -7,12 +7,12 @@ import os
 import torch
 
 
-def generate_causal_questions(model, domain, slice_name):
+def generate_causal_questions(model, domain, slice_name, output_folder="Output/"):
 
-    topic_graph = [json.loads(line) for line in open("Topic_Graphs/topic_graph_"+slice_name+".jsonl") if line.strip()]
+    topic_graph = [json.loads(line) for line in open(output_folder+"topic_graph_"+slice_name+".jsonl") if line.strip()]
 
 
-    file_path = "Causal_Questions/causal_questions_"+slice_name+".jsonl"
+    file_path = output_folder+"causal_questions_"+slice_name+".jsonl"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
     with open(file_path, "w") as file:
@@ -40,12 +40,12 @@ def generate_causal_questions(model, domain, slice_name):
 
 
 
-def generate_causal_statements(model, domain, slice_name):
+def generate_causal_statements(model, domain, slice_name, output_folder="Output/"):
 
-    topic_graph = [json.loads(line) for line in open("Topic_Graphs/topic_graph_"+slice_name+".jsonl") if line.strip()]
+    topic_graph = [json.loads(line) for line in open(output_folder+"topic_graph_"+slice_name+".jsonl") if line.strip()]
 
 
-    file_path = "Causal_Statements/causal_statements_"+slice_name+".jsonl"
+    file_path = output_folder+"causal_statements_"+slice_name+".jsonl"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
     with open(file_path, "w") as file:

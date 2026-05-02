@@ -1,0 +1,1110 @@
+{"topic": "Software Design and Architecture", "path": ["Software Design and Architecture"]}
+{"topic": "Software Testing and Quality Assurance", "path": ["Software Testing and Quality Assurance"]}
+{"topic": "DevOps and Continuous Integration", "path": ["DevOps and Continuous Integration"]}
+{"topic": "Database Systems and Data Management", "path": ["Database Systems and Data Management"]}
+{"topic": "Computer Networks and Distributed Systems", "path": ["Computer Networks and Distributed Systems"]}
+{"topic": "Cybersecurity and Secure Software Development", "path": ["Cybersecurity and Secure Software Development"]}
+{"topic": "Human-Computer Interaction and Usability", "path": ["Human-Computer Interaction and Usability"]}
+{"topic": "Artificial Intelligence and Machine Learning Engineering", "path": ["Artificial Intelligence and Machine Learning Engineering"]}
+{"topic": "Software Project Management and Agile Methods", "path": ["Software Project Management and Agile Methods"]}
+{"topic": "Programming Languages and Compilers", "path": ["Programming Languages and Compilers"]}
+{"topic": "Modularity", "path": ["Software Design and Architecture", "Modularity"]}
+{"topic": "Abstraction", "path": ["Software Design and Architecture", "Abstraction"]}
+{"topic": "Encapsulation", "path": ["Software Design and Architecture", "Encapsulation"]}
+{"topic": "Scalability", "path": ["Software Design and Architecture", "Scalability"]}
+{"topic": "Performance Optimization", "path": ["Software Design and Architecture", "Performance Optimization"]}
+{"topic": "Security Design", "path": ["Software Design and Architecture", "Security Design"]}
+{"topic": "Reliability and Fault Tolerance", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance"]}
+{"topic": "Usability and User Experience", "path": ["Software Design and Architecture", "Usability and User Experience"]}
+{"topic": "Maintainability and Evolvability", "path": ["Software Design and Architecture", "Maintainability and Evolvability"]}
+{"topic": "Data Management and Integration", "path": ["Software Design and Architecture", "Data Management and Integration"]}
+{"topic": "Code Reusability", "path": ["Software Design and Architecture", "Modularity", "Code Reusability"]}
+{"topic": "Maintainability", "path": ["Software Design and Architecture", "Modularity", "Maintainability"]}
+{"topic": "Scalability", "path": ["Software Design and Architecture", "Modularity", "Scalability"]}
+{"topic": "Testing and Debugging", "path": ["Software Design and Architecture", "Modularity", "Testing and Debugging"]}
+{"topic": "Abstraction", "path": ["Software Design and Architecture", "Modularity", "Abstraction"]}
+{"topic": "Encapsulation", "path": ["Software Design and Architecture", "Modularity", "Encapsulation"]}
+{"topic": "Cohesion", "path": ["Software Design and Architecture", "Modularity", "Cohesion"]}
+{"topic": "Coupling", "path": ["Software Design and Architecture", "Modularity", "Coupling"]}
+{"topic": "Interfaces and Contracts", "path": ["Software Design and Architecture", "Modularity", "Interfaces and Contracts"]}
+{"topic": "Modularity Patterns and Architectures", "path": ["Software Design and Architecture", "Modularity", "Modularity Patterns and Architectures"]}
+{"topic": "Data Abstraction", "path": ["Software Design and Architecture", "Abstraction", "Data Abstraction"]}
+{"topic": "Procedural Abstraction", "path": ["Software Design and Architecture", "Abstraction", "Procedural Abstraction"]}
+{"topic": "Control Abstraction", "path": ["Software Design and Architecture", "Abstraction", "Control Abstraction"]}
+{"topic": "Object-Oriented Abstraction", "path": ["Software Design and Architecture", "Abstraction", "Object-Oriented Abstraction"]}
+{"topic": "Module Abstraction", "path": ["Software Design and Architecture", "Abstraction", "Module Abstraction"]}
+{"topic": "Information Hiding", "path": ["Software Design and Architecture", "Abstraction", "Information Hiding"]}
+{"topic": "Generalization", "path": ["Software Design and Architecture", "Abstraction", "Generalization"]}
+{"topic": "Specialization", "path": ["Software Design and Architecture", "Abstraction", "Specialization"]}
+{"topic": "Encapsulation", "path": ["Software Design and Architecture", "Abstraction", "Encapsulation"]}
+{"topic": "Interfaces", "path": ["Software Design and Architecture", "Abstraction", "Interfaces"]}
+{"topic": "Data Hiding", "path": ["Software Design and Architecture", "Encapsulation", "Data Hiding"]}
+{"topic": "Access Modifiers", "path": ["Software Design and Architecture", "Encapsulation", "Access Modifiers"]}
+{"topic": "Information Hiding", "path": ["Software Design and Architecture", "Encapsulation", "Information Hiding"]}
+{"topic": "Abstraction", "path": ["Software Design and Architecture", "Encapsulation", "Abstraction"]}
+{"topic": "Class Design Principles", "path": ["Software Design and Architecture", "Encapsulation", "Class Design Principles"]}
+{"topic": "Interface Implementation", "path": ["Software Design and Architecture", "Encapsulation", "Interface Implementation"]}
+{"topic": "Encapsulation Benefits", "path": ["Software Design and Architecture", "Encapsulation", "Encapsulation Benefits"]}
+{"topic": "Inheritance and Polymorphism Interactions", "path": ["Software Design and Architecture", "Encapsulation", "Inheritance and Polymorphism Interactions"]}
+{"topic": "Testing and Debugging Impact", "path": ["Software Design and Architecture", "Encapsulation", "Testing and Debugging Impact"]}
+{"topic": "Security Considerations", "path": ["Software Design and Architecture", "Encapsulation", "Security Considerations"]}
+{"topic": "Load Balancing", "path": ["Software Design and Architecture", "Scalability", "Load Balancing"]}
+{"topic": "Horizontal Scaling", "path": ["Software Design and Architecture", "Scalability", "Horizontal Scaling"]}
+{"topic": "Vertical Scaling", "path": ["Software Design and Architecture", "Scalability", "Vertical Scaling"]}
+{"topic": "Caching Strategies", "path": ["Software Design and Architecture", "Scalability", "Caching Strategies"]}
+{"topic": "Database Sharding", "path": ["Software Design and Architecture", "Scalability", "Database Sharding"]}
+{"topic": "Microservices Architecture", "path": ["Software Design and Architecture", "Scalability", "Microservices Architecture"]}
+{"topic": "Distributed Systems", "path": ["Software Design and Architecture", "Scalability", "Distributed Systems"]}
+{"topic": "Cloud Computing", "path": ["Software Design and Architecture", "Scalability", "Cloud Computing"]}
+{"topic": "Asynchronous Processing", "path": ["Software Design and Architecture", "Scalability", "Asynchronous Processing"]}
+{"topic": "Fault Tolerance Mechanisms", "path": ["Software Design and Architecture", "Scalability", "Fault Tolerance Mechanisms"]}
+{"topic": "Algorithm Complexity Analysis", "path": ["Software Design and Architecture", "Performance Optimization", "Algorithm Complexity Analysis"]}
+{"topic": "Data Structure Selection", "path": ["Software Design and Architecture", "Performance Optimization", "Data Structure Selection"]}
+{"topic": "Memory Management Techniques", "path": ["Software Design and Architecture", "Performance Optimization", "Memory Management Techniques"]}
+{"topic": "Concurrency and Parallelism", "path": ["Software Design and Architecture", "Performance Optimization", "Concurrency and Parallelism"]}
+{"topic": "I/O Optimization Strategies", "path": ["Software Design and Architecture", "Performance Optimization", "I/O Optimization Strategies"]}
+{"topic": "Compiler Optimizations", "path": ["Software Design and Architecture", "Performance Optimization", "Compiler Optimizations"]}
+{"topic": "Caching Mechanisms", "path": ["Software Design and Architecture", "Performance Optimization", "Caching Mechanisms"]}
+{"topic": "Profiling and Benchmarking Tools", "path": ["Software Design and Architecture", "Performance Optimization", "Profiling and Benchmarking Tools"]}
+{"topic": "Code Refactoring for Efficiency", "path": ["Software Design and Architecture", "Performance Optimization", "Code Refactoring for Efficiency"]}
+{"topic": "Network Latency Reduction Techniques", "path": ["Software Design and Architecture", "Performance Optimization", "Network Latency Reduction Techniques"]}
+{"topic": "Threat Modeling", "path": ["Software Design and Architecture", "Security Design", "Threat Modeling"]}
+{"topic": "Access Control", "path": ["Software Design and Architecture", "Security Design", "Access Control"]}
+{"topic": "Cryptography", "path": ["Software Design and Architecture", "Security Design", "Cryptography"]}
+{"topic": "Authentication Mechanisms", "path": ["Software Design and Architecture", "Security Design", "Authentication Mechanisms"]}
+{"topic": "Authorization Policies", "path": ["Software Design and Architecture", "Security Design", "Authorization Policies"]}
+{"topic": "Secure Coding Practices", "path": ["Software Design and Architecture", "Security Design", "Secure Coding Practices"]}
+{"topic": "Incident Response Planning", "path": ["Software Design and Architecture", "Security Design", "Incident Response Planning"]}
+{"topic": "Penetration Testing", "path": ["Software Design and Architecture", "Security Design", "Penetration Testing"]}
+{"topic": "Security Audits", "path": ["Software Design and Architecture", "Security Design", "Security Audits"]}
+{"topic": "Data Protection Regulations", "path": ["Software Design and Architecture", "Security Design", "Data Protection Regulations"]}
+{"topic": "System Architecture Design", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "System Architecture Design"]}
+{"topic": "Redundancy Techniques", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Redundancy Techniques"]}
+{"topic": "Error Detection and Correction Codes", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Error Detection and Correction Codes"]}
+{"topic": "Fault Isolation Strategies", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Fault Isolation Strategies"]}
+{"topic": "Recovery Mechanisms", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Recovery Mechanisms"]}
+{"topic": "Monitoring and Diagnostics", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Monitoring and Diagnostics"]}
+{"topic": "Software Reliability Engineering", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Software Reliability Engineering"]}
+{"topic": "Testing and Validation Methods", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Testing and Validation Methods"]}
+{"topic": "Human Factors in Reliability", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Human Factors in Reliability"]}
+{"topic": "Environmental Impact on Systems", "path": ["Software Design and Architecture", "Reliability and Fault Tolerance", "Environmental Impact on Systems"]}
+{"topic": "User Interface Design", "path": ["Software Design and Architecture", "Usability and User Experience", "User Interface Design"]}
+{"topic": "Information Architecture", "path": ["Software Design and Architecture", "Usability and User Experience", "Information Architecture"]}
+{"topic": "Accessibility Standards", "path": ["Software Design and Architecture", "Usability and User Experience", "Accessibility Standards"]}
+{"topic": "Interaction Design", "path": ["Software Design and Architecture", "Usability and User Experience", "Interaction Design"]}
+{"topic": "Usability Testing", "path": ["Software Design and Architecture", "Usability and User Experience", "Usability Testing"]}
+{"topic": "Cognitive Load Theory", "path": ["Software Design and Architecture", "Usability and User Experience", "Cognitive Load Theory"]}
+{"topic": "Aesthetic-Usability Effect", "path": ["Software Design and Architecture", "Usability and User Experience", "Aesthetic-Usability Effect"]}
+{"topic": "User Feedback Loops", "path": ["Software Design and Architecture", "Usability and User Experience", "User Feedback Loops"]}
+{"topic": "Emotional Design", "path": ["Software Design and Architecture", "Usability and User Experience", "Emotional Design"]}
+{"topic": "Contextual Inquiry Methods", "path": ["Software Design and Architecture", "Usability and User Experience", "Contextual Inquiry Methods"]}
+{"topic": "Code Complexity", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Code Complexity"]}
+{"topic": "Documentation Quality", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Documentation Quality"]}
+{"topic": "Testing Frameworks", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Testing Frameworks"]}
+{"topic": "Refactoring Practices", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Refactoring Practices"]}
+{"topic": "Design Patterns", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Design Patterns"]}
+{"topic": "Version Control Systems", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Version Control Systems"]}
+{"topic": "Modular Architecture", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Modular Architecture"]}
+{"topic": "Dependency Management", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Dependency Management"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD)", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Continuous Integration/Continuous Deployment (CI/CD)"]}
+{"topic": "Code Reviews", "path": ["Software Design and Architecture", "Maintainability and Evolvability", "Code Reviews"]}
+{"topic": "Data Modeling", "path": ["Software Design and Architecture", "Data Management and Integration", "Data Modeling"]}
+{"topic": "Database Design", "path": ["Software Design and Architecture", "Data Management and Integration", "Database Design"]}
+{"topic": "Data Warehousing", "path": ["Software Design and Architecture", "Data Management and Integration", "Data Warehousing"]}
+{"topic": "ETL Processes", "path": ["Software Design and Architecture", "Data Management and Integration", "ETL Processes"]}
+{"topic": "Data Integration Techniques", "path": ["Software Design and Architecture", "Data Management and Integration", "Data Integration Techniques"]}
+{"topic": "Master Data Management", "path": ["Software Design and Architecture", "Data Management and Integration", "Master Data Management"]}
+{"topic": "Data Quality Management", "path": ["Software Design and Architecture", "Data Management and Integration", "Data Quality Management"]}
+{"topic": "Data Governance", "path": ["Software Design and Architecture", "Data Management and Integration", "Data Governance"]}
+{"topic": "Big Data Technologies", "path": ["Software Design and Architecture", "Data Management and Integration", "Big Data Technologies"]}
+{"topic": "Cloud-Based Data Integration", "path": ["Software Design and Architecture", "Data Management and Integration", "Cloud-Based Data Integration"]}
+{"topic": "Test Planning and Strategy", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy"]}
+{"topic": "Test Case Design and Development", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development"]}
+{"topic": "Test Automation", "path": ["Software Testing and Quality Assurance", "Test Automation"]}
+{"topic": "Static Code Analysis", "path": ["Software Testing and Quality Assurance", "Static Code Analysis"]}
+{"topic": "Dynamic Analysis Techniques", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques"]}
+{"topic": "Performance Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing"]}
+{"topic": "Security Testing", "path": ["Software Testing and Quality Assurance", "Security Testing"]}
+{"topic": "Usability Testing", "path": ["Software Testing and Quality Assurance", "Usability Testing"]}
+{"topic": "Regression Testing", "path": ["Software Testing and Quality Assurance", "Regression Testing"]}
+{"topic": "Continuous Integration and Continuous Deployment (CI/CD) Practices", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices"]}
+{"topic": "Test Objectives and Scope", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Test Objectives and Scope"]}
+{"topic": "Risk Assessment and Prioritization", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Risk Assessment and Prioritization"]}
+{"topic": "Test Environment Setup", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Test Environment Setup"]}
+{"topic": "Test Case Design and Development", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Test Case Design and Development"]}
+{"topic": "Test Execution Planning", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Test Execution Planning"]}
+{"topic": "Test Data Management", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Test Data Management"]}
+{"topic": "Automation Strategy and Tools", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Automation Strategy and Tools"]}
+{"topic": "Performance Testing Considerations", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Performance Testing Considerations"]}
+{"topic": "Security Testing Strategies", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Security Testing Strategies"]}
+{"topic": "Continuous Integration and Continuous Deployment (CI/CD) Integration in Testing", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy", "Continuous Integration and Continuous Deployment (CI/CD) Integration in Testing"]}
+{"topic": "Test Case Requirements Analysis", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Test Case Requirements Analysis"]}
+{"topic": "Test Case Prioritization", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Test Case Prioritization"]}
+{"topic": "Equivalence Partitioning", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Equivalence Partitioning"]}
+{"topic": "Boundary Value Analysis", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Boundary Value Analysis"]}
+{"topic": "Decision Table Testing", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Decision Table Testing"]}
+{"topic": "State Transition Testing", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "State Transition Testing"]}
+{"topic": "Use Case Based Testing", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Use Case Based Testing"]}
+{"topic": "Test Data Management", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Test Data Management"]}
+{"topic": "Test Environment Configuration", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Test Environment Configuration"]}
+{"topic": "Test Automation Strategy Development", "path": ["Software Testing and Quality Assurance", "Test Case Design and Development", "Test Automation Strategy Development"]}
+{"topic": "Test Automation Frameworks", "path": ["Software Testing and Quality Assurance", "Test Automation", "Test Automation Frameworks"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD)", "path": ["Software Testing and Quality Assurance", "Test Automation", "Continuous Integration/Continuous Deployment (CI/CD)"]}
+{"topic": "Test Data Management", "path": ["Software Testing and Quality Assurance", "Test Automation", "Test Data Management"]}
+{"topic": "Test Case Design Techniques", "path": ["Software Testing and Quality Assurance", "Test Automation", "Test Case Design Techniques"]}
+{"topic": "Test Environment Management", "path": ["Software Testing and Quality Assurance", "Test Automation", "Test Environment Management"]}
+{"topic": "Automation Tools and Technologies", "path": ["Software Testing and Quality Assurance", "Test Automation", "Automation Tools and Technologies"]}
+{"topic": "Performance Testing Automation", "path": ["Software Testing and Quality Assurance", "Test Automation", "Performance Testing Automation"]}
+{"topic": "Security Testing Automation", "path": ["Software Testing and Quality Assurance", "Test Automation", "Security Testing Automation"]}
+{"topic": "Maintenance of Automated Tests", "path": ["Software Testing and Quality Assurance", "Test Automation", "Maintenance of Automated Tests"]}
+{"topic": "ROI and Metrics for Test Automation", "path": ["Software Testing and Quality Assurance", "Test Automation", "ROI and Metrics for Test Automation"]}
+{"topic": "Code Metrics", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Code Metrics"]}
+{"topic": "Syntax Checking", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Syntax Checking"]}
+{"topic": "Semantic Analysis", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Semantic Analysis"]}
+{"topic": "Type Checking", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Type Checking"]}
+{"topic": "Data Flow Analysis", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Data Flow Analysis"]}
+{"topic": "Control Flow Analysis", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Control Flow Analysis"]}
+{"topic": "Code Smell Detection", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Code Smell Detection"]}
+{"topic": "Security Vulnerability Assessment", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Security Vulnerability Assessment"]}
+{"topic": "Performance Optimization Suggestions", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Performance Optimization Suggestions"]}
+{"topic": "Compliance Checking", "path": ["Software Testing and Quality Assurance", "Static Code Analysis", "Compliance Checking"]}
+{"topic": "Code Coverage Analysis", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Code Coverage Analysis"]}
+{"topic": "Performance Profiling", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Performance Profiling"]}
+{"topic": "Memory Leak Detection", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Memory Leak Detection"]}
+{"topic": "Dynamic Symbolic Execution", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Dynamic Symbolic Execution"]}
+{"topic": "Runtime Error Detection", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Runtime Error Detection"]}
+{"topic": "Security Vulnerability Scanning", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Security Vulnerability Scanning"]}
+{"topic": "Concurrency Testing", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Concurrency Testing"]}
+{"topic": "Load Testing", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Load Testing"]}
+{"topic": "Fuzz Testing", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Fuzz Testing"]}
+{"topic": "Mutation Testing", "path": ["Software Testing and Quality Assurance", "Dynamic Analysis Techniques", "Mutation Testing"]}
+{"topic": "Load Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Load Testing"]}
+{"topic": "Stress Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Stress Testing"]}
+{"topic": "Soak Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Soak Testing"]}
+{"topic": "Spike Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Spike Testing"]}
+{"topic": "Volume Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Volume Testing"]}
+{"topic": "Endurance Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Endurance Testing"]}
+{"topic": "Performance Profiling", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Performance Profiling"]}
+{"topic": "Benchmarking", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Benchmarking"]}
+{"topic": "Response Time Analysis", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Response Time Analysis"]}
+{"topic": "Scalability Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing", "Scalability Testing"]}
+{"topic": "Threat Modeling", "path": ["Software Testing and Quality Assurance", "Security Testing", "Threat Modeling"]}
+{"topic": "Vulnerability Assessment", "path": ["Software Testing and Quality Assurance", "Security Testing", "Vulnerability Assessment"]}
+{"topic": "Penetration Testing", "path": ["Software Testing and Quality Assurance", "Security Testing", "Penetration Testing"]}
+{"topic": "Security Audits", "path": ["Software Testing and Quality Assurance", "Security Testing", "Security Audits"]}
+{"topic": "Code Review", "path": ["Software Testing and Quality Assurance", "Security Testing", "Code Review"]}
+{"topic": "Static Analysis", "path": ["Software Testing and Quality Assurance", "Security Testing", "Static Analysis"]}
+{"topic": "Dynamic Analysis", "path": ["Software Testing and Quality Assurance", "Security Testing", "Dynamic Analysis"]}
+{"topic": "Security Configuration Management", "path": ["Software Testing and Quality Assurance", "Security Testing", "Security Configuration Management"]}
+{"topic": "Incident Response Planning", "path": ["Software Testing and Quality Assurance", "Security Testing", "Incident Response Planning"]}
+{"topic": "Security Metrics and Reporting", "path": ["Software Testing and Quality Assurance", "Security Testing", "Security Metrics and Reporting"]}
+{"topic": "Test Planning and Design", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Test Planning and Design"]}
+{"topic": "User Recruitment and Selection", "path": ["Software Testing and Quality Assurance", "Usability Testing", "User Recruitment and Selection"]}
+{"topic": "Test Environment Setup", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Test Environment Setup"]}
+{"topic": "Prototyping and Mockups", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Prototyping and Mockups"]}
+{"topic": "Data Collection Methods", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Data Collection Methods"]}
+{"topic": "Analyzing User Feedback", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Analyzing User Feedback"]}
+{"topic": "Usability Metrics and KPIs", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Usability Metrics and KPIs"]}
+{"topic": "Iterative Improvement Process", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Iterative Improvement Process"]}
+{"topic": "Ethical Considerations in Testing", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Ethical Considerations in Testing"]}
+{"topic": "Tools and Technologies for Usability Testing", "path": ["Software Testing and Quality Assurance", "Usability Testing", "Tools and Technologies for Usability Testing"]}
+{"topic": "Test Case Selection", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Test Case Selection"]}
+{"topic": "Test Automation", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Test Automation"]}
+{"topic": "Impact Analysis", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Impact Analysis"]}
+{"topic": "Regression Testing Strategies", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Regression Testing Strategies"]}
+{"topic": "Continuous Integration", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Continuous Integration"]}
+{"topic": "Defect Tracking Systems", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Defect Tracking Systems"]}
+{"topic": "Test Data Management", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Test Data Management"]}
+{"topic": "Performance Metrics", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Performance Metrics"]}
+{"topic": "Maintenance of Regression Test Suites", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Maintenance of Regression Test Suites"]}
+{"topic": "Scalability Issues", "path": ["Software Testing and Quality Assurance", "Regression Testing", "Scalability Issues"]}
+{"topic": "Version Control Systems", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Version Control Systems"]}
+{"topic": "Automated Testing Frameworks", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Automated Testing Frameworks"]}
+{"topic": "Build Automation Tools", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Build Automation Tools"]}
+{"topic": "Configuration Management", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Configuration Management"]}
+{"topic": "Containerization Technologies", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Containerization Technologies"]}
+{"topic": "Infrastructure as Code", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Infrastructure as Code"]}
+{"topic": "Monitoring and Logging", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Monitoring and Logging"]}
+{"topic": "Security Best Practices", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Security Best Practices"]}
+{"topic": "Feedback Loops", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Feedback Loops"]}
+{"topic": "Scalability and Performance Optimization", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD) Practices", "Scalability and Performance Optimization"]}
+{"topic": "Principles of DevOps", "path": ["DevOps and Continuous Integration", "Principles of DevOps"]}
+{"topic": "Benefits of Continuous Integration", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration"]}
+{"topic": "Tools for Continuous Integration", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration"]}
+{"topic": "Automated Testing in CI/CD", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD"]}
+{"topic": "Version Control Systems", "path": ["DevOps and Continuous Integration", "Version Control Systems"]}
+{"topic": "Infrastructure as Code (IaC)", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)"]}
+{"topic": "Containerization Technologies", "path": ["DevOps and Continuous Integration", "Containerization Technologies"]}
+{"topic": "Deployment Pipelines", "path": ["DevOps and Continuous Integration", "Deployment Pipelines"]}
+{"topic": "Monitoring and Logging", "path": ["DevOps and Continuous Integration", "Monitoring and Logging"]}
+{"topic": "Feedback Loops in CI/CD", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD"]}
+{"topic": "Continuous Integration", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Continuous Integration"]}
+{"topic": "Continuous Delivery", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Continuous Delivery"]}
+{"topic": "Continuous Deployment", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Continuous Deployment"]}
+{"topic": "Infrastructure as Code", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Infrastructure as Code"]}
+{"topic": "Microservices Architecture", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Microservices Architecture"]}
+{"topic": "Automated Testing", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Automated Testing"]}
+{"topic": "Monitoring and Logging", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Monitoring and Logging"]}
+{"topic": "Collaboration and Communication", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Collaboration and Communication"]}
+{"topic": "Feedback Loops", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Feedback Loops"]}
+{"topic": "Security Practices", "path": ["DevOps and Continuous Integration", "Principles of DevOps", "Security Practices"]}
+{"topic": "Automated Build Processes", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Automated Build Processes"]}
+{"topic": "Early Bug Detection", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Early Bug Detection"]}
+{"topic": "Improved Code Quality", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Improved Code Quality"]}
+{"topic": "Faster Feedback Loops", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Faster Feedback Loops"]}
+{"topic": "Enhanced Collaboration Among Developers", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Enhanced Collaboration Among Developers"]}
+{"topic": "Reduced Integration Problems", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Reduced Integration Problems"]}
+{"topic": "Simplified Deployment Processes", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Simplified Deployment Processes"]}
+{"topic": "Consistent Environment for Testing", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Consistent Environment for Testing"]}
+{"topic": "Encouragement of Refactoring", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Encouragement of Refactoring"]}
+{"topic": "Increased Productivity Through Automation", "path": ["DevOps and Continuous Integration", "Benefits of Continuous Integration", "Increased Productivity Through Automation"]}
+{"topic": "Version Control Systems Integration", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Version Control Systems Integration"]}
+{"topic": "Automated Build Processes", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Automated Build Processes"]}
+{"topic": "Test Automation Frameworks", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Test Automation Frameworks"]}
+{"topic": "Deployment Pipelines", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Deployment Pipelines"]}
+{"topic": "Monitoring and Logging", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Monitoring and Logging"]}
+{"topic": "Parallel Execution of Tests", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Parallel Execution of Tests"]}
+{"topic": "Code Quality Analysis Tools", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Code Quality Analysis Tools"]}
+{"topic": "Containerization Technologies", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Containerization Technologies"]}
+{"topic": "Security Testing in CI", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Security Testing in CI"]}
+{"topic": "Feedback Loops and Iterative Improvements", "path": ["DevOps and Continuous Integration", "Tools for Continuous Integration", "Feedback Loops and Iterative Improvements"]}
+{"topic": "Test Automation Frameworks", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Test Automation Frameworks"]}
+{"topic": "Continuous Integration (CI) Systems", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Continuous Integration (CI) Systems"]}
+{"topic": "Continuous Deployment (CD) Pipelines", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Continuous Deployment (CD) Pipelines"]}
+{"topic": "Test Coverage Metrics", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Test Coverage Metrics"]}
+{"topic": "Automated Test Types (Unit, Integration, End-to-End)", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Automated Test Types (Unit, Integration, End-to-End)"]}
+{"topic": "Test Data Management", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Test Data Management"]}
+{"topic": "Parallel Test Execution", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Parallel Test Execution"]}
+{"topic": "Test Environment Configuration", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Test Environment Configuration"]}
+{"topic": "Feedback Loops in CI/CD", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Feedback Loops in CI/CD"]}
+{"topic": "Monitoring and Reporting Tools", "path": ["DevOps and Continuous Integration", "Automated Testing in CI/CD", "Monitoring and Reporting Tools"]}
+{"topic": "Git Basics", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Git Basics"]}
+{"topic": "Branching and Merging", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Branching and Merging"]}
+{"topic": "Committing Changes", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Committing Changes"]}
+{"topic": "Staging Area", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Staging Area"]}
+{"topic": "Tagging Releases", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Tagging Releases"]}
+{"topic": "Conflict Resolution", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Conflict Resolution"]}
+{"topic": "Remote Repositories", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Remote Repositories"]}
+{"topic": "Pull Requests and Code Reviews", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Pull Requests and Code Reviews"]}
+{"topic": "Version Control Best Practices", "path": ["DevOps and Continuous Integration", "Version Control Systems", "Version Control Best Practices"]}
+{"topic": "History and Evolution of Version Control Systems", "path": ["DevOps and Continuous Integration", "Version Control Systems", "History and Evolution of Version Control Systems"]}
+{"topic": "Configuration Management", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Configuration Management"]}
+{"topic": "Automation Tools", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Automation Tools"]}
+{"topic": "Version Control Systems", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Version Control Systems"]}
+{"topic": "Cloud Providers Integration", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Cloud Providers Integration"]}
+{"topic": "Security Best Practices", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Security Best Practices"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD)", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Continuous Integration/Continuous Deployment (CI/CD)"]}
+{"topic": "Infrastructure as Code Languages", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Infrastructure as Code Languages"]}
+{"topic": "Testing and Validation Techniques", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Testing and Validation Techniques"]}
+{"topic": "Monitoring and Logging", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Monitoring and Logging"]}
+{"topic": "Cost Management Strategies", "path": ["DevOps and Continuous Integration", "Infrastructure as Code (IaC)", "Cost Management Strategies"]}
+{"topic": "Docker Architecture", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Docker Architecture"]}
+{"topic": "Kubernetes Fundamentals", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Kubernetes Fundamentals"]}
+{"topic": "Container Orchestration vs. Containerization", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Container Orchestration vs. Containerization"]}
+{"topic": "Microservices and Containers", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Microservices and Containers"]}
+{"topic": "Security in Containerized Environments", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Security in Containerized Environments"]}
+{"topic": "Performance Optimization for Containers", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Performance Optimization for Containers"]}
+{"topic": "Multi-Cloud Container Deployment", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Multi-Cloud Container Deployment"]}
+{"topic": "CI/CD Pipelines with Containers", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "CI/CD Pipelines with Containers"]}
+{"topic": "Container Runtime Interfaces (CRI)", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "Container Runtime Interfaces (CRI)"]}
+{"topic": "State Management in Containerized Applications", "path": ["DevOps and Continuous Integration", "Containerization Technologies", "State Management in Containerized Applications"]}
+{"topic": "Continuous Integration (CI) Practices", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Continuous Integration (CI) Practices"]}
+{"topic": "Continuous Deployment (CD) Strategies", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Continuous Deployment (CD) Strategies"]}
+{"topic": "Infrastructure as Code (IaC)", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Infrastructure as Code (IaC)"]}
+{"topic": "Configuration Management Tools", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Configuration Management Tools"]}
+{"topic": "Containerization Technologies", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Containerization Technologies"]}
+{"topic": "Orchestration Platforms", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Orchestration Platforms"]}
+{"topic": "Monitoring and Logging Systems", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Monitoring and Logging Systems"]}
+{"topic": "Security Testing and Compliance", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Security Testing and Compliance"]}
+{"topic": "Rollback and Recovery Procedures", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Rollback and Recovery Procedures"]}
+{"topic": "Performance Optimization Techniques", "path": ["DevOps and Continuous Integration", "Deployment Pipelines", "Performance Optimization Techniques"]}
+{"topic": "Log Levels", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Log Levels"]}
+{"topic": "Log Rotation", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Log Rotation"]}
+{"topic": "Centralized Logging", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Centralized Logging"]}
+{"topic": "Real-time Monitoring", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Real-time Monitoring"]}
+{"topic": "Performance Metrics", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Performance Metrics"]}
+{"topic": "Alerting Systems", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Alerting Systems"]}
+{"topic": "Log Analysis Tools", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Log Analysis Tools"]}
+{"topic": "Security Logging", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Security Logging"]}
+{"topic": "Application Tracing", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Application Tracing"]}
+{"topic": "Data Privacy Compliance", "path": ["DevOps and Continuous Integration", "Monitoring and Logging", "Data Privacy Compliance"]}
+{"topic": "Continuous Integration Basics", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Continuous Integration Basics"]}
+{"topic": "Continuous Deployment Principles", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Continuous Deployment Principles"]}
+{"topic": "Automated Testing Strategies", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Automated Testing Strategies"]}
+{"topic": "Code Quality Metrics", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Code Quality Metrics"]}
+{"topic": "Performance Monitoring Techniques", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Performance Monitoring Techniques"]}
+{"topic": "Dependency Management Practices", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Dependency Management Practices"]}
+{"topic": "Environment Configuration Management", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Environment Configuration Management"]}
+{"topic": "Incident Response Procedures", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Incident Response Procedures"]}
+{"topic": "Feedback Loop Optimization Methods", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Feedback Loop Optimization Methods"]}
+{"topic": "Security Integration in CI/CD Pipelines", "path": ["DevOps and Continuous Integration", "Feedback Loops in CI/CD", "Security Integration in CI/CD Pipelines"]}
+{"topic": "Relational Database Models", "path": ["Database Systems and Data Management", "Relational Database Models"]}
+{"topic": "SQL (Structured Query Language)", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)"]}
+{"topic": "Indexing Techniques", "path": ["Database Systems and Data Management", "Indexing Techniques"]}
+{"topic": "Transaction Management", "path": ["Database Systems and Data Management", "Transaction Management"]}
+{"topic": "Data Integrity Constraints", "path": ["Database Systems and Data Management", "Data Integrity Constraints"]}
+{"topic": "Data Warehousing", "path": ["Database Systems and Data Management", "Data Warehousing"]}
+{"topic": "NoSQL Databases", "path": ["Database Systems and Data Management", "NoSQL Databases"]}
+{"topic": "Distributed Database Systems", "path": ["Database Systems and Data Management", "Distributed Database Systems"]}
+{"topic": "Cloud-Based Data Management", "path": ["Database Systems and Data Management", "Cloud-Based Data Management"]}
+{"topic": "Big Data Technologies", "path": ["Database Systems and Data Management", "Big Data Technologies"]}
+{"topic": "Entity-Relationship Model", "path": ["Database Systems and Data Management", "Relational Database Models", "Entity-Relationship Model"]}
+{"topic": "Relational Algebra", "path": ["Database Systems and Data Management", "Relational Database Models", "Relational Algebra"]}
+{"topic": "Normalization Forms", "path": ["Database Systems and Data Management", "Relational Database Models", "Normalization Forms"]}
+{"topic": "Indexing Techniques", "path": ["Database Systems and Data Management", "Relational Database Models", "Indexing Techniques"]}
+{"topic": "Query Optimization", "path": ["Database Systems and Data Management", "Relational Database Models", "Query Optimization"]}
+{"topic": "Transactions and Concurrency Control", "path": ["Database Systems and Data Management", "Relational Database Models", "Transactions and Concurrency Control"]}
+{"topic": "Data Integrity Constraints", "path": ["Database Systems and Data Management", "Relational Database Models", "Data Integrity Constraints"]}
+{"topic": "Security Measures in Databases", "path": ["Database Systems and Data Management", "Relational Database Models", "Security Measures in Databases"]}
+{"topic": "Distributed Database Systems", "path": ["Database Systems and Data Management", "Relational Database Models", "Distributed Database Systems"]}
+{"topic": "Cloud-Based Database Solutions", "path": ["Database Systems and Data Management", "Relational Database Models", "Cloud-Based Database Solutions"]}
+{"topic": "Data Definition Language (DDL) commands", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Data Definition Language (DDL) commands"]}
+{"topic": "Data Manipulation Language (DML) commands", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Data Manipulation Language (DML) commands"]}
+{"topic": "Data Control Language (DCL) commands", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Data Control Language (DCL) commands"]}
+{"topic": "Transactions and ACID properties", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Transactions and ACID properties"]}
+{"topic": "Indexing and performance optimization", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Indexing and performance optimization"]}
+{"topic": "Joins and set operations", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Joins and set operations"]}
+{"topic": "Subqueries and correlated queries", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Subqueries and correlated queries"]}
+{"topic": "Aggregation and grouping", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Aggregation and grouping"]}
+{"topic": "Normalization and database design principles", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "Normalization and database design principles"]}
+{"topic": "SQL injection and security measures", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)", "SQL injection and security measures"]}
+{"topic": "Hash Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "Hash Indexing"]}
+{"topic": "B-Tree Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "B-Tree Indexing"]}
+{"topic": "Bitmap Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "Bitmap Indexing"]}
+{"topic": "R-Tree Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "R-Tree Indexing"]}
+{"topic": "Full-Text Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "Full-Text Indexing"]}
+{"topic": "Inverted Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "Inverted Indexing"]}
+{"topic": "Tries (Prefix Trees)", "path": ["Database Systems and Data Management", "Indexing Techniques", "Tries (Prefix Trees)"]}
+{"topic": "Skip Lists", "path": ["Database Systems and Data Management", "Indexing Techniques", "Skip Lists"]}
+{"topic": "Bloom Filters", "path": ["Database Systems and Data Management", "Indexing Techniques", "Bloom Filters"]}
+{"topic": "Spatial Indexing", "path": ["Database Systems and Data Management", "Indexing Techniques", "Spatial Indexing"]}
+{"topic": "ACID Properties", "path": ["Database Systems and Data Management", "Transaction Management", "ACID Properties"]}
+{"topic": "Distributed Transactions", "path": ["Database Systems and Data Management", "Transaction Management", "Distributed Transactions"]}
+{"topic": "Transaction Isolation Levels", "path": ["Database Systems and Data Management", "Transaction Management", "Transaction Isolation Levels"]}
+{"topic": "Two-Phase Commit Protocol", "path": ["Database Systems and Data Management", "Transaction Management", "Two-Phase Commit Protocol"]}
+{"topic": "Compensation Transactions", "path": ["Database Systems and Data Management", "Transaction Management", "Compensation Transactions"]}
+{"topic": "Eventual Consistency Models", "path": ["Database Systems and Data Management", "Transaction Management", "Eventual Consistency Models"]}
+{"topic": "Optimistic Concurrency Control", "path": ["Database Systems and Data Management", "Transaction Management", "Optimistic Concurrency Control"]}
+{"topic": "Pessimistic Concurrency Control", "path": ["Database Systems and Data Management", "Transaction Management", "Pessimistic Concurrency Control"]}
+{"topic": "Deadlocks and Lock Escalation", "path": ["Database Systems and Data Management", "Transaction Management", "Deadlocks and Lock Escalation"]}
+{"topic": "Conflict Detection and Resolution Mechanisms", "path": ["Database Systems and Data Management", "Transaction Management", "Conflict Detection and Resolution Mechanisms"]}
+{"topic": "Primary Keys", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Primary Keys"]}
+{"topic": "Foreign Keys", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Foreign Keys"]}
+{"topic": "Unique Constraints", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Unique Constraints"]}
+{"topic": "Not Null Constraints", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Not Null Constraints"]}
+{"topic": "Check Constraints", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Check Constraints"]}
+{"topic": "Triggers", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Triggers"]}
+{"topic": "Transactions", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Transactions"]}
+{"topic": "Concurrency Control", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Concurrency Control"]}
+{"topic": "Data Redundancy", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Data Redundancy"]}
+{"topic": "Data Validation Rules", "path": ["Database Systems and Data Management", "Data Integrity Constraints", "Data Validation Rules"]}
+{"topic": "Data Modeling", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Modeling"]}
+{"topic": "ETL Processes", "path": ["Database Systems and Data Management", "Data Warehousing", "ETL Processes"]}
+{"topic": "Data Integration", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Integration"]}
+{"topic": "Data Cleansing", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Cleansing"]}
+{"topic": "OLAP (Online Analytical Processing)", "path": ["Database Systems and Data Management", "Data Warehousing", "OLAP (Online Analytical Processing)"]}
+{"topic": "Data Marts", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Marts"]}
+{"topic": "Data Mining", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Mining"]}
+{"topic": "Business Intelligence", "path": ["Database Systems and Data Management", "Data Warehousing", "Business Intelligence"]}
+{"topic": "Data Security", "path": ["Database Systems and Data Management", "Data Warehousing", "Data Security"]}
+{"topic": "Performance Optimization", "path": ["Database Systems and Data Management", "Data Warehousing", "Performance Optimization"]}
+{"topic": "Data Model Varieties", "path": ["Database Systems and Data Management", "NoSQL Databases", "Data Model Varieties"]}
+{"topic": "Scalability Solutions", "path": ["Database Systems and Data Management", "NoSQL Databases", "Scalability Solutions"]}
+{"topic": "Consistency Models", "path": ["Database Systems and Data Management", "NoSQL Databases", "Consistency Models"]}
+{"topic": "Query Languages", "path": ["Database Systems and Data Management", "NoSQL Databases", "Query Languages"]}
+{"topic": "Indexing Techniques", "path": ["Database Systems and Data Management", "NoSQL Databases", "Indexing Techniques"]}
+{"topic": "Replication Strategies", "path": ["Database Systems and Data Management", "NoSQL Databases", "Replication Strategies"]}
+{"topic": "Sharding Methods", "path": ["Database Systems and Data Management", "NoSQL Databases", "Sharding Methods"]}
+{"topic": "Performance Optimization", "path": ["Database Systems and Data Management", "NoSQL Databases", "Performance Optimization"]}
+{"topic": "Use Case Scenarios", "path": ["Database Systems and Data Management", "NoSQL Databases", "Use Case Scenarios"]}
+{"topic": "Security Measures", "path": ["Database Systems and Data Management", "NoSQL Databases", "Security Measures"]}
+{"topic": "Data Partitioning Strategies", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Data Partitioning Strategies"]}
+{"topic": "Consistency Models", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Consistency Models"]}
+{"topic": "Replication Techniques", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Replication Techniques"]}
+{"topic": "Fault Tolerance Mechanisms", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Fault Tolerance Mechanisms"]}
+{"topic": "Distributed Query Processing", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Distributed Query Processing"]}
+{"topic": "Network Latency and Bandwidth Management", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Network Latency and Bandwidth Management"]}
+{"topic": "Security and Access Control", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Security and Access Control"]}
+{"topic": "Load Balancing Algorithms", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Load Balancing Algorithms"]}
+{"topic": "Scalability Solutions", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Scalability Solutions"]}
+{"topic": "Transaction Management in Distributed Systems", "path": ["Database Systems and Data Management", "Distributed Database Systems", "Transaction Management in Distributed Systems"]}
+{"topic": "Cloud Storage Solutions", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cloud Storage Solutions"]}
+{"topic": "Data Security in Cloud Environments", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Data Security in Cloud Environments"]}
+{"topic": "Cloud Scalability and Performance", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cloud Scalability and Performance"]}
+{"topic": "Multi-Cloud and Hybrid Cloud Architectures", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Multi-Cloud and Hybrid Cloud Architectures"]}
+{"topic": "Data Governance and Compliance", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Data Governance and Compliance"]}
+{"topic": "Cloud-Based Data Analytics", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cloud-Based Data Analytics"]}
+{"topic": "Serverless Computing for Data Management", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Serverless Computing for Data Management"]}
+{"topic": "Cloud Backup and Disaster Recovery", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cloud Backup and Disaster Recovery"]}
+{"topic": "Cloud Data Migration Strategies", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cloud Data Migration Strategies"]}
+{"topic": "Cost Management in Cloud-Based Data Management", "path": ["Database Systems and Data Management", "Cloud-Based Data Management", "Cost Management in Cloud-Based Data Management"]}
+{"topic": "Data Volume", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Volume"]}
+{"topic": "Data Variety", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Variety"]}
+{"topic": "Data Velocity", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Velocity"]}
+{"topic": "Data Storage Solutions", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Storage Solutions"]}
+{"topic": "Data Processing Techniques", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Processing Techniques"]}
+{"topic": "Distributed Computing Models", "path": ["Database Systems and Data Management", "Big Data Technologies", "Distributed Computing Models"]}
+{"topic": "Big Data Analytics Tools", "path": ["Database Systems and Data Management", "Big Data Technologies", "Big Data Analytics Tools"]}
+{"topic": "Machine Learning Algorithms", "path": ["Database Systems and Data Management", "Big Data Technologies", "Machine Learning Algorithms"]}
+{"topic": "Cloud Computing Services", "path": ["Database Systems and Data Management", "Big Data Technologies", "Cloud Computing Services"]}
+{"topic": "Data Security and Privacy Concerns", "path": ["Database Systems and Data Management", "Big Data Technologies", "Data Security and Privacy Concerns"]}
+{"topic": "Network Protocols", "path": ["Computer Networks and Distributed Systems", "Network Protocols"]}
+{"topic": "Data Transmission Techniques", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques"]}
+{"topic": "Network Security", "path": ["Computer Networks and Distributed Systems", "Network Security"]}
+{"topic": "Routing Algorithms", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms"]}
+{"topic": "Load Balancing", "path": ["Computer Networks and Distributed Systems", "Load Balancing"]}
+{"topic": "Cloud Computing", "path": ["Computer Networks and Distributed Systems", "Cloud Computing"]}
+{"topic": "Peer-to-Peer Systems", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems"]}
+{"topic": "Distributed Databases", "path": ["Computer Networks and Distributed Systems", "Distributed Databases"]}
+{"topic": "Fault Tolerance", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance"]}
+{"topic": "Inter-Process Communication", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication"]}
+{"topic": "TCP/IP Model", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "TCP/IP Model"]}
+{"topic": "OSI Model", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "OSI Model"]}
+{"topic": "HTTP/HTTPS", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "HTTP/HTTPS"]}
+{"topic": "DNS (Domain Name System)", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "DNS (Domain Name System)"]}
+{"topic": "IP Addressing", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "IP Addressing"]}
+{"topic": "Routing Protocols", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "Routing Protocols"]}
+{"topic": "ARP (Address Resolution Protocol)", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "ARP (Address Resolution Protocol)"]}
+{"topic": "ICMP (Internet Control Message Protocol)", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "ICMP (Internet Control Message Protocol)"]}
+{"topic": "SSL/TLS", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "SSL/TLS"]}
+{"topic": "Network Security Protocols", "path": ["Computer Networks and Distributed Systems", "Network Protocols", "Network Security Protocols"]}
+{"topic": "Bit Rate and Symbol Rate", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Bit Rate and Symbol Rate"]}
+{"topic": "Modulation Techniques", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Modulation Techniques"]}
+{"topic": "Error Detection and Correction Codes", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Error Detection and Correction Codes"]}
+{"topic": "Transmission Media Types", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Transmission Media Types"]}
+{"topic": "Multiplexing Methods", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Multiplexing Methods"]}
+{"topic": "Bandwidth Utilization", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Bandwidth Utilization"]}
+{"topic": "Data Compression Algorithms", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Data Compression Algorithms"]}
+{"topic": "Network Protocols", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Network Protocols"]}
+{"topic": "Quality of Service (QoS)", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Quality of Service (QoS)"]}
+{"topic": "Security Measures in Data Transmission", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques", "Security Measures in Data Transmission"]}
+{"topic": "Cryptography", "path": ["Computer Networks and Distributed Systems", "Network Security", "Cryptography"]}
+{"topic": "Firewall Systems", "path": ["Computer Networks and Distributed Systems", "Network Security", "Firewall Systems"]}
+{"topic": "Intrusion Detection Systems (IDS)", "path": ["Computer Networks and Distributed Systems", "Network Security", "Intrusion Detection Systems (IDS)"]}
+{"topic": "Network Monitoring", "path": ["Computer Networks and Distributed Systems", "Network Security", "Network Monitoring"]}
+{"topic": "Virtual Private Networks (VPN)", "path": ["Computer Networks and Distributed Systems", "Network Security", "Virtual Private Networks (VPN)"]}
+{"topic": "Secure Socket Layer/Transport Layer Security (SSL/TLS)", "path": ["Computer Networks and Distributed Systems", "Network Security", "Secure Socket Layer/Transport Layer Security (SSL/TLS)"]}
+{"topic": "Access Control", "path": ["Computer Networks and Distributed Systems", "Network Security", "Access Control"]}
+{"topic": "Authentication Mechanisms", "path": ["Computer Networks and Distributed Systems", "Network Security", "Authentication Mechanisms"]}
+{"topic": "Denial-of-Service (DoS) Attacks", "path": ["Computer Networks and Distributed Systems", "Network Security", "Denial-of-Service (DoS) Attacks"]}
+{"topic": "Malware and Anti-Malware Solutions", "path": ["Computer Networks and Distributed Systems", "Network Security", "Malware and Anti-Malware Solutions"]}
+{"topic": "Dijkstra's Algorithm", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Dijkstra's Algorithm"]}
+{"topic": "Bellman-Ford Algorithm", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Bellman-Ford Algorithm"]}
+{"topic": "Floyd-Warshall Algorithm", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Floyd-Warshall Algorithm"]}
+{"topic": "Link State Routing (LSR)", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Link State Routing (LSR)"]}
+{"topic": "Distance Vector Routing (DVR)", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Distance Vector Routing (DVR)"]}
+{"topic": "Path Vector Routing", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Path Vector Routing"]}
+{"topic": "Routing Information Protocol (RIP)", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Routing Information Protocol (RIP)"]}
+{"topic": "Open Shortest Path First (OSPF)", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Open Shortest Path First (OSPF)"]}
+{"topic": "Border Gateway Protocol (BGP)", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Border Gateway Protocol (BGP)"]}
+{"topic": "Multipath Routing Algorithms", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms", "Multipath Routing Algorithms"]}
+{"topic": "Types of Load Balancers", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Types of Load Balancers"]}
+{"topic": "Algorithms for Load Distribution", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Algorithms for Load Distribution"]}
+{"topic": "Hardware vs. Software Load Balancers", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Hardware vs. Software Load Balancers"]}
+{"topic": "Scalability in Load Balancing", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Scalability in Load Balancing"]}
+{"topic": "High Availability and Fault Tolerance", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "High Availability and Fault Tolerance"]}
+{"topic": "Session Persistence Techniques", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Session Persistence Techniques"]}
+{"topic": "Health Monitoring and Failover Mechanisms", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Health Monitoring and Failover Mechanisms"]}
+{"topic": "Security Considerations in Load Balancing", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Security Considerations in Load Balancing"]}
+{"topic": "Performance Metrics for Load Balancers", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Performance Metrics for Load Balancers"]}
+{"topic": "Integration with Cloud Services", "path": ["Computer Networks and Distributed Systems", "Load Balancing", "Integration with Cloud Services"]}
+{"topic": "Infrastructure as a Service (IaaS)", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Infrastructure as a Service (IaaS)"]}
+{"topic": "Platform as a Service (PaaS)", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Platform as a Service (PaaS)"]}
+{"topic": "Software as a Service (SaaS)", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Software as a Service (SaaS)"]}
+{"topic": "Multi-cloud Strategy", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Multi-cloud Strategy"]}
+{"topic": "Cloud Security", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Cloud Security"]}
+{"topic": "Serverless Computing", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Serverless Computing"]}
+{"topic": "Edge Computing", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Edge Computing"]}
+{"topic": "Hybrid Cloud", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Hybrid Cloud"]}
+{"topic": "Cloud Scalability", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Cloud Scalability"]}
+{"topic": "Data Management in the Cloud", "path": ["Computer Networks and Distributed Systems", "Cloud Computing", "Data Management in the Cloud"]}
+{"topic": "Distributed Hash Tables (DHTs)", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Distributed Hash Tables (DHTs)"]}
+{"topic": "Overlay Networks", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Overlay Networks"]}
+{"topic": "Decentralization", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Decentralization"]}
+{"topic": "Fault Tolerance", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Fault Tolerance"]}
+{"topic": "Security and Privacy", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Security and Privacy"]}
+{"topic": "Resource Sharing", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Resource Sharing"]}
+{"topic": "Consensus Mechanisms", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Consensus Mechanisms"]}
+{"topic": "Scalability", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Scalability"]}
+{"topic": "Network Latency and Bandwidth", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Network Latency and Bandwidth"]}
+{"topic": "Peer Selection Algorithms", "path": ["Computer Networks and Distributed Systems", "Peer-to-Peer Systems", "Peer Selection Algorithms"]}
+{"topic": "Data Partitioning", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Data Partitioning"]}
+{"topic": "Consistency Models", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Consistency Models"]}
+{"topic": "Replication Strategies", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Replication Strategies"]}
+{"topic": "Fault Tolerance Mechanisms", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Fault Tolerance Mechanisms"]}
+{"topic": "Distributed Transactions", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Distributed Transactions"]}
+{"topic": "Communication Protocols", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Communication Protocols"]}
+{"topic": "Load Balancing Techniques", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Load Balancing Techniques"]}
+{"topic": "Security and Access Control", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Security and Access Control"]}
+{"topic": "Scalability Challenges", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Scalability Challenges"]}
+{"topic": "Query Processing in Distributed Systems", "path": ["Computer Networks and Distributed Systems", "Distributed Databases", "Query Processing in Distributed Systems"]}
+{"topic": "Redundancy", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Redundancy"]}
+{"topic": "Error Detection", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Error Detection"]}
+{"topic": "Fault Isolation", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Fault Isolation"]}
+{"topic": "Recovery Mechanisms", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Recovery Mechanisms"]}
+{"topic": "Self-Healing Systems", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Self-Healing Systems"]}
+{"topic": "Graceful Degradation", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Graceful Degradation"]}
+{"topic": "Checkpointing", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Checkpointing"]}
+{"topic": "Rollback Techniques", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Rollback Techniques"]}
+{"topic": "Byzantine Fault Tolerance", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Byzantine Fault Tolerance"]}
+{"topic": "Distributed Consensus Algorithms", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance", "Distributed Consensus Algorithms"]}
+{"topic": "Pipes", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Pipes"]}
+{"topic": "Message Queues", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Message Queues"]}
+{"topic": "Shared Memory", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Shared Memory"]}
+{"topic": "Sockets", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Sockets"]}
+{"topic": "Semaphores", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Semaphores"]}
+{"topic": "Mailboxes", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Mailboxes"]}
+{"topic": "Remote Procedure Calls (RPC)", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Remote Procedure Calls (RPC)"]}
+{"topic": "Distributed Systems", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Distributed Systems"]}
+{"topic": "Event-driven Programming", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Event-driven Programming"]}
+{"topic": "Middleware Technologies", "path": ["Computer Networks and Distributed Systems", "Inter-Process Communication", "Middleware Technologies"]}
+{"topic": "Threat Modeling", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling"]}
+{"topic": "Secure Coding Practices", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices"]}
+{"topic": "Vulnerability Assessment", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment"]}
+{"topic": "Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing"]}
+{"topic": "Security Audits", "path": ["Cybersecurity and Secure Software Development", "Security Audits"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning"]}
+{"topic": "Cryptography Fundamentals", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals"]}
+{"topic": "Access Control Mechanisms", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms"]}
+{"topic": "Secure Software Lifecycle", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle"]}
+{"topic": "Compliance with Security Standards", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards"]}
+{"topic": "Identifying Assets", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Identifying Assets"]}
+{"topic": "Understanding Threat Agents", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Understanding Threat Agents"]}
+{"topic": "Enumerating Vulnerabilities", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Enumerating Vulnerabilities"]}
+{"topic": "Assessing Threats", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Assessing Threats"]}
+{"topic": "Determining Potential Impact", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Determining Potential Impact"]}
+{"topic": "Evaluating Likelihood of Attack", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Evaluating Likelihood of Attack"]}
+{"topic": "Prioritizing Threats", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Prioritizing Threats"]}
+{"topic": "Designing Mitigations", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Designing Mitigations"]}
+{"topic": "Implementing Security Measures", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Implementing Security Measures"]}
+{"topic": "Testing and Monitoring Threats", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling", "Testing and Monitoring Threats"]}
+{"topic": "Input Validation", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Input Validation"]}
+{"topic": "Error Handling", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Error Handling"]}
+{"topic": "Authentication and Authorization", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Authentication and Authorization"]}
+{"topic": "Cryptography", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Cryptography"]}
+{"topic": "Secure Data Storage", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Secure Data Storage"]}
+{"topic": "Code Review and Testing", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Code Review and Testing"]}
+{"topic": "Dependency Management", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Dependency Management"]}
+{"topic": "Secure Configuration", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Secure Configuration"]}
+{"topic": "Logging and Monitoring", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Logging and Monitoring"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices", "Incident Response Planning"]}
+{"topic": "Threat Modeling", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Threat Modeling"]}
+{"topic": "Exploit Development", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Exploit Development"]}
+{"topic": "Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Penetration Testing"]}
+{"topic": "Vulnerability Databases", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Vulnerability Databases"]}
+{"topic": "Security Audits", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Security Audits"]}
+{"topic": "Code Review Techniques", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Code Review Techniques"]}
+{"topic": "Network Scanning Tools", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Network Scanning Tools"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Incident Response Planning"]}
+{"topic": "Software Configuration Management", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Software Configuration Management"]}
+{"topic": "Compliance Standards and Regulations", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment", "Compliance Standards and Regulations"]}
+{"topic": "Types of Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Types of Penetration Testing"]}
+{"topic": "Ethical Hacking Principles", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Ethical Hacking Principles"]}
+{"topic": "Vulnerability Assessment Techniques", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Vulnerability Assessment Techniques"]}
+{"topic": "Common Vulnerabilities Exploited", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Common Vulnerabilities Exploited"]}
+{"topic": "Social Engineering Methods", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Social Engineering Methods"]}
+{"topic": "Network Security Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Network Security Testing"]}
+{"topic": "Web Application Security Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Web Application Security Testing"]}
+{"topic": "Mobile Application Security Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Mobile Application Security Testing"]}
+{"topic": "Post-Exploitation Activities", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Post-Exploitation Activities"]}
+{"topic": "Reporting and Documentation Standards", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing", "Reporting and Documentation Standards"]}
+{"topic": "Vulnerability Assessment", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Vulnerability Assessment"]}
+{"topic": "Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Penetration Testing"]}
+{"topic": "Compliance Auditing", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Compliance Auditing"]}
+{"topic": "Risk Management", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Risk Management"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Incident Response Planning"]}
+{"topic": "Security Policy Development", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Security Policy Development"]}
+{"topic": "Access Control Reviews", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Access Control Reviews"]}
+{"topic": "Code Review and Static Analysis", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Code Review and Static Analysis"]}
+{"topic": "Network Security Auditing", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Network Security Auditing"]}
+{"topic": "Data Protection and Privacy Assessments", "path": ["Cybersecurity and Secure Software Development", "Security Audits", "Data Protection and Privacy Assessments"]}
+{"topic": "Threat Identification and Assessment", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Threat Identification and Assessment"]}
+{"topic": "Vulnerability Management", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Vulnerability Management"]}
+{"topic": "Incident Detection Mechanisms", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Incident Detection Mechanisms"]}
+{"topic": "Communication Protocols", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Communication Protocols"]}
+{"topic": "Roles and Responsibilities", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Roles and Responsibilities"]}
+{"topic": "Legal and Regulatory Compliance", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Legal and Regulatory Compliance"]}
+{"topic": "Data Backup and Recovery Strategies", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Data Backup and Recovery Strategies"]}
+{"topic": "Business Continuity Planning", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Business Continuity Planning"]}
+{"topic": "Post-Incident Analysis and Improvement", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Post-Incident Analysis and Improvement"]}
+{"topic": "Training and Awareness Programs", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning", "Training and Awareness Programs"]}
+{"topic": "Classical Cryptography", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Classical Cryptography"]}
+{"topic": "Modern Cryptography", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Modern Cryptography"]}
+{"topic": "Symmetric Key Algorithms", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Symmetric Key Algorithms"]}
+{"topic": "Asymmetric Key Algorithms", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Asymmetric Key Algorithms"]}
+{"topic": "Hash Functions", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Hash Functions"]}
+{"topic": "Digital Signatures", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Digital Signatures"]}
+{"topic": "Public Key Infrastructure (PKI)", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Public Key Infrastructure (PKI)"]}
+{"topic": "Cryptographic Protocols", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Cryptographic Protocols"]}
+{"topic": "Cryptanalysis Techniques", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Cryptanalysis Techniques"]}
+{"topic": "Quantum Cryptography", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals", "Quantum Cryptography"]}
+{"topic": "Authentication Protocols", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Authentication Protocols"]}
+{"topic": "Authorization Models", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Authorization Models"]}
+{"topic": "Role-Based Access Control (RBAC)", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Role-Based Access Control (RBAC)"]}
+{"topic": "Attribute-Based Access Control (ABAC)", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Attribute-Based Access Control (ABAC)"]}
+{"topic": "Identity Management Systems", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Identity Management Systems"]}
+{"topic": "Least Privilege Principle", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Least Privilege Principle"]}
+{"topic": "Multi-Factor Authentication (MFA)", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Multi-Factor Authentication (MFA)"]}
+{"topic": "Access Control Lists (ACLs)", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Access Control Lists (ACLs)"]}
+{"topic": "Security Policies and Compliance", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Security Policies and Compliance"]}
+{"topic": "Auditing and Monitoring Systems", "path": ["Cybersecurity and Secure Software Development", "Access Control Mechanisms", "Auditing and Monitoring Systems"]}
+{"topic": "Threat Modeling", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Threat Modeling"]}
+{"topic": "Secure Coding Practices", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Secure Coding Practices"]}
+{"topic": "Static Application Security Testing (SAST)", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Static Application Security Testing (SAST)"]}
+{"topic": "Dynamic Application Security Testing (DAST)", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Dynamic Application Security Testing (DAST)"]}
+{"topic": "Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Penetration Testing"]}
+{"topic": "Security Requirements Engineering", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Security Requirements Engineering"]}
+{"topic": "Security Architecture Design", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Security Architecture Design"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD) Security", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Continuous Integration/Continuous Deployment (CI/CD) Security"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Incident Response Planning"]}
+{"topic": "Compliance and Legal Considerations", "path": ["Cybersecurity and Secure Software Development", "Secure Software Lifecycle", "Compliance and Legal Considerations"]}
+{"topic": "Regulatory Frameworks Overview", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Regulatory Frameworks Overview"]}
+{"topic": "Risk Assessment Techniques", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Risk Assessment Techniques"]}
+{"topic": "Security Policies and Procedures", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Security Policies and Procedures"]}
+{"topic": "Encryption and Data Protection Methods", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Encryption and Data Protection Methods"]}
+{"topic": "Identity and Access Management (IAM)", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Identity and Access Management (IAM)"]}
+{"topic": "Network Security Measures", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Network Security Measures"]}
+{"topic": "Software Development Lifecycle (SDLC) Security Practices", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Software Development Lifecycle (SDLC) Security Practices"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Incident Response Planning"]}
+{"topic": "Continuous Monitoring and Auditing", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Continuous Monitoring and Auditing"]}
+{"topic": "Compliance Reporting and Documentation Requirements", "path": ["Cybersecurity and Secure Software Development", "Compliance with Security Standards", "Compliance Reporting and Documentation Requirements"]}
+{"topic": "User Experience Design", "path": ["Human-Computer Interaction and Usability", "User Experience Design"]}
+{"topic": "Interface Design Principles", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles"]}
+{"topic": "Usability Testing Methods", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods"]}
+{"topic": "Accessibility Standards and Guidelines", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines"]}
+{"topic": "Cognitive Load Theory", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory"]}
+{"topic": "Human Factors Engineering", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering"]}
+{"topic": "Interaction Techniques and Modalities", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities"]}
+{"topic": "Aesthetic-Usability Effect", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect"]}
+{"topic": "Information Architecture", "path": ["Human-Computer Interaction and Usability", "Information Architecture"]}
+{"topic": "Feedback Mechanisms in HCI", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI"]}
+{"topic": "User Research", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "User Research"]}
+{"topic": "Information Architecture", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Information Architecture"]}
+{"topic": "Interaction Design", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Interaction Design"]}
+{"topic": "Visual Design", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Visual Design"]}
+{"topic": "Usability Testing", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Usability Testing"]}
+{"topic": "Accessibility", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Accessibility"]}
+{"topic": "Prototyping", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Prototyping"]}
+{"topic": "User Feedback", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "User Feedback"]}
+{"topic": "Emotional Design", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Emotional Design"]}
+{"topic": "Aesthetic-Usability Effect", "path": ["Human-Computer Interaction and Usability", "User Experience Design", "Aesthetic-Usability Effect"]}
+{"topic": "Consistency and Standards", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Consistency and Standards"]}
+{"topic": "User-Centered Design", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "User-Centered Design"]}
+{"topic": "Aesthetic and Minimalism", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Aesthetic and Minimalism"]}
+{"topic": "Affordances and Signifiers", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Affordances and Signifiers"]}
+{"topic": "Feedback and Response", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Feedback and Response"]}
+{"topic": "Accessibility and Inclusivity", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Accessibility and Inclusivity"]}
+{"topic": "Navigation and Information Architecture", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Navigation and Information Architecture"]}
+{"topic": "Error Prevention and Recovery", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Error Prevention and Recovery"]}
+{"topic": "Usability Testing and Evaluation", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Usability Testing and Evaluation"]}
+{"topic": "Visual Hierarchy and Layout Principles", "path": ["Human-Computer Interaction and Usability", "Interface Design Principles", "Visual Hierarchy and Layout Principles"]}
+{"topic": "User Research", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "User Research"]}
+{"topic": "Test Planning", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Test Planning"]}
+{"topic": "Test Execution", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Test Execution"]}
+{"topic": "Data Collection", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Data Collection"]}
+{"topic": "Analysis Techniques", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Analysis Techniques"]}
+{"topic": "Feedback Interpretation", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Feedback Interpretation"]}
+{"topic": "Iterative Design Process", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Iterative Design Process"]}
+{"topic": "Accessibility Considerations", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Accessibility Considerations"]}
+{"topic": "Cultural Sensitivity", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Cultural Sensitivity"]}
+{"topic": "Technological Limitations", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods", "Technological Limitations"]}
+{"topic": "Definition of Accessibility", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Definition of Accessibility"]}
+{"topic": "Importance of Accessibility", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Importance of Accessibility"]}
+{"topic": "Legal Requirements for Accessibility", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Legal Requirements for Accessibility"]}
+{"topic": "User Experience Design Principles", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "User Experience Design Principles"]}
+{"topic": "Assistive Technologies and Their Integration", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Assistive Technologies and Their Integration"]}
+{"topic": "Web Content Accessibility Guidelines (WCAG)", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Web Content Accessibility Guidelines (WCAG)"]}
+{"topic": "Accessible Rich Internet Applications (ARIA)", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Accessible Rich Internet Applications (ARIA)"]}
+{"topic": "Digital Accessibility Testing and Evaluation", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Digital Accessibility Testing and Evaluation"]}
+{"topic": "Inclusive Design Practices", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Inclusive Design Practices"]}
+{"topic": "Continuous Improvement and Updates in Accessibility Standards", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards and Guidelines", "Continuous Improvement and Updates in Accessibility Standards"]}
+{"topic": "Intrinsic Cognitive Load", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Intrinsic Cognitive Load"]}
+{"topic": "Extrinsic Cognitive Load", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Extrinsic Cognitive Load"]}
+{"topic": "Germane Cognitive Load", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Germane Cognitive Load"]}
+{"topic": "Working Memory Capacity", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Working Memory Capacity"]}
+{"topic": "Schema Theory", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Schema Theory"]}
+{"topic": "Element Interactivity", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Element Interactivity"]}
+{"topic": "Split Attention Effect", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Split Attention Effect"]}
+{"topic": "Redundancy Effect", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Redundancy Effect"]}
+{"topic": "Modality Effect", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Modality Effect"]}
+{"topic": "Cognitive Load Measurement Techniques", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory", "Cognitive Load Measurement Techniques"]}
+{"topic": "Ergonomics", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Ergonomics"]}
+{"topic": "Usability Testing", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Usability Testing"]}
+{"topic": "Cognitive Psychology", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Cognitive Psychology"]}
+{"topic": "Human-Computer Interaction (HCI)", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Human-Computer Interaction (HCI)"]}
+{"topic": "Accessibility Design", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Accessibility Design"]}
+{"topic": "Error Management", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Error Management"]}
+{"topic": "Stress and Fatigue", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Stress and Fatigue"]}
+{"topic": "Motivation and Engagement", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Motivation and Engagement"]}
+{"topic": "Decision Making Processes", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "Decision Making Processes"]}
+{"topic": "User Experience (UX) Design", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering", "User Experience (UX) Design"]}
+{"topic": "Direct Manipulation Interfaces", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Direct Manipulation Interfaces"]}
+{"topic": "Multi-touch Interaction", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Multi-touch Interaction"]}
+{"topic": "Gesture Recognition", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Gesture Recognition"]}
+{"topic": "Haptic Feedback", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Haptic Feedback"]}
+{"topic": "Voice Command Systems", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Voice Command Systems"]}
+{"topic": "Eye Tracking Technology", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Eye Tracking Technology"]}
+{"topic": "Augmented Reality Input Methods", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Augmented Reality Input Methods"]}
+{"topic": "Wearable Device Interaction", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Wearable Device Interaction"]}
+{"topic": "Natural Language Processing in UI", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Natural Language Processing in UI"]}
+{"topic": "Adaptive Interaction Techniques", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques and Modalities", "Adaptive Interaction Techniques"]}
+{"topic": "Visual Appeal", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Visual Appeal"]}
+{"topic": "Cognitive Load Reduction", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Cognitive Load Reduction"]}
+{"topic": "User Trust and Credibility", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "User Trust and Credibility"]}
+{"topic": "Emotional Response", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Emotional Response"]}
+{"topic": "Perceived Ease of Use", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Perceived Ease of Use"]}
+{"topic": "Interface Consistency", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Interface Consistency"]}
+{"topic": "Color Psychology", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Color Psychology"]}
+{"topic": "Typography and Readability", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Typography and Readability"]}
+{"topic": "Usability Testing Methods", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Usability Testing Methods"]}
+{"topic": "Cultural Aesthetics Influence", "path": ["Human-Computer Interaction and Usability", "Aesthetic-Usability Effect", "Cultural Aesthetics Influence"]}
+{"topic": "User Experience Design", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "User Experience Design"]}
+{"topic": "Information Design", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Information Design"]}
+{"topic": "Navigation Systems", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Navigation Systems"]}
+{"topic": "Content Strategy", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Content Strategy"]}
+{"topic": "Metadata Management", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Metadata Management"]}
+{"topic": "Taxonomy and Ontology", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Taxonomy and Ontology"]}
+{"topic": "Usability Testing", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Usability Testing"]}
+{"topic": "Data Modeling", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Data Modeling"]}
+{"topic": "Accessibility Standards", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Accessibility Standards"]}
+{"topic": "Interface Design Principles", "path": ["Human-Computer Interaction and Usability", "Information Architecture", "Interface Design Principles"]}
+{"topic": "Direct vs. Indirect Feedback", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Direct vs. Indirect Feedback"]}
+{"topic": "Latency in Feedback Systems", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Latency in Feedback Systems"]}
+{"topic": "Modality of Feedback (Visual, Auditory, Haptic)", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Modality of Feedback (Visual, Auditory, Haptic)"]}
+{"topic": "Cognitive Load and Feedback", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Cognitive Load and Feedback"]}
+{"topic": "Personalization in Feedback Mechanisms", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Personalization in Feedback Mechanisms"]}
+{"topic": "Adaptability of Feedback Systems", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Adaptability of Feedback Systems"]}
+{"topic": "Error Detection and Correction through Feedback", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Error Detection and Correction through Feedback"]}
+{"topic": "User Expectations and Feedback Design", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "User Expectations and Feedback Design"]}
+{"topic": "Feedback for Skill Acquisition", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Feedback for Skill Acquisition"]}
+{"topic": "Cultural Differences in Feedback Perception", "path": ["Human-Computer Interaction and Usability", "Feedback Mechanisms in HCI", "Cultural Differences in Feedback Perception"]}
+{"topic": "Supervised Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning"]}
+{"topic": "Unsupervised Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning"]}
+{"topic": "Reinforcement Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning"]}
+{"topic": "Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks"]}
+{"topic": "Deep Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning"]}
+{"topic": "Natural Language Processing", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing"]}
+{"topic": "Computer Vision", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision"]}
+{"topic": "Robotics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics"]}
+{"topic": "Explainable AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI"]}
+{"topic": "Ethical AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI"]}
+{"topic": "Classification Algorithms", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Classification Algorithms"]}
+{"topic": "Regression Analysis", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Regression Analysis"]}
+{"topic": "Feature Selection", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Feature Selection"]}
+{"topic": "Model Evaluation Metrics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Model Evaluation Metrics"]}
+{"topic": "Overfitting and Underfitting", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Overfitting and Underfitting"]}
+{"topic": "Cross-Validation Techniques", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Cross-Validation Techniques"]}
+{"topic": "Ensemble Methods", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Ensemble Methods"]}
+{"topic": "Bias-Variance Tradeoff", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Bias-Variance Tradeoff"]}
+{"topic": "Hyperparameter Tuning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Hyperparameter Tuning"]}
+{"topic": "Data Preprocessing and Cleaning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning", "Data Preprocessing and Cleaning"]}
+{"topic": "Clustering", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Clustering"]}
+{"topic": "Dimensionality Reduction", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Dimensionality Reduction"]}
+{"topic": "Anomaly Detection", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Anomaly Detection"]}
+{"topic": "Association Rule Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Association Rule Learning"]}
+{"topic": "Generative Models", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Generative Models"]}
+{"topic": "Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Neural Networks"]}
+{"topic": "Self-Organizing Maps", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Self-Organizing Maps"]}
+{"topic": "Principal Component Analysis", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Principal Component Analysis"]}
+{"topic": "Independent Component Analysis", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Independent Component Analysis"]}
+{"topic": "Latent Dirichlet Allocation", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning", "Latent Dirichlet Allocation"]}
+{"topic": "Markov Decision Processes", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Markov Decision Processes"]}
+{"topic": "Value Functions", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Value Functions"]}
+{"topic": "Q-Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Q-Learning"]}
+{"topic": "Deep Reinforcement Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Deep Reinforcement Learning"]}
+{"topic": "Policy Gradients", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Policy Gradients"]}
+{"topic": "Exploration vs. Exploitation", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Exploration vs. Exploitation"]}
+{"topic": "Reward Shaping", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Reward Shaping"]}
+{"topic": "Transfer Learning in RL", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Transfer Learning in RL"]}
+{"topic": "Multi-Agent Systems", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Multi-Agent Systems"]}
+{"topic": "Reinforcement Learning Theory", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning", "Reinforcement Learning Theory"]}
+{"topic": "Perceptrons", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Perceptrons"]}
+{"topic": "Activation Functions", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Activation Functions"]}
+{"topic": "Backpropagation", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Backpropagation"]}
+{"topic": "Convolutional Neural Networks (CNNs)", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Convolutional Neural Networks (CNNs)"]}
+{"topic": "Recurrent Neural Networks (RNNs)", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Recurrent Neural Networks (RNNs)"]}
+{"topic": "Long Short-Term Memory (LSTM) Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Long Short-Term Memory (LSTM) Networks"]}
+{"topic": "Generative Adversarial Networks (GANs)", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Generative Adversarial Networks (GANs)"]}
+{"topic": "Autoencoders", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Autoencoders"]}
+{"topic": "Transfer Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Transfer Learning"]}
+{"topic": "Hyperparameter Tuning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks", "Hyperparameter Tuning"]}
+{"topic": "Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Neural Networks"]}
+{"topic": "Backpropagation", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Backpropagation"]}
+{"topic": "Convolutional Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Convolutional Neural Networks"]}
+{"topic": "Recurrent Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Recurrent Neural Networks"]}
+{"topic": "Generative Adversarial Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Generative Adversarial Networks"]}
+{"topic": "Transfer Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Transfer Learning"]}
+{"topic": "Overfitting and Underfitting", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Overfitting and Underfitting"]}
+{"topic": "Regularization Techniques", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Regularization Techniques"]}
+{"topic": "Hyperparameter Optimization", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Hyperparameter Optimization"]}
+{"topic": "Deep Reinforcement Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning", "Deep Reinforcement Learning"]}
+{"topic": "Tokenization", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Tokenization"]}
+{"topic": "Part-of-Speech Tagging", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Part-of-Speech Tagging"]}
+{"topic": "Named Entity Recognition", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Named Entity Recognition"]}
+{"topic": "Syntax Parsing", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Syntax Parsing"]}
+{"topic": "Semantic Role Labeling", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Semantic Role Labeling"]}
+{"topic": "Sentiment Analysis", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Sentiment Analysis"]}
+{"topic": "Machine Translation", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Machine Translation"]}
+{"topic": "Information Retrieval", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Information Retrieval"]}
+{"topic": "Chatbots and Conversational Agents", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Chatbots and Conversational Agents"]}
+{"topic": "Text Summarization", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing", "Text Summarization"]}
+{"topic": "Image Processing", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Image Processing"]}
+{"topic": "Feature Detection", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Feature Detection"]}
+{"topic": "Object Recognition", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Object Recognition"]}
+{"topic": "Machine Learning Algorithms", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Machine Learning Algorithms"]}
+{"topic": "Deep Learning Models", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Deep Learning Models"]}
+{"topic": "Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Neural Networks"]}
+{"topic": "Computer Graphics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Computer Graphics"]}
+{"topic": "Augmented Reality", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Augmented Reality"]}
+{"topic": "Video Analysis", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Video Analysis"]}
+{"topic": "Natural Language Processing Integration", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision", "Natural Language Processing Integration"]}
+{"topic": "Kinematics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Kinematics"]}
+{"topic": "Dynamics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Dynamics"]}
+{"topic": "Control Systems", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Control Systems"]}
+{"topic": "Sensors and Actuators", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Sensors and Actuators"]}
+{"topic": "Artificial Intelligence", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Artificial Intelligence"]}
+{"topic": "Machine Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Machine Learning"]}
+{"topic": "Computer Vision", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Computer Vision"]}
+{"topic": "Navigation and Path Planning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Navigation and Path Planning"]}
+{"topic": "Human-Robot Interaction", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Human-Robot Interaction"]}
+{"topic": "Robotics Ethics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics", "Robotics Ethics"]}
+{"topic": "Transparency in AI models", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Transparency in AI models"]}
+{"topic": "Model interpretability techniques", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Model interpretability techniques"]}
+{"topic": "Causal inference in AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Causal inference in AI"]}
+{"topic": "User-centered design for explainability", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "User-centered design for explainability"]}
+{"topic": "Ethical considerations in Explainable AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Ethical considerations in Explainable AI"]}
+{"topic": "Data provenance and transparency", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Data provenance and transparency"]}
+{"topic": "Impact of explainability on trust", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Impact of explainability on trust"]}
+{"topic": "Challenges in achieving explainability", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Challenges in achieving explainability"]}
+{"topic": "Regulatory frameworks for AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Regulatory frameworks for AI"]}
+{"topic": "Case studies in Explainable AI applications", "path": ["Artificial Intelligence and Machine Learning Engineering", "Explainable AI", "Case studies in Explainable AI applications"]}
+{"topic": "Bias in AI algorithms", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Bias in AI algorithms"]}
+{"topic": "Privacy concerns in data collection", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Privacy concerns in data collection"]}
+{"topic": "Transparency in AI decision-making processes", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Transparency in AI decision-making processes"]}
+{"topic": "Accountability for AI systems", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Accountability for AI systems"]}
+{"topic": "Impact on employment and job displacement", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Impact on employment and job displacement"]}
+{"topic": "Fairness in algorithmic outcomes", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Fairness in algorithmic outcomes"]}
+{"topic": "Security vulnerabilities in AI technologies", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Security vulnerabilities in AI technologies"]}
+{"topic": "Ethical considerations in autonomous systems", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Ethical considerations in autonomous systems"]}
+{"topic": "Environmental impact of AI development", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Environmental impact of AI development"]}
+{"topic": "Public trust and acceptance of AI technologies", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI", "Public trust and acceptance of AI technologies"]}
+{"topic": "Scrum Framework Overview", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview"]}
+{"topic": "Kanban Methodology", "path": ["Software Project Management and Agile Methods", "Kanban Methodology"]}
+{"topic": "Lean Software Development Principles", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles"]}
+{"topic": "Extreme Programming (XP) Practices", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices"]}
+{"topic": "Test-Driven Development (TDD)", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD)", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)"]}
+{"topic": "User Stories and Backlogs", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs"]}
+{"topic": "Sprint Planning and Reviews", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews"]}
+{"topic": "Retrospectives and Continuous Improvement", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement"]}
+{"topic": "Agile Metrics and Performance Measurement", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement"]}
+{"topic": "Agile Manifesto Principles", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Agile Manifesto Principles"]}
+{"topic": "Scrum Values and Ethics", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Scrum Values and Ethics"]}
+{"topic": "Roles in Scrum: Scrum Master, Product Owner, Development Team", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Roles in Scrum: Scrum Master, Product Owner, Development Team"]}
+{"topic": "Scrum Ceremonies: Sprint Planning, Daily Stand-ups, Sprint Review, Sprint Retrospective", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Scrum Ceremonies: Sprint Planning, Daily Stand-ups, Sprint Review, Sprint Retrospective"]}
+{"topic": "Artifacts in Scrum: Product Backlog, Sprint Backlog, Increment", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Artifacts in Scrum: Product Backlog, Sprint Backlog, Increment"]}
+{"topic": "Time-boxed Sprints and Iterations", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Time-boxed Sprints and Iterations"]}
+{"topic": "Adaptive Planning and Continuous Improvement", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Adaptive Planning and Continuous Improvement"]}
+{"topic": "Empirical Process Control", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Empirical Process Control"]}
+{"topic": "Self-organizing Teams and Collaboration", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Self-organizing Teams and Collaboration"]}
+{"topic": "Integration with Other Methodologies and Practices", "path": ["Software Project Management and Agile Methods", "Scrum Framework Overview", "Integration with Other Methodologies and Practices"]}
+{"topic": "Origin and Evolution of Kanban", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Origin and Evolution of Kanban"]}
+{"topic": "Principles of Kanban", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Principles of Kanban"]}
+{"topic": "Visualizing Work with Kanban Boards", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Visualizing Work with Kanban Boards"]}
+{"topic": "Limiting Work in Progress (WIP)", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Limiting Work in Progress (WIP)"]}
+{"topic": "Flow Optimization Techniques", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Flow Optimization Techniques"]}
+{"topic": "Measuring and Improving Flow", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Measuring and Improving Flow"]}
+{"topic": "Implementing Kanban in Software Development", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Implementing Kanban in Software Development"]}
+{"topic": "Kanban and Lean Management", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Kanban and Lean Management"]}
+{"topic": "Case Studies of Kanban Implementation", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Case Studies of Kanban Implementation"]}
+{"topic": "Challenges and Best Practices in Kanban Adoption", "path": ["Software Project Management and Agile Methods", "Kanban Methodology", "Challenges and Best Practices in Kanban Adoption"]}
+{"topic": "Value Stream Mapping", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Value Stream Mapping"]}
+{"topic": "Continuous Integration and Continuous Deployment (CI/CD)", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Continuous Integration and Continuous Deployment (CI/CD)"]}
+{"topic": "Just-In-Time Production", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Just-In-Time Production"]}
+{"topic": "Amplified Learning", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Amplified Learning"]}
+{"topic": "Decentralized Decision Making", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Decentralized Decision Making"]}
+{"topic": "Empowerment", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Empowerment"]}
+{"topic": "Pull Systems", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Pull Systems"]}
+{"topic": "Elimination of Waste", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Elimination of Waste"]}
+{"topic": "Simplification", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Simplification"]}
+{"topic": "Delayed Commitment", "path": ["Software Project Management and Agile Methods", "Lean Software Development Principles", "Delayed Commitment"]}
+{"topic": "Test-Driven Development (TDD)", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Test-Driven Development (TDD)"]}
+{"topic": "Pair Programming", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Pair Programming"]}
+{"topic": "Continuous Integration", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Continuous Integration"]}
+{"topic": "Refactoring", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Refactoring"]}
+{"topic": "Simple Design", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Simple Design"]}
+{"topic": "User Stories", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "User Stories"]}
+{"topic": "Planning Game", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Planning Game"]}
+{"topic": "Incremental Design", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Incremental Design"]}
+{"topic": "On-Site Customer", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "On-Site Customer"]}
+{"topic": "Collective Ownership", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP) Practices", "Collective Ownership"]}
+{"topic": "Principles of TDD", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Principles of TDD"]}
+{"topic": "Red-Green-Refactor Cycle", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Red-Green-Refactor Cycle"]}
+{"topic": "Test Frameworks and Tools", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Test Frameworks and Tools"]}
+{"topic": "Unit Testing vs Integration Testing", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Unit Testing vs Integration Testing"]}
+{"topic": "Mocking and Stubbing", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Mocking and Stubbing"]}
+{"topic": "Code Coverage Metrics", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Code Coverage Metrics"]}
+{"topic": "Refactoring Techniques", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Refactoring Techniques"]}
+{"topic": "Continuous Integration with TDD", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Continuous Integration with TDD"]}
+{"topic": "Challenges and Pitfalls of TDD", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Challenges and Pitfalls of TDD"]}
+{"topic": "Benefits and Impact on Software Quality", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)", "Benefits and Impact on Software Quality"]}
+{"topic": "Version Control Systems", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Version Control Systems"]}
+{"topic": "Automated Testing", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Automated Testing"]}
+{"topic": "Build Automation", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Build Automation"]}
+{"topic": "Configuration Management", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Configuration Management"]}
+{"topic": "Containerization Technologies", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Containerization Technologies"]}
+{"topic": "Orchestration Tools", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Orchestration Tools"]}
+{"topic": "Monitoring and Logging", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Monitoring and Logging"]}
+{"topic": "Security Practices", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Security Practices"]}
+{"topic": "Feedback Loops", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "Feedback Loops"]}
+{"topic": "DevOps Culture Adoption", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)", "DevOps Culture Adoption"]}
+{"topic": "Definition and Purpose of User Stories", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Definition and Purpose of User Stories"]}
+{"topic": "Key Elements of a Well-Formulated User Story", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Key Elements of a Well-Formulated User Story"]}
+{"topic": "The Role of Acceptance Criteria in User Stories", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "The Role of Acceptance Criteria in User Stories"]}
+{"topic": "Creating Effective Backlogs", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Creating Effective Backlogs"]}
+{"topic": "Prioritizing User Stories in Backlogs", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Prioritizing User Stories in Backlogs"]}
+{"topic": "Techniques for Estimating User Story Effort", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Techniques for Estimating User Story Effort"]}
+{"topic": "Managing Technical Debt through Backlogs", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Managing Technical Debt through Backlogs"]}
+{"topic": "Aligning User Stories with Business Goals", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Aligning User Stories with Business Goals"]}
+{"topic": "Iterative Refinement of User Stories", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Iterative Refinement of User Stories"]}
+{"topic": "Communication and Collaboration in Maintaining Backlogs", "path": ["Software Project Management and Agile Methods", "User Stories and Backlogs", "Communication and Collaboration in Maintaining Backlogs"]}
+{"topic": "Definition of Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Definition of Sprint Planning"]}
+{"topic": "Purpose of Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Purpose of Sprint Planning"]}
+{"topic": "Participants in Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Participants in Sprint Planning"]}
+{"topic": "Inputs to Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Inputs to Sprint Planning"]}
+{"topic": "Outputs of Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Outputs of Sprint Planning"]}
+{"topic": "Duration of Sprint Planning", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Duration of Sprint Planning"]}
+{"topic": "Definition of Sprint Review", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Definition of Sprint Review"]}
+{"topic": "Purpose of Sprint Review", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Purpose of Sprint Review"]}
+{"topic": "Participants in Sprint Review", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Participants in Sprint Review"]}
+{"topic": "Inputs and Outputs of Sprint Review", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews", "Inputs and Outputs of Sprint Review"]}
+{"topic": "Definition and Purpose of Retrospectives", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Definition and Purpose of Retrospectives"]}
+{"topic": "Types of Retrospectives (e.g., Sprint Retrospective, Team Retrospective)", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Types of Retrospectives (e.g., Sprint Retrospective, Team Retrospective)"]}
+{"topic": "Facilitation Techniques for Effective Retrospectives", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Facilitation Techniques for Effective Retrospectives"]}
+{"topic": "Common Pitfalls in Conducting Retrospectives", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Common Pitfalls in Conducting Retrospectives"]}
+{"topic": "The Role of Emotional Intelligence in Retrospectives", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "The Role of Emotional Intelligence in Retrospectives"]}
+{"topic": "Metrics and Tools for Measuring Retrospective Effectiveness", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Metrics and Tools for Measuring Retrospective Effectiveness"]}
+{"topic": "Integrating Retrospectives into Agile Methodologies", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Integrating Retrospectives into Agile Methodologies"]}
+{"topic": "Long-term Impact of Continuous Improvement Practices", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Long-term Impact of Continuous Improvement Practices"]}
+{"topic": "Case Studies of Successful Retrospective Implementation", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Case Studies of Successful Retrospective Implementation"]}
+{"topic": "Future Trends in Retrospectives and Continuous Improvement", "path": ["Software Project Management and Agile Methods", "Retrospectives and Continuous Improvement", "Future Trends in Retrospectives and Continuous Improvement"]}
+{"topic": "Definition and Purpose of Agile Metrics", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Definition and Purpose of Agile Metrics"]}
+{"topic": "Key Performance Indicators (KPIs) in Agile", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Key Performance Indicators (KPIs) in Agile"]}
+{"topic": "Velocity and Its Calculation in Agile Projects", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Velocity and Its Calculation in Agile Projects"]}
+{"topic": "Sprint Review and Retrospective Metrics", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Sprint Review and Retrospective Metrics"]}
+{"topic": "Team Satisfaction and Morale Metrics", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Team Satisfaction and Morale Metrics"]}
+{"topic": "Customer Satisfaction Metrics in Agile", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Customer Satisfaction Metrics in Agile"]}
+{"topic": "Defect Density and Quality Metrics", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Defect Density and Quality Metrics"]}
+{"topic": "Time to Market and Release Cycle Metrics", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Time to Market and Release Cycle Metrics"]}
+{"topic": "Cost Efficiency Metrics in Agile", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Cost Efficiency Metrics in Agile"]}
+{"topic": "Continuous Improvement Metrics and Feedback Loops", "path": ["Software Project Management and Agile Methods", "Agile Metrics and Performance Measurement", "Continuous Improvement Metrics and Feedback Loops"]}
+{"topic": "Syntax and Semantics", "path": ["Programming Languages and Compilers", "Syntax and Semantics"]}
+{"topic": "Compiler Design Principles", "path": ["Programming Languages and Compilers", "Compiler Design Principles"]}
+{"topic": "Lexical Analysis", "path": ["Programming Languages and Compilers", "Lexical Analysis"]}
+{"topic": "Parsing Techniques", "path": ["Programming Languages and Compilers", "Parsing Techniques"]}
+{"topic": "Intermediate Code Generation", "path": ["Programming Languages and Compilers", "Intermediate Code Generation"]}
+{"topic": "Optimization Techniques", "path": ["Programming Languages and Compilers", "Optimization Techniques"]}
+{"topic": "Code Generation", "path": ["Programming Languages and Compilers", "Code Generation"]}
+{"topic": "Runtime Systems", "path": ["Programming Languages and Compilers", "Runtime Systems"]}
+{"topic": "Language Paradigms", "path": ["Programming Languages and Compilers", "Language Paradigms"]}
+{"topic": "Compiler Optimization and Performance Analysis", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis"]}
+{"topic": "Context-Free Grammars", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Context-Free Grammars"]}
+{"topic": "Parsing Techniques", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Parsing Techniques"]}
+{"topic": "Abstract Syntax Trees", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Abstract Syntax Trees"]}
+{"topic": "Type Systems", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Type Systems"]}
+{"topic": "Scope Rules", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Scope Rules"]}
+{"topic": "Binding Mechanisms", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Binding Mechanisms"]}
+{"topic": "Operational Semantics", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Operational Semantics"]}
+{"topic": "Denotational Semantics", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Denotational Semantics"]}
+{"topic": "Axiomatic Semantics", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Axiomatic Semantics"]}
+{"topic": "Formal Verification Methods", "path": ["Programming Languages and Compilers", "Syntax and Semantics", "Formal Verification Methods"]}
+{"topic": "Lexical Analysis", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Lexical Analysis"]}
+{"topic": "Syntax Analysis", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Syntax Analysis"]}
+{"topic": "Semantic Analysis", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Semantic Analysis"]}
+{"topic": "Intermediate Code Generation", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Intermediate Code Generation"]}
+{"topic": "Optimization Techniques", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Optimization Techniques"]}
+{"topic": "Code Generation", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Code Generation"]}
+{"topic": "Register Allocation", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Register Allocation"]}
+{"topic": "Instruction Scheduling", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Instruction Scheduling"]}
+{"topic": "Symbol Table Management", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Symbol Table Management"]}
+{"topic": "Error Handling Mechanisms", "path": ["Programming Languages and Compilers", "Compiler Design Principles", "Error Handling Mechanisms"]}
+{"topic": "Tokenization", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Tokenization"]}
+{"topic": "Regular Expressions", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Regular Expressions"]}
+{"topic": "Finite Automata", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Finite Automata"]}
+{"topic": "Lexical Errors", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Lexical Errors"]}
+{"topic": "Context-Free Grammars", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Context-Free Grammars"]}
+{"topic": "Scanner Generators", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Scanner Generators"]}
+{"topic": "Symbol Tables", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Symbol Tables"]}
+{"topic": "Parsing Techniques", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Parsing Techniques"]}
+{"topic": "Compiler Design Principles", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Compiler Design Principles"]}
+{"topic": "Performance Optimization Strategies", "path": ["Programming Languages and Compilers", "Lexical Analysis", "Performance Optimization Strategies"]}
+{"topic": "Lexical Analysis", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Lexical Analysis"]}
+{"topic": "Syntax Analysis", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Syntax Analysis"]}
+{"topic": "Abstract Syntax Trees (AST)", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Abstract Syntax Trees (AST)"]}
+{"topic": "Parsing Algorithms (LL, LR, etc.)", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Parsing Algorithms (LL, LR, etc.)"]}
+{"topic": "Recursive Descent Parsing", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Recursive Descent Parsing"]}
+{"topic": "Top-Down vs. Bottom-Up Parsing", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Top-Down vs. Bottom-Up Parsing"]}
+{"topic": "Error Recovery in Parsers", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Error Recovery in Parsers"]}
+{"topic": "Compiler Design Implications", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Compiler Design Implications"]}
+{"topic": "Natural Language Processing Applications", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Natural Language Processing Applications"]}
+{"topic": "Performance Optimization in Parsing", "path": ["Programming Languages and Compilers", "Parsing Techniques", "Performance Optimization in Parsing"]}
+{"topic": "Abstract Syntax Trees (AST)", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Abstract Syntax Trees (AST)"]}
+{"topic": "Control Flow Graphs (CFG)", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Control Flow Graphs (CFG)"]}
+{"topic": "Three-Address Code (TAC)", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Three-Address Code (TAC)"]}
+{"topic": "Intermediate Representation (IR) Formats", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Intermediate Representation (IR) Formats"]}
+{"topic": "Register Allocation", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Register Allocation"]}
+{"topic": "Data Flow Analysis", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Data Flow Analysis"]}
+{"topic": "Optimization Techniques", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Optimization Techniques"]}
+{"topic": "Symbol Table Management", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Symbol Table Management"]}
+{"topic": "Error Handling in Intermediate Code", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Error Handling in Intermediate Code"]}
+{"topic": "Compiler Design Patterns for IC Generation", "path": ["Programming Languages and Compilers", "Intermediate Code Generation", "Compiler Design Patterns for IC Generation"]}
+{"topic": "Algorithmic Efficiency", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Algorithmic Efficiency"]}
+{"topic": "Data Structure Selection", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Data Structure Selection"]}
+{"topic": "Code Profiling", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Code Profiling"]}
+{"topic": "Parallel Processing", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Parallel Processing"]}
+{"topic": "Memory Management", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Memory Management"]}
+{"topic": "Compiler Optimizations", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Compiler Optimizations"]}
+{"topic": "Load Balancing", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Load Balancing"]}
+{"topic": "Caching Strategies", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Caching Strategies"]}
+{"topic": "Network Optimization", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Network Optimization"]}
+{"topic": "Energy Efficiency Techniques", "path": ["Programming Languages and Compilers", "Optimization Techniques", "Energy Efficiency Techniques"]}
+{"topic": "Template Engines", "path": ["Programming Languages and Compilers", "Code Generation", "Template Engines"]}
+{"topic": "Domain-Specific Languages (DSLs)", "path": ["Programming Languages and Compilers", "Code Generation", "Domain-Specific Languages (DSLs)"]}
+{"topic": "Model-Driven Engineering (MDE)", "path": ["Programming Languages and Compilers", "Code Generation", "Model-Driven Engineering (MDE)"]}
+{"topic": "Automated Code Refactoring", "path": ["Programming Languages and Compilers", "Code Generation", "Automated Code Refactoring"]}
+{"topic": "Compiler Design", "path": ["Programming Languages and Compilers", "Code Generation", "Compiler Design"]}
+{"topic": "Artificial Intelligence in Code Generation", "path": ["Programming Languages and Compilers", "Code Generation", "Artificial Intelligence in Code Generation"]}
+{"topic": "Code Generation Frameworks", "path": ["Programming Languages and Compilers", "Code Generation", "Code Generation Frameworks"]}
+{"topic": "Test Case Generation", "path": ["Programming Languages and Compilers", "Code Generation", "Test Case Generation"]}
+{"topic": "Continuous Integration and Deployment", "path": ["Programming Languages and Compilers", "Code Generation", "Continuous Integration and Deployment"]}
+{"topic": "Performance Optimization Techniques", "path": ["Programming Languages and Compilers", "Code Generation", "Performance Optimization Techniques"]}
+{"topic": "Memory Management", "path": ["Programming Languages and Compilers", "Runtime Systems", "Memory Management"]}
+{"topic": "Garbage Collection", "path": ["Programming Languages and Compilers", "Runtime Systems", "Garbage Collection"]}
+{"topic": "Just-In-Time Compilation", "path": ["Programming Languages and Compilers", "Runtime Systems", "Just-In-Time Compilation"]}
+{"topic": "Thread Scheduling", "path": ["Programming Languages and Compilers", "Runtime Systems", "Thread Scheduling"]}
+{"topic": "Exception Handling", "path": ["Programming Languages and Compilers", "Runtime Systems", "Exception Handling"]}
+{"topic": "Security Mechanisms", "path": ["Programming Languages and Compilers", "Runtime Systems", "Security Mechanisms"]}
+{"topic": "Resource Allocation", "path": ["Programming Languages and Compilers", "Runtime Systems", "Resource Allocation"]}
+{"topic": "Inter-Process Communication", "path": ["Programming Languages and Compilers", "Runtime Systems", "Inter-Process Communication"]}
+{"topic": "Load Balancing", "path": ["Programming Languages and Compilers", "Runtime Systems", "Load Balancing"]}
+{"topic": "Debugging Tools", "path": ["Programming Languages and Compilers", "Runtime Systems", "Debugging Tools"]}
+{"topic": "Imperative Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Imperative Programming"]}
+{"topic": "Declarative Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Declarative Programming"]}
+{"topic": "Object-Oriented Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Object-Oriented Programming"]}
+{"topic": "Functional Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Functional Programming"]}
+{"topic": "Logic Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Logic Programming"]}
+{"topic": "Procedural Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Procedural Programming"]}
+{"topic": "Event-Driven Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Event-Driven Programming"]}
+{"topic": "Concurrent Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Concurrent Programming"]}
+{"topic": "Aspect-Oriented Programming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Aspect-Oriented Programming"]}
+{"topic": "Metaprogramming", "path": ["Programming Languages and Compilers", "Language Paradigms", "Metaprogramming"]}
+{"topic": "Code Generation Techniques", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Code Generation Techniques"]}
+{"topic": "Loop Optimization Strategies", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Loop Optimization Strategies"]}
+{"topic": "Data Flow Analysis Methods", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Data Flow Analysis Methods"]}
+{"topic": "Register Allocation Algorithms", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Register Allocation Algorithms"]}
+{"topic": "Inlining Decisions and Heuristics", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Inlining Decisions and Heuristics"]}
+{"topic": "Constant Folding and Propagation", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Constant Folding and Propagation"]}
+{"topic": "Dead Code Elimination Procedures", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Dead Code Elimination Procedures"]}
+{"topic": "Branch Prediction Mechanisms", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Branch Prediction Mechanisms"]}
+{"topic": "Cache Optimization Principles", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Cache Optimization Principles"]}
+{"topic": "Profiling and Benchmarking Tools", "path": ["Programming Languages and Compilers", "Compiler Optimization and Performance Analysis", "Profiling and Benchmarking Tools"]}

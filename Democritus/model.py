@@ -3,7 +3,8 @@ import transformers
 import torch
 import time
 
-model_name = "mistralai/Mistral-Small-24B-Instruct-2501"
+# model_name = "mistralai/Mistral-Small-24B-Instruct-2501"
+model_name = "Qwen/Qwen2.5-Coder-32B-Instruct"
 
 
 class Democritus_Model():
@@ -40,8 +41,8 @@ class Democritus_Model():
         outputs = self.model.generate(
             **inputs,
             max_new_tokens=256, 
-            temperature=0,
-            do_sample=False
+            temperature=0.7,
+            do_sample=True
         )
 
         response = self.tokenizer.decode(outputs[0][inputs["input_ids"].shape[-1]:], skip_special_tokens=True)

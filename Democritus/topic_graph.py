@@ -55,12 +55,12 @@ def generate_topic_graph_rec(model, domain, path, target_depth, current_depth, f
 
 
 
-def generate_topic_graph(model, domain, topic_list, target_depth, slice_name=""):
+def generate_topic_graph(model, domain, topic_list, target_depth, slice_name="", output_folder="Output/"):
     '''
         Takes and initial topic, and calls the recursive topic generation to build topic graph
     '''
 
-    file_path = "Topic_Graphs/topic_graph_"+slice_name+".jsonl"
+    file_path = output_folder+"topic_graph_"+slice_name+".jsonl"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
     # Write to JSON file

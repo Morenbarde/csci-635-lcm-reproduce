@@ -1,0 +1,26 @@
+nohup: ignoring input
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/771 [00:00<?, ?it/s]Loading weights:   4%|▎         | 28/771 [00:00<00:04, 167.13it/s]Loading weights:  13%|█▎        | 102/771 [00:00<00:02, 314.00it/s]Loading weights:  47%|████▋     | 364/771 [00:00<00:00, 1058.84it/s]Loading weights:  68%|██████▊   | 522/771 [00:00<00:00, 1223.25it/s]Loading weights:  89%|████████▉ | 687/771 [00:00<00:00, 1350.01it/s]Loading weights: 100%|██████████| 771/771 [00:00<00:00, 1102.32it/s]
+Model Load Time:  1.9115993976593018
+
+Topic Graph Generation Time:  60.6403865814209
+
+Causal Question Generation Time:  235.55732417106628
+
+Causal Statement Generation Time:  263.84667229652405
+
+Causal Triplets Extraction Time:  12.30470323562622
+
+Filtering File: triples_swe_depth1.jsonl
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 9454.49it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+Removed 1611 out of 1922 triples
+Runtime: 7.048032283782959 seconds
+Causal Triplets Filter Time:  7.048349618911743
+

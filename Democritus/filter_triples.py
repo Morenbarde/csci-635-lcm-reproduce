@@ -3,6 +3,7 @@ import json
 from collections import deque
 import time
 import sys
+import os
  
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -49,6 +50,8 @@ def normalize_span(text: str) -> str:
     text = text.strip()
     # Strip leading dash/bullet artifacts from LLM bullet list formatting
     text = re.sub(r'^[-•*–—]+\s*', '', text)
+    # Strip leading numbers from LLM numbered list formatting (e.g. "1. ", "1 ")
+    text = re.sub(r'^\d+[\.\):]?\s*', '', text)
     # Strip leading articles
     text = re.sub(
         r'^(a|an|the|this|that|these|those|its|their|such|certain)\s+',
@@ -258,11 +261,12 @@ def filter_duplicate_triples(triples):
 
 
 
-def filter_file(file):
+def filter_file(file, output_folder="Output/"):
 
     print(f"Filtering File: {file}")
-    in_file = "Causal_Triples/" + file
-    out_file = "Filtered_Causal_Triples/" + file
+    in_file = output_folder + file
+    out_file = output_folder + "filtered_" + file
+    os.makedirs(os.path.dirname(out_file), exist_ok=True)
 
     start_time = time.time()
 
@@ -284,22 +288,22 @@ def filter_file(file):
     print(f"Runtime: {time.time()-start_time} seconds")
 
 
-def main():
-    file_list = [
-        "triples_swe_depth1.jsonl",
-        "triples_swe_depth2.jsonl",
-        "triples_swe_depth3.jsonl",
-        "triples_swe_depth4.jsonl",
-    ]
+# def main():
+#     file_list = [
+#         "triples_swe_depth1.jsonl",
+#         "triples_swe_depth2.jsonl",
+#         "triples_swe_depth3.jsonl",
+#         "triples_swe_depth4.jsonl",
+#     ]
 
-    for file in file_list:
-        filter_file(file)
-        sys.stdout.flush()
+#     for file in file_list:
+#         filter_file(file)
+#         sys.stdout.flush()
 
     
 
 
  
  
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

@@ -9,12 +9,12 @@ from triplet_extract import extract
 
 
 
-def extract_statement_triples(slice_name):
+def extract_statement_triples(slice_name, output_folder="Output/"):
 
-    file_path = "Causal_Triples/triples_"+slice_name+".jsonl"
+    file_path = output_folder+"triples_"+slice_name+".jsonl"
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     
-    causal_statements = [json.loads(line) for line in open("Causal_Statements/causal_statements_"+slice_name+".jsonl") if line.strip()]
+    causal_statements = [json.loads(line) for line in open(output_folder+"causal_statements_"+slice_name+".jsonl") if line.strip()]
 
 
     with open(file_path, "w") as file:

@@ -1,1 +1,1 @@
-nohup python Democritus/pipeline.py 2>&1 &
+nohup python run_pipeline.py > pipeline.out 2>&1 &

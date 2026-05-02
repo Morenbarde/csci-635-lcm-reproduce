@@ -1,0 +1,110 @@
+{"topic": "Software Design and Architecture", "path": ["Software Design and Architecture"]}
+{"topic": "Software Testing and Quality Assurance", "path": ["Software Testing and Quality Assurance"]}
+{"topic": "DevOps and Continuous Integration", "path": ["DevOps and Continuous Integration"]}
+{"topic": "Database Systems and Data Management", "path": ["Database Systems and Data Management"]}
+{"topic": "Computer Networks and Distributed Systems", "path": ["Computer Networks and Distributed Systems"]}
+{"topic": "Cybersecurity and Secure Software Development", "path": ["Cybersecurity and Secure Software Development"]}
+{"topic": "Human-Computer Interaction and Usability", "path": ["Human-Computer Interaction and Usability"]}
+{"topic": "Artificial Intelligence and Machine Learning Engineering", "path": ["Artificial Intelligence and Machine Learning Engineering"]}
+{"topic": "Software Project Management and Agile Methods", "path": ["Software Project Management and Agile Methods"]}
+{"topic": "Programming Languages and Compilers", "path": ["Programming Languages and Compilers"]}
+{"topic": "Object-Oriented Design Principles", "path": ["Software Design and Architecture", "Object-Oriented Design Principles"]}
+{"topic": "Design Patterns", "path": ["Software Design and Architecture", "Design Patterns"]}
+{"topic": "Software Architecture Styles", "path": ["Software Design and Architecture", "Software Architecture Styles"]}
+{"topic": "Microservices Architecture", "path": ["Software Design and Architecture", "Microservices Architecture"]}
+{"topic": "Service-Oriented Architecture (SOA)", "path": ["Software Design and Architecture", "Service-Oriented Architecture (SOA)"]}
+{"topic": "Domain-Driven Design (DDD)", "path": ["Software Design and Architecture", "Domain-Driven Design (DDD)"]}
+{"topic": "API Design", "path": ["Software Design and Architecture", "API Design"]}
+{"topic": "Security in Software Design", "path": ["Software Design and Architecture", "Security in Software Design"]}
+{"topic": "Scalability Considerations", "path": ["Software Design and Architecture", "Scalability Considerations"]}
+{"topic": "Performance Optimization Techniques", "path": ["Software Design and Architecture", "Performance Optimization Techniques"]}
+{"topic": "Test Planning and Strategy", "path": ["Software Testing and Quality Assurance", "Test Planning and Strategy"]}
+{"topic": "Test Case Design Techniques", "path": ["Software Testing and Quality Assurance", "Test Case Design Techniques"]}
+{"topic": "Types of Software Testing", "path": ["Software Testing and Quality Assurance", "Types of Software Testing"]}
+{"topic": "Automation Testing Tools and Frameworks", "path": ["Software Testing and Quality Assurance", "Automation Testing Tools and Frameworks"]}
+{"topic": "Continuous Integration and Continuous Deployment (CI/CD)", "path": ["Software Testing and Quality Assurance", "Continuous Integration and Continuous Deployment (CI/CD)"]}
+{"topic": "Static Code Analysis", "path": ["Software Testing and Quality Assurance", "Static Code Analysis"]}
+{"topic": "Performance Testing", "path": ["Software Testing and Quality Assurance", "Performance Testing"]}
+{"topic": "Security Testing", "path": ["Software Testing and Quality Assurance", "Security Testing"]}
+{"topic": "Regression Testing", "path": ["Software Testing and Quality Assurance", "Regression Testing"]}
+{"topic": "User Acceptance Testing (UAT)", "path": ["Software Testing and Quality Assurance", "User Acceptance Testing (UAT)"]}
+{"topic": "Version Control Systems", "path": ["DevOps and Continuous Integration", "Version Control Systems"]}
+{"topic": "Automated Testing Frameworks", "path": ["DevOps and Continuous Integration", "Automated Testing Frameworks"]}
+{"topic": "Continuous Integration Servers", "path": ["DevOps and Continuous Integration", "Continuous Integration Servers"]}
+{"topic": "Configuration Management Tools", "path": ["DevOps and Continuous Integration", "Configuration Management Tools"]}
+{"topic": "Infrastructure as Code", "path": ["DevOps and Continuous Integration", "Infrastructure as Code"]}
+{"topic": "Containerization Technologies", "path": ["DevOps and Continuous Integration", "Containerization Technologies"]}
+{"topic": "Deployment Pipelines", "path": ["DevOps and Continuous Integration", "Deployment Pipelines"]}
+{"topic": "Monitoring and Logging Tools", "path": ["DevOps and Continuous Integration", "Monitoring and Logging Tools"]}
+{"topic": "Collaboration and Communication Platforms", "path": ["DevOps and Continuous Integration", "Collaboration and Communication Platforms"]}
+{"topic": "Security Practices in CI/CD", "path": ["DevOps and Continuous Integration", "Security Practices in CI/CD"]}
+{"topic": "Relational Database Management Systems (RDBMS)", "path": ["Database Systems and Data Management", "Relational Database Management Systems (RDBMS)"]}
+{"topic": "SQL (Structured Query Language)", "path": ["Database Systems and Data Management", "SQL (Structured Query Language)"]}
+{"topic": "NoSQL Databases", "path": ["Database Systems and Data Management", "NoSQL Databases"]}
+{"topic": "Data Modeling and Design", "path": ["Database Systems and Data Management", "Data Modeling and Design"]}
+{"topic": "Indexing and Optimization", "path": ["Database Systems and Data Management", "Indexing and Optimization"]}
+{"topic": "Transaction Management and ACID Properties", "path": ["Database Systems and Data Management", "Transaction Management and ACID Properties"]}
+{"topic": "Data Warehousing and Business Intelligence", "path": ["Database Systems and Data Management", "Data Warehousing and Business Intelligence"]}
+{"topic": "Big Data Technologies and Analytics", "path": ["Database Systems and Data Management", "Big Data Technologies and Analytics"]}
+{"topic": "Cloud-Based Database Services", "path": ["Database Systems and Data Management", "Cloud-Based Database Services"]}
+{"topic": "Data Security and Privacy Measures", "path": ["Database Systems and Data Management", "Data Security and Privacy Measures"]}
+{"topic": "Network Protocols", "path": ["Computer Networks and Distributed Systems", "Network Protocols"]}
+{"topic": "Data Transmission Techniques", "path": ["Computer Networks and Distributed Systems", "Data Transmission Techniques"]}
+{"topic": "Network Topologies", "path": ["Computer Networks and Distributed Systems", "Network Topologies"]}
+{"topic": "Routing Algorithms", "path": ["Computer Networks and Distributed Systems", "Routing Algorithms"]}
+{"topic": "Network Security", "path": ["Computer Networks and Distributed Systems", "Network Security"]}
+{"topic": "Load Balancing", "path": ["Computer Networks and Distributed Systems", "Load Balancing"]}
+{"topic": "Distributed Databases", "path": ["Computer Networks and Distributed Systems", "Distributed Databases"]}
+{"topic": "Consistency Models", "path": ["Computer Networks and Distributed Systems", "Consistency Models"]}
+{"topic": "Fault Tolerance", "path": ["Computer Networks and Distributed Systems", "Fault Tolerance"]}
+{"topic": "Cloud Computing Architectures", "path": ["Computer Networks and Distributed Systems", "Cloud Computing Architectures"]}
+{"topic": "Threat Modeling", "path": ["Cybersecurity and Secure Software Development", "Threat Modeling"]}
+{"topic": "Secure Coding Practices", "path": ["Cybersecurity and Secure Software Development", "Secure Coding Practices"]}
+{"topic": "Vulnerability Assessment", "path": ["Cybersecurity and Secure Software Development", "Vulnerability Assessment"]}
+{"topic": "Penetration Testing", "path": ["Cybersecurity and Secure Software Development", "Penetration Testing"]}
+{"topic": "Cryptography Fundamentals", "path": ["Cybersecurity and Secure Software Development", "Cryptography Fundamentals"]}
+{"topic": "Identity and Access Management", "path": ["Cybersecurity and Secure Software Development", "Identity and Access Management"]}
+{"topic": "Security Audits and Compliance", "path": ["Cybersecurity and Secure Software Development", "Security Audits and Compliance"]}
+{"topic": "Incident Response Planning", "path": ["Cybersecurity and Secure Software Development", "Incident Response Planning"]}
+{"topic": "DevSecOps Integration", "path": ["Cybersecurity and Secure Software Development", "DevSecOps Integration"]}
+{"topic": "User Education and Awareness", "path": ["Cybersecurity and Secure Software Development", "User Education and Awareness"]}
+{"topic": "User Experience Design", "path": ["Human-Computer Interaction and Usability", "User Experience Design"]}
+{"topic": "Interface Aesthetics", "path": ["Human-Computer Interaction and Usability", "Interface Aesthetics"]}
+{"topic": "Accessibility Standards", "path": ["Human-Computer Interaction and Usability", "Accessibility Standards"]}
+{"topic": "Cognitive Load Theory", "path": ["Human-Computer Interaction and Usability", "Cognitive Load Theory"]}
+{"topic": "Interaction Techniques", "path": ["Human-Computer Interaction and Usability", "Interaction Techniques"]}
+{"topic": "Usability Testing Methods", "path": ["Human-Computer Interaction and Usability", "Usability Testing Methods"]}
+{"topic": "Human Factors Engineering", "path": ["Human-Computer Interaction and Usability", "Human Factors Engineering"]}
+{"topic": "Information Architecture", "path": ["Human-Computer Interaction and Usability", "Information Architecture"]}
+{"topic": "Multimodal Interfaces", "path": ["Human-Computer Interaction and Usability", "Multimodal Interfaces"]}
+{"topic": "Emotional Design Principles", "path": ["Human-Computer Interaction and Usability", "Emotional Design Principles"]}
+{"topic": "Supervised Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Supervised Learning"]}
+{"topic": "Unsupervised Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Unsupervised Learning"]}
+{"topic": "Reinforcement Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Reinforcement Learning"]}
+{"topic": "Neural Networks", "path": ["Artificial Intelligence and Machine Learning Engineering", "Neural Networks"]}
+{"topic": "Deep Learning", "path": ["Artificial Intelligence and Machine Learning Engineering", "Deep Learning"]}
+{"topic": "Natural Language Processing", "path": ["Artificial Intelligence and Machine Learning Engineering", "Natural Language Processing"]}
+{"topic": "Computer Vision", "path": ["Artificial Intelligence and Machine Learning Engineering", "Computer Vision"]}
+{"topic": "Robotics", "path": ["Artificial Intelligence and Machine Learning Engineering", "Robotics"]}
+{"topic": "Ethical AI", "path": ["Artificial Intelligence and Machine Learning Engineering", "Ethical AI"]}
+{"topic": "AI Algorithms Optimization", "path": ["Artificial Intelligence and Machine Learning Engineering", "AI Algorithms Optimization"]}
+{"topic": "Agile Manifesto Principles", "path": ["Software Project Management and Agile Methods", "Agile Manifesto Principles"]}
+{"topic": "Scrum Framework", "path": ["Software Project Management and Agile Methods", "Scrum Framework"]}
+{"topic": "Kanban Methodology", "path": ["Software Project Management and Agile Methods", "Kanban Methodology"]}
+{"topic": "Lean Software Development", "path": ["Software Project Management and Agile Methods", "Lean Software Development"]}
+{"topic": "Extreme Programming (XP)", "path": ["Software Project Management and Agile Methods", "Extreme Programming (XP)"]}
+{"topic": "Continuous Integration/Continuous Deployment (CI/CD)", "path": ["Software Project Management and Agile Methods", "Continuous Integration/Continuous Deployment (CI/CD)"]}
+{"topic": "Test-Driven Development (TDD)", "path": ["Software Project Management and Agile Methods", "Test-Driven Development (TDD)"]}
+{"topic": "Pair Programming", "path": ["Software Project Management and Agile Methods", "Pair Programming"]}
+{"topic": "Sprint Planning and Reviews", "path": ["Software Project Management and Agile Methods", "Sprint Planning and Reviews"]}
+{"topic": "Retrospectives and Feedback Loops", "path": ["Software Project Management and Agile Methods", "Retrospectives and Feedback Loops"]}
+{"topic": "Syntax and Semantics", "path": ["Programming Languages and Compilers", "Syntax and Semantics"]}
+{"topic": "Lexical Analysis", "path": ["Programming Languages and Compilers", "Lexical Analysis"]}
+{"topic": "Parsing", "path": ["Programming Languages and Compilers", "Parsing"]}
+{"topic": "Abstract Syntax Trees (AST)", "path": ["Programming Languages and Compilers", "Abstract Syntax Trees (AST)"]}
+{"topic": "Intermediate Code Generation", "path": ["Programming Languages and Compilers", "Intermediate Code Generation"]}
+{"topic": "Optimization Techniques", "path": ["Programming Languages and Compilers", "Optimization Techniques"]}
+{"topic": "Code Generation", "path": ["Programming Languages and Compilers", "Code Generation"]}
+{"topic": "Register Allocation", "path": ["Programming Languages and Compilers", "Register Allocation"]}
+{"topic": "Linking and Loading", "path": ["Programming Languages and Compilers", "Linking and Loading"]}
+{"topic": "Just-In-Time Compilation", "path": ["Programming Languages and Compilers", "Just-In-Time Compilation"]}
