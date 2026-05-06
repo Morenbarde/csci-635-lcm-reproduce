@@ -3,10 +3,12 @@ import json
 import os
 from collections import Counter
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Any, Dict, List, Tuple
 
 from pywhyllm import RelationshipStrategy
+from pywhyllm.suggesters.identification_suggester import IdentificationSuggester
 from pywhyllm.suggesters.model_suggester import ModelSuggester
+from pywhyllm.suggesters.validation_suggester import ValidationSuggester
 
 
 def load_triples(path: Path) -> List[dict]:
@@ -23,6 +25,23 @@ def load_triples(path: Path) -> List[dict]:
 def normalize_text(text: str) -> str:
     text = text.strip().lower().lstrip("-* ")
     return " ".join(text.split())
+
+
+def make_json_safe(value: Any) -> Any:
+    if isinstance(value, dict):
+        converted: Dict[Any, Any] = {}
+        for key, item in value.items():
+            if isinstance(key, (str, int, float, bool)) or key is None:
+                safe_key: Any = key
+            elif isinstance(key, tuple):
+                safe_key = " | ".join(str(part) for part in key)
+            else:
+                safe_key = str(key)
+            converted[safe_key] = make_json_safe(item)
+        return converted
+    if isinstance(value, (list, tuple, set)):
+        return [make_json_safe(item) for item in value]
+    return value
 
 
 def factor_ranking(triples: List[dict]) -> List[Tuple[str, int]]:
@@ -141,20 +160,15 @@ def compute_agreement_metrics(
     }
 
 
-def build_modeler(args: argparse.Namespace) -> ModelSuggester:
-    def make_suggester(model_name: str) -> ModelSuggester:
-        import guidance
-
-        suggester = ModelSuggester()
-        suggester.llm = guidance.models.OpenAI(model_name)
-        return suggester
+def build_llm(args: argparse.Namespace):
+    import guidance
 
     if args.backend == "openai":
         if not os.environ.get("OPENAI_API_KEY"):
             raise EnvironmentError(
                 "OPENAI_API_KEY is not set. Set it, or use --backend openai_compatible for a local endpoint."
             )
-        return make_suggester(args.model)
+        return guidance.models.OpenAI(args.model)
 
     if args.backend == "openai_compatible":
         # Guidance reads OpenAI-style configuration from environment variables.
@@ -171,9 +185,43 @@ def build_modeler(args: argparse.Namespace) -> ModelSuggester:
         elif not os.environ.get("OPENAI_API_KEY"):
             os.environ["OPENAI_API_KEY"] = "dummy"
 
-        return make_suggester(args.model)
+        return guidance.models.OpenAI(args.model)
 
     raise ValueError(f"Unsupported backend: {args.backend}")
+
+
+def build_modeler(args: argparse.Namespace) -> ModelSuggester:
+    def make_suggester(model_name: str) -> ModelSuggester:
+        import guidance
+
+        suggester = ModelSuggester()
+        suggester.llm = guidance.models.OpenAI(model_name)
+        return suggester
+
+    llm = build_llm(args)
+    suggester = make_suggester(args.model)
+    suggester.llm = llm
+    return suggester
+
+
+def build_identifier(args: argparse.Namespace) -> IdentificationSuggester:
+    identifier = IdentificationSuggester()
+    identifier.llm = build_llm(args)
+    # Initialize the model_suggester dependency
+    model_suggester = ModelSuggester()
+    model_suggester.llm = build_llm(args)
+    identifier.model_suggester = model_suggester
+    return identifier
+
+
+def build_validator(args: argparse.Namespace) -> ValidationSuggester:
+    validator = ValidationSuggester()
+    validator.llm = build_llm(args)
+    # Initialize the model_suggester dependency
+    model_suggester = ModelSuggester()
+    model_suggester.llm = build_llm(args)
+    validator.model_suggester = model_suggester
+    return validator
 
 
 def main() -> None:
@@ -182,9 +230,13 @@ def main() -> None:
     )
     parser.add_argument(
         "--mode",
-        choices=["standard", "compare_filtered"],
+        choices=["standard", "compare_filtered", "broader"],
         default="standard",
-        help="standard: run pywhyllm only. compare_filtered: run on filtered triples and compute agreement metrics.",
+        help=(
+            "standard: run modeler outputs only. "
+            "compare_filtered: run on filtered triples and compute agreement metrics. "
+            "broader: run modeler + identifier + validator outputs in one unified JSON."
+        ),
     )
     parser.add_argument(
         "--triples",
@@ -272,6 +324,8 @@ def main() -> None:
     if args.output is None:
         if args.mode == "compare_filtered":
             args.output = Path("Run_Info/pywhyllm_compare_results.json")
+        elif args.mode == "broader":
+            args.output = Path("Run_Info/pywhyllm_broader_results.json")
         else:
             args.output = Path("Run_Info/pywhyllm_swe_depth1_results.json")
 
@@ -364,9 +418,73 @@ def main() -> None:
             for k, v in sorted(extracted_counts.items(), key=lambda x: x[1], reverse=True)
         ]
 
+    if args.mode == "broader":
+        identifier = build_identifier(args)
+        validator = build_validator(args)
+
+        backdoor_counter, backdoor = identifier.suggest_backdoor(
+            treatment=treatment,
+            outcome=outcome,
+            all_factors=all_factors,
+            expertise_list=domain_expertises,
+            analysis_context=args.analysis_context,
+        )
+        mediators_edges, mediators = identifier.suggest_mediators(
+            treatment=treatment,
+            outcome=outcome,
+            all_factors=all_factors,
+            expertise_list=domain_expertises,
+            analysis_context=args.analysis_context,
+        )
+        iv_edges, ivs = identifier.suggest_ivs(
+            treatment=treatment,
+            outcome=outcome,
+            all_factors=all_factors,
+            expertise_list=domain_expertises,
+            analysis_context=args.analysis_context,
+        )
+
+        latent_confounders_counter, latent_confounders = validator.suggest_latent_confounders(
+            treatment=treatment,
+            outcome=outcome,
+            expertise_list=domain_expertises,
+            analysis_context=args.analysis_context,
+        )
+        negative_controls_counter, negative_controls = validator.suggest_negative_controls(
+            treatment=treatment,
+            outcome=outcome,
+            all_factors=all_factors,
+            expertise_list=domain_expertises,
+            analysis_context=args.analysis_context,
+        )
+        original_edges, critiqued_edges = validator.critique_graph(
+            all_factors=all_factors,
+            edges=pairwise_edges,
+            experts=domain_expertises,
+            relationship_strategy=RelationshipStrategy.Pairwise,
+            analysis_context=args.analysis_context,
+        )
+
+        output_data["identification"] = {
+            "backdoor_counter": backdoor_counter,
+            "backdoor": backdoor,
+            "mediators_edges": mediators_edges,
+            "mediators": mediators,
+            "iv_edges": iv_edges,
+            "ivs": ivs,
+        }
+        output_data["validation"] = {
+            "latent_confounders_counter": latent_confounders_counter,
+            "latent_confounders": latent_confounders,
+            "negative_controls_counter": negative_controls_counter,
+            "negative_controls": negative_controls,
+            "original_edges": original_edges,
+            "critiqued_edges": critiqued_edges,
+        }
+
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8") as f:
-        json.dump(output_data, f, indent=2)
+        json.dump(make_json_safe(output_data), f, indent=2)
 
     print(f"Saved pywhyllm results to: {args.output}")
     print(f"Treatment: {treatment}")
@@ -381,6 +499,13 @@ def main() -> None:
             f"P={directed['precision']:.3f}, R={directed['recall']:.3f}, F1={directed['f1']:.3f}, "
             f"overlap={directed['overlap_edges']}"
         )
+    if args.mode == "broader":
+        print(f"Backdoor candidates: {len(output_data['identification']['backdoor'])}")
+        print(f"Mediators: {len(output_data['identification']['mediators'])}")
+        print(f"IVs: {len(output_data['identification']['ivs'])}")
+        print(f"Latent confounders: {len(output_data['validation']['latent_confounders'])}")
+        print(f"Negative controls: {len(output_data['validation']['negative_controls'])}")
+        print(f"Critiqued edges suggested: {len(output_data['validation']['critiqued_edges'])}")
 
 
 if __name__ == "__main__":

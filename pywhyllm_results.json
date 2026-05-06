@@ -1,0 +1,1815 @@
+{
+  "mode": "standard",
+  "triples_file": "csci-635-lcm-reproduce/Causal_Triples/triples_swe_depth3.jsonl",
+  "analysis_context": "software engineering and computer science",
+  "backend": "openai_compatible",
+  "model": "mistral",
+  "max_factors": 25,
+  "treatment": "test coverage",
+  "outcome": "undetected software defects",
+  "domain_expertises": [
+    "Computer Science Engineer",
+    "Software Quality Assurance (SQA) Engineer",
+    "DevOps Engineer"
+  ],
+  "confounders_counter": {
+    "test coverage | undetected software defects": 1,
+    "code quality | test coverage": 1,
+    "code quality | undetected software defects": 1,
+    "inadequate testing | test coverage": 1,
+    "inadequate testing | undetected software defects": 1
+  },
+  "confounders": [
+    "code quality",
+    "inadequate testing"
+  ],
+  "pairwise_edges": [
+    {
+      "cause": "frequent code commits",
+      "effect": "testing",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "testing",
+      "votes": 3
+    },
+    {
+      "cause": "testing",
+      "effect": "test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "testing",
+      "votes": 3
+    },
+    {
+      "cause": "testing",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "testing",
+      "votes": 3
+    },
+    {
+      "cause": "coverage",
+      "effect": "testing",
+      "votes": 3
+    },
+    {
+      "cause": "data",
+      "effect": "data breaches",
+      "votes": 3
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "data",
+      "votes": 3
+    },
+    {
+      "cause": "data",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "data",
+      "effect": "overfitting",
+      "votes": 3
+    },
+    {
+      "cause": "data",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "data",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "frequent code commits",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "frequent code commits",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "frequent code commits",
+      "votes": 3
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "inadequate testing",
+      "votes": 3
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "data breaches",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "data breaches",
+      "votes": 3
+    },
+    {
+      "cause": "data breaches",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "data breaches",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "code commits",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "code commits",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "code commits",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "coverage",
+      "effect": "test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "test coverage",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "test coverage",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "unauthorized access",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "security vulnerabilities",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "security vulnerabilities",
+      "votes": 3
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "code",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "increased complexity",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "code",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "code quality",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "data redundancy",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "developers",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "code quality",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "inadequate testing",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "developers",
+      "effect": "data redundancy",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "team members",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "coverage",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "team members",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "understanding of user needs",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "code quality",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "coverage",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "overfitting",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "inadequate testing",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "data redundancy",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "it",
+      "votes": 3
+    },
+    {
+      "cause": "it",
+      "effect": "code quality",
+      "votes": 3
+    },
+    {
+      "cause": "it",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "it",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "code quality",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "code quality",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "code quality",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "code quality",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "coverage",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "automated testing",
+      "effect": "coverage",
+      "votes": 3
+    },
+    {
+      "cause": "system",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "system",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "data loss",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "inadequate test coverage",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "data redundancy",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "undetected software defects",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "data redundancy",
+      "votes": 3
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "automated testing",
+      "votes": 3
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "deployment pipelines",
+      "votes": 3
+    },
+    {
+      "cause": "code",
+      "effect": "testing",
+      "votes": 2
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "testing",
+      "votes": 2
+    },
+    {
+      "cause": "code quality",
+      "effect": "testing",
+      "votes": 2
+    },
+    {
+      "cause": "testing",
+      "effect": "system",
+      "votes": 2
+    },
+    {
+      "cause": "data loss",
+      "effect": "testing",
+      "votes": 2
+    },
+    {
+      "cause": "testing",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "testing",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "frequent code commits",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "data",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "security vulnerabilities",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "developers",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "increased complexity",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "understanding of user needs",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "code quality",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "data",
+      "votes": 2
+    },
+    {
+      "cause": "data loss",
+      "effect": "data",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "data",
+      "votes": 2
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "data",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "code",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "increased complexity",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "it",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "overfitting",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "data breaches",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "data breaches",
+      "votes": 2
+    },
+    {
+      "cause": "data breaches",
+      "effect": "unauthorized access",
+      "votes": 2
+    },
+    {
+      "cause": "code",
+      "effect": "data breaches",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "data breaches",
+      "votes": 2
+    },
+    {
+      "cause": "data breaches",
+      "effect": "increased complexity",
+      "votes": 2
+    },
+    {
+      "cause": "data breaches",
+      "effect": "system",
+      "votes": 2
+    },
+    {
+      "cause": "data breaches",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "security vulnerabilities",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "code",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "code commits",
+      "votes": 2
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "code commits",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "code quality",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "inadequate testing",
+      "votes": 2
+    },
+    {
+      "cause": "code commits",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "test coverage",
+      "effect": "security vulnerabilities",
+      "votes": 2
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "test coverage",
+      "effect": "it",
+      "votes": 2
+    },
+    {
+      "cause": "code quality",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "test coverage",
+      "effect": "inadequate testing",
+      "votes": 2
+    },
+    {
+      "cause": "test coverage",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "test coverage",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "code",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "security vulnerabilities",
+      "votes": 2
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "increased complexity",
+      "votes": 2
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "unauthorized access",
+      "votes": 2
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "code",
+      "votes": 2
+    },
+    {
+      "cause": "code",
+      "effect": "it",
+      "votes": 2
+    },
+    {
+      "cause": "code",
+      "effect": "overfitting",
+      "votes": 2
+    },
+    {
+      "cause": "code",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "increased complexity",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "data loss",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "inadequate test coverage",
+      "votes": 2
+    },
+    {
+      "cause": "developers",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "code quality",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "inadequate testing",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "team members",
+      "effect": "data redundancy",
+      "votes": 2
+    },
+    {
+      "cause": "it",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "it",
+      "effect": "overfitting",
+      "votes": 2
+    },
+    {
+      "cause": "it",
+      "effect": "system",
+      "votes": 2
+    },
+    {
+      "cause": "it",
+      "effect": "inadequate testing",
+      "votes": 2
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "it",
+      "votes": 2
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "inadequate testing",
+      "votes": 2
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "data redundancy",
+      "votes": 2
+    },
+    {
+      "cause": "code quality",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "code quality",
+      "votes": 2
+    },
+    {
+      "cause": "code quality",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "code quality",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "coverage",
+      "votes": 2
+    },
+    {
+      "cause": "coverage",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "overfitting",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "overfitting",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "system",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "system",
+      "effect": "data redundancy",
+      "votes": 2
+    },
+    {
+      "cause": "data loss",
+      "effect": "undetected software defects",
+      "votes": 2
+    },
+    {
+      "cause": "data loss",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "automated testing",
+      "votes": 2
+    },
+    {
+      "cause": "automated testing",
+      "effect": "deployment pipelines",
+      "votes": 2
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "data redundancy",
+      "votes": 2
+    },
+    {
+      "cause": "deployment pipelines",
+      "effect": "data redundancy",
+      "votes": 2
+    },
+    {
+      "cause": "data",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "developers",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "system",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "testing",
+      "effect": "automated testing",
+      "votes": 1
+    },
+    {
+      "cause": "automated testing",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "deployment pipelines",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "testing",
+      "effect": "deployment pipelines",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "testing",
+      "votes": 1
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "code commits",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "code",
+      "votes": 1
+    },
+    {
+      "cause": "developers",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "data",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "undetected software defects",
+      "votes": 1
+    },
+    {
+      "cause": "data",
+      "effect": "data redundancy",
+      "votes": 1
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "code commits",
+      "votes": 1
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "frequent code commits",
+      "votes": 1
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "frequent code commits",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "frequent code commits",
+      "votes": 1
+    },
+    {
+      "cause": "frequent code commits",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "data breaches",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "data breaches",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "coverage",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "system",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "data breaches",
+      "effect": "deployment pipelines",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "data breaches",
+      "votes": 1
+    },
+    {
+      "cause": "data breaches",
+      "effect": "data redundancy",
+      "votes": 1
+    },
+    {
+      "cause": "test coverage",
+      "effect": "code commits",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "code commits",
+      "votes": 1
+    },
+    {
+      "cause": "code commits",
+      "effect": "increased complexity",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "code commits",
+      "votes": 1
+    },
+    {
+      "cause": "code commits",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "code commits",
+      "effect": "data redundancy",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "test coverage",
+      "effect": "increased complexity",
+      "votes": 1
+    },
+    {
+      "cause": "test coverage",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "test coverage",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "data loss",
+      "effect": "test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "automated testing",
+      "effect": "test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "team members",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "coverage",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "security vulnerabilities",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "security vulnerabilities",
+      "votes": 1
+    },
+    {
+      "cause": "developers",
+      "effect": "unauthorized access",
+      "votes": 1
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "team members",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "unauthorized access",
+      "votes": 1
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "inadequate test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "unauthorized access",
+      "votes": 1
+    },
+    {
+      "cause": "unauthorized access",
+      "effect": "data redundancy",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "coverage",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "code",
+      "votes": 1
+    },
+    {
+      "cause": "code",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "code",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "code",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "developers",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "developers",
+      "votes": 1
+    },
+    {
+      "cause": "developers",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "increased complexity",
+      "votes": 1
+    },
+    {
+      "cause": "increased complexity",
+      "effect": "team members",
+      "votes": 1
+    },
+    {
+      "cause": "team members",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "team members",
+      "votes": 1
+    },
+    {
+      "cause": "deployment pipelines",
+      "effect": "team members",
+      "votes": 1
+    },
+    {
+      "cause": "coverage",
+      "effect": "it",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "it",
+      "votes": 1
+    },
+    {
+      "cause": "it",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "data loss",
+      "effect": "it",
+      "votes": 1
+    },
+    {
+      "cause": "automated testing",
+      "effect": "it",
+      "votes": 1
+    },
+    {
+      "cause": "it",
+      "effect": "automated testing",
+      "votes": 1
+    },
+    {
+      "cause": "it",
+      "effect": "deployment pipelines",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "understanding of user needs",
+      "votes": 1
+    },
+    {
+      "cause": "understanding of user needs",
+      "effect": "undetected software defects",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "code quality",
+      "effect": "inadequate test coverage",
+      "votes": 1
+    },
+    {
+      "cause": "automated testing",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "undetected software defects",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "code quality",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "coverage",
+      "votes": 1
+    },
+    {
+      "cause": "coverage",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "coverage",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "deployment pipelines",
+      "effect": "coverage",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "overfitting",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "data loss",
+      "effect": "overfitting",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "system",
+      "effect": "inadequate testing",
+      "votes": 1
+    },
+    {
+      "cause": "automated testing",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "system",
+      "effect": "undetected software defects",
+      "votes": 1
+    },
+    {
+      "cause": "deployment pipelines",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "system",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate testing",
+      "effect": "automated testing",
+      "votes": 1
+    },
+    {
+      "cause": "inadequate test coverage",
+      "effect": "data loss",
+      "votes": 1
+    },
+    {
+      "cause": "data loss",
+      "effect": "automated testing",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "automated testing",
+      "votes": 1
+    },
+    {
+      "cause": "data redundancy",
+      "effect": "deployment pipelines",
+      "votes": 1
+    }
+  ],
+  "factor_frequency_top": [
+    {
+      "factor": "testing",
+      "count": 1164
+    },
+    {
+      "factor": "data",
+      "count": 996
+    },
+    {
+      "factor": "frequent code commits",
+      "count": 937
+    },
+    {
+      "factor": "data breaches",
+      "count": 903
+    },
+    {
+      "factor": "code commits",
+      "count": 839
+    },
+    {
+      "factor": "test coverage",
+      "count": 783
+    },
+    {
+      "factor": "security vulnerabilities",
+      "count": 701
+    },
+    {
+      "factor": "unauthorized access",
+      "count": 691
+    },
+    {
+      "factor": "code",
+      "count": 657
+    },
+    {
+      "factor": "developers",
+      "count": 657
+    },
+    {
+      "factor": "team members",
+      "count": 625
+    },
+    {
+      "factor": "increased complexity",
+      "count": 519
+    },
+    {
+      "factor": "it",
+      "count": 502
+    },
+    {
+      "factor": "understanding of user needs",
+      "count": 477
+    },
+    {
+      "factor": "code quality",
+      "count": 457
+    },
+    {
+      "factor": "coverage",
+      "count": 410
+    },
+    {
+      "factor": "overfitting",
+      "count": 406
+    },
+    {
+      "factor": "system",
+      "count": 402
+    },
+    {
+      "factor": "inadequate testing",
+      "count": 401
+    },
+    {
+      "factor": "data loss",
+      "count": 399
+    },
+    {
+      "factor": "inadequate test coverage",
+      "count": 396
+    },
+    {
+      "factor": "automated testing",
+      "count": 394
+    },
+    {
+      "factor": "undetected software defects",
+      "count": 391
+    },
+    {
+      "factor": "deployment pipelines",
+      "count": 391
+    },
+    {
+      "factor": "data redundancy",
+      "count": 376
+    }
+  ]
+}

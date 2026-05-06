@@ -1,0 +1,236 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: hf-token
+  namespace: ai4phys
+type: Opaque
+stringData:
+  token: ""
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: pywhyllm-entrypoint-compare
+  namespace: ai4phys
+data:
+  entrypoint.sh: |
+    #!/bin/bash
+    set -e
+
+    export PYTHONUNBUFFERED=1
+    export PATH=/tmp/python-user/bin:$PATH
+    export PIP_CACHE_DIR=/tmp/pip-cache
+    export PYTHONUSERBASE=/tmp/python-user
+
+    echo "[INFO] Installing dependencies..."
+    pip install --user pywhyllm guidance openai -q
+
+    echo "[INFO] Waiting for Ollama to be ready at http://localhost:11434..."
+    python3 << 'PYEOF'
+    import urllib.request
+    import time
+    import json
+    import sys
+
+    max_attempts = 180
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = urllib.request.urlopen('http://localhost:11434', timeout=2)
+            print(f"[INFO] Ollama is responding!")
+            sys.stdout.flush()
+            break
+        except Exception:
+            if attempt % 20 == 0:
+                print(f"[INFO] Waiting for Ollama... (attempt {attempt}/{max_attempts})")
+                sys.stdout.flush()
+            time.sleep(1)
+    else:
+        print("[ERROR] Ollama did not become ready after 180 seconds")
+        sys.exit(1)
+
+    print("[INFO] Pulling mistral model in Ollama...")
+    sys.stdout.flush()
+    try:
+        req = urllib.request.Request(
+            'http://localhost:11434/api/pull',
+            data=json.dumps({"name": "mistral"}).encode('utf-8'),
+            headers={'Content-Type': 'application/json'},
+            method='POST'
+        )
+        response = urllib.request.urlopen(req, timeout=600)
+        response.read()
+        print("[INFO] Model pull completed")
+    except Exception as e:
+        print(f"[INFO] Model pull response: {str(e)[:100]}")
+
+    print("[INFO] Waiting for mistral model to be available...")
+    sys.stdout.flush()
+
+    model_ready = False
+    for attempt in range(1, 600):
+        try:
+            req = urllib.request.Request(
+                'http://localhost:11434/api/tags',
+                headers={'Content-Type': 'application/json'}
+            )
+            response = urllib.request.urlopen(req, timeout=5)
+            data = json.loads(response.read().decode())
+            models = [m['name'].split(':')[0] for m in data.get('models', [])]
+
+            if 'mistral' in models:
+                print("[INFO] Mistral model is available!")
+                sys.stdout.flush()
+                model_ready = True
+                break
+            elif attempt % 30 == 0:
+                print(f"[INFO] Waiting for mistral model... (attempt {attempt}/600), models found: {models}")
+                sys.stdout.flush()
+        except Exception:
+            if attempt % 30 == 0:
+                print(f"[INFO] Checking for model... (attempt {attempt}/600)")
+                sys.stdout.flush()
+
+        time.sleep(2)
+
+    if not model_ready:
+        print("[WARNING] Model availability check incomplete, proceeding anyway...")
+        sys.stdout.flush()
+
+    time.sleep(5)
+    PYEOF
+
+    cd /sciclone/data10/cjgranger
+
+    echo "[INFO] Starting pywhyllm comparison analysis..."
+    echo "[INFO] API Base: http://localhost:11434/v1"
+    echo "[INFO] Model: mistral"
+
+    python csci-635-lcm-reproduce/run_pywhyllm_on_triples.py \
+      --backend openai_compatible \
+      --api-base http://localhost:11434/v1 \
+      --api-key dummy \
+      --triples csci-635-lcm-reproduce/Causal_Triples/triples_swe_depth3.jsonl \
+      --filtered-triples csci-635-lcm-reproduce/Filtered_Causal_Triples/triples_swe_depth3.jsonl \
+      --model mistral \
+      --mode compare_filtered \
+      --output /sciclone/data10/cjgranger/pywhyllm_compare_results.json
+
+    echo "[INFO] Comparison complete. Results saved to pywhyllm_compare_results.json"
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: pywhyllm-analysis-compare
+  namespace: ai4phys
+spec:
+  backoffLimit: 1
+  template:
+    metadata:
+      labels:
+        app: pywhyllm-analysis-compare
+    spec:
+      securityContext:
+        runAsUser: 228047
+        runAsGroup: 50027
+        fsGroup: 50027
+
+      restartPolicy: Never
+
+      nodeSelector:
+        nvidia.com/gpu.product: "NVIDIA-A40"
+
+      tolerations:
+        - key: nvidia.com/gpu
+          operator: Equal
+          value: "true"
+          effect: NoSchedule
+
+      containers:
+      - name: ollama
+        image: ollama/ollama:latest
+        imagePullPolicy: IfNotPresent
+
+        env:
+        - name: OLLAMA_HOST
+          value: "0.0.0.0:11434"
+        - name: OLLAMA_MODELS
+          value: /home/ollama/.ollama/models
+        - name: HOME
+          value: /home/ollama
+        - name: TMPDIR
+          value: /tmp/ollama
+
+        resources:
+          requests:
+            cpu: "2"
+            memory: "8Gi"
+            nvidia.com/gpu: "1"
+          limits:
+            cpu: "4"
+            memory: "16Gi"
+            nvidia.com/gpu: "1"
+
+        volumeMounts:
+        - name: ollama-home
+          mountPath: /home/ollama
+        - name: ollama-tmp
+          mountPath: /tmp/ollama
+
+      - name: pywhyllm
+        image: python:3.11-slim
+        imagePullPolicy: IfNotPresent
+
+        command:
+          - /bin/bash
+          - /scripts/entrypoint.sh
+
+        env:
+        - name: PYTHONUNBUFFERED
+          value: "1"
+        - name: PIP_CACHE_DIR
+          value: /tmp/pip-cache
+        - name: PYTHONUSERBASE
+          value: /tmp/python-user
+        - name: PATH
+          value: /tmp/python-user/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+        - name: TMPDIR
+          value: /tmp
+
+        resources:
+          requests:
+            cpu: "1"
+            memory: "4Gi"
+          limits:
+            cpu: "2"
+            memory: "8Gi"
+
+        volumeMounts:
+        - name: scripts
+          mountPath: /scripts
+          readOnly: true
+        - name: tmp
+          mountPath: /tmp
+        - name: nsf
+          mountPath: /sciclone/home/cjgranger
+        - name: d10
+          mountPath: /sciclone/data10/cjgranger
+
+      volumes:
+      - name: scripts
+        configMap:
+          name: pywhyllm-entrypoint-compare
+          defaultMode: 0755
+      - name: tmp
+        emptyDir: {}
+      - name: ollama-home
+        emptyDir: {}
+      - name: ollama-tmp
+        emptyDir: {}
+      - name: nsf
+        nfs:
+          server: 128.239.56.166
+          path: /sciclone/home/cjgranger
+      - name: d10
+        nfs:
+          server: 128.239.56.30
+          path: /sciclone/data10/cjgranger
