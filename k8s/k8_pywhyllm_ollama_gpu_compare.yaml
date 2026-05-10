@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Secret
 metadata:
   name: hf-token
-  namespace: ai4phys
+  namespace: #namespace
 type: Opaque
 stringData:
   token: ""
@@ -11,7 +11,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: pywhyllm-entrypoint-compare
-  namespace: ai4phys
+  namespace: #namespace
 data:
   entrypoint.sh: |
     #!/bin/bash
@@ -121,7 +121,7 @@ apiVersion: batch/v1
 kind: Job
 metadata:
   name: pywhyllm-analysis-compare
-  namespace: ai4phys
+  namespace: #namespace
 spec:
   backoffLimit: 1
   template:
